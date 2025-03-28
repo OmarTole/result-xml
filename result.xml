@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string">
+  <company>MyCompany</company>
+  <merchantid>MyCompanyID</merchantid>
+  <offers>
+    <offer sku="12267628">
+      <model>Стол офисный ТОО &quot;АлСар&quot; угловой, 180x130x75, ясень шимо светлый</model>
+      <brand>ТОО &quot;АлСар&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169557.3</price>
+        <cityprice cityId="615420100">169557.3</cityprice>
+    </offer>
+    <offer sku="1026281">
+      <model>Штроборез Инстар ЭШР 22150</model>
+      <brand>Инстар</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127408.1</price>
+        <cityprice cityId="615420100">127408.1</cityprice>
+    </offer>
+  </offers>
+</kaspi_catalog>
