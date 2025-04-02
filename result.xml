@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string">
-  <company>MyCompany</company>
-  <merchantid>MyCompanyID</merchantid>
+  <company>Абдумалик</company>
+  <merchantid>11103991</merchantid>
   <offers>
   </offers>
 </kaspi_catalog>
