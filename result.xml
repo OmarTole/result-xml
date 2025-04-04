@@ -1,7 +1,2734 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string">
-  <company>MyCompany</company>
-  <merchantid>MyCompanyID</merchantid>
+  <company>Абдумалик</company>
+  <merchantid>11103991</merchantid>
   <offers>
+    <offer sku="12267628">
+      <model>Стол офисный ТОО &quot;АлСар&quot; угловой, 180x130x75, ясень шимо светлый</model>
+      <brand>ТОО &quot;АлСар&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>170927.46</price>
+        <cityprice cityId="615420100">170927.46</cityprice>
+    </offer>
+    <offer sku="1026281">
+      <model>Штроборез Инстар ЭШР 22150</model>
+      <brand>Инстар</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>811275.08</price>
+        <cityprice cityId="615420100">811275.08</cityprice>
+    </offer>
+    <offer sku="420834">
+      <model>Электрический штроборез Makita SG1251J</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>270993.15</price>
+        <cityprice cityId="615420100">270993.15</cityprice>
+    </offer>
+    <offer sku="419632">
+      <model>Электрический штроборез Вихрь ШТ-30</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46026.73</price>
+        <cityprice cityId="615420100">46026.73</cityprice>
+    </offer>
+    <offer sku="520104">
+      <model>Электрический штроборез Зубр ЗШ-30-1200Т</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35717.74</price>
+        <cityprice cityId="615420100">35717.74</cityprice>
+    </offer>
+    <offer sku="419120">
+      <model>Электрический штроборез DeWalt DWE46105-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2081350.09</price>
+        <cityprice cityId="615420100">2081350.09</cityprice>
+    </offer>
+    <offer sku="419117">
+      <model>Электрический штроборез Crown 13525</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50859.21</price>
+        <cityprice cityId="615420100">50859.21</cityprice>
+    </offer>
+    <offer sku="520321">
+      <model>Электрический штроборез Фиолент Б3-40</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59997.13</price>
+        <cityprice cityId="615420100">59997.13</cityprice>
+    </offer>
+    <offer sku="1026282">
+      <model>Штроборез Интерскол ПД-125/1400Э</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>474832.53</price>
+        <cityprice cityId="615420100">474832.53</cityprice>
+    </offer>
+    <offer sku="1026219">
+      <model>Штроборез Elmos EWS24ST</model>
+      <brand>Elmos</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2109769.5</price>
+        <cityprice cityId="615420100">2109769.5</cityprice>
+    </offer>
+    <offer sku="1026264">
+      <model>Штроборез EIBENSTOCK ETR 230</model>
+      <brand>EIBENSTOCK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>322774.39</price>
+        <cityprice cityId="615420100">322774.39</cityprice>
+    </offer>
+    <offer sku="1026291">
+      <model>Штроборез Makita SG1250</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2573246.71</price>
+        <cityprice cityId="615420100">2573246.71</cityprice>
+    </offer>
+    <offer sku="3951644">
+      <model>Штроборез Makita SG180</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>421801.55</price>
+        <cityprice cityId="615420100">421801.55</cityprice>
+    </offer>
+    <offer sku="1026242">
+      <model>Штроборез EIBENSTOCK EMF 125</model>
+      <brand>EIBENSTOCK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>968357.41</price>
+        <cityprice cityId="615420100">968357.41</cityprice>
+    </offer>
+    <offer sku="1026223">
+      <model>Штроборез BOSCH GNF 35 CA</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>497122.26</price>
+        <cityprice cityId="615420100">497122.26</cityprice>
+    </offer>
+    <offer sku="1026262">
+      <model>Штроборез ЗУБР ЗШ-П45-2100 ПВТК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70887.74</price>
+        <cityprice cityId="615420100">70887.74</cityprice>
+    </offer>
+    <offer sku="1026271">
+      <model>Штроборез DeWALT DWE46105</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1962799.54</price>
+        <cityprice cityId="615420100">1962799.54</cityprice>
+    </offer>
+    <offer sku="1026250">
+      <model>Штроборез Фиолент Б4-70</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89146.67</price>
+        <cityprice cityId="615420100">89146.67</cityprice>
+    </offer>
+    <offer sku="12166160">
+      <model>Штроборез DeWalt DWE46107</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142502.47</price>
+        <cityprice cityId="615420100">142502.47</cityprice>
+    </offer>
+    <offer sku="1026249">
+      <model>Штроборез Фиолент Б2-30</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115028.25</price>
+        <cityprice cityId="615420100">115028.25</cityprice>
+    </offer>
+    <offer sku="1026230">
+      <model>Штроборез BOSCH GNF 65 A</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>642162.46</price>
+        <cityprice cityId="615420100">642162.46</cityprice>
+    </offer>
+    <offer sku="1026295">
+      <model>Штроборез Messer T1455</model>
+      <brand>Messer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3124345.5</price>
+        <cityprice cityId="615420100">3124345.5</cityprice>
+    </offer>
+    <offer sku="1026297">
+      <model>Штроборез Metabo MFE 40</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7289788.42</price>
+        <cityprice cityId="615420100">7289788.42</cityprice>
+    </offer>
+    <offer sku="1026259">
+      <model>Штроборез GROST M2535</model>
+      <brand>GROST</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2567268.2</price>
+        <cityprice cityId="615420100">2567268.2</cityprice>
+    </offer>
+    <offer sku="1026324">
+      <model>Штроборез ВИХРЬ ШТ-30 72/21/1</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41549.76</price>
+        <cityprice cityId="615420100">41549.76</cityprice>
+    </offer>
+    <offer sku="1026315">
+      <model>Штроборез Sturm! AG915S 2018</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70454.42</price>
+        <cityprice cityId="615420100">70454.42</cityprice>
+    </offer>
+    <offer sku="1026274">
+      <model>Штроборез Makita 4112S</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>263477.27</price>
+        <cityprice cityId="615420100">263477.27</cityprice>
+    </offer>
+    <offer sku="1026309">
+      <model>Штроборез Milwaukee WCS 45</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7284294.04</price>
+        <cityprice cityId="615420100">7284294.04</cityprice>
+    </offer>
+    <offer sku="1026246">
+      <model>Штроборез EIBENSTOCK EMF 180</model>
+      <brand>EIBENSTOCK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1763366.72</price>
+        <cityprice cityId="615420100">1763366.72</cityprice>
+    </offer>
+    <offer sku="3952082">
+      <model>Штроборез Makita SG150</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>499413.48</price>
+        <cityprice cityId="615420100">499413.48</cityprice>
+    </offer>
+    <offer sku="1026220">
+      <model>Штроборез BOSCH GNF 20 CA</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>586882.89</price>
+        <cityprice cityId="615420100">586882.89</cityprice>
+    </offer>
+    <offer sku="1026300">
+      <model>Штроборез Milwaukee WCE 30</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5322407.42</price>
+        <cityprice cityId="615420100">5322407.42</cityprice>
+    </offer>
+    <offer sku="1026323">
+      <model>Штроборез Tesla TWC125</model>
+      <brand>Tesla</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1224237.8</price>
+        <cityprice cityId="615420100">1224237.8</cityprice>
+    </offer>
+    <offer sku="1026288">
+      <model>Штроборез Кратон DCG-01</model>
+      <brand>Кратон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106614.29</price>
+        <cityprice cityId="615420100">106614.29</cityprice>
+    </offer>
+    <offer sku="1026328">
+      <model>Штроборез ЗУБР ЗШ-30-1200 Т</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39137.45</price>
+        <cityprice cityId="615420100">39137.45</cityprice>
+    </offer>
+    <offer sku="1026329">
+      <model>Штроборез ЗУБР ЗШ-П30-1400 ПСТ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42136.85</price>
+        <cityprice cityId="615420100">42136.85</cityprice>
+    </offer>
+    <offer sku="12166127">
+      <model>Штроборез Вихрь ШТ-30</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56348.76</price>
+        <cityprice cityId="615420100">56348.76</cityprice>
+    </offer>
+    <offer sku="1026326">
+      <model>Штроборез ЗУБР ЗШ-1500</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87869.16</price>
+        <cityprice cityId="615420100">87869.16</cityprice>
+    </offer>
+    <offer sku="4603449">
+      <model>Штроборез Сибртех 88204 ручной по газо и пенобетону</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84569.57</price>
+        <cityprice cityId="615420100">84569.57</cityprice>
+    </offer>
+    <offer sku="1026284">
+      <model>Штроборез Интерскол УОМ-230/2100</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120310.21</price>
+        <cityprice cityId="615420100">120310.21</cityprice>
+    </offer>
+    <offer sku="1026279">
+      <model>Штроборез Macroza SC200</model>
+      <brand>Macroza</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>791201.48</price>
+        <cityprice cityId="615420100">791201.48</cityprice>
+    </offer>
+    <offer sku="1026263">
+      <model>Штроборез Hammer STR125</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>146621.19</price>
+        <cityprice cityId="615420100">146621.19</cityprice>
+    </offer>
+    <offer sku="1026217">
+      <model>Штроборез Фиолент Б1-30</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77273.04</price>
+        <cityprice cityId="615420100">77273.04</cityprice>
+    </offer>
+    <offer sku="1026289">
+      <model>Штроборез Makita 4114S</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>586882.89</price>
+        <cityprice cityId="615420100">586882.89</cityprice>
+    </offer>
+    <offer sku="1026330">
+      <model>Штроборез ЗУБР ЗШ-П30-1400 ПСТК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49891.97</price>
+        <cityprice cityId="615420100">49891.97</cityprice>
+    </offer>
+    <offer sku="1026313">
+      <model>Штроборез RedVerg RD-WG40</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>768858.39</price>
+        <cityprice cityId="615420100">768858.39</cityprice>
+    </offer>
+    <offer sku="1026272">
+      <model>Штроборез Makita 4112HS</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>462648.38</price>
+        <cityprice cityId="615420100">462648.38</cityprice>
+    </offer>
+    <offer sku="1026252">
+      <model>Штроборез Flex MS 1706 FR Set</model>
+      <brand>Flex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4934840.77</price>
+        <cityprice cityId="615420100">4934840.77</cityprice>
+    </offer>
+    <offer sku="1026266">
+      <model>Штроборез Hitachi CM7MRU</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>683254.12</price>
+        <cityprice cityId="615420100">683254.12</cityprice>
+    </offer>
+    <offer sku="1026292">
+      <model>Штроборез Makita SG1251J</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>268746.38</price>
+        <cityprice cityId="615420100">268746.38</cityprice>
+    </offer>
+    <offer sku="12227213">
+      <model>Винтовой электрический компрессор Equs ЕВ 18.5 II</model>
+      <brand>Equs</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3735219.49</price>
+        <cityprice cityId="615420100">3735219.49</cityprice>
+    </offer>
+    <offer sku="217351">
+      <model>Установка компрессорная Remeza СБ4-150.OLD20х3</model>
+      <brand>Remeza</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1729035</price>
+        <cityprice cityId="615420100">1729035</cityprice>
+    </offer>
+    <offer sku="1790657">
+      <model>Воздушный компрессор Denzel DK1800/50 Х-PRO</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81891.86</price>
+        <cityprice cityId="615420100">81891.86</cityprice>
+    </offer>
+    <offer sku="1790654">
+      <model>Воздушный компрессор Denzel DKV2200/50 Х-PRO</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124225.87</price>
+        <cityprice cityId="615420100">124225.87</cityprice>
+    </offer>
+    <offer sku="1790750">
+      <model>Воздушный компрессор Denzel DK1500/24 Х-PRO</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63406.07</price>
+        <cityprice cityId="615420100">63406.07</cityprice>
+    </offer>
+    <offer sku="1790781">
+      <model>Воздушный компрессор Denzel PC 2/50-400 Х-PRO</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>263761.82</price>
+        <cityprice cityId="615420100">263761.82</cityprice>
+    </offer>
+    <offer sku="1790715">
+      <model>Воздушный компрессор Denzel DK1500/50 Х-PRO</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84800.34</price>
+        <cityprice cityId="615420100">84800.34</cityprice>
+    </offer>
+    <offer sku="974677">
+      <model>Установка компрессорная Remeza СБ4/Ф-270.LT100B</model>
+      <brand>Remeza</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1067061.6</price>
+        <cityprice cityId="615420100">1067061.6</cityprice>
+    </offer>
+    <offer sku="12257185">
+      <model>Установка компрессорная Бежецк АСО С-415М1</model>
+      <brand>Бежецк АСО</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>869369.38</price>
+        <cityprice cityId="615420100">869369.38</cityprice>
+    </offer>
+    <offer sku="12257162">
+      <model>Установка компрессорная Бежецк АСО К-11</model>
+      <brand>Бежецк АСО</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>339988.55</price>
+        <cityprice cityId="615420100">339988.55</cityprice>
+    </offer>
+    <offer sku="12171111">
+      <model>Установка компрессорная СБ/С-50.OLD15 / 150л/мин / 8бар</model>
+      <brand>Remeza</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>281559.02</price>
+        <cityprice cityId="615420100">281559.02</cityprice>
+    </offer>
+    <offer sku="12257154">
+      <model>Установка компрессорная Бежецк АСО К-3</model>
+      <brand>Бежецк АСО</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1926626.16</price>
+        <cityprice cityId="615420100">1926626.16</cityprice>
+    </offer>
+    <offer sku="7486954">
+      <model>Воздушный компрессор Тен TAC50L</model>
+      <brand>Tен</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149827.3</price>
+        <cityprice cityId="615420100">149827.3</cityprice>
+    </offer>
+    <offer sku="7485502">
+      <model>Воздушный компрессор Тен TAC130L</model>
+      <brand>Tен</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>483932.2</price>
+        <cityprice cityId="615420100">483932.2</cityprice>
+    </offer>
+    <offer sku="7486380">
+      <model>Воздушный компрессор Тен TAC24L</model>
+      <brand>Tен</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91095.44</price>
+        <cityprice cityId="615420100">91095.44</cityprice>
+    </offer>
+    <offer sku="7485836">
+      <model>Воздушный компрессор Тен TAC100L</model>
+      <brand>Tен</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375035.6</price>
+        <cityprice cityId="615420100">375035.6</cityprice>
+    </offer>
+    <offer sku="12346008">
+      <model>Компрессор Темп TC500LA1300</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1371371.76</price>
+        <cityprice cityId="615420100">1371371.76</cityprice>
+    </offer>
+    <offer sku="12345707">
+      <model>Компрессор Темп TC300LA800</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>591725.18</price>
+        <cityprice cityId="615420100">591725.18</cityprice>
+    </offer>
+    <offer sku="12345503">
+      <model>Компрессор Темп TC100LA460 100л ресивер</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>271705.5</price>
+        <cityprice cityId="615420100">271705.5</cityprice>
+    </offer>
+    <offer sku="12348856">
+      <model>Компрессор Темп TC100LA330A 100 л ресивер</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>479287.51</price>
+        <cityprice cityId="615420100">479287.51</cityprice>
+    </offer>
+    <offer sku="12345325">
+      <model>Компрессор Темп TC100LA330 100 л ресивер</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>380483.54</price>
+        <cityprice cityId="615420100">380483.54</cityprice>
+    </offer>
+    <offer sku="12345517">
+      <model>Компрессор Темп TC200LA460V, 200 л</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>412774.01</price>
+        <cityprice cityId="615420100">412774.01</cityprice>
+    </offer>
+    <offer sku="1790813">
+      <model>Воздушный компрессор Темп КВ-24</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59850.3</price>
+        <cityprice cityId="615420100">59850.3</cityprice>
+    </offer>
+    <offer sku="12346001">
+      <model>Компрессор Темп TC500LA800, 500 л</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1264665.6</price>
+        <cityprice cityId="615420100">1264665.6</cityprice>
+    </offer>
+    <offer sku="971987">
+      <model>Компрессор масляный Remeza ВК10Т-10, 7.5 кВт</model>
+      <brand>Remeza</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1956279.6</price>
+        <cityprice cityId="615420100">1956279.6</cityprice>
+    </offer>
+    <offer sku="1790711">
+      <model>Воздушный компрессор Сибртех КК-1500/24 58037</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18476.96</price>
+        <cityprice cityId="615420100">18476.96</cityprice>
+    </offer>
+    <offer sku="1790652">
+      <model>Воздушный компрессор Сибртех КК-1500/24 Плюс 58038</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80347.76</price>
+        <cityprice cityId="615420100">80347.76</cityprice>
+    </offer>
+    <offer sku="1790779">
+      <model>Воздушный компрессор Сибртех КР-2200/100</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>297352.52</price>
+        <cityprice cityId="615420100">297352.52</cityprice>
+    </offer>
+    <offer sku="1790729">
+      <model>Воздушный компрессор Сибртех КК-1500/50</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83085.42</price>
+        <cityprice cityId="615420100">83085.42</cityprice>
+    </offer>
+    <offer sku="1790783">
+      <model>Воздушный компрессор Сибртех КК-1100/22</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59653.47</price>
+        <cityprice cityId="615420100">59653.47</cityprice>
+    </offer>
+    <offer sku="1790631">
+      <model>Воздушный компрессор Сибртех КК-2200/50</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96192.56</price>
+        <cityprice cityId="615420100">96192.56</cityprice>
+    </offer>
+    <offer sku="12338656">
+      <model>Компрессор поршневой Бежецкий АСО С416М</model>
+      <brand>Бежецк АСО</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1086963.15</price>
+        <cityprice cityId="615420100">1086963.15</cityprice>
+    </offer>
+    <offer sku="1790672">
+      <model>Воздушный компрессор Denzel РС 1/6-180</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54567.36</price>
+        <cityprice cityId="615420100">54567.36</cityprice>
+    </offer>
+    <offer sku="12191660">
+      <model>Винтовой компрессор Berg ВК-4РО-500, 8 бар</model>
+      <brand>Berg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2246706.1</price>
+        <cityprice cityId="615420100">2246706.1</cityprice>
+    </offer>
+    <offer sku="12650886">
+      <model>Компрессор Кратон AC-530-200-BDH, 3 01 01 043 с ременной передачей</model>
+      <brand>Кратон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1297260.38</price>
+        <cityprice cityId="615420100">1297260.38</cityprice>
+    </offer>
+    <offer sku="1790771">
+      <model>Воздушный компрессор IVT АС-100 РВ 4НР</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>445095.11</price>
+        <cityprice cityId="615420100">445095.11</cityprice>
+    </offer>
+    <offer sku="12098104">
+      <model>Винтовой компрессор Berg ВК-30Р</model>
+      <brand>Berg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4304420.78</price>
+        <cityprice cityId="615420100">4304420.78</cityprice>
+    </offer>
+    <offer sku="1790902">
+      <model>Воздушный компрессор ЗУБР ЗКПМ-360-50-Р-2.2</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185485.76</price>
+        <cityprice cityId="615420100">185485.76</cityprice>
+    </offer>
+    <offer sku="1790673">
+      <model>Воздушный компрессор ЗУБР ЗКПМ-440-100-Р-2.2</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236443.77</price>
+        <cityprice cityId="615420100">236443.77</cityprice>
+    </offer>
+    <offer sku="12199622">
+      <model>Винтовой компрессор Berg ВК-22Р, 10 бар</model>
+      <brand>Berg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3685314.6</price>
+        <cityprice cityId="615420100">3685314.6</cityprice>
+    </offer>
+    <offer sku="1790593">
+      <model>Воздушный компрессор Вихрь КМП-400/50Р 74/3/10</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123140.88</price>
+        <cityprice cityId="615420100">123140.88</cityprice>
+    </offer>
+    <offer sku="1790674">
+      <model>Воздушный компрессор ЗУБР ЗКПМ-440-50-Р-2.2</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193743.66</price>
+        <cityprice cityId="615420100">193743.66</cityprice>
+    </offer>
+    <offer sku="12171146">
+      <model>Компрессор поршневой Atlas Copco AC 75 E - 500L / 834л/мин / 11бар / 6250-3693-05</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1441774.11</price>
+        <cityprice cityId="615420100">1441774.11</cityprice>
+    </offer>
+    <offer sku="12171128">
+      <model>Компрессор поршневой Atlas Copco AB75E270 / 836л/мин / 10бар</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1407522.42</price>
+        <cityprice cityId="615420100">1407522.42</cityprice>
+    </offer>
+    <offer sku="12171124">
+      <model>Компрессор поршневой Atlas Copco AB55E150 / 649л/мин / 10бар</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>494337.28</price>
+        <cityprice cityId="615420100">494337.28</cityprice>
+    </offer>
+    <offer sku="12351755">
+      <model>Компрессор поршневой Бежецкий АСО К29</model>
+      <brand>Бежецк АСО</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>430380.52</price>
+        <cityprice cityId="615420100">430380.52</cityprice>
+    </offer>
+    <offer sku="12171138">
+      <model>Компрессор поршневой Atlas Copco AF 30 E - 24L / 312л/мин / 10бар / 6250-3633-05</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>366759.94</price>
+        <cityprice cityId="615420100">366759.94</cityprice>
+    </offer>
+    <offer sku="12171123">
+      <model>Компрессор поршневой Atlas Copco AD20E25 / 109л/мин / 8бар</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261801.59</price>
+        <cityprice cityId="615420100">261801.59</cityprice>
+    </offer>
+    <offer sku="12171143">
+      <model>Компрессор поршневой Atlas Copco AC 31 E - 90L / 348л/мин / 10бар / 4116-0244-04</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>541404.33</price>
+        <cityprice cityId="615420100">541404.33</cityprice>
+    </offer>
+    <offer sku="12171127">
+      <model>Компрессор поршневой Atlas Copco AB30E100 / 335л/мин / 10бар</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>531079.52</price>
+        <cityprice cityId="615420100">531079.52</cityprice>
+    </offer>
+    <offer sku="300047">
+      <model>Компрессор поршневой Alteco ACD 24/260.2</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63233.28</price>
+        <cityprice cityId="615420100">63233.28</cityprice>
+    </offer>
+    <offer sku="1790892">
+      <model>Воздушный компрессор Denzel ОС 2/100-370</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>342344.98</price>
+        <cityprice cityId="615420100">342344.98</cityprice>
+    </offer>
+    <offer sku="1790705">
+      <model>Воздушный компрессор Mateus НР-2.5</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84870.92</price>
+        <cityprice cityId="615420100">84870.92</cityprice>
+    </offer>
+    <offer sku="1790590">
+      <model>Воздушный компрессор Mateus НР-3 MS03204</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50117.31</price>
+        <cityprice cityId="615420100">50117.31</cityprice>
+    </offer>
+    <offer sku="1790534">
+      <model>Воздушный компрессор ЗУБР КПМ-240-24 Н6</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82344.4</price>
+        <cityprice cityId="615420100">82344.4</cityprice>
+    </offer>
+    <offer sku="1790695">
+      <model>Воздушный компрессор ЗУБР КП-200-6 Н6</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74790.36</price>
+        <cityprice cityId="615420100">74790.36</cityprice>
+    </offer>
+    <offer sku="1790524">
+      <model>Воздушный компрессор ЗУБР КПМ-240-24 Н6</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82344.55</price>
+        <cityprice cityId="615420100">82344.55</cityprice>
+    </offer>
+    <offer sku="1790526">
+      <model>Воздушный компрессор ЗУБР КП-200-24 Н6</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95550.43</price>
+        <cityprice cityId="615420100">95550.43</cityprice>
+    </offer>
+    <offer sku="1790822">
+      <model>Воздушный компрессор ЗУБР КП-200-24 Н6</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95548.45</price>
+        <cityprice cityId="615420100">95548.45</cityprice>
+    </offer>
+    <offer sku="1790737">
+      <model>Воздушный компрессор ЗУБР ЗКП-190-24-1.5-Н4</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88921.8</price>
+        <cityprice cityId="615420100">88921.8</cityprice>
+    </offer>
+    <offer sku="12351439">
+      <model>Компрессор Ganey SOGFD 22, 3,4 м³/мин, 8 атм, 22 кВт</model>
+      <brand>Ganey</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2921363.42</price>
+        <cityprice cityId="615420100">2921363.42</cityprice>
+    </offer>
+    <offer sku="12171112">
+      <model>Компрессор Вихрь КМП-210/10 210л/мин / 8бар / 74/3/1</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43217.97</price>
+        <cityprice cityId="615420100">43217.97</cityprice>
+    </offer>
+    <offer sku="12351628">
+      <model>Компрессор Ganey SOGFD 18.5, 2.7 м³/мин, 10 атм, 18.5 кВт</model>
+      <brand>Ganey</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3952079.01</price>
+        <cityprice cityId="615420100">3952079.01</cityprice>
+    </offer>
+    <offer sku="12351507">
+      <model>Компрессор Ganey SOGFD 75, 11.5 м³/мин, 10 атм, 75 кВт</model>
+      <brand>Ganey</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7624747.94</price>
+        <cityprice cityId="615420100">7624747.94</cityprice>
+    </offer>
+    <offer sku="12351418">
+      <model>Компрессор Ganey SOGFD 22, 2,8 м³/мин, 12,5 атм, 22 кВт</model>
+      <brand>Ganey</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2921363.42</price>
+        <cityprice cityId="615420100">2921363.42</cityprice>
+    </offer>
+    <offer sku="367114">
+      <model>Компрессор масляный Laston LBW-0.9/10</model>
+      <brand>Laston</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1326906.91</price>
+        <cityprice cityId="615420100">1326906.91</cityprice>
+    </offer>
+    <offer sku="10795629">
+      <model>Компрессор масляный Comprag F3708</model>
+      <brand>Comprag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3456092.97</price>
+        <cityprice cityId="615420100">3456092.97</cityprice>
+    </offer>
+    <offer sku="1790856">
+      <model>Воздушный компрессор Бежецк АСО С-416М1</model>
+      <brand>Бежецк АСО</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1043277.98</price>
+        <cityprice cityId="615420100">1043277.98</cityprice>
+    </offer>
+    <offer sku="1790889">
+      <model>Воздушный компрессор Келет С-415М1</model>
+      <brand>Келет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1238877.29</price>
+        <cityprice cityId="615420100">1238877.29</cityprice>
+    </offer>
+    <offer sku="1790661">
+      <model>Воздушный компрессор KING TONY 799C3-100AA 100 л</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4544891.01</price>
+        <cityprice cityId="615420100">4544891.01</cityprice>
+    </offer>
+    <offer sku="1790558">
+      <model>Воздушный компрессор Hyundai 500 л</model>
+      <brand>Hyundai</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>652932.03</price>
+        <cityprice cityId="615420100">652932.03</cityprice>
+    </offer>
+    <offer sku="229924">
+      <model>Воздушный компрессор Forsage F-TB265-100 7738, 100 л</model>
+      <brand>Forsage</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247454.55</price>
+        <cityprice cityId="615420100">247454.55</cityprice>
+    </offer>
+    <offer sku="1790571">
+      <model>Воздушный компрессор Hyundai 300 л</model>
+      <brand>Hyundai</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>571073.58</price>
+        <cityprice cityId="615420100">571073.58</cityprice>
+    </offer>
+    <offer sku="1790611">
+      <model>Воздушный компрессор Hyundai 24 л</model>
+      <brand>Hyundai</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>336865.42</price>
+        <cityprice cityId="615420100">336865.42</cityprice>
+    </offer>
+    <offer sku="229926">
+      <model>Воздушный компрессор Forsage F-V30/50 7741, 50 л</model>
+      <brand>Forsage</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>203353.29</price>
+        <cityprice cityId="615420100">203353.29</cityprice>
+    </offer>
+    <offer sku="92458">
+      <model>Компрессор безмасляный Кратон AC-300-50-OFS</model>
+      <brand>Кратон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152987.98</price>
+        <cityprice cityId="615420100">152987.98</cityprice>
+    </offer>
+    <offer sku="1790543">
+      <model>Воздушный компрессор ЗУБР КПМ-260-50</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89871</price>
+        <cityprice cityId="615420100">89871</cityprice>
+    </offer>
+    <offer sku="1790544">
+      <model>Воздушный компрессор ЗУБР КПМ-260-50</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89317.01</price>
+        <cityprice cityId="615420100">89317.01</cityprice>
+    </offer>
+    <offer sku="1790689">
+      <model>Воздушный компрессор ЗУБР КПМ-400-50</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135882.74</price>
+        <cityprice cityId="615420100">135882.74</cityprice>
+    </offer>
+    <offer sku="1790532">
+      <model>Воздушный компрессор ЗУБР КПМ-240-24</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59414.4</price>
+        <cityprice cityId="615420100">59414.4</cityprice>
+    </offer>
+    <offer sku="1790550">
+      <model>Воздушный компрессор ЗУБР КПМ-320-24</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86816.96</price>
+        <cityprice cityId="615420100">86816.96</cityprice>
+    </offer>
+    <offer sku="1790817">
+      <model>Воздушный компрессор ЗУБР КПМ-530-100</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>309873.06</price>
+        <cityprice cityId="615420100">309873.06</cityprice>
+    </offer>
+    <offer sku="1790557">
+      <model>Воздушный компрессор ЗУБР КПМ-400-100</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>173101.98</price>
+        <cityprice cityId="615420100">173101.98</cityprice>
+    </offer>
+    <offer sku="1790692">
+      <model>Воздушный компрессор ЗУБР КП-200-6</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68224.44</price>
+        <cityprice cityId="615420100">68224.44</cityprice>
+    </offer>
+    <offer sku="1790521">
+      <model>Воздушный компрессор ЗУБР КП-200-24</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72838.81</price>
+        <cityprice cityId="615420100">72838.81</cityprice>
+    </offer>
+    <offer sku="1790897">
+      <model>Воздушный компрессорИХРЬ КМП-260/24</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59207.1</price>
+        <cityprice cityId="615420100">59207.1</cityprice>
+    </offer>
+    <offer sku="1790642">
+      <model>Воздушный компрессорИХРЬ КМП-210/10</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34624.81</price>
+        <cityprice cityId="615420100">34624.81</cityprice>
+    </offer>
+    <offer sku="1790548">
+      <model>Воздушный компрессорИХРЬ КМП-400/100 74/3/9</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150811.37</price>
+        <cityprice cityId="615420100">150811.37</cityprice>
+    </offer>
+    <offer sku="1790625">
+      <model>Воздушный компрессорИХРЬ КМП-240/50</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54479.42</price>
+        <cityprice cityId="615420100">54479.42</cityprice>
+    </offer>
+    <offer sku="1790616">
+      <model>Воздушный компрессорИХРЬ КМП-400/50</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101795.7</price>
+        <cityprice cityId="615420100">101795.7</cityprice>
+    </offer>
+    <offer sku="1790605">
+      <model>Воздушный компрессорИХРЬ КМП-300/50</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67674.84</price>
+        <cityprice cityId="615420100">67674.84</cityprice>
+    </offer>
+    <offer sku="10828505">
+      <model>Воздушный винтовой компрессор Airmash W-22R</model>
+      <brand>Airmash</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5057842.34</price>
+        <cityprice cityId="615420100">5057842.34</cityprice>
+    </offer>
+    <offer sku="12227222">
+      <model>Винтовой дизельный компрессор Equs EB-65</model>
+      <brand>Equs</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5012470.49</price>
+        <cityprice cityId="615420100">5012470.49</cityprice>
+    </offer>
+    <offer sku="1790860">
+      <model>Воздушный компрессор Fuag Service Master Kit</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100175.35</price>
+        <cityprice cityId="615420100">100175.35</cityprice>
+    </offer>
+    <offer sku="1790875">
+      <model>Воздушный компрессор Denzel PC 3/100-504</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>272893.1</price>
+        <cityprice cityId="615420100">272893.1</cityprice>
+    </offer>
+    <offer sku="1790880">
+      <model>Воздушный компрессор FiniK 119-500F-7.5</model>
+      <brand>Fini</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2054084.69</price>
+        <cityprice cityId="615420100">2054084.69</cityprice>
+    </offer>
+    <offer sku="1790633">
+      <model>Воздушный компрессор ЗУБР ЗКПМ-310-24-2.2</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>357663.24</price>
+        <cityprice cityId="615420100">357663.24</cityprice>
+    </offer>
+    <offer sku="1790638">
+      <model>Воздушный компрессор MAGNETTA SZ0.25/8-V30</model>
+      <brand>Magnetta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>277203.83</price>
+        <cityprice cityId="615420100">277203.83</cityprice>
+    </offer>
+    <offer sku="1790697">
+      <model>Воздушный компрессор Fuag Handy Master Kit + 5</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67797.93</price>
+        <cityprice cityId="615420100">67797.93</cityprice>
+    </offer>
+    <offer sku="1790807">
+      <model>Воздушный компрессор EinhellT-AC 12V</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77364.93</price>
+        <cityprice cityId="615420100">77364.93</cityprice>
+    </offer>
+    <offer sku="1790725">
+      <model>Воздушный компрессор ЗУБР ЗКП-230-24-2.5</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9666.71</price>
+        <cityprice cityId="615420100">9666.71</cityprice>
+    </offer>
+    <offer sku="12356198">
+      <model>Офисное кресло Fo Shan Omida Furniture Co; Ltd. Orda Munich BL 820, черное</model>
+      <brand>Fo Shan Omida Furniture Co; Ltd.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79436.81</price>
+        <cityprice cityId="615420100">79436.81</cityprice>
+    </offer>
+    <offer sku="1790934">
+      <model>Воздушный компрессор Einhell ТЕ-АС 270/24/10</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121694.42</price>
+        <cityprice cityId="615420100">121694.42</cityprice>
+    </offer>
+    <offer sku="10725249">
+      <model>Воздушный компрессор Denzel BCI4000-T/100 58123</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>321080.03</price>
+        <cityprice cityId="615420100">321080.03</cityprice>
+    </offer>
+    <offer sku="10725319">
+      <model>Компрессор воздушный Denzel DC1500/50</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73517.4</price>
+        <cityprice cityId="615420100">73517.4</cityprice>
+    </offer>
+    <offer sku="363133">
+      <model>Компрессор Вихрь КМП-300/50</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60893.65</price>
+        <cityprice cityId="615420100">60893.65</cityprice>
+    </offer>
+    <offer sku="362775">
+      <model>Воздушный компрессор Вихрь КМП-400/50 74/3/6</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87566.24</price>
+        <cityprice cityId="615420100">87566.24</cityprice>
+    </offer>
+    <offer sku="1790760">
+      <model>Воздушный компрессор Schneider UNM 210-8-25W</model>
+      <brand>Schneider</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165019.1</price>
+        <cityprice cityId="615420100">165019.1</cityprice>
+    </offer>
+    <offer sku="1790547">
+      <model>Воздушный компрессор Fini Supertiger 402M</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>434067.81</price>
+        <cityprice cityId="615420100">434067.81</cityprice>
+    </offer>
+    <offer sku="1790774">
+      <model>Воздушный компрессор Denzel DLS950/24 58026</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68105.34</price>
+        <cityprice cityId="615420100">68105.34</cityprice>
+    </offer>
+    <offer sku="1790858">
+      <model>Воздушный компрессор MAGNETTA SV0.17/8</model>
+      <brand>Magnetta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>176007.82</price>
+        <cityprice cityId="615420100">176007.82</cityprice>
+    </offer>
+    <offer sku="10828506">
+      <model>Винтовой воздушный компрессор Airmash W-30R</model>
+      <brand>Airmash</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4347386.8</price>
+        <cityprice cityId="615420100">4347386.8</cityprice>
+    </offer>
+    <offer sku="1790941">
+      <model>Воздушный компрессор IVT AC-24L</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91377.03</price>
+        <cityprice cityId="615420100">91377.03</cityprice>
+    </offer>
+    <offer sku="92454">
+      <model>Компрессор воздушный TT DCC-24</model>
+      <brand>Total Tools</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>472440.54</price>
+        <cityprice cityId="615420100">472440.54</cityprice>
+    </offer>
+    <offer sku="1790503">
+      <model>Воздушный компрессор P.I.T. 55028 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130477.92</price>
+        <cityprice cityId="615420100">130477.92</cityprice>
+    </offer>
+    <offer sku="1790819">
+      <model>Воздушный компрессор Metao Power 250-10 W OF</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>386217.02</price>
+        <cityprice cityId="615420100">386217.02</cityprice>
+    </offer>
+    <offer sku="1790815">
+      <model>Воздушный компрессор Denzel PC 1/24-206</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148278.09</price>
+        <cityprice cityId="615420100">148278.09</cityprice>
+    </offer>
+    <offer sku="1790904">
+      <model>Воздушный компрессор Metao Mega 350-50 W 601589000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>774607.68</price>
+        <cityprice cityId="615420100">774607.68</cityprice>
+    </offer>
+    <offer sku="1790884">
+      <model>Воздушный компрессор Fini MK 103-90-3M</model>
+      <brand>Fini</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>822140.33</price>
+        <cityprice cityId="615420100">822140.33</cityprice>
+    </offer>
+    <offer sku="1790505">
+      <model>Воздушный компрессор P.I.T. 53008 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65733.96</price>
+        <cityprice cityId="615420100">65733.96</cityprice>
+    </offer>
+    <offer sku="1790772">
+      <model>Воздушный компрессор FUAG3600/100 CM3</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>294416.13</price>
+        <cityprice cityId="615420100">294416.13</cityprice>
+    </offer>
+    <offer sku="1790651">
+      <model>Воздушный компрессор Denzel PC 50-260</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145137.17</price>
+        <cityprice cityId="615420100">145137.17</cityprice>
+    </offer>
+    <offer sku="1790640">
+      <model>Воздушный компрессор Denzel PC 1/50-205</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187723.8</price>
+        <cityprice cityId="615420100">187723.8</cityprice>
+    </offer>
+    <offer sku="1790900">
+      <model>Воздушный компрессор ЗУБР ЗКПМ-240-24-1.5</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81263.66</price>
+        <cityprice cityId="615420100">81263.66</cityprice>
+    </offer>
+    <offer sku="423049">
+      <model>Воздушный компрессор Alteco ACB-100/800.1</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>343880.36</price>
+        <cityprice cityId="615420100">343880.36</cityprice>
+    </offer>
+    <offer sku="108446">
+      <model>Воздушный компрессор Alteco ACD-20/200</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56020.73</price>
+        <cityprice cityId="615420100">56020.73</cityprice>
+    </offer>
+    <offer sku="350142">
+      <model>Компрессор Alteco ACB 70/300</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171313.78</price>
+        <cityprice cityId="615420100">171313.78</cityprice>
+    </offer>
+    <offer sku="10725246">
+      <model>Воздушный компрессор Denzel BCI5500-T/200</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>637051.58</price>
+        <cityprice cityId="615420100">637051.58</cityprice>
+    </offer>
+    <offer sku="10725328">
+      <model>Воздушный компрессор Denzel DCV2200/50 58167</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124299.87</price>
+        <cityprice cityId="615420100">124299.87</cityprice>
+    </offer>
+    <offer sku="1790706">
+      <model>Воздушный компрессор Mateus 0.17/220</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163833.48</price>
+        <cityprice cityId="615420100">163833.48</cityprice>
+    </offer>
+    <offer sku="10813952">
+      <model>Винтовой компрессор Airmash W-5.5R</model>
+      <brand>Airmash</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3952080</price>
+        <cityprice cityId="615420100">3952080</cityprice>
+    </offer>
+    <offer sku="10828504">
+      <model>Воздушный винтовой компрессор Airmash W-15R</model>
+      <brand>Airmash</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2131287.58</price>
+        <cityprice cityId="615420100">2131287.58</cityprice>
+    </offer>
+    <offer sku="1790930">
+      <model>Воздушный компрессор Metao Mega 350-100 W 601538000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>968229.96</price>
+        <cityprice cityId="615420100">968229.96</cityprice>
+    </offer>
+    <offer sku="1790635">
+      <model>Воздушный компрессор Hyundai HY-100</model>
+      <brand>Hyundai</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>206772.83</price>
+        <cityprice cityId="615420100">206772.83</cityprice>
+    </offer>
+    <offer sku="1790712">
+      <model>Воздушный компрессор ЗУБР ЗКП-180-6-1.1</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97698.38</price>
+        <cityprice cityId="615420100">97698.38</cityprice>
+    </offer>
+    <offer sku="1790702">
+      <model>Воздушный компрессор DENZEL DR5500/200 58084</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>407675.82</price>
+        <cityprice cityId="615420100">407675.82</cityprice>
+    </offer>
+    <offer sku="1790716">
+      <model>Воздушный компрессор Schneider UNM 660-10-90DX</model>
+      <brand>Schneider</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1065391.85</price>
+        <cityprice cityId="615420100">1065391.85</cityprice>
+    </offer>
+    <offer sku="1790758">
+      <model>Воздушный компрессор EinhellT-AC 230/24</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103611.68</price>
+        <cityprice cityId="615420100">103611.68</cityprice>
+    </offer>
+    <offer sku="12527185">
+      <model>Компрессор Aurora Cyclon-75 Turrbo Active Series</model>
+      <brand>Aurora</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>347234.69</price>
+        <cityprice cityId="615420100">347234.69</cityprice>
+    </offer>
+    <offer sku="1790789">
+      <model>Воздушный компрессор EinhellТЕ-АС 270/50/10</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102645.4</price>
+        <cityprice cityId="615420100">102645.4</cityprice>
+    </offer>
+    <offer sku="1790564">
+      <model>Воздушный компрессор Fuag DCF-900/270 CT7.5</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1434545.76</price>
+        <cityprice cityId="615420100">1434545.76</cityprice>
+    </offer>
+    <offer sku="1790540">
+      <model>Воздушный компрессор Forward ACF-100/300</model>
+      <brand>Forward</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>533420.14</price>
+        <cityprice cityId="615420100">533420.14</cityprice>
+    </offer>
+    <offer sku="1790568">
+      <model>Воздушный компрессор Forward ACF-120/600</model>
+      <brand>Forward</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>986043.96</price>
+        <cityprice cityId="615420100">986043.96</cityprice>
+    </offer>
+    <offer sku="10760069">
+      <model>Воздушный компрессор Denzel BCV2300/100 58111</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>252719.71</price>
+        <cityprice cityId="615420100">252719.71</cityprice>
+    </offer>
+    <offer sku="10759464">
+      <model>Воздушный компрессор Denzel BCI2300/100 58114</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194636.98</price>
+        <cityprice cityId="615420100">194636.98</cityprice>
+    </offer>
+    <offer sku="10763804">
+      <model>Компрессор Вихрь КМП-400/100</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115703.07</price>
+        <cityprice cityId="615420100">115703.07</cityprice>
+    </offer>
+    <offer sku="1790688">
+      <model>Воздушный компрессор Mateus YW 1.4</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>909100.13</price>
+        <cityprice cityId="615420100">909100.13</cityprice>
+    </offer>
+    <offer sku="1790864">
+      <model>Воздушный компрессор Metao Power 180-5 W OF</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>331566.67</price>
+        <cityprice cityId="615420100">331566.67</cityprice>
+    </offer>
+    <offer sku="1791432">
+      <model>Воздушный компрессор Wester LE 024-150 OLC</model>
+      <brand>WESTER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>146411.72</price>
+        <cityprice cityId="615420100">146411.72</cityprice>
+    </offer>
+    <offer sku="1790621">
+      <model>Воздушный компрессор Вихрь КМП-230/24</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41050.25</price>
+        <cityprice cityId="615420100">41050.25</cityprice>
+    </offer>
+    <offer sku="10828508">
+      <model>Воздушный винтовой компрессор Airmash W-7.5R</model>
+      <brand>Airmash</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7403782.21</price>
+        <cityprice cityId="615420100">7403782.21</cityprice>
+    </offer>
+    <offer sku="1790882">
+      <model>Воздушный компрессор Fini MK 103-200-3M</model>
+      <brand>Fini</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>524558.59</price>
+        <cityprice cityId="615420100">524558.59</cityprice>
+    </offer>
+    <offer sku="363726">
+      <model>Компрессор Вихрь КМП-240/50</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46644.25</price>
+        <cityprice cityId="615420100">46644.25</cityprice>
+    </offer>
+    <offer sku="10673712">
+      <model>Воздушный компрессор Denzel DR4000/200 58093</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>479189.7</price>
+        <cityprice cityId="615420100">479189.7</cityprice>
+    </offer>
+    <offer sku="11900937">
+      <model>Счетчик газа РСГ Сигнал-50-G65 ротационный</model>
+      <brand>Сигнал</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>694084.05</price>
+        <cityprice cityId="615420100">694084.05</cityprice>
+    </offer>
+    <offer sku="12245720">
+      <model>Счетчик газа турбинный Common CGТ-02 DN50 G65 PN16</model>
+      <brand>Common</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>707420.34</price>
+        <cityprice cityId="615420100">707420.34</cityprice>
+    </offer>
+    <offer sku="12259718">
+      <model>Счетчик газа турбинный Сигнал СГ-16МТ-250</model>
+      <brand>Сигнал</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395208</price>
+        <cityprice cityId="615420100">395208</cityprice>
+    </offer>
+    <offer sku="12255897">
+      <model>Счетчик газа турбинный Common CGT-02 DN100 G400 PN16</model>
+      <brand>Common</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>948499.2</price>
+        <cityprice cityId="615420100">948499.2</cityprice>
+    </offer>
+    <offer sku="12349567">
+      <model>Счетчик газа мембранный Gas Souzan G40 GS-77-040A</model>
+      <brand>Gas Souzan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>573051.6</price>
+        <cityprice cityId="615420100">573051.6</cityprice>
+    </offer>
+    <offer sku="1625654">
+      <model>Электрогенератор Huter DY4000LX</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123996.51</price>
+        <cityprice cityId="615420100">123996.51</cityprice>
+    </offer>
+    <offer sku="753259">
+      <model>Электрогенератор ALTECO APG 7000 (N)</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>253624.73</price>
+        <cityprice cityId="615420100">253624.73</cityprice>
+    </offer>
+    <offer sku="520366">
+      <model>Электрогенератор Huter DY6500L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>160800.26</price>
+        <cityprice cityId="615420100">160800.26</cityprice>
+    </offer>
+    <offer sku="12166863">
+      <model>Электрогенератор Huter DY8000LXA / 6.5кВт / 220В 64/1/30</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>337820.83</price>
+        <cityprice cityId="615420100">337820.83</cityprice>
+    </offer>
+    <offer sku="12166857">
+      <model>Электрогенератор Huter DY6500LXW / 5кВт / 220В 64/1/18</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>328077.97</price>
+        <cityprice cityId="615420100">328077.97</cityprice>
+    </offer>
+    <offer sku="136149">
+      <model>Бензиновый генератор Alteco AGG-15000TE DUO / 10кВт / 220/380В</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1175743.8</price>
+        <cityprice cityId="615420100">1175743.8</cityprice>
+    </offer>
+    <offer sku="558953">
+      <model>Дизельный генератор Alteco S110 RKD</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5029812.22</price>
+        <cityprice cityId="615420100">5029812.22</cityprice>
+    </offer>
+    <offer sku="12166872">
+      <model>Бензиновый генератор Alteco AGG-1500 / 0.9кВт / 220В</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169458.27</price>
+        <cityprice cityId="615420100">169458.27</cityprice>
+    </offer>
+    <offer sku="372321">
+      <model>Пильный диск CMT 285.096.12M</model>
+      <brand>CMT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51860.18</price>
+        <cityprice cityId="615420100">51860.18</cityprice>
+    </offer>
+    <offer sku="12705730">
+      <model>Винтовой компрессор Bitzer CSH8573-140Y-40P</model>
+      <brand>Bitzer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11367523.81</price>
+        <cityprice cityId="615420100">11367523.81</cityprice>
+    </offer>
+    <offer sku="1325979">
+      <model>Стул IVICITY.KZ стул серый</model>
+      <brand>IVICITY.KZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12350.25</price>
+        <cityprice cityId="615420100">12350.25</cityprice>
+    </offer>
+    <offer sku="93195">
+      <model>Стул кухонный Zeta &quot;Ясмин&quot;, темно-серый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44459.91</price>
+        <cityprice cityId="615420100">44459.91</cityprice>
+    </offer>
+    <offer sku="93213">
+      <model>Стул кухонный Zeta &quot;Гектор&quot;, черный</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9830.8</price>
+        <cityprice cityId="615420100">9830.8</cityprice>
+    </offer>
+    <offer sku="93206">
+      <model>Стул кухонный Zeta &quot;Мадрид&quot;, темно-серый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48906.99</price>
+        <cityprice cityId="615420100">48906.99</cityprice>
+    </offer>
+    <offer sku="10685478">
+      <model>Стул столовый Akala Home BB-0036 &quot;Sita&quot; современный стул из ткани и дерева с латунными ножками</model>
+      <brand>Akala Home</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34975.91</price>
+        <cityprice cityId="615420100">34975.91</cityprice>
+    </offer>
+    <offer sku="1324964">
+      <model>Стул IKEA Сундвик 80366142 детский белый</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16302.33</price>
+        <cityprice cityId="615420100">16302.33</cityprice>
+    </offer>
+    <offer sku="112380">
+      <model>Табурет Zeta МП-ТВ-946120-013, квадратный, бежево-черный</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19562.8</price>
+        <cityprice cityId="615420100">19562.8</cityprice>
+    </offer>
+    <offer sku="10684696">
+      <model>Стул столовый Akala Home BB-0010 &quot;Lina&quot; ретро стул из кожи и дерева</model>
+      <brand>Akala Home</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98802</price>
+        <cityprice cityId="615420100">98802</cityprice>
+    </offer>
+    <offer sku="1324855">
+      <model>Стул Техкомпро Маранта 120 белый</model>
+      <brand>Техкомпро</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53352.09</price>
+        <cityprice cityId="615420100">53352.09</cityprice>
+    </offer>
+    <offer sku="1324506">
+      <model>Стул Чепецкая МФ С33 Махагон-Квадро бордо</model>
+      <brand>Чепецкая МФ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34555.01</price>
+        <cityprice cityId="615420100">34555.01</cityprice>
+    </offer>
+    <offer sku="93182">
+      <model>Стул кухонный Zeta &quot;Умберто&quot;, темно-серый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39489.18</price>
+        <cityprice cityId="615420100">39489.18</cityprice>
+    </offer>
+    <offer sku="1324976">
+      <model>Стул SK Trade Joker черный</model>
+      <brand>SK Trade</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14326.29</price>
+        <cityprice cityId="615420100">14326.29</cityprice>
+    </offer>
+    <offer sku="1326457">
+      <model>Стул ТЭТАХОУМ Модерника детский DSW голубой</model>
+      <brand>ТЭТАХОУМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17586.76</price>
+        <cityprice cityId="615420100">17586.76</cityprice>
+    </offer>
+    <offer sku="1324722">
+      <model>Стул Чепецкая МФ С8 Грецкий орех-Ратибор</model>
+      <brand>Чепецкая МФ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46415.2</price>
+        <cityprice cityId="615420100">46415.2</cityprice>
+    </offer>
+    <offer sku="93184">
+      <model>Стул кухонный Zeta &quot;Сымбат&quot;, темно-серый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32676.99</price>
+        <cityprice cityId="615420100">32676.99</cityprice>
+    </offer>
+    <offer sku="1326832">
+      <model>Стул ТЭТАХОУМ ST19/S66 зеленый хром лак</model>
+      <brand>ТЭТАХОУМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47384.45</price>
+        <cityprice cityId="615420100">47384.45</cityprice>
+    </offer>
+    <offer sku="93209">
+      <model>Стул кухонный Zeta &quot;Зере&quot;, белый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17290.35</price>
+        <cityprice cityId="615420100">17290.35</cityprice>
+    </offer>
+    <offer sku="93183">
+      <model>Стул кухонный Zeta &quot;Сымбат&quot;, коричневый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32110.65</price>
+        <cityprice cityId="615420100">32110.65</cityprice>
+    </offer>
+    <offer sku="93188">
+      <model>Стул кухонный Zeta &quot;Рандеву&quot;, синий</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50883.03</price>
+        <cityprice cityId="615420100">50883.03</cityprice>
+    </offer>
+    <offer sku="1325897">
+      <model>Стул ТЭТАХОУМ S6 хром бук</model>
+      <brand>ТЭТАХОУМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32703.46</price>
+        <cityprice cityId="615420100">32703.46</cityprice>
+    </offer>
+    <offer sku="1324946">
+      <model>Стул ТЭТАХОУМ Модерника DSW коричневый</model>
+      <brand>ТЭТАХОУМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17290.35</price>
+        <cityprice cityId="615420100">17290.35</cityprice>
+    </offer>
+    <offer sku="1326519">
+      <model>Стул ТЭТАХОУМ Грэйт вельвет розовый</model>
+      <brand>ТЭТАХОУМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57205.37</price>
+        <cityprice cityId="615420100">57205.37</cityprice>
+    </offer>
+    <offer sku="1325653">
+      <model>Стул ТЭТАХОУМ Модерника DSW оранжевый</model>
+      <brand>ТЭТАХОУМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18278.37</price>
+        <cityprice cityId="615420100">18278.37</cityprice>
+    </offer>
+    <offer sku="1324716">
+      <model>Стул Чепецкая МФ С36 Венге</model>
+      <brand>Чепецкая МФ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43450.16</price>
+        <cityprice cityId="615420100">43450.16</cityprice>
+    </offer>
+    <offer sku="1324962">
+      <model>Стул ТЭТАХОУМ ST29-C12/S70 ежевичное вино прозрачный лак черный</model>
+      <brand>ТЭТАХОУМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46431.01</price>
+        <cityprice cityId="615420100">46431.01</cityprice>
+    </offer>
+    <offer sku="93186">
+      <model>Стул кухонный Zeta &quot;Рандеву&quot;, темно-серый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53629.73</price>
+        <cityprice cityId="615420100">53629.73</cityprice>
+    </offer>
+    <offer sku="1326793">
+      <model>Стул Barneo Uno черный</model>
+      <brand>Barneo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13338.27</price>
+        <cityprice cityId="615420100">13338.27</cityprice>
+    </offer>
+    <offer sku="526528">
+      <model>Дизельный генератор Qazar Energy GRS40A с АВР</model>
+      <brand>QAZAR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3952080</price>
+        <cityprice cityId="615420100">3952080</cityprice>
+    </offer>
+    <offer sku="11350896">
+      <model>Дизельный генератор PCA Power PCD-35W kVA</model>
+      <brand>PCA Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4683353.12</price>
+        <cityprice cityId="615420100">4683353.12</cityprice>
+    </offer>
+    <offer sku="11456060">
+      <model>Дизельный генератор ADD Power ADD150D</model>
+      <brand>ADD Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4697034.24</price>
+        <cityprice cityId="615420100">4697034.24</cityprice>
+    </offer>
+    <offer sku="12166894">
+      <model>Дизельный генератор Atlas Copco QES 80U</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4223192.69</price>
+        <cityprice cityId="615420100">4223192.69</cityprice>
+    </offer>
+    <offer sku="12166895">
+      <model>Дизельный генератор Atlas Copco QES 250</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12844260</price>
+        <cityprice cityId="615420100">12844260</cityprice>
+    </offer>
+    <offer sku="12166786">
+      <model>Дизельный генератор Atlas Copco QES 30</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1064198.32</price>
+        <cityprice cityId="615420100">1064198.32</cityprice>
+    </offer>
+    <offer sku="12166787">
+      <model>Дизельный генератор Atlas Copco QES 40</model>
+      <brand>Atlas Copco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10858235.07</price>
+        <cityprice cityId="615420100">10858235.07</cityprice>
+    </offer>
+    <offer sku="12340540">
+      <model>Дизельный генератор PCA Power PRD-165</model>
+      <brand>PCA Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4763276.04</price>
+        <cityprice cityId="615420100">4763276.04</cityprice>
+    </offer>
+    <offer sku="12267764">
+      <model>Дизельный генератор PCA Power PRD-275</model>
+      <brand>PCA Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11561300.22</price>
+        <cityprice cityId="615420100">11561300.22</cityprice>
+    </offer>
+    <offer sku="12258747">
+      <model>Дизельный генератор PCA Power PRD-90 kVA</model>
+      <brand>PCA Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5434110</price>
+        <cityprice cityId="615420100">5434110</cityprice>
+    </offer>
+    <offer sku="12695001">
+      <model>Дизельный генератор GSCO GS165R-S, в кожухе</model>
+      <brand>GSCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5361273.17</price>
+        <cityprice cityId="615420100">5361273.17</cityprice>
+    </offer>
+    <offer sku="1625470">
+      <model>Электрогенератор Huter DY9500LX-3</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>275656.59</price>
+        <cityprice cityId="615420100">275656.59</cityprice>
+    </offer>
+    <offer sku="1625612">
+      <model>Электрогенератор Huter DY5000L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152056.28</price>
+        <cityprice cityId="615420100">152056.28</cityprice>
+    </offer>
+    <offer sku="4497262">
+      <model>Генератор инверторный Denzel GT-2500iF 94704</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>159071.22</price>
+        <cityprice cityId="615420100">159071.22</cityprice>
+    </offer>
+    <offer sku="1625594">
+      <model>Электрогенератор Huter DY6500LXW</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>346250.62</price>
+        <cityprice cityId="615420100">346250.62</cityprice>
+    </offer>
+    <offer sku="12682529">
+      <model>Грузоподъемное оборудование Matrix 519825 1 т.</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>693419.11</price>
+        <cityprice cityId="615420100">693419.11</cityprice>
+    </offer>
+    <offer sku="12682531">
+      <model>Грузоподъемное оборудование Matrix 519845 2 т</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>889145.87</price>
+        <cityprice cityId="615420100">889145.87</cityprice>
+    </offer>
+    <offer sku="10688765">
+      <model>Электрогенератор Huter DY 8000LX</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>231582.18</price>
+        <cityprice cityId="615420100">231582.18</cityprice>
+    </offer>
+    <offer sku="1625536">
+      <model>Электрогенератор DENZEL GE6900</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195627.96</price>
+        <cityprice cityId="615420100">195627.96</cityprice>
+    </offer>
+    <offer sku="5780532">
+      <model>Генератор бензиновый Denzel 9468743 PS 55 EA, 5,5 кВт, 230В,25л</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222266.96</price>
+        <cityprice cityId="615420100">222266.96</cityprice>
+    </offer>
+    <offer sku="1625759">
+      <model>Электрогенератор DENZEL GE7900</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207479.26</price>
+        <cityprice cityId="615420100">207479.26</cityprice>
+    </offer>
+    <offer sku="1625262">
+      <model>Электрогенератор DENZEL PS 25 946814</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164141.74</price>
+        <cityprice cityId="615420100">164141.74</cityprice>
+    </offer>
+    <offer sku="1625204">
+      <model>Электрогенератор DENZEL DD6300Е</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>441445.36</price>
+        <cityprice cityId="615420100">441445.36</cityprice>
+    </offer>
+    <offer sku="10822399">
+      <model>Силикон санитарный Pufas S25, 310 мл</model>
+      <brand>Pufas </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1472.15</price>
+        <cityprice cityId="615420100">1472.15</cityprice>
+    </offer>
+    <offer sku="4906752">
+      <model>Клей-герметик Момент Монтаж Один для всего 290 мл.</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3145.86</price>
+        <cityprice cityId="615420100">3145.86</cityprice>
+    </offer>
+    <offer sku="10825359">
+      <model>Герметик Tytan универсальный, белый, 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2014.57</price>
+        <cityprice cityId="615420100">2014.57</cityprice>
+    </offer>
+    <offer sku="10825140">
+      <model>Герметик Tytan силиконовый, санитарный прозрачный, 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2212.18</price>
+        <cityprice cityId="615420100">2212.18</cityprice>
+    </offer>
+    <offer sku="4928256">
+      <model>Герметик ЗУБР Эксперт акриловый 280 мл.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1365.44</price>
+        <cityprice cityId="615420100">1365.44</cityprice>
+    </offer>
+    <offer sku="10777465">
+      <model>Силиконовый герметик Mapei Mapesil AC № 138 &quot;Миндаль&quot;, 310 мл</model>
+      <brand>Mapei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3111.27</price>
+        <cityprice cityId="615420100">3111.27</cityprice>
+    </offer>
+    <offer sku="4905675">
+      <model>Герметик Penosil Universal Silicone универсальный прозрачный, 310 мл</model>
+      <brand>Penosil</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1747.81</price>
+        <cityprice cityId="615420100">1747.81</cityprice>
+    </offer>
+    <offer sku="10830552">
+      <model>Герметик акриловый Tytan малярный, белый, 310 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1904.9</price>
+        <cityprice cityId="615420100">1904.9</cityprice>
+    </offer>
+    <offer sku="4993793">
+      <model>Клей-герметик IRFix Клей для наружной теплоизоляции 750 мл.</model>
+      <brand>IRFix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7573.17</price>
+        <cityprice cityId="615420100">7573.17</cityprice>
+    </offer>
+    <offer sku="4931126">
+      <model>Клей-герметик Aqualink разборный 50 мл.</model>
+      <brand>Aqualink</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9335.8</price>
+        <cityprice cityId="615420100">9335.8</cityprice>
+    </offer>
+    <offer sku="4905800">
+      <model>Герметик Момент Гермент Санитарный прозрачный, 85 мл</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4817.59</price>
+        <cityprice cityId="615420100">4817.59</cityprice>
+    </offer>
+    <offer sku="4928284">
+      <model>Герметик Момент Гермент Высокотемпературный 300 мл.</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2963.07</price>
+        <cityprice cityId="615420100">2963.07</cityprice>
+    </offer>
+    <offer sku="4993796">
+      <model>Клей-герметик U-Seal U-SEAL 501 для автостекол 310 мл.</model>
+      <brand>U-Seal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11856.24</price>
+        <cityprice cityId="615420100">11856.24</cityprice>
+    </offer>
+    <offer sku="4906191">
+      <model>Герметик Penosil All Weather Sealant всесезонный для кровли прозрачный, 310 мл.</model>
+      <brand>Penosil</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1747.81</price>
+        <cityprice cityId="615420100">1747.81</cityprice>
+    </offer>
+    <offer sku="4905941">
+      <model>Герметик Ultima универсальный белый, 280 мл</model>
+      <brand>Ultima</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3356.3</price>
+        <cityprice cityId="615420100">3356.3</cityprice>
+    </offer>
+    <offer sku="4993721">
+      <model>Клей-герметик Aqualink высокопрочный 30 мл.</model>
+      <brand>Aqualink</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8742.99</price>
+        <cityprice cityId="615420100">8742.99</cityprice>
+    </offer>
+    <offer sku="4931602">
+      <model>Герметик KUDO KSK универсальный 280 мл.</model>
+      <brand>KUDO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2858.34</price>
+        <cityprice cityId="615420100">2858.34</cityprice>
+    </offer>
+    <offer sku="5021935">
+      <model>Герметик Profilux Универсальный 260 мл.</model>
+      <brand>Profilux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3355.32</price>
+        <cityprice cityId="615420100">3355.32</cityprice>
+    </offer>
+    <offer sku="12198465">
+      <model>Стирально-отжимная машина Unimac UC30, М9, эл.обогрев, 100G</model>
+      <brand>Unimac</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4344055.69</price>
+        <cityprice cityId="615420100">4344055.69</cityprice>
+    </offer>
+    <offer sku="520342">
+      <model>Электрогенератор Huter DY4000L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94539.68</price>
+        <cityprice cityId="615420100">94539.68</cityprice>
+    </offer>
+    <offer sku="1625799">
+      <model>Электрогенератор Huter DY2500L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79337.02</price>
+        <cityprice cityId="615420100">79337.02</cityprice>
+    </offer>
+    <offer sku="1625502">
+      <model>Электрогенератор Huter DN2700i</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129203.02</price>
+        <cityprice cityId="615420100">129203.02</cityprice>
+    </offer>
+    <offer sku="1625754">
+      <model>Электрогенератор Eurolux G3600A</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78022.95</price>
+        <cityprice cityId="615420100">78022.95</cityprice>
+    </offer>
+    <offer sku="520348">
+      <model>Электрогенератор Huter DY3000L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86004.18</price>
+        <cityprice cityId="615420100">86004.18</cityprice>
+    </offer>
+    <offer sku="12340243">
+      <model>Дизельный генератор KazGenerators KG Power Ricardo KG3-100, в кожухе</model>
+      <brand>KazGenerators</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2989229.81</price>
+        <cityprice cityId="615420100">2989229.81</cityprice>
+    </offer>
+    <offer sku="12697058">
+      <model>Дизельный генератор GSCO GS55YD-S в кожухе</model>
+      <brand>GSCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3070569.54</price>
+        <cityprice cityId="615420100">3070569.54</cityprice>
+    </offer>
+    <offer sku="12711291">
+      <model>Установка алмазного бурения Hilti DD 250-CA 230V BL</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1517221.15</price>
+        <cityprice cityId="615420100">1517221.15</cityprice>
+    </offer>
+    <offer sku="12720709">
+      <model>Станина бурильной установки Hilti DD-HD 30-CA 2159830</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>667234.37</price>
+        <cityprice cityId="615420100">667234.37</cityprice>
+    </offer>
+    <offer sku="12184711">
+      <model>Парта школьная ИП Mebius двухместная, белая</model>
+      <brand>ИП MEBIUS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49201.42</price>
+        <cityprice cityId="615420100">49201.42</cityprice>
+    </offer>
+    <offer sku="1327008">
+      <model>Стул IVICITY.KZ Стул темно коричневый</model>
+      <brand>IVICITY.KZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15808.32</price>
+        <cityprice cityId="615420100">15808.32</cityprice>
+    </offer>
+    <offer sku="12340244">
+      <model>Дизельный генератор KazGenerators KG Power Ricardo Lambert KG3-200, в кожухе</model>
+      <brand>KazGenerators</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6845803.84</price>
+        <cityprice cityId="615420100">6845803.84</cityprice>
+    </offer>
+    <offer sku="12261043">
+      <model>Набор кистей Stroxx 00000004252 7 шт</model>
+      <brand>Stroxx</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1659.87</price>
+        <cityprice cityId="615420100">1659.87</cityprice>
+    </offer>
+    <offer sku="1625413">
+      <model>Электрогенератор РЕСАНТА БГ 6500 Р</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>170942.28</price>
+        <cityprice cityId="615420100">170942.28</cityprice>
+    </offer>
+    <offer sku="6141401">
+      <model>Генератор бензиновый Tarlan T-11000EA Uni Power</model>
+      <brand>Tarlan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>276950.01</price>
+        <cityprice cityId="615420100">276950.01</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
