@@ -77349,5 +77349,3083 @@
       <price>1775205.17</price>
         <cityprice cityId="615420100">1775205.17</cityprice>
     </offer>
+    <offer sku="243854">
+      <model>Перфоратор Alteco RH 850-26</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24982.09</price>
+        <cityprice cityId="615420100">24982.09</cityprice>
+    </offer>
+    <offer sku="8554">
+      <model>Перфоратор Bosch GBH 2-26 DRE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64221.3</price>
+        <cityprice cityId="615420100">64221.3</cityprice>
+    </offer>
+    <offer sku="7144159">
+      <model>Перфоратор Makita HR5202C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375447.6</price>
+        <cityprice cityId="615420100">375447.6</cityprice>
+    </offer>
+    <offer sku="3926947">
+      <model>Перфоратор Makita HR2800</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116197.13</price>
+        <cityprice cityId="615420100">116197.13</cityprice>
+    </offer>
+    <offer sku="7145966">
+      <model>Перфоратор Вихрь П-650К</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15827.09</price>
+        <cityprice cityId="615420100">15827.09</cityprice>
+    </offer>
+    <offer sku="7146300">
+      <model>Перфоратор Bosch GBH 180-LI 0611911121</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124946.99</price>
+        <cityprice cityId="615420100">124946.99</cityprice>
+    </offer>
+    <offer sku="7143801">
+      <model>Перфоратор Bosch GBH 2-28</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41080.88</price>
+        <cityprice cityId="615420100">41080.88</cityprice>
+    </offer>
+    <offer sku="906932">
+      <model>Перфоратор Alteco RH 1400-50 34267</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76460.89</price>
+        <cityprice cityId="615420100">76460.89</cityprice>
+    </offer>
+    <offer sku="7144713">
+      <model>Перфоратор Bosch GBH 8-45 D</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143980.21</price>
+        <cityprice cityId="615420100">143980.21</cityprice>
+    </offer>
+    <offer sku="10769533">
+      <model>Перфоратор Bosch GBH 18V-36 C</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>269512.1</price>
+        <cityprice cityId="615420100">269512.1</cityprice>
+    </offer>
+    <offer sku="91113">
+      <model>Перфоратор Bosch PBH 2100 RE 06033A9302</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45439.04</price>
+        <cityprice cityId="615420100">45439.04</cityprice>
+    </offer>
+    <offer sku="615110">
+      <model>Перфоратор Alteco RH 0216 SDS-Plus Promo</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18771.39</price>
+        <cityprice cityId="615420100">18771.39</cityprice>
+    </offer>
+    <offer sku="91655">
+      <model>Перфоратор Bosch PBH 2100 RE Compact 06033A9320</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42965.04</price>
+        <cityprice cityId="615420100">42965.04</cityprice>
+    </offer>
+    <offer sku="607525">
+      <model>Перфоратор Alteco RH 0215 SDS-Plus Promo</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26648.88</price>
+        <cityprice cityId="615420100">26648.88</cityprice>
+    </offer>
+    <offer sku="627499">
+      <model>Перфоратор Alteco CRH 18-20 Li</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68716.79</price>
+        <cityprice cityId="615420100">68716.79</cityprice>
+    </offer>
+    <offer sku="7143843">
+      <model>Перфоратор Bosch GBH 180-LI 0611911122</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91091.49</price>
+        <cityprice cityId="615420100">91091.49</cityprice>
+    </offer>
+    <offer sku="7144328">
+      <model>Перфоратор Bosch GBH 36 VF-LI Plus 0611906002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>577991.7</price>
+        <cityprice cityId="615420100">577991.7</cityprice>
+    </offer>
+    <offer sku="7145346">
+      <model>Перфоратор Вихрь П-1200К-М</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39763.39</price>
+        <cityprice cityId="615420100">39763.39</cityprice>
+    </offer>
+    <offer sku="4017217">
+      <model>Перфоратор Bosch GBH 12-52 D</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>251242.62</price>
+        <cityprice cityId="615420100">251242.62</cityprice>
+    </offer>
+    <offer sku="4016660">
+      <model>Перфоратор Bosch GBH 3-28 DRE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75081.62</price>
+        <cityprice cityId="615420100">75081.62</cityprice>
+    </offer>
+    <offer sku="7144599">
+      <model>Перфоратор Bosch GBH 3-28 DFR</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108682.2</price>
+        <cityprice cityId="615420100">108682.2</cityprice>
+    </offer>
+    <offer sku="883207">
+      <model>Перфоратор Alteco RH 650-24</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21233.54</price>
+        <cityprice cityId="615420100">21233.54</cityprice>
+    </offer>
+    <offer sku="915192">
+      <model>Перфоратор Bosch GBH 240 F</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59281.2</price>
+        <cityprice cityId="615420100">59281.2</cityprice>
+    </offer>
+    <offer sku="4434467">
+      <model>Перфоратор Энкор ПЭ-1050/30ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53353.08</price>
+        <cityprice cityId="615420100">53353.08</cityprice>
+    </offer>
+    <offer sku="7146314">
+      <model>Перфоратор Интерскол П-26/800ЭР</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47721.37</price>
+        <cityprice cityId="615420100">47721.37</cityprice>
+    </offer>
+    <offer sku="10687596">
+      <model>Перфоратор Парма П-01-26/900ЭР</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19774.23</price>
+        <cityprice cityId="615420100">19774.23</cityprice>
+    </offer>
+    <offer sku="4432593">
+      <model>Перфоратор Энкор ПЭ-870/26ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35548.96</price>
+        <cityprice cityId="615420100">35548.96</cityprice>
+    </offer>
+    <offer sku="11138534">
+      <model>Перфоратор Felisatti П-28/850ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44543.89</price>
+        <cityprice cityId="615420100">44543.89</cityprice>
+    </offer>
+    <offer sku="7146209">
+      <model>Перфоратор Энкор ПЭ-750/24ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32308.25</price>
+        <cityprice cityId="615420100">32308.25</cityprice>
+    </offer>
+    <offer sku="7383965">
+      <model>Перфоратор Интерскол П-24/650ЭР</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41002.83</price>
+        <cityprice cityId="615420100">41002.83</cityprice>
+    </offer>
+    <offer sku="7385672">
+      <model>Перфоратор Интерскол П-24/700ЭР-2</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98703.2</price>
+        <cityprice cityId="615420100">98703.2</cityprice>
+    </offer>
+    <offer sku="4432596">
+      <model>Перфоратор ПЭ-850/28ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="10687867">
+      <model>Перфоратор Парма П-02-28/950ЭР</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22903.29</price>
+        <cityprice cityId="615420100">22903.29</cityprice>
+    </offer>
+    <offer sku="7146309">
+      <model>Перфоратор Интерскол П-18/450ЭР</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31616.64</price>
+        <cityprice cityId="615420100">31616.64</cityprice>
+    </offer>
+    <offer sku="10687870">
+      <model>Перфоратор Парма П-02-30/1000ЭР</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40398.16</price>
+        <cityprice cityId="615420100">40398.16</cityprice>
+    </offer>
+    <offer sku="7144105">
+      <model>Перфоратор Энкор AccuMaster АКМ1816</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28738.72</price>
+        <cityprice cityId="615420100">28738.72</cityprice>
+    </offer>
+    <offer sku="4438073">
+      <model>Перфоратор Энкор VRH-24/650E</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26564.89</price>
+        <cityprice cityId="615420100">26564.89</cityprice>
+    </offer>
+    <offer sku="4440389">
+      <model>Перфоратор Энкор VRH-26/790E</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29526.98</price>
+        <cityprice cityId="615420100">29526.98</cityprice>
+    </offer>
+    <offer sku="4434159">
+      <model>Перфоратор Энкор ПЭ-1600/50Э</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165987.36</price>
+        <cityprice cityId="615420100">165987.36</cityprice>
+    </offer>
+    <offer sku="4434451">
+      <model>Перфоратор Энкор ПЭ-1600/40Э</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193651.92</price>
+        <cityprice cityId="615420100">193651.92</cityprice>
+    </offer>
+    <offer sku="9231604">
+      <model>Перфоратор электрический Nexttool 400055 PF-900/30</model>
+      <brand>NEXTTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44453.98</price>
+        <cityprice cityId="615420100">44453.98</cityprice>
+    </offer>
+    <offer sku="10725221">
+      <model>Перфоратор электрический Denzel RHV-1250-30, 26612</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42029.38</price>
+        <cityprice cityId="615420100">42029.38</cityprice>
+    </offer>
+    <offer sku="9244042">
+      <model>Перфоратор электрический Nexttool 400059 PF-1200/32</model>
+      <brand>NEXTTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130227.95</price>
+        <cityprice cityId="615420100">130227.95</cityprice>
+    </offer>
+    <offer sku="9231492">
+      <model>Перфоратор электрический Nexttool 400056 PF-1000/30</model>
+      <brand>NEXTTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3469379.86</price>
+        <cityprice cityId="615420100">3469379.86</cityprice>
+    </offer>
+    <offer sku="9245153">
+      <model>Перфоратор электрический Nexttool 400060 PF-1600/32</model>
+      <brand>NEXTTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197382.68</price>
+        <cityprice cityId="615420100">197382.68</cityprice>
+    </offer>
+    <offer sku="7145927">
+      <model>Перфоратор Зубр ЗПМ-40-1100ЭК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118562.4</price>
+        <cityprice cityId="615420100">118562.4</cityprice>
+    </offer>
+    <offer sku="7146205">
+      <model>Перфоратор Зубр ЗПМ-52-1500 ЭК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125467.67</price>
+        <cityprice cityId="615420100">125467.67</cityprice>
+    </offer>
+    <offer sku="7143658">
+      <model>Перфоратор Зубр ЗП-26-750 ЭК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27663.57</price>
+        <cityprice cityId="615420100">27663.57</cityprice>
+    </offer>
+    <offer sku="7143949">
+      <model>Перфоратор Зубр ЗПМ-38-1100ЭК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>186625.12</price>
+        <cityprice cityId="615420100">186625.12</cityprice>
+    </offer>
+    <offer sku="7143904">
+      <model>Перфоратор Зубр ЗП-805ЭК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55644.93</price>
+        <cityprice cityId="615420100">55644.93</cityprice>
+    </offer>
+    <offer sku="7146291">
+      <model>Перфоратор Зубр ЗПВ-32-1250 ЭВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>243930.28</price>
+        <cityprice cityId="615420100">243930.28</cityprice>
+    </offer>
+    <offer sku="7143794">
+      <model>Перфоратор Зубр ЗПМ-40-1250 ЭВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69161.4</price>
+        <cityprice cityId="615420100">69161.4</cityprice>
+    </offer>
+    <offer sku="7386835">
+      <model>Перфоратор Интерскол П-40/1100ЭВ</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197604</price>
+        <cityprice cityId="615420100">197604</cityprice>
+    </offer>
+    <offer sku="7146316">
+      <model>Перфоратор Интерскол П-26/750ЭВ</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46436.94</price>
+        <cityprice cityId="615420100">46436.94</cityprice>
+    </offer>
+    <offer sku="7384020">
+      <model>Перфоратор Интерскол П-28/800ЭВ</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57303.18</price>
+        <cityprice cityId="615420100">57303.18</cityprice>
+    </offer>
+    <offer sku="7143987">
+      <model>Перфоратор Фиолент П7-1500Э</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72558.21</price>
+        <cityprice cityId="615420100">72558.21</cityprice>
+    </offer>
+    <offer sku="7146310">
+      <model>Перфоратор Интерскол П-32/1000Э</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75077.66</price>
+        <cityprice cityId="615420100">75077.66</cityprice>
+    </offer>
+    <offer sku="7144537">
+      <model>Перфоратор Фиолент П6-1200Э</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69359</price>
+        <cityprice cityId="615420100">69359</cityprice>
+    </offer>
+    <offer sku="7146176">
+      <model>Перфоратор Фиолент П9-850РЭ Blue</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39598.85</price>
+        <cityprice cityId="615420100">39598.85</cityprice>
+    </offer>
+    <offer sku="12357077">
+      <model>Перфоратор ТЭМП ПГ-900</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48650.1</price>
+        <cityprice cityId="615420100">48650.1</cityprice>
+    </offer>
+    <offer sku="7145804">
+      <model>Перфоратор ТЭМП ПГ-700</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23827.09</price>
+        <cityprice cityId="615420100">23827.09</cityprice>
+    </offer>
+    <offer sku="7144358">
+      <model>Перфоратор ТЭМП ПВ-1500</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40508.82</price>
+        <cityprice cityId="615420100">40508.82</cityprice>
+    </offer>
+    <offer sku="7144103">
+      <model>Перфоратор ТЭМП ПГ-800</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25142.14</price>
+        <cityprice cityId="615420100">25142.14</cityprice>
+    </offer>
+    <offer sku="11138496">
+      <model>Перфоратор ТСН ZZ6605</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49190.55</price>
+        <cityprice cityId="615420100">49190.55</cityprice>
+    </offer>
+    <offer sku="11138502">
+      <model>Перфоратор ТСН ZZ6615</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42484.86</price>
+        <cityprice cityId="615420100">42484.86</cityprice>
+    </offer>
+    <offer sku="7492156">
+      <model>Перфоратор Тен Rotary Hammer TH2607 SDS PLUS</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31978.26</price>
+        <cityprice cityId="615420100">31978.26</cityprice>
+    </offer>
+    <offer sku="7489507">
+      <model>Перфоратор Тен Rotary Hammer TH2610 SDS PLUS</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44361.11</price>
+        <cityprice cityId="615420100">44361.11</cityprice>
+    </offer>
+    <offer sku="7491486">
+      <model>Перфоратор Тен Rotary Hammer TH2608 SDS Plus 800W</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29135.72</price>
+        <cityprice cityId="615420100">29135.72</cityprice>
+    </offer>
+    <offer sku="7488024">
+      <model>Перфоратор Тен Rotary Hammer TH3215 SDS Plus</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52363.08</price>
+        <cityprice cityId="615420100">52363.08</cityprice>
+    </offer>
+    <offer sku="7488716">
+      <model>Перфоратор Тен Rotary Hammer TH4016 SDS MAX</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60218.83</price>
+        <cityprice cityId="615420100">60218.83</cityprice>
+    </offer>
+    <offer sku="7144204">
+      <model>Перфоратор Ставр ПЭГ-1000</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37975.54</price>
+        <cityprice cityId="615420100">37975.54</cityprice>
+    </offer>
+    <offer sku="7145264">
+      <model>Перфоратор Ставр ПЭГ-680М</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36556.74</price>
+        <cityprice cityId="615420100">36556.74</cityprice>
+    </offer>
+    <offer sku="7146247">
+      <model>Перфоратор Ставр ПЭВ-1700</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58293.18</price>
+        <cityprice cityId="615420100">58293.18</cityprice>
+    </offer>
+    <offer sku="7145839">
+      <model>Перфоратор Ставр ПЭГ-800М</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23339.01</price>
+        <cityprice cityId="615420100">23339.01</cityprice>
+    </offer>
+    <offer sku="7145815">
+      <model>Перфоратор Ставр ПЭВ-1050</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52456.95</price>
+        <cityprice cityId="615420100">52456.95</cityprice>
+    </offer>
+    <offer sku="91625">
+      <model>Перфоратор Crown СТ18114 BMC</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42978.87</price>
+        <cityprice cityId="615420100">42978.87</cityprice>
+    </offer>
+    <offer sku="7146233">
+      <model>Перфоратор СПЕЦ БПЭ-850К</model>
+      <brand>СПЕЦ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47424.96</price>
+        <cityprice cityId="615420100">47424.96</cityprice>
+    </offer>
+    <offer sku="12166677">
+      <model>Перфоратор Ресанта П-32-1400КВ 75/3/6</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42110.4</price>
+        <cityprice cityId="615420100">42110.4</cityprice>
+    </offer>
+    <offer sku="281424">
+      <model>Перфоратор Ресанта П-28-800К</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29316.85</price>
+        <cityprice cityId="615420100">29316.85</cityprice>
+    </offer>
+    <offer sku="7143983">
+      <model>Перфоратор Ресанта П-32-1000К</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30617.75</price>
+        <cityprice cityId="615420100">30617.75</cityprice>
+    </offer>
+    <offer sku="7146223">
+      <model>Перфоратор Ресанта П-30-900К</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27663.57</price>
+        <cityprice cityId="615420100">27663.57</cityprice>
+    </offer>
+    <offer sku="7143803">
+      <model>Перфоратор Ресанта П-24-650К</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18061.01</price>
+        <cityprice cityId="615420100">18061.01</cityprice>
+    </offer>
+    <offer sku="91118">
+      <model>Перфоратор Ресанта П-32-1000К</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27762.37</price>
+        <cityprice cityId="615420100">27762.37</cityprice>
+    </offer>
+    <offer sku="12166679">
+      <model>Перфоратор Победа П-26/1080 140301080</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45446.94</price>
+        <cityprice cityId="615420100">45446.94</cityprice>
+    </offer>
+    <offer sku="7146216">
+      <model>Перфоратор Metabo KHA 18 LTX BL 24 Quick 600211840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217364.4</price>
+        <cityprice cityId="615420100">217364.4</cityprice>
+    </offer>
+    <offer sku="7383374">
+      <model>Перфоратор Bort BHD-18LI-BLZ 93410129</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>186735.78</price>
+        <cityprice cityId="615420100">186735.78</cityprice>
+    </offer>
+    <offer sku="7145693">
+      <model>Перфоратор Milwaukee PLH 26 E</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>240088.86</price>
+        <cityprice cityId="615420100">240088.86</cityprice>
+    </offer>
+    <offer sku="7386117">
+      <model>Перфоратор Makita DHR264Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193660.81</price>
+        <cityprice cityId="615420100">193660.81</cityprice>
+    </offer>
+    <offer sku="10723040">
+      <model>Перфоратор Brait BRH26DFR</model>
+      <brand>Brait</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39520.8</price>
+        <cityprice cityId="615420100">39520.8</cityprice>
+    </offer>
+    <offer sku="12166684">
+      <model>Перфоратор Ferm HDM1028</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45350.12</price>
+        <cityprice cityId="615420100">45350.12</cityprice>
+    </offer>
+    <offer sku="7146228">
+      <model>Перфоратор Bosch GBH 18 V-LI 0611904302</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182783.7</price>
+        <cityprice cityId="615420100">182783.7</cityprice>
+    </offer>
+    <offer sku="7146243">
+      <model>Перфоратор Deshi Z1C-DS-16B</model>
+      <brand>Deshi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38137.57</price>
+        <cityprice cityId="615420100">38137.57</cityprice>
+    </offer>
+    <offer sku="7145896">
+      <model>Перфоратор DeWALT DCH733N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>589838.06</price>
+        <cityprice cityId="615420100">589838.06</cityprice>
+    </offer>
+    <offer sku="7146157">
+      <model>Перфоратор Einhell BT-RH 1600</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>216376.38</price>
+        <cityprice cityId="615420100">216376.38</cityprice>
+    </offer>
+    <offer sku="7144081">
+      <model>Перфоратор Makita DHR243Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>243056.87</price>
+        <cityprice cityId="615420100">243056.87</cityprice>
+    </offer>
+    <offer sku="83383">
+      <model>Перфоратор Rodex RDX 226</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22635.54</price>
+        <cityprice cityId="615420100">22635.54</cityprice>
+    </offer>
+    <offer sku="10769537">
+      <model>Перфоратор Bosch GBH 18V-45 C</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>543411</price>
+        <cityprice cityId="615420100">543411</cityprice>
+    </offer>
+    <offer sku="7144213">
+      <model>Перфоратор Зубр ЗП-26-800 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33582.8</price>
+        <cityprice cityId="615420100">33582.8</cityprice>
+    </offer>
+    <offer sku="7144474">
+      <model>Перфоратор DWT SBH-900 DS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67185.36</price>
+        <cityprice cityId="615420100">67185.36</cityprice>
+    </offer>
+    <offer sku="7144349">
+      <model>Перфоратор Ingco RH16008</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55724.33</price>
+        <cityprice cityId="615420100">55724.33</cityprice>
+    </offer>
+    <offer sku="7383815">
+      <model>Перфоратор DeWALT DCH273P2-QW</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>218352.42</price>
+        <cityprice cityId="615420100">218352.42</cityprice>
+    </offer>
+    <offer sku="7144286">
+      <model>Перфоратор Wortex CRH 1820</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67687.27</price>
+        <cityprice cityId="615420100">67687.27</cityprice>
+    </offer>
+    <offer sku="7143925">
+      <model>Перфоратор Зубр ЗП-30-900 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33660.85</price>
+        <cityprice cityId="615420100">33660.85</cityprice>
+    </offer>
+    <offer sku="11138580">
+      <model>Перфоратор Tен TH2609</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39997.03</price>
+        <cityprice cityId="615420100">39997.03</cityprice>
+    </offer>
+    <offer sku="7146277">
+      <model>Перфоратор P.I.T. 22640-Li</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34006.66</price>
+        <cityprice cityId="615420100">34006.66</cityprice>
+    </offer>
+    <offer sku="7146293">
+      <model>Перфоратор P.I.T. 23201 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5056.69</price>
+        <cityprice cityId="615420100">5056.69</cityprice>
+    </offer>
+    <offer sku="91239">
+      <model>Перфоратор DWT BH11-28 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30628.62</price>
+        <cityprice cityId="615420100">30628.62</cityprice>
+    </offer>
+    <offer sku="7145677">
+      <model>Перфоратор DeWALT D25134K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56317.14</price>
+        <cityprice cityId="615420100">56317.14</cityprice>
+    </offer>
+    <offer sku="91242">
+      <model>Перфоратор Зубр П-26-800</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23712.48</price>
+        <cityprice cityId="615420100">23712.48</cityprice>
+    </offer>
+    <offer sku="7145768">
+      <model>Перфоратор Bosch GBH 2-23 REA</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103148.3</price>
+        <cityprice cityId="615420100">103148.3</cityprice>
+    </offer>
+    <offer sku="7146237">
+      <model>Перфоратор DeWALT D25614K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>333950.76</price>
+        <cityprice cityId="615420100">333950.76</cityprice>
+    </offer>
+    <offer sku="7387897">
+      <model>Перфоратор Bort BHD-800N</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193651.92</price>
+        <cityprice cityId="615420100">193651.92</cityprice>
+    </offer>
+    <offer sku="3926875">
+      <model>Перфоратор Makita HR2460</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69160.41</price>
+        <cityprice cityId="615420100">69160.41</cityprice>
+    </offer>
+    <offer sku="7144594">
+      <model>Перфоратор Makita HR4011C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247993.02</price>
+        <cityprice cityId="615420100">247993.02</cityprice>
+    </offer>
+    <offer sku="7144918">
+      <model>Перфоратор Hitachi DH28PCY</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63057.41</price>
+        <cityprice cityId="615420100">63057.41</cityprice>
+    </offer>
+    <offer sku="7144045">
+      <model>Перфоратор Makita HR5211C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>216178.78</price>
+        <cityprice cityId="615420100">216178.78</cityprice>
+    </offer>
+    <offer sku="10760433">
+      <model>Перфоратор Denzel RH-750-24 26605</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32166.23</price>
+        <cityprice cityId="615420100">32166.23</cityprice>
+    </offer>
+    <offer sku="350729">
+      <model>Перфоратор Alteco RH 1300-30</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32433.73</price>
+        <cityprice cityId="615420100">32433.73</cityprice>
+    </offer>
+    <offer sku="7145760">
+      <model>Перфоратор Milwaukee M18 CHM-902C</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>464586.76</price>
+        <cityprice cityId="615420100">464586.76</cityprice>
+    </offer>
+    <offer sku="7387135">
+      <model>Перфоратор BOSCH GBH 18 V-LI Compact 0 0611905300</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116586.36</price>
+        <cityprice cityId="615420100">116586.36</cityprice>
+    </offer>
+    <offer sku="12357090">
+      <model>Перфоратор DeWalt DCH133M1 18787649</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198098.01</price>
+        <cityprice cityId="615420100">198098.01</cityprice>
+    </offer>
+    <offer sku="7144716">
+      <model>Перфоратор Hilti TE 3-C</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134370.72</price>
+        <cityprice cityId="615420100">134370.72</cityprice>
+    </offer>
+    <offer sku="7145090">
+      <model>Перфоратор DWT BH11-30 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58293.18</price>
+        <cityprice cityId="615420100">58293.18</cityprice>
+    </offer>
+    <offer sku="7145870">
+      <model>Перфоратор Hitachi DH40MRYNA</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177843.6</price>
+        <cityprice cityId="615420100">177843.6</cityprice>
+    </offer>
+    <offer sku="7146232">
+      <model>Перфоратор Metabo KHE 2444</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39501.04</price>
+        <cityprice cityId="615420100">39501.04</cityprice>
+    </offer>
+    <offer sku="7146295">
+      <model>Перфоратор PATRIOT RH 160</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79858.35</price>
+        <cityprice cityId="615420100">79858.35</cityprice>
+    </offer>
+    <offer sku="7146308">
+      <model>Перфоратор Bort BHD-920X</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86945.76</price>
+        <cityprice cityId="615420100">86945.76</cityprice>
+    </offer>
+    <offer sku="7383453">
+      <model>Перфоратор Makita HR1840</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44065.69</price>
+        <cityprice cityId="615420100">44065.69</cityprice>
+    </offer>
+    <offer sku="7387571">
+      <model>Перфоратор Bosch GBH 180-LI 1 0615990L6J</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117574.38</price>
+        <cityprice cityId="615420100">117574.38</cityprice>
+    </offer>
+    <offer sku="12166844">
+      <model>Аккумуляторный перфоратор Bosch GBH 18V-26 Professional 0611909000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>765921.01</price>
+        <cityprice cityId="615420100">765921.01</cityprice>
+    </offer>
+    <offer sku="7144426">
+      <model>Перфоратор Metabo KHA 18 LTX BL 24 Quick Set ISA 5.5+4 Ач</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>829936.8</price>
+        <cityprice cityId="615420100">829936.8</cityprice>
+    </offer>
+    <offer sku="7146240">
+      <model>Перфоратор Milwaukee M18 CH-0X</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197537.8</price>
+        <cityprice cityId="615420100">197537.8</cityprice>
+    </offer>
+    <offer sku="7146307">
+      <model>Перфоратор Интерскол ПА-24/18В 5792270</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197493.34</price>
+        <cityprice cityId="615420100">197493.34</cityprice>
+    </offer>
+    <offer sku="12166589">
+      <model>Аккумуляторный перфоратор Bosch Professional GBH 18V-26 F 0611910000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1312764.39</price>
+        <cityprice cityId="615420100">1312764.39</cityprice>
+    </offer>
+    <offer sku="7145981">
+      <model>Перфоратор DWT BH-850 VS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108682.2</price>
+        <cityprice cityId="615420100">108682.2</cityprice>
+    </offer>
+    <offer sku="7146010">
+      <model>Перфоратор DWT SBH-500 DS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171915.48</price>
+        <cityprice cityId="615420100">171915.48</cityprice>
+    </offer>
+    <offer sku="7146222">
+      <model>Перфоратор Hilti TE 1 230V 362613</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217364.4</price>
+        <cityprice cityId="615420100">217364.4</cityprice>
+    </offer>
+    <offer sku="7145688">
+      <model>Перфоратор Bosch GBH 2-28 0615990L2U</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113622.3</price>
+        <cityprice cityId="615420100">113622.3</cityprice>
+    </offer>
+    <offer sku="3917767">
+      <model>Перфоратор аккумуляторный Makita HR140DZ</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69336.28</price>
+        <cityprice cityId="615420100">69336.28</cityprice>
+    </offer>
+    <offer sku="91680">
+      <model>Перфоратор Bosch CBH 240 F 0615990L2S</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108681.21</price>
+        <cityprice cityId="615420100">108681.21</cityprice>
+    </offer>
+    <offer sku="7144163">
+      <model>Перфоратор Makita BHR200SJ</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129430.62</price>
+        <cityprice cityId="615420100">129430.62</cityprice>
+    </offer>
+    <offer sku="91693">
+      <model>Перфоратор DeWalt D25143К-CCRU</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246014.02</price>
+        <cityprice cityId="615420100">246014.02</cityprice>
+    </offer>
+    <offer sku="7146245">
+      <model>Перфоратор Ingco CRHLI1601</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137334.78</price>
+        <cityprice cityId="615420100">137334.78</cityprice>
+    </offer>
+    <offer sku="7145942">
+      <model>Перфоратор Makita HR3530</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236037.98</price>
+        <cityprice cityId="615420100">236037.98</cityprice>
+    </offer>
+    <offer sku="10884349">
+      <model>Перфоратор Ingco Industrial RH18008</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58283.3</price>
+        <cityprice cityId="615420100">58283.3</cityprice>
+    </offer>
+    <offer sku="7144209">
+      <model>Перфоратор DWT BH11-30 V BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86945.76</price>
+        <cityprice cityId="615420100">86945.76</cityprice>
+    </offer>
+    <offer sku="7146301">
+      <model>Перфоратор Bort BHD-800N-K</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68173.38</price>
+        <cityprice cityId="615420100">68173.38</cityprice>
+    </offer>
+    <offer sku="1027953">
+      <model>Перфоратор P.I.T. 22802 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29327.4</price>
+        <cityprice cityId="615420100">29327.4</cityprice>
+    </offer>
+    <offer sku="7144953">
+      <model>Перфоратор Hilti TE 70-ATC/AVR 2063021</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>986834.38</price>
+        <cityprice cityId="615420100">986834.38</cityprice>
+    </offer>
+    <offer sku="7145835">
+      <model>Перфоратор DWT SBH 07-22 T BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71137.44</price>
+        <cityprice cityId="615420100">71137.44</cityprice>
+    </offer>
+    <offer sku="7145923">
+      <model>Перфоратор Black&amp;Decker BDHR26KR-RU</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66790.15</price>
+        <cityprice cityId="615420100">66790.15</cityprice>
+    </offer>
+    <offer sku="7145945">
+      <model>Перфоратор Bosch GBH 2-24 DRE Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77065.56</price>
+        <cityprice cityId="615420100">77065.56</cityprice>
+    </offer>
+    <offer sku="91295">
+      <model>Перфоратор DeWalt D25134K LAKA</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83981.7</price>
+        <cityprice cityId="615420100">83981.7</cityprice>
+    </offer>
+    <offer sku="7143791">
+      <model>Перфоратор DeWALT D25133K LAKA</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79458.54</price>
+        <cityprice cityId="615420100">79458.54</cityprice>
+    </offer>
+    <offer sku="7144063">
+      <model>Перфоратор Kolner KRH 900C 4.5 Дж</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41496.84</price>
+        <cityprice cityId="615420100">41496.84</cityprice>
+    </offer>
+    <offer sku="7146181">
+      <model>Перфоратор Einhell TC-RH 900</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46496.22</price>
+        <cityprice cityId="615420100">46496.22</cityprice>
+    </offer>
+    <offer sku="7145818">
+      <model>Перфоратор Kolner KRH 820H</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28556.74</price>
+        <cityprice cityId="615420100">28556.74</cityprice>
+    </offer>
+    <offer sku="7146246">
+      <model>Перфоратор Wortex RH 3239</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54341.1</price>
+        <cityprice cityId="615420100">54341.1</cityprice>
+    </offer>
+    <offer sku="7144382">
+      <model>Перфоратор Einhell RT-RH 32</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53353.08</price>
+        <cityprice cityId="615420100">53353.08</cityprice>
+    </offer>
+    <offer sku="7145924">
+      <model>Перфоратор Ingco INDUSTRIAL RH150028</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61257.24</price>
+        <cityprice cityId="615420100">61257.24</cityprice>
+    </offer>
+    <offer sku="7143527">
+      <model>Перфоратор Crown CT18101 BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30142.54</price>
+        <cityprice cityId="615420100">30142.54</cityprice>
+    </offer>
+    <offer sku="7144363">
+      <model>Перфоратор Einhell BT-RH 1500</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52365.06</price>
+        <cityprice cityId="615420100">52365.06</cityprice>
+    </offer>
+    <offer sku="7144670">
+      <model>Перфоратор Hilti TE 2-M</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>206496.18</price>
+        <cityprice cityId="615420100">206496.18</cityprice>
+    </offer>
+    <offer sku="11939843">
+      <model>Перфоратор Bosch Uneo 12 0603984027</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>206496.18</price>
+        <cityprice cityId="615420100">206496.18</cityprice>
+    </offer>
+    <offer sku="12166696">
+      <model>Перфоратор Felisatti П-32/1200 432.5.0.00</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61253.29</price>
+        <cityprice cityId="615420100">61253.29</cityprice>
+    </offer>
+    <offer sku="91205">
+      <model>Перфоратор Edon RH-26/1150</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59281.2</price>
+        <cityprice cityId="615420100">59281.2</cityprice>
+    </offer>
+    <offer sku="91290">
+      <model>Перфоратор P.I.T. 22601A</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32599.72</price>
+        <cityprice cityId="615420100">32599.72</cityprice>
+    </offer>
+    <offer sku="7144799">
+      <model>Перфоратор DWT SBH-600 T</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78448.79</price>
+        <cityprice cityId="615420100">78448.79</cityprice>
+    </offer>
+    <offer sku="10723047">
+      <model>Перфоратор Denzel RH-650-18 26603</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29365.93</price>
+        <cityprice cityId="615420100">29365.93</cityprice>
+    </offer>
+    <offer sku="7146283">
+      <model>Перфоратор Ryobi RSDS680-K</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43966.89</price>
+        <cityprice cityId="615420100">43966.89</cityprice>
+    </offer>
+    <offer sku="91668">
+      <model>Перфоратор Bosch GBH 2-28 F</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98801.01</price>
+        <cityprice cityId="615420100">98801.01</cityprice>
+    </offer>
+    <offer sku="7144022">
+      <model>Перфоратор DeWALT D25143K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74002.7</price>
+        <cityprice cityId="615420100">74002.7</cityprice>
+    </offer>
+    <offer sku="7144881">
+      <model>Перфоратор Ryobi R18SDS-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85505.23</price>
+        <cityprice cityId="615420100">85505.23</cityprice>
+    </offer>
+    <offer sku="7145796">
+      <model>Перфоратор DeWALT DCH333NT-XJ Yellow</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>141302.67</price>
+        <cityprice cityId="615420100">141302.67</cityprice>
+    </offer>
+    <offer sku="7146213">
+      <model>Перфоратор Milwaukee M12 FUEL CH-402C 4933441475</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197365.89</price>
+        <cityprice cityId="615420100">197365.89</cityprice>
+    </offer>
+    <offer sku="7387041">
+      <model>Перфоратор DeWALT DCH481N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296406</price>
+        <cityprice cityId="615420100">296406</cityprice>
+    </offer>
+    <offer sku="7145772">
+      <model>Перфоратор Oasis PR-65</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24304.3</price>
+        <cityprice cityId="615420100">24304.3</cityprice>
+    </offer>
+    <offer sku="7145789">
+      <model>Перфоратор Hilti TE 60-ATC-AVR</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>652093.2</price>
+        <cityprice cityId="615420100">652093.2</cityprice>
+    </offer>
+    <offer sku="7143993">
+      <model>Перфоратор Bosch GBH 180-Li 0611911023</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107496.58</price>
+        <cityprice cityId="615420100">107496.58</cityprice>
+    </offer>
+    <offer sku="7145310">
+      <model>Перфоратор Hyundai HY-1100</model>
+      <brand>Hyundai </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39026.79</price>
+        <cityprice cityId="615420100">39026.79</cityprice>
+    </offer>
+    <offer sku="7383726">
+      <model>Перфоратор Bosch PBH 2100 SRE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34383.1</price>
+        <cityprice cityId="615420100">34383.1</cityprice>
+    </offer>
+    <offer sku="7145831">
+      <model>Перфоратор Black &amp; Decker KD 990 KA</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77389.3</price>
+        <cityprice cityId="615420100">77389.3</cityprice>
+    </offer>
+    <offer sku="790756">
+      <model>Перфоратор Makita HR2810</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114610.32</price>
+        <cityprice cityId="615420100">114610.32</cityprice>
+    </offer>
+    <offer sku="7144250">
+      <model>Перфоратор Metabo KHEV 8-45 BL 600766500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>452513.16</price>
+        <cityprice cityId="615420100">452513.16</cityprice>
+    </offer>
+    <offer sku="7144369">
+      <model>Перфоратор Einhell BT-RH 920 E</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>413252.21</price>
+        <cityprice cityId="615420100">413252.21</cityprice>
+    </offer>
+    <offer sku="7146226">
+      <model>Перфоратор Metabo KHA 18 LTX 600210650</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232184.7</price>
+        <cityprice cityId="615420100">232184.7</cityprice>
+    </offer>
+    <offer sku="7144377">
+      <model>Перфоратор Hilti TE 4-A22</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>306780.21</price>
+        <cityprice cityId="615420100">306780.21</cityprice>
+    </offer>
+    <offer sku="7145852">
+      <model>Перфоратор DWT BH12-40 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88031.59</price>
+        <cityprice cityId="615420100">88031.59</cityprice>
+    </offer>
+    <offer sku="7146299">
+      <model>Перфоратор Bosch Uneo Maxx 0 060395230C</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117424.2</price>
+        <cityprice cityId="615420100">117424.2</cityprice>
+    </offer>
+    <offer sku="7145904">
+      <model>Перфоратор Edon RH-28/1250</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150389.49</price>
+        <cityprice cityId="615420100">150389.49</cityprice>
+    </offer>
+    <offer sku="7145977">
+      <model>Перфоратор Makita HR3541FC</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>248981.04</price>
+        <cityprice cityId="615420100">248981.04</cityprice>
+    </offer>
+    <offer sku="7146312">
+      <model>Перфоратор Makita DHR202RFE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98802</price>
+        <cityprice cityId="615420100">98802</cityprice>
+    </offer>
+    <offer sku="7384873">
+      <model>Перфоратор Makita DHR171Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100778.04</price>
+        <cityprice cityId="615420100">100778.04</cityprice>
+    </offer>
+    <offer sku="7144065">
+      <model>Перфоратор Hitachi DH24PH</model>
+      <brand>Hitachi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>513678.51</price>
+        <cityprice cityId="615420100">513678.51</cityprice>
+    </offer>
+    <offer sku="7144826">
+      <model>Перфоратор Makita HR5201C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247005</price>
+        <cityprice cityId="615420100">247005</cityprice>
+    </offer>
+    <offer sku="7145823">
+      <model>Перфоратор Festool BHC 18 Li 5.2 I-Plus</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>511695.56</price>
+        <cityprice cityId="615420100">511695.56</cityprice>
+    </offer>
+    <offer sku="7146289">
+      <model>Перфоратор P.I.T. 24001 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1261.7</price>
+        <cityprice cityId="615420100">1261.7</cityprice>
+    </offer>
+    <offer sku="12356706">
+      <model>Перфоратор Makute HD032</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1128815.81</price>
+        <cityprice cityId="615420100">1128815.81</cityprice>
+    </offer>
+    <offer sku="83440">
+      <model>Перфоратор Rodex RDX240</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46436.94</price>
+        <cityprice cityId="615420100">46436.94</cityprice>
+    </offer>
+    <offer sku="7145759">
+      <model>Перфоратор Wortex RH 3231-1</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48403.1</price>
+        <cityprice cityId="615420100">48403.1</cityprice>
+    </offer>
+    <offer sku="7144673">
+      <model>Перфоратор Hitachi DH45MRNS</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>316166.4</price>
+        <cityprice cityId="615420100">316166.4</cityprice>
+    </offer>
+    <offer sku="7145919">
+      <model>Перфоратор DWT SBH-900 DSL</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>599485.09</price>
+        <cityprice cityId="615420100">599485.09</cityprice>
+    </offer>
+    <offer sku="12166688">
+      <model>Перфоратор Makita HR2653</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149191.02</price>
+        <cityprice cityId="615420100">149191.02</cityprice>
+    </offer>
+    <offer sku="7146238">
+      <model>Перфоратор Stanley Fatmax FMER524K</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75973.8</price>
+        <cityprice cityId="615420100">75973.8</cityprice>
+    </offer>
+    <offer sku="7386569">
+      <model>Перфоратор DeWALT D25501K-QS</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222304.5</price>
+        <cityprice cityId="615420100">222304.5</cityprice>
+    </offer>
+    <offer sku="7144859">
+      <model>Перфоратор DeWALT D25501K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>738250.52</price>
+        <cityprice cityId="615420100">738250.52</cityprice>
+    </offer>
+    <offer sku="7146196">
+      <model>Перфоратор DWT SBH-750 TS</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83981.7</price>
+        <cityprice cityId="615420100">83981.7</cityprice>
+    </offer>
+    <offer sku="7145853">
+      <model>Перфоратор DWT SBH-900 TS</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81017.64</price>
+        <cityprice cityId="615420100">81017.64</cityprice>
+    </offer>
+    <offer sku="7143986">
+      <model>Перфоратор Edon RH-24/950</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135125.57</price>
+        <cityprice cityId="615420100">135125.57</cityprice>
+    </offer>
+    <offer sku="7145918">
+      <model>Перфоратор Makita DHR282ZJU</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>370507.5</price>
+        <cityprice cityId="615420100">370507.5</cityprice>
+    </offer>
+    <offer sku="91125">
+      <model>Перфоратор DeWalt D25144K LAKA</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109670.22</price>
+        <cityprice cityId="615420100">109670.22</cityprice>
+    </offer>
+    <offer sku="7385752">
+      <model>Перфоратор Kolner KRH 520H</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28177.34</price>
+        <cityprice cityId="615420100">28177.34</cityprice>
+    </offer>
+    <offer sku="7144926">
+      <model>Перфоратор DeWALT D25733K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>433740.78</price>
+        <cityprice cityId="615420100">433740.78</cityprice>
+    </offer>
+    <offer sku="7385357">
+      <model>Перфоратор Sturm! RH25921P</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35568.72</price>
+        <cityprice cityId="615420100">35568.72</cityprice>
+    </offer>
+    <offer sku="91599">
+      <model>Перфоратор Crown CT18108 BMC</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37544.76</price>
+        <cityprice cityId="615420100">37544.76</cityprice>
+    </offer>
+    <offer sku="10687874">
+      <model>Перфоратор Байкал Е-117А, 550 Вт</model>
+      <brand>Байкал</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67074.7</price>
+        <cityprice cityId="615420100">67074.7</cityprice>
+    </offer>
+    <offer sku="91210">
+      <model>Перфоратор Bosch GBH 180-Li</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77757.17</price>
+        <cityprice cityId="615420100">77757.17</cityprice>
+    </offer>
+    <offer sku="1196699">
+      <model>Перфоратор Crown CT18056</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34132.14</price>
+        <cityprice cityId="615420100">34132.14</cityprice>
+    </offer>
+    <offer sku="89087">
+      <model>Перфоратор Crown CT 18116 BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28658.51</price>
+        <cityprice cityId="615420100">28658.51</cityprice>
+    </offer>
+    <offer sku="7144216">
+      <model>Перфоратор Зубр ЗП-28-800 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37220.69</price>
+        <cityprice cityId="615420100">37220.69</cityprice>
+    </offer>
+    <offer sku="7144728">
+      <model>Перфоратор Black &amp; Decker KD750KC</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92902.53</price>
+        <cityprice cityId="615420100">92902.53</cityprice>
+    </offer>
+    <offer sku="12356837">
+      <model>Перфоратор Haina 1043А</model>
+      <brand>Haina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57392.11</price>
+        <cityprice cityId="615420100">57392.11</cityprice>
+    </offer>
+    <offer sku="7144386">
+      <model>Перфоратор Milwaukee Kango 950 S</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>765493.2</price>
+        <cityprice cityId="615420100">765493.2</cityprice>
+    </offer>
+    <offer sku="7145684">
+      <model>Перфоратор Milwaukee PH 30 Power X</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>276645.6</price>
+        <cityprice cityId="615420100">276645.6</cityprice>
+    </offer>
+    <offer sku="7146220">
+      <model>Перфоратор IVT RHM-800 BMC</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33020.62</price>
+        <cityprice cityId="615420100">33020.62</cityprice>
+    </offer>
+    <offer sku="7146229">
+      <model>Перфоратор Stanley Fatmax FME1250K</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97811.33</price>
+        <cityprice cityId="615420100">97811.33</cityprice>
+    </offer>
+    <offer sku="7385002">
+      <model>Перфоратор DeWALT D25133K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57891.06</price>
+        <cityprice cityId="615420100">57891.06</cityprice>
+    </offer>
+    <offer sku="11138478">
+      <model>Перфоратор MS Tools ПГ-620-3</model>
+      <brand>MS Tools</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2540774.45</price>
+        <cityprice cityId="615420100">2540774.45</cityprice>
+    </offer>
+    <offer sku="3733984">
+      <model>Перфоратор Makita DHR242RFE</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>350637.43</price>
+        <cityprice cityId="615420100">350637.43</cityprice>
+    </offer>
+    <offer sku="91583">
+      <model>Перфоратор Crown CT18032 BMC</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26277.38</price>
+        <cityprice cityId="615420100">26277.38</cityprice>
+    </offer>
+    <offer sku="7145810">
+      <model>Перфоратор Bosch GBH 3000 061124A006</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172982.06</price>
+        <cityprice cityId="615420100">172982.06</cityprice>
+    </offer>
+    <offer sku="7146288">
+      <model>Перфоратор Crown CT18032</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29047.79</price>
+        <cityprice cityId="615420100">29047.79</cityprice>
+    </offer>
+    <offer sku="91246">
+      <model>Перфоратор Crown CT18102 BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36187.99</price>
+        <cityprice cityId="615420100">36187.99</cityprice>
+    </offer>
+    <offer sku="8593">
+      <model>Перфоратор Makita HR2470</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63945.64</price>
+        <cityprice cityId="615420100">63945.64</cityprice>
+    </offer>
+    <offer sku="7143991">
+      <model>Перфоратор Crown CT18055 BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43472.88</price>
+        <cityprice cityId="615420100">43472.88</cityprice>
+    </offer>
+    <offer sku="7144721">
+      <model>Перфоратор Edon Z1C-ED-26L</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55323.19</price>
+        <cityprice cityId="615420100">55323.19</cityprice>
+    </offer>
+    <offer sku="7146231">
+      <model>Перфоратор Dexter Power Z1C-HW-2662SREP</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>846473.29</price>
+        <cityprice cityId="615420100">846473.29</cityprice>
+    </offer>
+    <offer sku="7146249">
+      <model>Перфоратор Wortex RH 2829 RH282901129</model>
+      <brand>Wortex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51322.7</price>
+        <cityprice cityId="615420100">51322.7</cityprice>
+    </offer>
+    <offer sku="7146306">
+      <model>Перфоратор Bort BHD-800X2</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>846508.86</price>
+        <cityprice cityId="615420100">846508.86</cityprice>
+    </offer>
+    <offer sku="7145207">
+      <model>Перфоратор Bosch GBH 2-26 DFR 0615990L2T</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100056.79</price>
+        <cityprice cityId="615420100">100056.79</cityprice>
+    </offer>
+    <offer sku="91573">
+      <model>Перфоратор Bosch GBH 180-LI 0615990L6J</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>690853.22</price>
+        <cityprice cityId="615420100">690853.22</cityprice>
+    </offer>
+    <offer sku="7146320">
+      <model>Перфоратор Makita DHR242Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107694.18</price>
+        <cityprice cityId="615420100">107694.18</cityprice>
+    </offer>
+    <offer sku="7143980">
+      <model>Перфоратор Hyundai H 800</model>
+      <brand>Hyundai </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39520.8</price>
+        <cityprice cityId="615420100">39520.8</cityprice>
+    </offer>
+    <offer sku="7146218">
+      <model>Перфоратор Einhell RT-RH 20</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61689.99</price>
+        <cityprice cityId="615420100">61689.99</cityprice>
+    </offer>
+    <offer sku="7146253">
+      <model>Перфоратор Bull BH 4001</model>
+      <brand>BULL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138815.82</price>
+        <cityprice cityId="615420100">138815.82</cityprice>
+    </offer>
+    <offer sku="7383555">
+      <model>Перфоратор Stanley SHR264K-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>567489.05</price>
+        <cityprice cityId="615420100">567489.05</cityprice>
+    </offer>
+    <offer sku="7386904">
+      <model>Перфоратор Makita HR2470X15</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97813.98</price>
+        <cityprice cityId="615420100">97813.98</cityprice>
+    </offer>
+    <offer sku="735167">
+      <model>Перфоратор Tolsen 87272</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68666.4</price>
+        <cityprice cityId="615420100">68666.4</cityprice>
+    </offer>
+    <offer sku="805476">
+      <model>Перфоратор Tolsen 88531</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49391.12</price>
+        <cityprice cityId="615420100">49391.12</cityprice>
+    </offer>
+    <offer sku="656657">
+      <model>Перфоратор Tolsen 88530</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54186.97</price>
+        <cityprice cityId="615420100">54186.97</cityprice>
+    </offer>
+    <offer sku="3733823">
+      <model>Перфоратор Makita DHR171Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91656.64</price>
+        <cityprice cityId="615420100">91656.64</cityprice>
+    </offer>
+    <offer sku="90606">
+      <model>Перфоратор P.I.T. 22801 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33940.46</price>
+        <cityprice cityId="615420100">33940.46</cityprice>
+    </offer>
+    <offer sku="7145986">
+      <model>Перфоратор DWT SBH-600 DS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>387544.92</price>
+        <cityprice cityId="615420100">387544.92</cityprice>
+    </offer>
+    <offer sku="7144362">
+      <model>Перфоратор Einhell RT-RH 26</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80029.62</price>
+        <cityprice cityId="615420100">80029.62</cityprice>
+    </offer>
+    <offer sku="91275">
+      <model>Перфоратор Bosch GBH 2-24 DFR</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76077.54</price>
+        <cityprice cityId="615420100">76077.54</cityprice>
+    </offer>
+    <offer sku="7386980">
+      <model>Перфоратор DeWALT D25773K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484129.8</price>
+        <cityprice cityId="615420100">484129.8</cityprice>
+    </offer>
+    <offer sku="1027967">
+      <model>Перфоратор P.I.T. 23202</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29738.41</price>
+        <cityprice cityId="615420100">29738.41</cityprice>
+    </offer>
+    <offer sku="7144534">
+      <model>Перфоратор Hitachi DH24PG</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58026.41</price>
+        <cityprice cityId="615420100">58026.41</cityprice>
+    </offer>
+    <offer sku="7144258">
+      <model>Перфоратор P.I.T. 22601</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7874.52</price>
+        <cityprice cityId="615420100">7874.52</cityprice>
+    </offer>
+    <offer sku="4017002">
+      <model>Перфоратор Bosch GBH 5-40 D</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217364.4</price>
+        <cityprice cityId="615420100">217364.4</cityprice>
+    </offer>
+    <offer sku="91134">
+      <model>Перфоратор DWT BH09-26 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28523.15</price>
+        <cityprice cityId="615420100">28523.15</cityprice>
+    </offer>
+    <offer sku="7146290">
+      <model>Перфоратор P.I.T. PBH 32-C</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39359.75</price>
+        <cityprice cityId="615420100">39359.75</cityprice>
+    </offer>
+    <offer sku="7144082">
+      <model>Перфоратор Kolner KRH 950C</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40670.86</price>
+        <cityprice cityId="615420100">40670.86</cityprice>
+    </offer>
+    <offer sku="7144892">
+      <model>Перфоратор Hitachi DH26PB</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57311.09</price>
+        <cityprice cityId="615420100">57311.09</cityprice>
+    </offer>
+    <offer sku="7143788">
+      <model>Перфоратор Зубр ЗП-22-650 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25865.38</price>
+        <cityprice cityId="615420100">25865.38</cityprice>
+    </offer>
+    <offer sku="7144210">
+      <model>Перфоратор Зубр ЗП-24-750 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29007.28</price>
+        <cityprice cityId="615420100">29007.28</cityprice>
+    </offer>
+    <offer sku="856675">
+      <model>Перфоратор Makita HR2460</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81426.68</price>
+        <cityprice cityId="615420100">81426.68</cityprice>
+    </offer>
+    <offer sku="7144885">
+      <model>Перфоратор DeWALT D25413K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>293430.47</price>
+        <cityprice cityId="615420100">293430.47</cityprice>
+    </offer>
+    <offer sku="7145982">
+      <model>Перфоратор Makita HR2300</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="91608">
+      <model>Перфоратор Makita M8701</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42386.06</price>
+        <cityprice cityId="615420100">42386.06</cityprice>
+    </offer>
+    <offer sku="7143147">
+      <model>Перфоратор Crown CT18102</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31522.78</price>
+        <cityprice cityId="615420100">31522.78</cityprice>
+    </offer>
+    <offer sku="7144014">
+      <model>Перфоратор Makita HR2630</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49242.92</price>
+        <cityprice cityId="615420100">49242.92</cityprice>
+    </offer>
+    <offer sku="7146292">
+      <model>Перфоратор Crown CT18055</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42235.2</price>
+        <cityprice cityId="615420100">42235.2</cityprice>
+    </offer>
+    <offer sku="7145944">
+      <model>Перфоратор Makita HR3210C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>273075.88</price>
+        <cityprice cityId="615420100">273075.88</cityprice>
+    </offer>
+    <offer sku="7144042">
+      <model>Перфоратор Metabo KHE 2860 Quick 600878500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2134304.01</price>
+        <cityprice cityId="615420100">2134304.01</cityprice>
+    </offer>
+    <offer sku="7144141">
+      <model>Перфоратор Metabo KHEV 5-40 BL 600765500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>503890.2</price>
+        <cityprice cityId="615420100">503890.2</cityprice>
+    </offer>
+    <offer sku="7144870">
+      <model>Перфоратор DWT BH-950 VS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>846319.16</price>
+        <cityprice cityId="615420100">846319.16</cityprice>
+    </offer>
+    <offer sku="7145776">
+      <model>Перфоратор Metabo KHEV 11-52 BL 600767500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1423851.43</price>
+        <cityprice cityId="615420100">1423851.43</cityprice>
+    </offer>
+    <offer sku="7146219">
+      <model>Перфоратор DWT BH-750 VS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1096097.53</price>
+        <cityprice cityId="615420100">1096097.53</cityprice>
+    </offer>
+    <offer sku="7146221">
+      <model>Перфоратор Зубр ЗП-18-470</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="7146287">
+      <model>Перфоратор Metabo KHA 18 LTX T03320</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>522630.96</price>
+        <cityprice cityId="615420100">522630.96</cityprice>
+    </offer>
+    <offer sku="7146298">
+      <model>Перфоратор Sturm! RH2550</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29197.97</price>
+        <cityprice cityId="615420100">29197.97</cityprice>
+    </offer>
+    <offer sku="7146302">
+      <model>Перфоратор Bort BHD-18X-BLK</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128442.6</price>
+        <cityprice cityId="615420100">128442.6</cityprice>
+    </offer>
+    <offer sku="4694659">
+      <model>Перфоратор Hitachi DH22PH, 620 Вт</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>502311.34</price>
+        <cityprice cityId="615420100">502311.34</cityprice>
+    </offer>
+    <offer sku="7144566">
+      <model>Перфоратор Hilti TE 6-A22</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>316166.4</price>
+        <cityprice cityId="615420100">316166.4</cityprice>
+    </offer>
+    <offer sku="7143766">
+      <model>Перфоратор DWT BH15-36 VB BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53520.06</price>
+        <cityprice cityId="615420100">53520.06</cityprice>
+    </offer>
+    <offer sku="7144497">
+      <model>Перфоратор DWT SBH-750 DSL</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117574.38</price>
+        <cityprice cityId="615420100">117574.38</cityprice>
+    </offer>
+    <offer sku="7144995">
+      <model>Перфоратор DeWALT D25124K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>241076.88</price>
+        <cityprice cityId="615420100">241076.88</cityprice>
+    </offer>
+    <offer sku="7146149">
+      <model>Перфоратор Kolner KRH 1250MC</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87151.27</price>
+        <cityprice cityId="615420100">87151.27</cityprice>
+    </offer>
+    <offer sku="7146193">
+      <model>Перфоратор Metabo KH 5-40</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>238110.84</price>
+        <cityprice cityId="615420100">238110.84</cityprice>
+    </offer>
+    <offer sku="7387346">
+      <model>Перфоратор Bort BHD-700-P</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18179.57</price>
+        <cityprice cityId="615420100">18179.57</cityprice>
+    </offer>
+    <offer sku="83439">
+      <model>Перфоратор Rodex RDX 232</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="91590">
+      <model>Перфоратор P.I.T. 22401 2.4J 850W</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21637.64</price>
+        <cityprice cityId="615420100">21637.64</cityprice>
+    </offer>
+    <offer sku="3733813">
+      <model>Перфоратор Makita DHR165RME</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172903.5</price>
+        <cityprice cityId="615420100">172903.5</cityprice>
+    </offer>
+    <offer sku="7145721">
+      <model>Перфоратор Milwaukee PLH 20</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191675.88</price>
+        <cityprice cityId="615420100">191675.88</cityprice>
+    </offer>
+    <offer sku="10672358">
+      <model>Перфоратор Makita HR2470 + набор буров D-20703</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68074.58</price>
+        <cityprice cityId="615420100">68074.58</cityprice>
+    </offer>
+    <offer sku="7144041">
+      <model>Перфоратор Metabo KHA 18 LTX BL 24 Quick Set ISA 600211900</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>533527.84</price>
+        <cityprice cityId="615420100">533527.84</cityprice>
+    </offer>
+    <offer sku="12166714">
+      <model>Аккумуляторный перфоратор Bosch Professional GBH 36 VF-LI 0611907002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>326046.6</price>
+        <cityprice cityId="615420100">326046.6</cityprice>
+    </offer>
+    <offer sku="7146210">
+      <model>Перфоратор Metabo KHE 2644</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77065.56</price>
+        <cityprice cityId="615420100">77065.56</cityprice>
+    </offer>
+    <offer sku="7383698">
+      <model>Перфоратор Patriot RH 262</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92698.65</price>
+        <cityprice cityId="615420100">92698.65</cityprice>
+    </offer>
+    <offer sku="10760263">
+      <model>Перфоратор Denzel RHV-1100-26 26610</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50701.23</price>
+        <cityprice cityId="615420100">50701.23</cityprice>
+    </offer>
+    <offer sku="7385266">
+      <model>Перфоратор DeWALT D25134K 3 Дж</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83981.7</price>
+        <cityprice cityId="615420100">83981.7</cityprice>
+    </offer>
+    <offer sku="91720">
+      <model>Перфоратор DeWalt D25133K LAKA</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79465.46</price>
+        <cityprice cityId="615420100">79465.46</cityprice>
+    </offer>
+    <offer sku="7144458">
+      <model>Перфоратор P.I.T. PBH 26-C</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30250.21</price>
+        <cityprice cityId="615420100">30250.21</cityprice>
+    </offer>
+    <offer sku="12356954">
+      <model>Перфоратор Kedr К52605</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23712.48</price>
+        <cityprice cityId="615420100">23712.48</cityprice>
+    </offer>
+    <offer sku="7144278">
+      <model>Перфоратор Bosch GBH 4-32 DFR 0611332101</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222304.5</price>
+        <cityprice cityId="615420100">222304.5</cityprice>
+    </offer>
+    <offer sku="7146018">
+      <model>Перфоратор Вихрь П-900К</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22689.88</price>
+        <cityprice cityId="615420100">22689.88</cityprice>
+    </offer>
+    <offer sku="10812533">
+      <model>Перфоратор DWT BH13-30 VB BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37868.5</price>
+        <cityprice cityId="615420100">37868.5</cityprice>
+    </offer>
+    <offer sku="4695946">
+      <model>Перфоратор Hitachi DH24PGNS</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69367.9</price>
+        <cityprice cityId="615420100">69367.9</cityprice>
+    </offer>
+    <offer sku="939095">
+      <model>Перфоратор Alteco RH 1700-32</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41842.65</price>
+        <cityprice cityId="615420100">41842.65</cityprice>
+    </offer>
+    <offer sku="7146278">
+      <model>Перфоратор Ryobi RSDS680KA2</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68173.38</price>
+        <cityprice cityId="615420100">68173.38</cityprice>
+    </offer>
+    <offer sku="7384280">
+      <model>Перфоратор Makita HR2641</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69160.41</price>
+        <cityprice cityId="615420100">69160.41</cityprice>
+    </offer>
+    <offer sku="91621">
+      <model>Перфоратор Makita DHR202RF</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112634.28</price>
+        <cityprice cityId="615420100">112634.28</cityprice>
+    </offer>
+    <offer sku="7144155">
+      <model>Перфоратор Milwaukee PH 26 T</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>166975.38</price>
+        <cityprice cityId="615420100">166975.38</cityprice>
+    </offer>
+    <offer sku="7144207">
+      <model>Перфоратор Milwaukee PH 28</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128442.6</price>
+        <cityprice cityId="615420100">128442.6</cityprice>
+    </offer>
+    <offer sku="7144960">
+      <model>Перфоратор DWT SBH 06-20 T BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40596.15</price>
+        <cityprice cityId="615420100">40596.15</cityprice>
+    </offer>
+    <offer sku="7145680">
+      <model>Перфоратор Milwaukee PLH 28 E</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>176855.58</price>
+        <cityprice cityId="615420100">176855.58</cityprice>
+    </offer>
+    <offer sku="7145709">
+      <model>Перфоратор Milwaukee Kango 540 S</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>216376.38</price>
+        <cityprice cityId="615420100">216376.38</cityprice>
+    </offer>
+    <offer sku="7146009">
+      <model>Перфоратор DWT SBH 08-26 T BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35810.78</price>
+        <cityprice cityId="615420100">35810.78</cityprice>
+    </offer>
+    <offer sku="7146019">
+      <model>Перфоратор Black &amp; Decker KD 985 KA</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62460.65</price>
+        <cityprice cityId="615420100">62460.65</cityprice>
+    </offer>
+    <offer sku="7146244">
+      <model>Перфоратор Milwaukee M18 BH-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174302.54</price>
+        <cityprice cityId="615420100">174302.54</cityprice>
+    </offer>
+    <offer sku="7145716">
+      <model>Перфоратор Milwaukee PFH 24</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52266.26</price>
+        <cityprice cityId="615420100">52266.26</cityprice>
+    </offer>
+    <offer sku="7146318">
+      <model>Перфоратор Bosch PBH 2500 RE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64551.3</price>
+        <cityprice cityId="615420100">64551.3</cityprice>
+    </offer>
+    <offer sku="7144776">
+      <model>Перфоратор Bosch GBH 4-32 DFR-S</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>225916.7</price>
+        <cityprice cityId="615420100">225916.7</cityprice>
+    </offer>
+    <offer sku="7143958">
+      <model>Перфоратор Hilti TE 50-AVR</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>544091.75</price>
+        <cityprice cityId="615420100">544091.75</cityprice>
+    </offer>
+    <offer sku="7146321">
+      <model>Перфоратор Makita HR2475</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43907.71</price>
+        <cityprice cityId="615420100">43907.71</cityprice>
+    </offer>
+    <offer sku="7146236">
+      <model>Перфоратор Dexter Z1C-DS-24GM</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>365426.11</price>
+        <cityprice cityId="615420100">365426.11</cityprice>
+    </offer>
+    <offer sku="7146311">
+      <model>Перфоратор Stanley STHR202K-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145238.94</price>
+        <cityprice cityId="615420100">145238.94</cityprice>
+    </offer>
+    <offer sku="7387237">
+      <model>Перфоратор Bort BHD-1000-TURBO 98296594</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143114.7</price>
+        <cityprice cityId="615420100">143114.7</cityprice>
+    </offer>
+    <offer sku="7144271">
+      <model>Перфоратор Metabo KHE 2860 Quick 600878510</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1146299.82</price>
+        <cityprice cityId="615420100">1146299.82</cityprice>
+    </offer>
+    <offer sku="7144099">
+      <model>Перфоратор Edon Z1C-ED-26P</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>441215.15</price>
+        <cityprice cityId="615420100">441215.15</cityprice>
+    </offer>
+    <offer sku="7144379">
+      <model>Перфоратор Metabo KHE 2660 Quick 600663500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73920.69</price>
+        <cityprice cityId="615420100">73920.69</cityprice>
+    </offer>
+    <offer sku="7146224">
+      <model>Перфоратор Metabo KHA 36 LTX 600795650</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1905066.57</price>
+        <cityprice cityId="615420100">1905066.57</cityprice>
+    </offer>
+    <offer sku="7146013">
+      <model>Перфоратор DWT SBH-850 TS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>352463.29</price>
+        <cityprice cityId="615420100">352463.29</cityprice>
+    </offer>
+    <offer sku="12166843">
+      <model>Аккумуляторный перфоратор Makita DHR242RT</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>592772.48</price>
+        <cityprice cityId="615420100">592772.48</cityprice>
+    </offer>
+    <offer sku="7144628">
+      <model>Перфоратор Hitachi DH26PC</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68173.38</price>
+        <cityprice cityId="615420100">68173.38</cityprice>
+    </offer>
+    <offer sku="7145856">
+      <model>Перфоратор DWT SBH-600 DSL</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63819.18</price>
+        <cityprice cityId="615420100">63819.18</cityprice>
+    </offer>
+    <offer sku="7146152">
+      <model>Перфоратор Einhell BT-RH 600</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54415.2</price>
+        <cityprice cityId="615420100">54415.2</cityprice>
+    </offer>
+    <offer sku="135686">
+      <model>Перфоратор Graphite 58G527</model>
+      <brand>Graphite</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>423173.91</price>
+        <cityprice cityId="615420100">423173.91</cityprice>
+    </offer>
+    <offer sku="7144390">
+      <model>Перфоратор Einhell TE-RH 32 E</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97813.98</price>
+        <cityprice cityId="615420100">97813.98</cityprice>
+    </offer>
+    <offer sku="12166587">
+      <model>Аккумуляторный перфоратор Bosch Professional GBH 18V-26 0615990M3N</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>365465.63</price>
+        <cityprice cityId="615420100">365465.63</cityprice>
+    </offer>
+    <offer sku="7383511">
+      <model>Перфоратор Bort BHD-1500X</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>485949.73</price>
+        <cityprice cityId="615420100">485949.73</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
