@@ -49494,5 +49494,3047 @@
       <price>31119.67</price>
         <cityprice cityId="615420100">31119.67</cityprice>
     </offer>
+    <offer sku="10386">
+      <model>Машина шлифовальная угловая Makita GA9030 SF01</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78931.93</price>
+        <cityprice cityId="615420100">78931.93</cityprice>
+    </offer>
+    <offer sku="90883">
+      <model>Угловая шлифовальная машина Rodex RDX123</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34962.08</price>
+        <cityprice cityId="615420100">34962.08</cityprice>
+    </offer>
+    <offer sku="12682555">
+      <model>Угловая шлифовальная машина Парма УШМ-01-230/2400П</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26370.25</price>
+        <cityprice cityId="615420100">26370.25</cityprice>
+    </offer>
+    <offer sku="89938">
+      <model>Угловая шлифовальная машина Rodex RDX108</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22515.99</price>
+        <cityprice cityId="615420100">22515.99</cityprice>
+    </offer>
+    <offer sku="91108">
+      <model>Угловая шлифовальная машина Rodex RDX109</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30529.82</price>
+        <cityprice cityId="615420100">30529.82</cityprice>
+    </offer>
+    <offer sku="3807289">
+      <model>Угловая шлифовальная машина Makita GA9030F01</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133381.71</price>
+        <cityprice cityId="615420100">133381.71</cityprice>
+    </offer>
+    <offer sku="10760406">
+      <model>Угловая шлифовальная машина Denzel AG180-2000 26912</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31807.18</price>
+        <cityprice cityId="615420100">31807.18</cityprice>
+    </offer>
+    <offer sku="12682332">
+      <model>Угловая шлифовальная машина Hanskonner HAG13125TJE, 125 мм</model>
+      <brand>Hanskonner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25224.15</price>
+        <cityprice cityId="615420100">25224.15</cityprice>
+    </offer>
+    <offer sku="11117270">
+      <model>Угловая шлифовальная машина Интерскол УШМ-180/1800М</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34275.4</price>
+        <cityprice cityId="615420100">34275.4</cityprice>
+    </offer>
+    <offer sku="90884">
+      <model>Угловая шлифовальная машина Rodex RDX129</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43472.88</price>
+        <cityprice cityId="615420100">43472.88</cityprice>
+    </offer>
+    <offer sku="91102">
+      <model>Угловая шлифовальная машина Rodex RDX105</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21988.39</price>
+        <cityprice cityId="615420100">21988.39</cityprice>
+    </offer>
+    <offer sku="12165082">
+      <model>Угловая шлифмашина Bosch GWS 17-125 Cl 06017950R2</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>216983.3</price>
+        <cityprice cityId="615420100">216983.3</cityprice>
+    </offer>
+    <offer sku="12166279">
+      <model>Угловая шлифмашина Bosch GWS 11-125 060179D000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37544.76</price>
+        <cityprice cityId="615420100">37544.76</cityprice>
+    </offer>
+    <offer sku="12166296">
+      <model>Угловая шлифмашина DeWalt DWE494</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83981.7</price>
+        <cityprice cityId="615420100">83981.7</cityprice>
+    </offer>
+    <offer sku="12166331">
+      <model>Угловая шлифмашина DeWalt DWE4217</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62437.57</price>
+        <cityprice cityId="615420100">62437.57</cityprice>
+    </offer>
+    <offer sku="12165195">
+      <model>Угловая шлифмашина DeWALT DWE490</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42241.81</price>
+        <cityprice cityId="615420100">42241.81</cityprice>
+    </offer>
+    <offer sku="12166270">
+      <model>Угловая шлифмашина DWT WS06-125 E</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26735.82</price>
+        <cityprice cityId="615420100">26735.82</cityprice>
+    </offer>
+    <offer sku="12353931">
+      <model>Угловая шлифмашина Зубр УШМ-П125-1400 ПСТ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28163.51</price>
+        <cityprice cityId="615420100">28163.51</cityprice>
+    </offer>
+    <offer sku="12165119">
+      <model>Угловая шлифмашина Ferm AGM1095P</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19736.69</price>
+        <cityprice cityId="615420100">19736.69</cityprice>
+    </offer>
+    <offer sku="12166149">
+      <model>Угловая шлифмашина Bosch GWS 30-230 B 06018G1000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164999.34</price>
+        <cityprice cityId="615420100">164999.34</cityprice>
+    </offer>
+    <offer sku="12166271">
+      <model>Угловая шлифмашина Bosch GWS 2200 Professional 06018C1320</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54341.1</price>
+        <cityprice cityId="615420100">54341.1</cityprice>
+    </offer>
+    <offer sku="12165177">
+      <model>Угловая шлифмашина Bosch GWS 7-125 0601388108</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47820.17</price>
+        <cityprice cityId="615420100">47820.17</cityprice>
+    </offer>
+    <offer sku="3407793">
+      <model>Угловая шлифмашина Makita 9565CVK</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71433.85</price>
+        <cityprice cityId="615420100">71433.85</cityprice>
+    </offer>
+    <offer sku="12165167">
+      <model>Угловая шлифмашина Bosch GWS 180-LI Professional 06019H9021</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181933.01</price>
+        <cityprice cityId="615420100">181933.01</cityprice>
+    </offer>
+    <offer sku="649234">
+      <model>Бесщеточная аккумуляторная угловая шлифмашина Alteco CAGB 18-125 Li BL</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44284.46</price>
+        <cityprice cityId="615420100">44284.46</cityprice>
+    </offer>
+    <offer sku="12165149">
+      <model>Угловая шлифмашина Makita XGT GA013GZ</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172479.18</price>
+        <cityprice cityId="615420100">172479.18</cityprice>
+    </offer>
+    <offer sku="954023">
+      <model>Угловая шлифмашина Alteco Heavy Duty AGH 2400-230 S</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34383.1</price>
+        <cityprice cityId="615420100">34383.1</cityprice>
+    </offer>
+    <offer sku="4028661">
+      <model>Угловая шлифмашина Bosch GWS 22 - 180 H</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66368.27</price>
+        <cityprice cityId="615420100">66368.27</cityprice>
+    </offer>
+    <offer sku="12165179">
+      <model>Угловая шлифмашина Зубр УШМ-П150/1400</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53295.08</price>
+        <cityprice cityId="615420100">53295.08</cityprice>
+    </offer>
+    <offer sku="12165154">
+      <model>Угловая шлифмашина Felisatti УШМ-180/1800М</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26625.36</price>
+        <cityprice cityId="615420100">26625.36</cityprice>
+    </offer>
+    <offer sku="12165182">
+      <model>Угловая шлифмашина Bosch GWS 100 Professional 06018218R0</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>288995.85</price>
+        <cityprice cityId="615420100">288995.85</cityprice>
+    </offer>
+    <offer sku="698262">
+      <model>Угловая шлифмашина Tolsen 79526</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71532.65</price>
+        <cityprice cityId="615420100">71532.65</cityprice>
+    </offer>
+    <offer sku="12165185">
+      <model>Угловая шлифмашина Bosch GWS 9-115 0601396006</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64535.49</price>
+        <cityprice cityId="615420100">64535.49</cityprice>
+    </offer>
+    <offer sku="12166284">
+      <model>Угловая шлифмашина Makita LXT DGA504Z</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74901.8</price>
+        <cityprice cityId="615420100">74901.8</cityprice>
+    </offer>
+    <offer sku="12166143">
+      <model>Угловая шлифмашина DeWALT DWE496</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105123.56</price>
+        <cityprice cityId="615420100">105123.56</cityprice>
+    </offer>
+    <offer sku="12166287">
+      <model>Угловая шлифмашина DeWalt DWE4579</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119299.46</price>
+        <cityprice cityId="615420100">119299.46</cityprice>
+    </offer>
+    <offer sku="12165188">
+      <model>Угловая шлифмашина Bosch GWS 2200 06018C10R0</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168239.06</price>
+        <cityprice cityId="615420100">168239.06</cityprice>
+    </offer>
+    <offer sku="12165190">
+      <model>Угловая шлифмашина Bosch GWS 2200 180мм 06018C00R0</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68268.23</price>
+        <cityprice cityId="615420100">68268.23</cityprice>
+    </offer>
+    <offer sku="12166276">
+      <model>Угловая шлифмашина Bosch GWS 750-125 0601394001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="12166318">
+      <model>Угловая шлифмашина Bosch GWS 12V-76 Professional Solo 06019F2000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81505.72</price>
+        <cityprice cityId="615420100">81505.72</cityprice>
+    </offer>
+    <offer sku="4704134">
+      <model>Угловая шлифмашина HITACHI G13SE2NS</model>
+      <brand>Hitachi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51910.57</price>
+        <cityprice cityId="615420100">51910.57</cityprice>
+    </offer>
+    <offer sku="12165189">
+      <model>Угловая шлифмашина Bosch GWS 20-230 H 0601850107</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148201.02</price>
+        <cityprice cityId="615420100">148201.02</cityprice>
+    </offer>
+    <offer sku="12166336">
+      <model>Угловая шлифмашина Зубр Профессионал УШМ-П125-1000</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20363.09</price>
+        <cityprice cityId="615420100">20363.09</cityprice>
+    </offer>
+    <offer sku="12165161">
+      <model>Угловая шлифмашина Ferm AGM1119P</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28088.19</price>
+        <cityprice cityId="615420100">28088.19</cityprice>
+    </offer>
+    <offer sku="12166334">
+      <model>Угловая шлифмашина Ferm AGM1115P</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="4028802">
+      <model>Угловая шлифмашина BOSCH GWS 24 - 230 H</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37895.51</price>
+        <cityprice cityId="615420100">37895.51</cityprice>
+    </offer>
+    <offer sku="12166043">
+      <model>Угловая шлифмашина Bosch GWS 9-125 S 0601396102</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28082.29</price>
+        <cityprice cityId="615420100">28082.29</cityprice>
+    </offer>
+    <offer sku="4704136">
+      <model>Угловая шлифмашина Hitachi G13SS2</model>
+      <brand>Hitachi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>231101.83</price>
+        <cityprice cityId="615420100">231101.83</cityprice>
+    </offer>
+    <offer sku="12165227">
+      <model>Аккумуляторная угловая шлифмашина Makita DGA511RT</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>157766.49</price>
+        <cityprice cityId="615420100">157766.49</cityprice>
+    </offer>
+    <offer sku="12165151">
+      <model>Угловая шлифмашина Makita GA013GM201</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>374224.83</price>
+        <cityprice cityId="615420100">374224.83</cityprice>
+    </offer>
+    <offer sku="741839">
+      <model>Угловая шлифмашина Tolsen 79527</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31615.75</price>
+        <cityprice cityId="615420100">31615.75</cityprice>
+    </offer>
+    <offer sku="12166312">
+      <model>Угловая шлифмашина Bosch PWS 750-125 06033A240D</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54340.11</price>
+        <cityprice cityId="615420100">54340.11</cityprice>
+    </offer>
+    <offer sku="12166293">
+      <model>Угловая шлифмашина Фиолент МШУ5-11-150</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24788.71</price>
+        <cityprice cityId="615420100">24788.71</cityprice>
+    </offer>
+    <offer sku="12166268">
+      <model>Угловая шлифмашина Makita GA5030R</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.6</price>
+        <cityprice cityId="615420100">29640.6</cityprice>
+    </offer>
+    <offer sku="12165240">
+      <model>Аккумуляторная угловая шлифмашина Makita XGT GA023GZ</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151466.43</price>
+        <cityprice cityId="615420100">151466.43</cityprice>
+    </offer>
+    <offer sku="12165169">
+      <model>Угловая шлифмашина Felisatti УШМ-125/750</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16667.9</price>
+        <cityprice cityId="615420100">16667.9</cityprice>
+    </offer>
+    <offer sku="12165200">
+      <model>Угловая шлифмашина Bosch GWX 14-125 X-LOCK 06017B7000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86845.97</price>
+        <cityprice cityId="615420100">86845.97</cityprice>
+    </offer>
+    <offer sku="12165212">
+      <model>Угловая шлифмашина Bosch GWS 18V-10 Solo 06019J4003</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131069.75</price>
+        <cityprice cityId="615420100">131069.75</cityprice>
+    </offer>
+    <offer sku="12165213">
+      <model>Аккумуляторная угловая шлифмашина Bosch GWS 12V-76 0615990M3E</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140643.66</price>
+        <cityprice cityId="615420100">140643.66</cityprice>
+    </offer>
+    <offer sku="12165241">
+      <model>Угловая шлифмашина Bosch GWS 18V-15 C Solo 06019H6000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172816.95</price>
+        <cityprice cityId="615420100">172816.95</cityprice>
+    </offer>
+    <offer sku="419434">
+      <model>Угловая шлифмашина ALTECO Heavy Duty AGH 1000-125 E</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16697.54</price>
+        <cityprice cityId="615420100">16697.54</cityprice>
+    </offer>
+    <offer sku="12166140">
+      <model>Угловая шлифмашина Bosch GWS 750 S 0601394121</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56316.15</price>
+        <cityprice cityId="615420100">56316.15</cityprice>
+    </offer>
+    <offer sku="12165152">
+      <model>Угловая шлифмашина Зубр Профессионал УШМ-П125-750</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20533.17</price>
+        <cityprice cityId="615420100">20533.17</cityprice>
+    </offer>
+    <offer sku="12165163">
+      <model>Угловая шлифмашина Bosch GWS 17-125 S 06017D0300</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123243.64</price>
+        <cityprice cityId="615420100">123243.64</cityprice>
+    </offer>
+    <offer sku="12165230">
+      <model>Угловая шлифмашина Bosch GWS 17-125 CIEX 060179H106</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>302048.58</price>
+        <cityprice cityId="615420100">302048.58</cityprice>
+    </offer>
+    <offer sku="12166297">
+      <model>Угловая шлифмашина Вихрь УШМ-125/800</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12574.53</price>
+        <cityprice cityId="615420100">12574.53</cityprice>
+    </offer>
+    <offer sku="4757133">
+      <model>Угловая шлифмашина Hitachi G15VA</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85901.42</price>
+        <cityprice cityId="615420100">85901.42</cityprice>
+    </offer>
+    <offer sku="462049">
+      <model>Угловая шлифмашина Tolsen 87278, аккумуляторная</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38236.37</price>
+        <cityprice cityId="615420100">38236.37</cityprice>
+    </offer>
+    <offer sku="12166145">
+      <model>Угловая шлифмашина DeWalt DWE492</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98383.86</price>
+        <cityprice cityId="615420100">98383.86</cityprice>
+    </offer>
+    <offer sku="12166146">
+      <model>Аккумуляторная угловая шлифмашина Stanley SFMCG400M2K</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104523.62</price>
+        <cityprice cityId="615420100">104523.62</cityprice>
+    </offer>
+    <offer sku="12165174">
+      <model>Угловая шлифмашина Bosch GWS 660 060137508N</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59804.85</price>
+        <cityprice cityId="615420100">59804.85</cityprice>
+    </offer>
+    <offer sku="12165211">
+      <model>Угловая шлифмашина Bosch GWX 17-125 S X-LOCK 06017C4002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114426.55</price>
+        <cityprice cityId="615420100">114426.55</cityprice>
+    </offer>
+    <offer sku="12165237">
+      <model>Угловая шлифмашина Bosch GWS 19-125 CIST 060179S002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171934.25</price>
+        <cityprice cityId="615420100">171934.25</cityprice>
+    </offer>
+    <offer sku="12166323">
+      <model>Угловая шлифмашина Победа УШМ-125/1175 110301175</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19039.15</price>
+        <cityprice cityId="615420100">19039.15</cityprice>
+    </offer>
+    <offer sku="12166328">
+      <model>Угловая шлифмашина Bosch GWS 700 06013A30R0</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43027.28</price>
+        <cityprice cityId="615420100">43027.28</cityprice>
+    </offer>
+    <offer sku="12166337">
+      <model>Угловая шлифмашина Победа УШМ-230/2490</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35009.42</price>
+        <cityprice cityId="615420100">35009.42</cityprice>
+    </offer>
+    <offer sku="12166121">
+      <model>Аккумуляторная угловая шлифмашина Bosch GWS 180-LI Professional 06019H9025</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83628.98</price>
+        <cityprice cityId="615420100">83628.98</cityprice>
+    </offer>
+    <offer sku="12165232">
+      <model>Угловая шлифмашина Bosch GWX 18V-10 Solo 06017B0100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>223984.13</price>
+        <cityprice cityId="615420100">223984.13</cityprice>
+    </offer>
+    <offer sku="12165165">
+      <model>Угловая шлифмашина Bosch GWS 19-125 CI 060179N002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145741.84</price>
+        <cityprice cityId="615420100">145741.84</cityprice>
+    </offer>
+    <offer sku="12165184">
+      <model>Угловая шлифмашина Bosch GWS 7-115 E 601388203</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32505.86</price>
+        <cityprice cityId="615420100">32505.86</cityprice>
+    </offer>
+    <offer sku="12165250">
+      <model>Угловая шлифмашина DeWALT D28498</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>318989.3</price>
+        <cityprice cityId="615420100">318989.3</cityprice>
+    </offer>
+    <offer sku="12166288">
+      <model>Угловая шлифмашина Bosch GWS 1400 Professional 0601824800</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76279.1</price>
+        <cityprice cityId="615420100">76279.1</cityprice>
+    </offer>
+    <offer sku="12166116">
+      <model>Аккумуляторная угловая шлифмашина DeWALT XR18V DCG405N</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100386.8</price>
+        <cityprice cityId="615420100">100386.8</cityprice>
+    </offer>
+    <offer sku="12166033">
+      <model>Угловая шлифмашина Bosch GWS 13-125 CIE 060179F002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98433.47</price>
+        <cityprice cityId="615420100">98433.47</cityprice>
+    </offer>
+    <offer sku="12165180">
+      <model>Угловая шлифмашина Bosch PWS 850-125 06033A270B</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31327.15</price>
+        <cityprice cityId="615420100">31327.15</cityprice>
+    </offer>
+    <offer sku="268979">
+      <model>Угловая шлифмашина Alteco CAGB 20125 Li BL</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34136.09</price>
+        <cityprice cityId="615420100">34136.09</cityprice>
+    </offer>
+    <offer sku="12166301">
+      <model>Угловая шлифмашина DeWalt DCG405NT</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93120.88</price>
+        <cityprice cityId="615420100">93120.88</cityprice>
+    </offer>
+    <offer sku="230936">
+      <model>Угловая шлифмашина Alteco Heavy Duty AGH 2000-180</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31122.63</price>
+        <cityprice cityId="615420100">31122.63</cityprice>
+    </offer>
+    <offer sku="12681392">
+      <model>Угловая шлифмашина Felisatti УШМ-125/18ЛЗ, 125 мм</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37692.96</price>
+        <cityprice cityId="615420100">37692.96</cityprice>
+    </offer>
+    <offer sku="12165214">
+      <model>Угловая шлифмашина Makita GA5021</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124450.01</price>
+        <cityprice cityId="615420100">124450.01</cityprice>
+    </offer>
+    <offer sku="12166313">
+      <model>Угловая шлифмашина Bosch GWS 14-125 S 06017D0100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75780.15</price>
+        <cityprice cityId="615420100">75780.15</cityprice>
+    </offer>
+    <offer sku="12165081">
+      <model>Угловая шлифмашина Bosch GWS 22-230 JH 0601882203</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73895</price>
+        <cityprice cityId="615420100">73895</cityprice>
+    </offer>
+    <offer sku="4704135">
+      <model>Угловая шлифмашина   Hitachi G13SR4NSZ</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33038.4</price>
+        <cityprice cityId="615420100">33038.4</cityprice>
+    </offer>
+    <offer sku="12165198">
+      <model>Угловая шлифмашина Bosch GWS 13-125 CIE 06017940R2</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109650.46</price>
+        <cityprice cityId="615420100">109650.46</cityprice>
+    </offer>
+    <offer sku="12165205">
+      <model>Угловая шлифмашина Bosch GWS 17-125 CIE 06017960R2</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>302831.09</price>
+        <cityprice cityId="615420100">302831.09</cityprice>
+    </offer>
+    <offer sku="12354585">
+      <model>Угловая шлифмашина Зубр УШМ-18-125-41</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59304.12</price>
+        <cityprice cityId="615420100">59304.12</cityprice>
+    </offer>
+    <offer sku="444838">
+      <model>Угловая шлифмашина Tolsen 79528</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58243.78</price>
+        <cityprice cityId="615420100">58243.78</cityprice>
+    </offer>
+    <offer sku="630245">
+      <model>Угловая шлифмашина Tolsen 79523</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34778.27</price>
+        <cityprice cityId="615420100">34778.27</cityprice>
+    </offer>
+    <offer sku="12166319">
+      <model>Угловая шлифмашина Bosch PWS 850-125 06033A2721</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55704.57</price>
+        <cityprice cityId="615420100">55704.57</cityprice>
+    </offer>
+    <offer sku="12166122">
+      <model>Угловая шлифмашина DeWalt DWE4559</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110658.24</price>
+        <cityprice cityId="615420100">110658.24</cityprice>
+    </offer>
+    <offer sku="955975">
+      <model>Угловая шлифмашина Alteco Heavy Duty AGH 850-125</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13673.49</price>
+        <cityprice cityId="615420100">13673.49</cityprice>
+    </offer>
+    <offer sku="4757502">
+      <model>Угловая шлифмашина Hitachi G18SR</model>
+      <brand>Hitachi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59623.05</price>
+        <cityprice cityId="615420100">59623.05</cityprice>
+    </offer>
+    <offer sku="12165217">
+      <model>Угловая шлифмашина DeWALT 18В XR DCG405FN</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111427.91</price>
+        <cityprice cityId="615420100">111427.91</cityprice>
+    </offer>
+    <offer sku="12166036">
+      <model>Угловая шлифмашина Makita GA6021</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61679.52</price>
+        <cityprice cityId="615420100">61679.52</cityprice>
+    </offer>
+    <offer sku="12165106">
+      <model>Угловая шлифмашина Felisatti УШМ-150/1500П</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36556.74</price>
+        <cityprice cityId="615420100">36556.74</cityprice>
+    </offer>
+    <offer sku="12166152">
+      <model>Угловая шлифмашина DeWalt DWE4057</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42153.87</price>
+        <cityprice cityId="615420100">42153.87</cityprice>
+    </offer>
+    <offer sku="12166273">
+      <model>Угловая шлифмашина Bosch GWS 1000 0601828800</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61192.03</price>
+        <cityprice cityId="615420100">61192.03</cityprice>
+    </offer>
+    <offer sku="6665232">
+      <model>Болгарка Фиолент МШУ-8-14-125</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75879.94</price>
+        <cityprice cityId="615420100">75879.94</cityprice>
+    </offer>
+    <offer sku="6530764">
+      <model>Болгарка Фиолент МШУ 2-9-125 Blue</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26676.54</price>
+        <cityprice cityId="615420100">26676.54</cityprice>
+    </offer>
+    <offer sku="6661598">
+      <model>Болгарка Фиолент МШУ 1-23-230А Blue</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52488.56</price>
+        <cityprice cityId="615420100">52488.56</cityprice>
+    </offer>
+    <offer sku="6223471">
+      <model>Болгарка Фиолент МШУ 1-20-230А Blue</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40490.05</price>
+        <cityprice cityId="615420100">40490.05</cityprice>
+    </offer>
+    <offer sku="6248768">
+      <model>Болгарка ТЭМП УШМ-150Л</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28551.8</price>
+        <cityprice cityId="615420100">28551.8</cityprice>
+    </offer>
+    <offer sku="12227024">
+      <model>УШМ болгарка Grandfar GWS 125-710 G2</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16684.69</price>
+        <cityprice cityId="615420100">16684.69</cityprice>
+    </offer>
+    <offer sku="6488175">
+      <model>Болгарка Зубр Мастер УШМ-230-2100</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43559.83</price>
+        <cityprice cityId="615420100">43559.83</cityprice>
+    </offer>
+    <offer sku="1026498">
+      <model>УШМ Bort BWS-900, 900 Вт, 125 мм</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>122601.43</price>
+        <cityprice cityId="615420100">122601.43</cityprice>
+    </offer>
+    <offer sku="12227037">
+      <model>УШМ болгарка Grandfar GWS 230-2200 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28355.19</price>
+        <cityprice cityId="615420100">28355.19</cityprice>
+    </offer>
+    <offer sku="6317656">
+      <model>Болгарка Metabo УШМ W 2200-230</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73069.02</price>
+        <cityprice cityId="615420100">73069.02</cityprice>
+    </offer>
+    <offer sku="3703192">
+      <model>УШМ Makita DGA452Z</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80029.62</price>
+        <cityprice cityId="615420100">80029.62</cityprice>
+    </offer>
+    <offer sku="6284385">
+      <model>Болгарка ТЭМП УШМ-230Л</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31640.35</price>
+        <cityprice cityId="615420100">31640.35</cityprice>
+    </offer>
+    <offer sku="3409448">
+      <model>УШМ Makita 9565PZ</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51377.04</price>
+        <cityprice cityId="615420100">51377.04</cityprice>
+    </offer>
+    <offer sku="6486150">
+      <model>Болгарка Зубр УШМ-П230-2100 ПВ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42933.42</price>
+        <cityprice cityId="615420100">42933.42</cityprice>
+    </offer>
+    <offer sku="6223419">
+      <model>Болгарка Вихрь УШМ-115/650</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8817.09</price>
+        <cityprice cityId="615420100">8817.09</cityprice>
+    </offer>
+    <offer sku="6223596">
+      <model>Болгарка Зубр УШМ -150-1400 М3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18500.67</price>
+        <cityprice cityId="615420100">18500.67</cityprice>
+    </offer>
+    <offer sku="1026614">
+      <model>УШМ BOSCH GWS 750 S, 750 Вт, 115 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38532.78</price>
+        <cityprice cityId="615420100">38532.78</cityprice>
+    </offer>
+    <offer sku="1026561">
+      <model>УШМ BOSCH GWS 660-125, 660 Вт, 125 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31614.66</price>
+        <cityprice cityId="615420100">31614.66</cityprice>
+    </offer>
+    <offer sku="1026699">
+      <model>УШМ BOSCH GWS 9-125 S, 900 Вт, 125 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45435.09</price>
+        <cityprice cityId="615420100">45435.09</cityprice>
+    </offer>
+    <offer sku="1026485">
+      <model>УШМ Bort BWS-610-P, 600 Вт, 115 мм</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29239.46</price>
+        <cityprice cityId="615420100">29239.46</cityprice>
+    </offer>
+    <offer sku="12227021">
+      <model>УШМ болгарка Grandfar GWS 115-800 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18926.51</price>
+        <cityprice cityId="615420100">18926.51</cityprice>
+    </offer>
+    <offer sku="12226963">
+      <model>УШМ болгарка Grandfar GWS 115-20 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34567.86</price>
+        <cityprice cityId="615420100">34567.86</cityprice>
+    </offer>
+    <offer sku="12227014">
+      <model>УШМ болгарка Grandfar GWS 100-800 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16182.35</price>
+        <cityprice cityId="615420100">16182.35</cityprice>
+    </offer>
+    <offer sku="12227023">
+      <model>УШМ болгарка Grandfar GWS 125-710 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21130.78</price>
+        <cityprice cityId="615420100">21130.78</cityprice>
+    </offer>
+    <offer sku="12227039">
+      <model>УШМ болгарка Grandfar GWS 230-2600 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37087.31</price>
+        <cityprice cityId="615420100">37087.31</cityprice>
+    </offer>
+    <offer sku="6243040">
+      <model>Болгарка ТЭМП УШМ 150</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20220.82</price>
+        <cityprice cityId="615420100">20220.82</cityprice>
+    </offer>
+    <offer sku="12164990">
+      <model>Углошлифовальная машина Ресанта УШМ-11000А/125</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18170.68</price>
+        <cityprice cityId="615420100">18170.68</cityprice>
+    </offer>
+    <offer sku="6388226">
+      <model>Болгарка Зубр УШМ-П150-1400 В</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30335.74</price>
+        <cityprice cityId="615420100">30335.74</cityprice>
+    </offer>
+    <offer sku="6486331">
+      <model>Болгарка Зубр УШМ-125-800 М3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14878.51</price>
+        <cityprice cityId="615420100">14878.51</cityprice>
+    </offer>
+    <offer sku="359316">
+      <model>Болгарка Зубр &quot;Мастер&quot; УШМ-230-2205 П, 230 мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33798.33</price>
+        <cityprice cityId="615420100">33798.33</cityprice>
+    </offer>
+    <offer sku="6284371">
+      <model>Болгарка Зубр УШМ-П180-2100 ПВ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43259.39</price>
+        <cityprice cityId="615420100">43259.39</cityprice>
+    </offer>
+    <offer sku="3804707">
+      <model>УШМ Makita GA9040SF01</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95827.07</price>
+        <cityprice cityId="615420100">95827.07</cityprice>
+    </offer>
+    <offer sku="3804831">
+      <model>УШМ Makita GA9050R</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97813.98</price>
+        <cityprice cityId="615420100">97813.98</cityprice>
+    </offer>
+    <offer sku="1026710">
+      <model>УШМ BOSCH GWS 9-125 2019, 900 Вт, 125 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48411.99</price>
+        <cityprice cityId="615420100">48411.99</cityprice>
+    </offer>
+    <offer sku="1026404">
+      <model>УШМ BLACK+DECKER KG100, 1000 Вт, 125 мм</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>311848.75</price>
+        <cityprice cityId="615420100">311848.75</cityprice>
+    </offer>
+    <offer sku="12280954">
+      <model>Болгарка Hanskonner УШМ HAG16180EC</model>
+      <brand>Hanskonner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36538.96</price>
+        <cityprice cityId="615420100">36538.96</cityprice>
+    </offer>
+    <offer sku="1026496">
+      <model>УШМ Bort BWS-900, 900 Вт, 125 мм</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39519.81</price>
+        <cityprice cityId="615420100">39519.81</cityprice>
+    </offer>
+    <offer sku="6539690">
+      <model>Болгарка Зубр УШМ-П230-2600 ПВСТ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66971.87</price>
+        <cityprice cityId="615420100">66971.87</cityprice>
+    </offer>
+    <offer sku="6488847">
+      <model>Болгарка ТЭМП УШМ-180Л</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31113.74</price>
+        <cityprice cityId="615420100">31113.74</cityprice>
+    </offer>
+    <offer sku="12227041">
+      <model>УШМ болгарка Grandfar GWS 230-2600 G3</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45995.3</price>
+        <cityprice cityId="615420100">45995.3</cityprice>
+    </offer>
+    <offer sku="8540395">
+      <model>УШМ Ferm AGM1087 850W, 125 мм</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18556.99</price>
+        <cityprice cityId="615420100">18556.99</cityprice>
+    </offer>
+    <offer sku="360040">
+      <model>Болгарка Зубр &quot;Мастер&quot; УШМ-180-2005 П, 180 мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30881.66</price>
+        <cityprice cityId="615420100">30881.66</cityprice>
+    </offer>
+    <offer sku="360307">
+      <model>Болгарка Зубр &quot;Мастер&quot; УШМ-150-1405, 150 мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28561.71</price>
+        <cityprice cityId="615420100">28561.71</cityprice>
+    </offer>
+    <offer sku="6247879">
+      <model>Болгарка ТЭМП УШМ 180</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25069.03</price>
+        <cityprice cityId="615420100">25069.03</cityprice>
+    </offer>
+    <offer sku="1026858">
+      <model>УШМ CROWN CT13502-125R, 1010 Вт, 125 мм</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18546.12</price>
+        <cityprice cityId="615420100">18546.12</cityprice>
+    </offer>
+    <offer sku="6243540">
+      <model>Болгарка ТЭМП УШМ-125Л</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19759.41</price>
+        <cityprice cityId="615420100">19759.41</cityprice>
+    </offer>
+    <offer sku="6463111">
+      <model>Болгарка Зубр Мастер УШМ-125-800 М3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18511.26</price>
+        <cityprice cityId="615420100">18511.26</cityprice>
+    </offer>
+    <offer sku="12227008">
+      <model>УШМ болгарка Grandfar GWS 100-710 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12100.28</price>
+        <cityprice cityId="615420100">12100.28</cityprice>
+    </offer>
+    <offer sku="12227028">
+      <model>УШМ болгарка Grandfar GWS 125-900 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23244.16</price>
+        <cityprice cityId="615420100">23244.16</cityprice>
+    </offer>
+    <offer sku="12227034">
+      <model>УШМ болгарка Grandfar GWS 180-1500 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24206.49</price>
+        <cityprice cityId="615420100">24206.49</cityprice>
+    </offer>
+    <offer sku="3409262">
+      <model>УШМ Makita 9565 PCV</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86934.89</price>
+        <cityprice cityId="615420100">86934.89</cityprice>
+    </offer>
+    <offer sku="6247721">
+      <model>Болгарка ТЭМП УШМ 125Р</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19256.51</price>
+        <cityprice cityId="615420100">19256.51</cityprice>
+    </offer>
+    <offer sku="6667045">
+      <model>Болгарка Ресанта УШМ-230/2300</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25438.55</price>
+        <cityprice cityId="615420100">25438.55</cityprice>
+    </offer>
+    <offer sku="12227036">
+      <model>УШМ болгарка Grandfar GWS 180-2300 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43043.09</price>
+        <cityprice cityId="615420100">43043.09</cityprice>
+    </offer>
+    <offer sku="6661705">
+      <model>Болгарка Ресанта УШМ-115/800</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12248.48</price>
+        <cityprice cityId="615420100">12248.48</cityprice>
+    </offer>
+    <offer sku="358533">
+      <model>Болгарка Зубр &quot;Мастер&quot; УШМ-230-2605 П, 230 мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43472.88</price>
+        <cityprice cityId="615420100">43472.88</cityprice>
+    </offer>
+    <offer sku="6388094">
+      <model>Болгарка Ресанта УШМ-125/1100</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14291.71</price>
+        <cityprice cityId="615420100">14291.71</cityprice>
+    </offer>
+    <offer sku="6284304">
+      <model>Болгарка ТЭМП УШМ 230</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35399.77</price>
+        <cityprice cityId="615420100">35399.77</cityprice>
+    </offer>
+    <offer sku="6222724">
+      <model>Болгарка Зубр УШМ-180-1800 ПМ3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25113.49</price>
+        <cityprice cityId="615420100">25113.49</cityprice>
+    </offer>
+    <offer sku="1027945">
+      <model>УШМ P.I.T 611801</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23465.47</price>
+        <cityprice cityId="615420100">23465.47</cityprice>
+    </offer>
+    <offer sku="1137294">
+      <model>УШМ Crown СТ13500-230</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28056.8</price>
+        <cityprice cityId="615420100">28056.8</cityprice>
+    </offer>
+    <offer sku="12227020">
+      <model>УШМ болгарка Grandfar GWS 115-750 G2</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31627.51</price>
+        <cityprice cityId="615420100">31627.51</cityprice>
+    </offer>
+    <offer sku="12227027">
+      <model>УШМ болгарка Grandfar GWS 125-860 G5</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16814.12</price>
+        <cityprice cityId="615420100">16814.12</cityprice>
+    </offer>
+    <offer sku="10771719">
+      <model>Болгарка Интерскол УШМ-230/2100М</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37056.68</price>
+        <cityprice cityId="615420100">37056.68</cityprice>
+    </offer>
+    <offer sku="1026475">
+      <model>УШМ Bort BWS-580, 580 Вт, 115 мм</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200476.17</price>
+        <cityprice cityId="615420100">200476.17</cityprice>
+    </offer>
+    <offer sku="6223939">
+      <model>Болгарка Зубр УШМ-П125-1000</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28043.88</price>
+        <cityprice cityId="615420100">28043.88</cityprice>
+    </offer>
+    <offer sku="6223654">
+      <model>Болгарка Зубр УШМ-125-1100 ТМ3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25870.24</price>
+        <cityprice cityId="615420100">25870.24</cityprice>
+    </offer>
+    <offer sku="11900789">
+      <model>Углошлифовальная машина Вихрь УШМ-125/1100А 72/12/11</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12194.14</price>
+        <cityprice cityId="615420100">12194.14</cityprice>
+    </offer>
+    <offer sku="6469641">
+      <model>Болгарка Ресанта УШМ-125/900</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10867.23</price>
+        <cityprice cityId="615420100">10867.23</cityprice>
+    </offer>
+    <offer sku="1026545">
+      <model>УШМ BOSCH GWS 13-125 CIE, 1300 Вт, 125 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77257.24</price>
+        <cityprice cityId="615420100">77257.24</cityprice>
+    </offer>
+    <offer sku="1026568">
+      <model>УШМ BOSCH GWS 7-125, 720 Вт, 125 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30963.56</price>
+        <cityprice cityId="615420100">30963.56</cityprice>
+    </offer>
+    <offer sku="8539963">
+      <model>УШМ Ferm AGM1061S 900W, 125 мм</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11534.15</price>
+        <cityprice cityId="615420100">11534.15</cityprice>
+    </offer>
+    <offer sku="12227035">
+      <model>УШМ болгарка Grandfar GWS 180-2000 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32922.8</price>
+        <cityprice cityId="615420100">32922.8</cityprice>
+    </offer>
+    <offer sku="10683865">
+      <model>УШМ Bosch GWS 180-LI 06019H90R0</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>211691.22</price>
+        <cityprice cityId="615420100">211691.22</cityprice>
+    </offer>
+    <offer sku="12227029">
+      <model>УШМ болгарка Grandfar GWS 125-1100 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31969.36</price>
+        <cityprice cityId="615420100">31969.36</cityprice>
+    </offer>
+    <offer sku="1027944">
+      <model>УШМ P.I.T. 611501</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19657.65</price>
+        <cityprice cityId="615420100">19657.65</cityprice>
+    </offer>
+    <offer sku="6675979">
+      <model>Болгарка Зубр УШМ-230-2600 ПМ3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38892.7</price>
+        <cityprice cityId="615420100">38892.7</cityprice>
+    </offer>
+    <offer sku="6675980">
+      <model>Болгарка Зубр УШМ-230-2300 ПМ3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47636.67</price>
+        <cityprice cityId="615420100">47636.67</cityprice>
+    </offer>
+    <offer sku="3804935">
+      <model>УШМ Makita GA9060</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56317.14</price>
+        <cityprice cityId="615420100">56317.14</cityprice>
+    </offer>
+    <offer sku="6538334">
+      <model>Болгарка Зубр УШМ-125-950 М3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13682.31</price>
+        <cityprice cityId="615420100">13682.31</cityprice>
+    </offer>
+    <offer sku="1136691">
+      <model>УШМ Crown СТ13044</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19156.72</price>
+        <cityprice cityId="615420100">19156.72</cityprice>
+    </offer>
+    <offer sku="8541727">
+      <model>УШМ Ferm AGM1086 500W, 115 мм</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11200.19</price>
+        <cityprice cityId="615420100">11200.19</cityprice>
+    </offer>
+    <offer sku="12227016">
+      <model>УШМ болгарка Grandfar GWS 115-710 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17268.61</price>
+        <cityprice cityId="615420100">17268.61</cityprice>
+    </offer>
+    <offer sku="1026412">
+      <model>УШМ BLACK+DECKER G850, 850 Вт, 125 мм</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68146.7</price>
+        <cityprice cityId="615420100">68146.7</cityprice>
+    </offer>
+    <offer sku="6223585">
+      <model>Болгарка ТЭМП УШМ 125</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17585.77</price>
+        <cityprice cityId="615420100">17585.77</cityprice>
+    </offer>
+    <offer sku="358911">
+      <model>Болгарка Зубр &quot;Мастер&quot; УШМ-230-2405 П, 230 мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42372.82</price>
+        <cityprice cityId="615420100">42372.82</cityprice>
+    </offer>
+    <offer sku="6675949">
+      <model>Болгарка Зубр УШМ-П125-750</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25255.77</price>
+        <cityprice cityId="615420100">25255.77</cityprice>
+    </offer>
+    <offer sku="6467952">
+      <model>Болгарка Зубр УШМ-П125-850</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19930.66</price>
+        <cityprice cityId="615420100">19930.66</cityprice>
+    </offer>
+    <offer sku="361344">
+      <model>Болгарка Зубр Мастер УШМ-125-1005, 1000 Вт, 125 мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14371.74</price>
+        <cityprice cityId="615420100">14371.74</cityprice>
+    </offer>
+    <offer sku="1026518">
+      <model>УШМ BOSCH GWS 22-230 H, 2200 Вт, 230 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67185.36</price>
+        <cityprice cityId="615420100">67185.36</cityprice>
+    </offer>
+    <offer sku="6675206">
+      <model>Болгарка Интерскол УШМ-125/750</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29824.37</price>
+        <cityprice cityId="615420100">29824.37</cityprice>
+    </offer>
+    <offer sku="3975963">
+      <model>УШМ Makita MT M9003</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>210771.34</price>
+        <cityprice cityId="615420100">210771.34</cityprice>
+    </offer>
+    <offer sku="12227011">
+      <model>УШМ болгарка Grandfar GWS 100-710 G2</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19628.99</price>
+        <cityprice cityId="615420100">19628.99</cityprice>
+    </offer>
+    <offer sku="12227030">
+      <model>УШМ болгарка Grandfar GWS 125-1200 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7660.12</price>
+        <cityprice cityId="615420100">7660.12</cityprice>
+    </offer>
+    <offer sku="12227018">
+      <model>УШМ болгарка Grandfar GWS 115-750 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31979.24</price>
+        <cityprice cityId="615420100">31979.24</cityprice>
+    </offer>
+    <offer sku="1027920">
+      <model>УШМ P.I.T.  611251</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14889.46</price>
+        <cityprice cityId="615420100">14889.46</cityprice>
+    </offer>
+    <offer sku="12227031">
+      <model>УШМ болгарка Grandfar GWS 125-1300 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29638.62</price>
+        <cityprice cityId="615420100">29638.62</cityprice>
+    </offer>
+    <offer sku="12227040">
+      <model>УШМ болгарка Grandfar GWS 230-2600 G2</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34406.81</price>
+        <cityprice cityId="615420100">34406.81</cityprice>
+    </offer>
+    <offer sku="12227033">
+      <model>УШМ болгарка Grandfar GWS 180-1300 G3</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20487.58</price>
+        <cityprice cityId="615420100">20487.58</cityprice>
+    </offer>
+    <offer sku="6388322">
+      <model>Болгарка Зубр УШМ-П230-2400 ПВ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54363.82</price>
+        <cityprice cityId="615420100">54363.82</cityprice>
+    </offer>
+    <offer sku="12166115">
+      <model>Углошлифовальная машина Зубр УШМ-230/2100 ПМ3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29505.24</price>
+        <cityprice cityId="615420100">29505.24</cityprice>
+    </offer>
+    <offer sku="6223822">
+      <model>Болгарка Зубр УШМ-115-800 М3</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14084.23</price>
+        <cityprice cityId="615420100">14084.23</cityprice>
+    </offer>
+    <offer sku="6675951">
+      <model>Болгарка Зубр УШМ-П115-750</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18610.34</price>
+        <cityprice cityId="615420100">18610.34</cityprice>
+    </offer>
+    <offer sku="6247802">
+      <model>Болгарка ТЭМП УШМ-125ЛР</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24698.52</price>
+        <cityprice cityId="615420100">24698.52</cityprice>
+    </offer>
+    <offer sku="11330669">
+      <model>Бесщеточная УШМ Зубр Профессионал AB-125-42</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105718.14</price>
+        <cityprice cityId="615420100">105718.14</cityprice>
+    </offer>
+    <offer sku="1026523">
+      <model>УШМ BOSCH GWS 20-230 H, 2000 Вт, 230 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50185.49</price>
+        <cityprice cityId="615420100">50185.49</cityprice>
+    </offer>
+    <offer sku="1137506">
+      <model>УШМ Crown СТ13029</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17898.97</price>
+        <cityprice cityId="615420100">17898.97</cityprice>
+    </offer>
+    <offer sku="12166117">
+      <model>Углошлифовальная машина Stanley Fatmax FMEG232</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50434.88</price>
+        <cityprice cityId="615420100">50434.88</cityprice>
+    </offer>
+    <offer sku="12359284">
+      <model>Углошлифовальная машина Tulex TG-150-1.4</model>
+      <brand>Tulex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21158.45</price>
+        <cityprice cityId="615420100">21158.45</cityprice>
+    </offer>
+    <offer sku="12160192">
+      <model>Углошлифовальная машина Hilti AG 180-20D 2075676</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163825.97</price>
+        <cityprice cityId="615420100">163825.97</cityprice>
+    </offer>
+    <offer sku="12159935">
+      <model>Углошлифовальная машина Hilti AG 230-24D</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204977</price>
+        <cityprice cityId="615420100">204977</cityprice>
+    </offer>
+    <offer sku="12359282">
+      <model>Углошлифовальная машина Tulex TG-125-1.0</model>
+      <brand>Tulex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35339.35</price>
+        <cityprice cityId="615420100">35339.35</cityprice>
+    </offer>
+    <offer sku="383665">
+      <model>Углошлифовальная машина Tolsen 79520</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34579.81</price>
+        <cityprice cityId="615420100">34579.81</cityprice>
+    </offer>
+    <offer sku="704373">
+      <model>Углошлифовальная машина Tolsen 79525</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63322.2</price>
+        <cityprice cityId="615420100">63322.2</cityprice>
+    </offer>
+    <offer sku="12359280">
+      <model>Углошлифовальная машина Tulex TG-125-0.9</model>
+      <brand>Tulex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22723.57</price>
+        <cityprice cityId="615420100">22723.57</cityprice>
+    </offer>
+    <offer sku="12359286">
+      <model>Углошлифовальная машина Tulex TG-180-1.6</model>
+      <brand>Tulex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35099.41</price>
+        <cityprice cityId="615420100">35099.41</cityprice>
+    </offer>
+    <offer sku="349386">
+      <model>Углошлифовальная машина Tolsen 79524</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49796.21</price>
+        <cityprice cityId="615420100">49796.21</cityprice>
+    </offer>
+    <offer sku="12166292">
+      <model>Углошлифовальная машина Stanley FatMax FMEG220</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36621.13</price>
+        <cityprice cityId="615420100">36621.13</cityprice>
+    </offer>
+    <offer sku="6222623">
+      <model>Болгарка ТЭМП КШМ-650</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21588.24</price>
+        <cityprice cityId="615420100">21588.24</cityprice>
+    </offer>
+    <offer sku="6676057">
+      <model>Болгарка Ставр МШУ-180/1800М</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.6</price>
+        <cityprice cityId="615420100">29640.6</cityprice>
+    </offer>
+    <offer sku="6387607">
+      <model>Болгарка Ставр МШУ-125/1100</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10465.95</price>
+        <cityprice cityId="615420100">10465.95</cityprice>
+    </offer>
+    <offer sku="6676021">
+      <model>Болгарка Ставр МШУ-150/1300М</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37048.77</price>
+        <cityprice cityId="615420100">37048.77</cityprice>
+    </offer>
+    <offer sku="6674086">
+      <model>Болгарка Ставр МШУ-115/750</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24151.16</price>
+        <cityprice cityId="615420100">24151.16</cityprice>
+    </offer>
+    <offer sku="6284305">
+      <model>Болгарка Ставр МШУ-125/900</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71752.98</price>
+        <cityprice cityId="615420100">71752.98</cityprice>
+    </offer>
+    <offer sku="6482843">
+      <model>Болгарка Ставр МШУ-115/750М</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20331.48</price>
+        <cityprice cityId="615420100">20331.48</cityprice>
+    </offer>
+    <offer sku="6671598">
+      <model>Болгарка Ставр МШУ-150/1300</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35652.7</price>
+        <cityprice cityId="615420100">35652.7</cityprice>
+    </offer>
+    <offer sku="6222551">
+      <model>Болгарка Crown СТ13497-125</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19681.36</price>
+        <cityprice cityId="615420100">19681.36</cityprice>
+    </offer>
+    <offer sku="6464892">
+      <model>Болгарка Crown СТ13489-230 S</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41784.35</price>
+        <cityprice cityId="615420100">41784.35</cityprice>
+    </offer>
+    <offer sku="6465763">
+      <model>Болгарка Crown СТ13489-230</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29546.19</price>
+        <cityprice cityId="615420100">29546.19</cityprice>
+    </offer>
+    <offer sku="6247972">
+      <model>Болгарка Crown СТ13336 6122А</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23012.96</price>
+        <cityprice cityId="615420100">23012.96</cityprice>
+    </offer>
+    <offer sku="6674125">
+      <model>Болгарка СПЕЦ БШУ-650</model>
+      <brand>СПЕЦ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29222.67</price>
+        <cityprice cityId="615420100">29222.67</cityprice>
+    </offer>
+    <offer sku="6667546">
+      <model>Болгарка СПЕЦ БШУ-850</model>
+      <brand>СПЕЦ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32850.68</price>
+        <cityprice cityId="615420100">32850.68</cityprice>
+    </offer>
+    <offer sku="10770020">
+      <model>Аккумуляторная полировальная машина Ryobi R18B-0 ONE+</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43348.39</price>
+        <cityprice cityId="615420100">43348.39</cityprice>
+    </offer>
+    <offer sku="10856950">
+      <model>Аккумуляторная полировальная машина P.I.T. 61256-Li</model>
+      <brand>PIT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32014.81</price>
+        <cityprice cityId="615420100">32014.81</cityprice>
+    </offer>
+    <offer sku="12227454">
+      <model>Полировальная машина Grandfar GPV 215-750 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>259327.01</price>
+        <cityprice cityId="615420100">259327.01</cityprice>
+    </offer>
+    <offer sku="12227371">
+      <model>Полировальная машина Grandfar GPO 180-1200 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>435622.96</price>
+        <cityprice cityId="615420100">435622.96</cityprice>
+    </offer>
+    <offer sku="12227372">
+      <model>Полировальная машина Grandfar GPO180-1300G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>402318.78</price>
+        <cityprice cityId="615420100">402318.78</cityprice>
+    </offer>
+    <offer sku="12165306">
+      <model>Полировальная машина Makita PO5000C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>173244.37</price>
+        <cityprice cityId="615420100">173244.37</cityprice>
+    </offer>
+    <offer sku="12165303">
+      <model>Машина полировальная Einhell CC-PO 1100/1 E 2093264</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55061.37</price>
+        <cityprice cityId="615420100">55061.37</cityprice>
+    </offer>
+    <offer sku="6674124">
+      <model>Болгарка Победа 125/1175</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34406.81</price>
+        <cityprice cityId="615420100">34406.81</cityprice>
+    </offer>
+    <offer sku="12165283">
+      <model>Орбитальная пневмошлифмашина Mirka Pros 625CV 8995625111</model>
+      <brand>Mirka</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163613.45</price>
+        <cityprice cityId="615420100">163613.45</cityprice>
+    </offer>
+    <offer sku="12165281">
+      <model>Орбитальная пневмошлифмашина Mirka Pros 650CV 8995650111</model>
+      <brand>Mirka</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164722.69</price>
+        <cityprice cityId="615420100">164722.69</cityprice>
+    </offer>
+    <offer sku="6675915">
+      <model>Болгарка Total TT МШУ-230/2200</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42484.86</price>
+        <cityprice cityId="615420100">42484.86</cityprice>
+    </offer>
+    <offer sku="6463273">
+      <model>Болгарка Лепсе МШУ-1,8-230 Blue</model>
+      <brand>ЛЕПСЕ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35462.85</price>
+        <cityprice cityId="615420100">35462.85</cityprice>
+    </offer>
+    <offer sku="6248165">
+      <model>Болгарка Лепсе МШУ-2,0-230 Blue</model>
+      <brand>ЛЕПСЕ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37931.08</price>
+        <cityprice cityId="615420100">37931.08</cityprice>
+    </offer>
+    <offer sku="679337">
+      <model>Болгарка Total Tools TT МША-125-21/5Б Freeman</model>
+      <brand>Total Tools</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35109.99</price>
+        <cityprice cityId="615420100">35109.99</cityprice>
+    </offer>
+    <offer sku="6671578">
+      <model>Болгарка Metabo W 9-125 Quick коробка 600374000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132394.68</price>
+        <cityprice cityId="615420100">132394.68</cityprice>
+    </offer>
+    <offer sku="6665453">
+      <model>Болгарка Metabo W 9-125 Quick Кейс 600374500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>153947.35</price>
+        <cityprice cityId="615420100">153947.35</cityprice>
+    </offer>
+    <offer sku="6223889">
+      <model>Болгарка Зубр ЗПМ-240</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13658.39</price>
+        <cityprice cityId="615420100">13658.39</cityprice>
+    </offer>
+    <offer sku="6223366">
+      <model>Болгарка Зубр ЗОШМ-450-125</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17330.04</price>
+        <cityprice cityId="615420100">17330.04</cityprice>
+    </offer>
+    <offer sku="10856925">
+      <model>Дельташлифмашина P.I.T. 91400-Li</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13407.43</price>
+        <cityprice cityId="615420100">13407.43</cityprice>
+    </offer>
+    <offer sku="6551263">
+      <model>Болгарка Hyundai HY-1200-150</model>
+      <brand>Hyundai </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24203.53</price>
+        <cityprice cityId="615420100">24203.53</cityprice>
+    </offer>
+    <offer sku="6539602">
+      <model>Болгарка Bosch GWS 17-125 CI 060179G002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87933.78</price>
+        <cityprice cityId="615420100">87933.78</cityprice>
+    </offer>
+    <offer sku="6223748">
+      <model>Болгарка Makita BO5031K</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111646.26</price>
+        <cityprice cityId="615420100">111646.26</cityprice>
+    </offer>
+    <offer sku="6390316">
+      <model>Болгарка DeWALT DWE4377-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185755.69</price>
+        <cityprice cityId="615420100">185755.69</cityprice>
+    </offer>
+    <offer sku="6223436">
+      <model>Болгарка P.I.T. 612301 2500 w 230</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29546.74</price>
+        <cityprice cityId="615420100">29546.74</cityprice>
+    </offer>
+    <offer sku="6243019">
+      <model>Болгарка Metabo WEPBA 17-150 Quick RT 601098000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>255884.73</price>
+        <cityprice cityId="615420100">255884.73</cityprice>
+    </offer>
+    <offer sku="6465822">
+      <model>Болгарка DWT WS13-180 TV</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45498.32</price>
+        <cityprice cityId="615420100">45498.32</cityprice>
+    </offer>
+    <offer sku="6481879">
+      <model>Болгарка Stanley STGS7125-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41809.05</price>
+        <cityprice cityId="615420100">41809.05</cityprice>
+    </offer>
+    <offer sku="6486547">
+      <model>Болгарка DWT WS08-115</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37765.09</price>
+        <cityprice cityId="615420100">37765.09</cityprice>
+    </offer>
+    <offer sku="6665456">
+      <model>Болгарка Metabo WEPBA 17-125 Quick 601097000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>381473.53</price>
+        <cityprice cityId="615420100">381473.53</cityprice>
+    </offer>
+    <offer sku="6667250">
+      <model>Болгарка Festool Pollux 180 E</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>323224.56</price>
+        <cityprice cityId="615420100">323224.56</cityprice>
+    </offer>
+    <offer sku="6674223">
+      <model>Болгарка Ingco INDUSTRIAL AG220018</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47502.03</price>
+        <cityprice cityId="615420100">47502.03</cityprice>
+    </offer>
+    <offer sku="6675916">
+      <model>Болгарка Tesla TAG1200CV</model>
+      <brand>Tesla</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195529.16</price>
+        <cityprice cityId="615420100">195529.16</cityprice>
+    </offer>
+    <offer sku="6247931">
+      <model>Болгарка Bosch GWS 15-125 CIEP 0601796202</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97695.42</price>
+        <cityprice cityId="615420100">97695.42</cityprice>
+    </offer>
+    <offer sku="6539388">
+      <model>Болгарка Bosch GWS 19-150 CI</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137334.78</price>
+        <cityprice cityId="615420100">137334.78</cityprice>
+    </offer>
+    <offer sku="6396040">
+      <model>Болгарка Makita GA9061R</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>144925.74</price>
+        <cityprice cityId="615420100">144925.74</cityprice>
+    </offer>
+    <offer sku="6462395">
+      <model>Болгарка DWT WS13-180 D</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47285.85</price>
+        <cityprice cityId="615420100">47285.85</cityprice>
+    </offer>
+    <offer sku="6284369">
+      <model>Болгарка Metabo SXE 3150</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>166808.4</price>
+        <cityprice cityId="615420100">166808.4</cityprice>
+    </offer>
+    <offer sku="6247985">
+      <model>Болгарка Fubag GA125</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33863.4</price>
+        <cityprice cityId="615420100">33863.4</cityprice>
+    </offer>
+    <offer sku="10683585">
+      <model>Болгарка Bosch GWS 18V-10 06019J4004</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>216372.43</price>
+        <cityprice cityId="615420100">216372.43</cityprice>
+    </offer>
+    <offer sku="6673971">
+      <model>Болгарка Bosch GWX 15-125 PS 06017B9002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104720.24</price>
+        <cityprice cityId="615420100">104720.24</cityprice>
+    </offer>
+    <offer sku="6387818">
+      <model>Болгарка Einhell TC-DW 225</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74189.72</price>
+        <cityprice cityId="615420100">74189.72</cityprice>
+    </offer>
+    <offer sku="6674215">
+      <model>Болгарка Kolner KAG 150/1400</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14972.46</price>
+        <cityprice cityId="615420100">14972.46</cityprice>
+    </offer>
+    <offer sku="6468501">
+      <model>Болгарка DWT WS08-125 T</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14202.79</price>
+        <cityprice cityId="615420100">14202.79</cityprice>
+    </offer>
+    <offer sku="6387533">
+      <model>Болгарка DeWALT DWP849X</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88307.25</price>
+        <cityprice cityId="615420100">88307.25</cityprice>
+    </offer>
+    <offer sku="6387691">
+      <model>Болгарка Milwaukee AGV 17-180 XC DMS</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168590.3</price>
+        <cityprice cityId="615420100">168590.3</cityprice>
+    </offer>
+    <offer sku="6441471">
+      <model>Болгарка DeWALT DWE4559-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85957.74</price>
+        <cityprice cityId="615420100">85957.74</cityprice>
+    </offer>
+    <offer sku="6676054">
+      <model>Болгарка Ryobi RAG800-125G</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37571.44</price>
+        <cityprice cityId="615420100">37571.44</cityprice>
+    </offer>
+    <offer sku="6676055">
+      <model>Болгарка Ryobi RAG600-115G</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31953.55</price>
+        <cityprice cityId="615420100">31953.55</cityprice>
+    </offer>
+    <offer sku="6661591">
+      <model>Болгарка DWT WS08-125</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14900.33</price>
+        <cityprice cityId="615420100">14900.33</cityprice>
+    </offer>
+    <offer sku="6661770">
+      <model>Болгарка Total TP1141806</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33501.78</price>
+        <cityprice cityId="615420100">33501.78</cityprice>
+    </offer>
+    <offer sku="6317651">
+      <model>Болгарка Oasis AG-72/125</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15017.9</price>
+        <cityprice cityId="615420100">15017.9</cityprice>
+    </offer>
+    <offer sku="6248135">
+      <model>Болгарка IVT AG-180G-RC</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32144.16</price>
+        <cityprice cityId="615420100">32144.16</cityprice>
+    </offer>
+    <offer sku="6673882">
+      <model>Болгарка Makita GA4534</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30017.16</price>
+        <cityprice cityId="615420100">30017.16</cityprice>
+    </offer>
+    <offer sku="6485777">
+      <model>Болгарка DWT WS22-230 D</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30361.85</price>
+        <cityprice cityId="615420100">30361.85</cityprice>
+    </offer>
+    <offer sku="10683651">
+      <model>Болгарка Bosch GWS 180-LI 06019H90R1</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133728.51</price>
+        <cityprice cityId="615420100">133728.51</cityprice>
+    </offer>
+    <offer sku="6388321">
+      <model>Болгарка Einhell BT-AG 850</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21440.03</price>
+        <cityprice cityId="615420100">21440.03</cityprice>
+    </offer>
+    <offer sku="6394609">
+      <model>Болгарка Metabo W 650-125 603602010</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38669.13</price>
+        <cityprice cityId="615420100">38669.13</cityprice>
+    </offer>
+    <offer sku="6467153">
+      <model>Болгарка TCH TCH6873</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25674.69</price>
+        <cityprice cityId="615420100">25674.69</cityprice>
+    </offer>
+    <offer sku="6247963">
+      <model>Болгарка DWT WS08-115 V</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94849.92</price>
+        <cityprice cityId="615420100">94849.92</cityprice>
+    </offer>
+    <offer sku="6551376">
+      <model>Болгарка DWT WS24-180 D</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74254.64</price>
+        <cityprice cityId="615420100">74254.64</cityprice>
+    </offer>
+    <offer sku="6224198">
+      <model>Болгарка Metabo WB 18 LTX BL 125 Quick 613077850</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136346.76</price>
+        <cityprice cityId="615420100">136346.76</cityprice>
+    </offer>
+    <offer sku="6249275">
+      <model>Болгарка Metabo WE 1500-125 RT</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149191.02</price>
+        <cityprice cityId="615420100">149191.02</cityprice>
+    </offer>
+    <offer sku="6317638">
+      <model>Болгарка Einhell TH-OS 1016</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290330.67</price>
+        <cityprice cityId="615420100">290330.67</cityprice>
+    </offer>
+    <offer sku="6388214">
+      <model>Болгарка Metabo WEPBA 24-180 MVT Quick 606480000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>304211.36</price>
+        <cityprice cityId="615420100">304211.36</cityprice>
+    </offer>
+    <offer sku="6441608">
+      <model>Болгарка Einhell BT-DS 180</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224836.8</price>
+        <cityprice cityId="615420100">224836.8</cityprice>
+    </offer>
+    <offer sku="6467772">
+      <model>Болгарка Metabo WQ 1100-125 610035010</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101766.06</price>
+        <cityprice cityId="615420100">101766.06</cityprice>
+    </offer>
+    <offer sku="6487134">
+      <model>Болгарка Einhell RT-AG 230</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68656.52</price>
+        <cityprice cityId="615420100">68656.52</cityprice>
+    </offer>
+    <offer sku="6674189">
+      <model>Болгарка Dexter Power AG115-4</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72125.46</price>
+        <cityprice cityId="615420100">72125.46</cityprice>
+    </offer>
+    <offer sku="3966774">
+      <model>Болгарка Makita PW5000CH</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>270033.8</price>
+        <cityprice cityId="615420100">270033.8</cityprice>
+    </offer>
+    <offer sku="6245293">
+      <model>Болгарка Stanley STGS9115-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49302.2</price>
+        <cityprice cityId="615420100">49302.2</cityprice>
+    </offer>
+    <offer sku="6284436">
+      <model>Болгарка Metabo W 9-125</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76077.54</price>
+        <cityprice cityId="615420100">76077.54</cityprice>
+    </offer>
+    <offer sku="6466787">
+      <model>Болгарка Milwaukee AG 10-125 EK</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>650575.6</price>
+        <cityprice cityId="615420100">650575.6</cityprice>
+    </offer>
+    <offer sku="6489534">
+      <model>Болгарка Metabo WEV 10-125 Quick</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>122514.48</price>
+        <cityprice cityId="615420100">122514.48</cityprice>
+    </offer>
+    <offer sku="6665457">
+      <model>Болгарка Metabo WX 17-180 600179000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>159030.63</price>
+        <cityprice cityId="615420100">159030.63</cityprice>
+    </offer>
+    <offer sku="6667151">
+      <model>Болгарка Dexter Power A7187-DP</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58292.19</price>
+        <cityprice cityId="615420100">58292.19</cityprice>
+    </offer>
+    <offer sku="6674021">
+      <model>Болгарка Milwaukee SPS 140 4933447015</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>892142.54</price>
+        <cityprice cityId="615420100">892142.54</cityprice>
+    </offer>
+    <offer sku="6674031">
+      <model>Болгарка Ingco INDUSTRIAL AG8503815</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34579.71</price>
+        <cityprice cityId="615420100">34579.71</cityprice>
+    </offer>
+    <offer sku="6486486">
+      <model>Болгарка Bosch GWS 22-230 JH</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77065.56</price>
+        <cityprice cityId="615420100">77065.56</cityprice>
+    </offer>
+    <offer sku="6672707">
+      <model>Болгарка Stanley Fatmax FMEG230</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164151.57</price>
+        <cityprice cityId="615420100">164151.57</cityprice>
+    </offer>
+    <offer sku="6223500">
+      <model>Болгарка P.I.T. 61257 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17458.31</price>
+        <cityprice cityId="615420100">17458.31</cityprice>
+    </offer>
+    <offer sku="6674226">
+      <model>Болгарка Metabo WEV 15-125 Quick 600468500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174879.54</price>
+        <cityprice cityId="615420100">174879.54</cityprice>
+    </offer>
+    <offer sku="6675166">
+      <model>Болгарка Bosch GWS 9-115 P Professional 0601790200</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87923.9</price>
+        <cityprice cityId="615420100">87923.9</cityprice>
+    </offer>
+    <offer sku="6675914">
+      <model>Болгарка Hammer USM710D 501520</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51377.04</price>
+        <cityprice cityId="615420100">51377.04</cityprice>
+    </offer>
+    <offer sku="6551495">
+      <model>Болгарка KEN 9925C</model>
+      <brand>KEN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18796.09</price>
+        <cityprice cityId="615420100">18796.09</cityprice>
+    </offer>
+    <offer sku="6466643">
+      <model>Болгарка Crown CT13310</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19172.53</price>
+        <cityprice cityId="615420100">19172.53</cityprice>
+    </offer>
+    <offer sku="6223566">
+      <model>Болгарка DeWALT D28136</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194409.68</price>
+        <cityprice cityId="615420100">194409.68</cityprice>
+    </offer>
+    <offer sku="6473131">
+      <model>Болгарка Makita BO6030</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84201.04</price>
+        <cityprice cityId="615420100">84201.04</cityprice>
+    </offer>
+    <offer sku="6317672">
+      <model>Болгарка TCH TCH6821</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25907.86</price>
+        <cityprice cityId="615420100">25907.86</cityprice>
+    </offer>
+    <offer sku="6223664">
+      <model>Болгарка Crown CT13305</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26237.86</price>
+        <cityprice cityId="615420100">26237.86</cityprice>
+    </offer>
+    <offer sku="6248044">
+      <model>Болгарка IVT AG-150-RC</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18643.94</price>
+        <cityprice cityId="615420100">18643.94</cityprice>
+    </offer>
+    <offer sku="6674042">
+      <model>Болгарка Metabo W 24-230 MVT 606467000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94849.92</price>
+        <cityprice cityId="615420100">94849.92</cityprice>
+    </offer>
+    <offer sku="6222294">
+      <model>Болгарка Bosch PWS 750-125</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26933.43</price>
+        <cityprice cityId="615420100">26933.43</cityprice>
+    </offer>
+    <offer sku="6223396">
+      <model>Болгарка Makita GA5030</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21303.69</price>
+        <cityprice cityId="615420100">21303.69</cityprice>
+    </offer>
+    <offer sku="6247919">
+      <model>Болгарка Makita 9565PCV</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70853.88</price>
+        <cityprice cityId="615420100">70853.88</cityprice>
+    </offer>
+    <offer sku="6466873">
+      <model>Болгарка Oasis AG-90/125</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18574.78</price>
+        <cityprice cityId="615420100">18574.78</cityprice>
+    </offer>
+    <offer sku="6223702">
+      <model>Болгарка DWT WS10-125 T</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21333.29</price>
+        <cityprice cityId="615420100">21333.29</cityprice>
+    </offer>
+    <offer sku="6223703">
+      <model>Болгарка DeWALT DCG405N-XJ</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78615.76</price>
+        <cityprice cityId="615420100">78615.76</cityprice>
+    </offer>
+    <offer sku="6317658">
+      <model>Болгарка Milwaukee AGV 15-125 XE</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135358.74</price>
+        <cityprice cityId="615420100">135358.74</cityprice>
+    </offer>
+    <offer sku="6317779">
+      <model>Болгарка Milwaukee AGV 17-125 XE</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168457.41</price>
+        <cityprice cityId="615420100">168457.41</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
