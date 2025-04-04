@@ -95808,5 +95808,3200 @@
       <price>39504</price>
         <cityprice cityId="615420100">39504</cityprice>
     </offer>
+    <offer sku="11682784">
+      <model>Душевой набор Ferro  N375BL-B</model>
+      <brand>Ferro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38725.61</price>
+        <cityprice cityId="615420100">38725.61</cityprice>
+    </offer>
+    <offer sku="11686555">
+      <model>Душевой набор Grohe Euphoria Cube 27891000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179722.47</price>
+        <cityprice cityId="615420100">179722.47</cityprice>
+    </offer>
+    <offer sku="11638042">
+      <model>Душевой набор Cersanit Neno 63068</model>
+      <brand>Cersanit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47351.75</price>
+        <cityprice cityId="615420100">47351.75</cityprice>
+    </offer>
+    <offer sku="11745939">
+      <model>Душевой набор Iddis SPA1F68i16</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78544.63</price>
+        <cityprice cityId="615420100">78544.63</cityprice>
+    </offer>
+    <offer sku="11631086">
+      <model>Душевой набор Lemark LM3788GM</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>154932.4</price>
+        <cityprice cityId="615420100">154932.4</cityprice>
+    </offer>
+    <offer sku="11826060">
+      <model>Душевой набор Hansgrohe Vernis Blend 26276670</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375447.6</price>
+        <cityprice cityId="615420100">375447.6</cityprice>
+    </offer>
+    <offer sku="11855574">
+      <model>Душевой набор Rose R1096H</model>
+      <brand>Rose</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182751.1</price>
+        <cityprice cityId="615420100">182751.1</cityprice>
+    </offer>
+    <offer sku="11668890">
+      <model>Душевой набор Hansgrohe  26532400</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58092.78</price>
+        <cityprice cityId="615420100">58092.78</cityprice>
+    </offer>
+    <offer sku="11699182">
+      <model>Душевой набор Jacob Delafon E99898-BN</model>
+      <brand>Jacob Delafon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139437.79</price>
+        <cityprice cityId="615420100">139437.79</cityprice>
+    </offer>
+    <offer sku="11816568">
+      <model>Душевой набор Lemark  LM7260BL</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>206453.7</price>
+        <cityprice cityId="615420100">206453.7</cityprice>
+    </offer>
+    <offer sku="11855566">
+      <model>Душевой набор Gross Aqua Evo Matt Black GA9017SMD05MB</model>
+      <brand>Gross Aqua</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187723.8</price>
+        <cityprice cityId="615420100">187723.8</cityprice>
+    </offer>
+    <offer sku="11853875">
+      <model>Душевой набор Milardo NIA1F65M16</model>
+      <brand>Milardo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29609.97</price>
+        <cityprice cityId="615420100">29609.97</cityprice>
+    </offer>
+    <offer sku="11621647">
+      <model>Душевой набор Rubineta Stream + P15 625030</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86151.94</price>
+        <cityprice cityId="615420100">86151.94</cityprice>
+    </offer>
+    <offer sku="11848725">
+      <model>Душевой набор Gappo G7199-20</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118558.45</price>
+        <cityprice cityId="615420100">118558.45</cityprice>
+    </offer>
+    <offer sku="11850961">
+      <model>Душевой набор Rubineta Aneta 624134</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88916.86</price>
+        <cityprice cityId="615420100">88916.86</cityprice>
+    </offer>
+    <offer sku="11857982">
+      <model>Душевой набор HansGrohe 26586400</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59277.25</price>
+        <cityprice cityId="615420100">59277.25</cityprice>
+    </offer>
+    <offer sku="11914915">
+      <model>Душевой набор Hansgrohe Croma Select S 26890340</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1078779.52</price>
+        <cityprice cityId="615420100">1078779.52</cityprice>
+    </offer>
+    <offer sku="11622705">
+      <model>Душевой набор Gloria DSH012</model>
+      <brand>Gloria</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94849.92</price>
+        <cityprice cityId="615420100">94849.92</cityprice>
+    </offer>
+    <offer sku="11666791">
+      <model>Душевой набор Gloria DSH009</model>
+      <brand>Gloria</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197599.06</price>
+        <cityprice cityId="615420100">197599.06</cityprice>
+    </offer>
+    <offer sku="11683577">
+      <model>Душевой набор Grohe 26692000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217346.62</price>
+        <cityprice cityId="615420100">217346.62</cityprice>
+    </offer>
+    <offer sku="11713801">
+      <model>Душевой набор Lemark LM8068C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4450050.97</price>
+        <cityprice cityId="615420100">4450050.97</cityprice>
+    </offer>
+    <offer sku="11722803">
+      <model>Душевой набор Rose R2736H</model>
+      <brand>Rose</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187717.87</price>
+        <cityprice cityId="615420100">187717.87</cityprice>
+    </offer>
+    <offer sku="11839792">
+      <model>Душевой набор Lemark Tropic LM7012BL</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>188286.63</price>
+        <cityprice cityId="615420100">188286.63</cityprice>
+    </offer>
+    <offer sku="11534664">
+      <model>Душевой набор Rubineta 625038</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163418.51</price>
+        <cityprice cityId="615420100">163418.51</cityprice>
+    </offer>
+    <offer sku="11543918">
+      <model>Душевой набор Grohe  26673000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197591.16</price>
+        <cityprice cityId="615420100">197591.16</cityprice>
+    </offer>
+    <offer sku="11549012">
+      <model>Душевой набор Grohe 26670000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>377797.11</price>
+        <cityprice cityId="615420100">377797.11</cityprice>
+    </offer>
+    <offer sku="11602653">
+      <model>Душевой набор Grohe 28797000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110837.07</price>
+        <cityprice cityId="615420100">110837.07</cityprice>
+    </offer>
+    <offer sku="11612327">
+      <model>Душевой набор Lemark Yeti LM7822C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>266758.48</price>
+        <cityprice cityId="615420100">266758.48</cityprice>
+    </offer>
+    <offer sku="11682754">
+      <model>Душевой набор Infatti QA202CR</model>
+      <brand>INFATTI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207478.27</price>
+        <cityprice cityId="615420100">207478.27</cityprice>
+    </offer>
+    <offer sku="11850959">
+      <model>Душевой набор Ideal Standard B2621AA</model>
+      <brand>Ideal Standard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286204.69</price>
+        <cityprice cityId="615420100">286204.69</cityprice>
+    </offer>
+    <offer sku="12019842">
+      <model>Душевой набор RedBlu 978200300</model>
+      <brand>RedBlu</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118556.47</price>
+        <cityprice cityId="615420100">118556.47</cityprice>
+    </offer>
+    <offer sku="11668891">
+      <model>Душевой набор Hansgrohe 26620000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137234.99</price>
+        <cityprice cityId="615420100">137234.99</cityprice>
+    </offer>
+    <offer sku="11713955">
+      <model>Душевой набор Zegor LOB16-A128</model>
+      <brand>Zegor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69060.62</price>
+        <cityprice cityId="615420100">69060.62</cityprice>
+    </offer>
+    <offer sku="11879817">
+      <model>Душевой набор Hansgrohe 26427670</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395205.04</price>
+        <cityprice cityId="615420100">395205.04</cityprice>
+    </offer>
+    <offer sku="11648866">
+      <model>Душевой набор Grohe Tempesta Cosmopolitan 26083002</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49397.05</price>
+        <cityprice cityId="615420100">49397.05</cityprice>
+    </offer>
+    <offer sku="11855884">
+      <model>Душевой набор Kolag 2088S</model>
+      <brand>Kolag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56217.35</price>
+        <cityprice cityId="615420100">56217.35</cityprice>
+    </offer>
+    <offer sku="11848708">
+      <model>Душевой набор Grohe  27853001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44748.41</price>
+        <cityprice cityId="615420100">44748.41</cityprice>
+    </offer>
+    <offer sku="11848721">
+      <model>Душевой набор Gloria BFA20505</model>
+      <brand>Gloria</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97805.09</price>
+        <cityprice cityId="615420100">97805.09</cityprice>
+    </offer>
+    <offer sku="11552433">
+      <model>Душевой набор Lemark Contest LM5862CW</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207477.28</price>
+        <cityprice cityId="615420100">207477.28</cityprice>
+    </offer>
+    <offer sku="11554324">
+      <model>Душевой набор Grohe RainShower SmartActive Cube 130 26583000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118546.59</price>
+        <cityprice cityId="615420100">118546.59</cityprice>
+    </offer>
+    <offer sku="11588423">
+      <model>Душевой набор Grohe Grandera 27969000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118555.48</price>
+        <cityprice cityId="615420100">118555.48</cityprice>
+    </offer>
+    <offer sku="11599786">
+      <model>Душевой набор Lemark LM8810C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79031.72</price>
+        <cityprice cityId="615420100">79031.72</cityprice>
+    </offer>
+    <offer sku="11629633">
+      <model>Душевой набор Iddis Aquajoy AQU3F00I16</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174878.55</price>
+        <cityprice cityId="615420100">174878.55</cityprice>
+    </offer>
+    <offer sku="11629634">
+      <model>Душевой набор Fixsen FX-7113</model>
+      <brand>FIXSEN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5438461.24</price>
+        <cityprice cityId="615420100">5438461.24</cityprice>
+    </offer>
+    <offer sku="11854649">
+      <model>Душевой набор Hansgrohe 26890990</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>805236.3</price>
+        <cityprice cityId="615420100">805236.3</cityprice>
+    </offer>
+    <offer sku="11857264">
+      <model>Душевой набор HansGrohe Croma E Showerpipe 280 HG27630000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6329365.79</price>
+        <cityprice cityId="615420100">6329365.79</cityprice>
+    </offer>
+    <offer sku="11724922">
+      <model>Душевой набор  Brimix 3082</model>
+      <brand>BRIMIX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104418.89</price>
+        <cityprice cityId="615420100">104418.89</cityprice>
+    </offer>
+    <offer sku="11629637">
+      <model>Душевой набор Grohe Vitalio Go 15695466</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27220.94</price>
+        <cityprice cityId="615420100">27220.94</cityprice>
+    </offer>
+    <offer sku="11839797">
+      <model>Душевой набор Grohe 26086001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72606.54</price>
+        <cityprice cityId="615420100">72606.54</cityprice>
+    </offer>
+    <offer sku="11849958">
+      <model>Душевой набор Hansgrohe  24160670</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118547.58</price>
+        <cityprice cityId="615420100">118547.58</cityprice>
+    </offer>
+    <offer sku="11853815">
+      <model>Душевой набор Ferro  N320</model>
+      <brand>Ferro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30978.38</price>
+        <cityprice cityId="615420100">30978.38</cityprice>
+    </offer>
+    <offer sku="11856508">
+      <model>Душевой набор Hansgrohe Croma Select S 26890140</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1086822</price>
+        <cityprice cityId="615420100">1086822</cityprice>
+    </offer>
+    <offer sku="11857261">
+      <model>Душевой набор Idael Standart BD002XC</model>
+      <brand>Ideal Standard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>385318.91</price>
+        <cityprice cityId="615420100">385318.91</cityprice>
+    </offer>
+    <offer sku="11853495">
+      <model>Душевой набор Magnus 9375</model>
+      <brand>MAGNUS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97805.09</price>
+        <cityprice cityId="615420100">97805.09</cityprice>
+    </offer>
+    <offer sku="11883962">
+      <model>Душевой набор Esko SCS855</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39516.85</price>
+        <cityprice cityId="615420100">39516.85</cityprice>
+    </offer>
+    <offer sku="11558645">
+      <model>Душевой набор Grohe Euphoria 310 26075001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3560240.16</price>
+        <cityprice cityId="615420100">3560240.16</cityprice>
+    </offer>
+    <offer sku="11576090">
+      <model>Душевой набор Teorema Goodlife 1526311-003</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191363.67</price>
+        <cityprice cityId="615420100">191363.67</cityprice>
+    </offer>
+    <offer sku="11588448">
+      <model>Душевой набор Iddis S316101</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3460944.15</price>
+        <cityprice cityId="615420100">3460944.15</cityprice>
+    </offer>
+    <offer sku="11612329">
+      <model>Душевой набор HansGrohe Croma Select E HG27294000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7713699.38</price>
+        <cityprice cityId="615420100">7713699.38</cityprice>
+    </offer>
+    <offer sku="11683583">
+      <model>Душевой набор Grohe NTemp Cosmo 100 III 27579002</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59277.25</price>
+        <cityprice cityId="615420100">59277.25</cityprice>
+    </offer>
+    <offer sku="11853781">
+      <model>Душевой набор Triton Люкс В2005М</model>
+      <brand>Triton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182734.3</price>
+        <cityprice cityId="615420100">182734.3</cityprice>
+    </offer>
+    <offer sku="11682760">
+      <model>Душевой набор Hansgrohe  26792000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>790416</price>
+        <cityprice cityId="615420100">790416</cityprice>
+    </offer>
+    <offer sku="11556673">
+      <model>Душевой набор Fixsen FX1244342CP</model>
+      <brand>FIXSEN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17643.18</price>
+        <cityprice cityId="615420100">17643.18</cityprice>
+    </offer>
+    <offer sku="11609237">
+      <model>Душевой набор Grohe RainShower SmartActive 26586LS0</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118557.46</price>
+        <cityprice cityId="615420100">118557.46</cityprice>
+    </offer>
+    <offer sku="11633342">
+      <model>Душевой набор Lemark LM8804C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64329.98</price>
+        <cityprice cityId="615420100">64329.98</cityprice>
+    </offer>
+    <offer sku="11633555">
+      <model>Душевой набор Hansgrohe Crometta S HG27267000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3857100.65</price>
+        <cityprice cityId="615420100">3857100.65</cityprice>
+    </offer>
+    <offer sku="11670096">
+      <model>Душевой набор Redblu by Damixa Palace One 914100000</model>
+      <brand>RedBlu</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32598.73</price>
+        <cityprice cityId="615420100">32598.73</cityprice>
+    </offer>
+    <offer sku="11779677">
+      <model>Душевой набор Iddis BILBL1Fi06 Bild</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232178.77</price>
+        <cityprice cityId="615420100">232178.77</cityprice>
+    </offer>
+    <offer sku="11803763">
+      <model>Душевой набор Atlant A5029</model>
+      <brand>Atlant</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79036.66</price>
+        <cityprice cityId="615420100">79036.66</cityprice>
+    </offer>
+    <offer sku="11833656">
+      <model>Душевой набор Hansgrohe 27271000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>330976.82</price>
+        <cityprice cityId="615420100">330976.82</cityprice>
+    </offer>
+    <offer sku="11846131">
+      <model>Душевой набор Lemark  LM7012C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194741.71</price>
+        <cityprice cityId="615420100">194741.71</cityprice>
+    </offer>
+    <offer sku="11850038">
+      <model>Душевой набор Casela CL 52424B</model>
+      <brand>Casela</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197594.12</price>
+        <cityprice cityId="615420100">197594.12</cityprice>
+    </offer>
+    <offer sku="11850229">
+      <model>Душевой набор Jacob Delafon E99899RU-CP</model>
+      <brand>Jacob Delafon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108676.27</price>
+        <cityprice cityId="615420100">108676.27</cityprice>
+    </offer>
+    <offer sku="11856506">
+      <model>Душевой набор Ideal Standard BD006XC</model>
+      <brand>Ideal Standard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>469599.98</price>
+        <cityprice cityId="615420100">469599.98</cityprice>
+    </offer>
+    <offer sku="11857256">
+      <model>Душевой набор Hansgrohe  Crometta S Showerpipe 26900670</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>603958.35</price>
+        <cityprice cityId="615420100">603958.35</cityprice>
+    </offer>
+    <offer sku="11857863">
+      <model>Душевой набор Grohe 27922001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>355680.28</price>
+        <cityprice cityId="615420100">355680.28</cityprice>
+    </offer>
+    <offer sku="11823850">
+      <model>Душевой набор Rubineta Olo BK/Ultra 10 SW DV 3/4 625123</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163015.4</price>
+        <cityprice cityId="615420100">163015.4</cityprice>
+    </offer>
+    <offer sku="11551428">
+      <model>Душевой набор Hansgrohe Raindance E Showerpipe 300 1jet HG27361000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1284419.08</price>
+        <cityprice cityId="615420100">1284419.08</cityprice>
+    </offer>
+    <offer sku="11566289">
+      <model>Душевой набор Voda VST1000Q</model>
+      <brand>VODA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212419.36</price>
+        <cityprice cityId="615420100">212419.36</cityprice>
+    </offer>
+    <offer sku="11604706">
+      <model>Душевой набор Grohe  26697000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3411977.88</price>
+        <cityprice cityId="615420100">3411977.88</cityprice>
+    </offer>
+    <offer sku="11651795">
+      <model>Душевой набор HansGrohe Croma HG27630000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6280150.54</price>
+        <cityprice cityId="615420100">6280150.54</cityprice>
+    </offer>
+    <offer sku="11668896">
+      <model>Душевой набор HansGrohe Vernis Blend HG 26272000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>274442.32</price>
+        <cityprice cityId="615420100">274442.32</cityprice>
+    </offer>
+    <offer sku="11699191">
+      <model>Душевой набор AM.PM Like F0780064</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247001.05</price>
+        <cityprice cityId="615420100">247001.05</cityprice>
+    </offer>
+    <offer sku="11711630">
+      <model>Душевой набор Gappo Jacob G3207-8</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108677.26</price>
+        <cityprice cityId="615420100">108677.26</cityprice>
+    </offer>
+    <offer sku="11854173">
+      <model>Душевой набор Iddis BILSB1Fi06</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48321.07</price>
+        <cityprice cityId="615420100">48321.07</cityprice>
+    </offer>
+    <offer sku="11855842">
+      <model>Душевой набор Hansgrohe  26274000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>414968.4</price>
+        <cityprice cityId="615420100">414968.4</cityprice>
+    </offer>
+    <offer sku="11857410">
+      <model>Душевой набор HansGrohe 27269000 Crometta S 240 1jet</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>316144.66</price>
+        <cityprice cityId="615420100">316144.66</cityprice>
+    </offer>
+    <offer sku="1790714">
+      <model>Душевая гарнитура Lemark LM6462WG Миста</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>243052.92</price>
+        <cityprice cityId="615420100">243052.92</cityprice>
+    </offer>
+    <offer sku="11633345">
+      <model>Лейка для душа Lemark LM8120C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8613.54</price>
+        <cityprice cityId="615420100">8613.54</cityprice>
+    </offer>
+    <offer sku="11824012">
+      <model>Лейка для душа Gross Aqua GA1407</model>
+      <brand>Gross Aqua</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1867.36</price>
+        <cityprice cityId="615420100">1867.36</cityprice>
+    </offer>
+    <offer sku="11792600">
+      <model>Лейка для душа Genebre DXT3 45</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17217.24</price>
+        <cityprice cityId="615420100">17217.24</cityprice>
+    </offer>
+    <offer sku="11686904">
+      <model>Лейка для душа Iddis A11011</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3866.65</price>
+        <cityprice cityId="615420100">3866.65</cityprice>
+    </offer>
+    <offer sku="11699189">
+      <model>Лейка для душа Lemark LM8123C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16458.21</price>
+        <cityprice cityId="615420100">16458.21</cityprice>
+    </offer>
+    <offer sku="11849257">
+      <model>Лейка для душа Hansgrohe Myclub 266834000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17130.25</price>
+        <cityprice cityId="615420100">17130.25</cityprice>
+    </offer>
+    <offer sku="11817850">
+      <model>Лейка для душа GFmark 6033</model>
+      <brand>GFmark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2320.86</price>
+        <cityprice cityId="615420100">2320.86</cityprice>
+    </offer>
+    <offer sku="11639187">
+      <model>Лейка для душа Dionis ZDS-21</model>
+      <brand>Dionis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>978.14</price>
+        <cityprice cityId="615420100">978.14</cityprice>
+    </offer>
+    <offer sku="11853496">
+      <model>Лейка для душа Dionis ZDS-07</model>
+      <brand>Dionis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1297.59</price>
+        <cityprice cityId="615420100">1297.59</cityprice>
+    </offer>
+    <offer sku="11612328">
+      <model>Лейка для душа Lemark LM0411C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24191.52</price>
+        <cityprice cityId="615420100">24191.52</cityprice>
+    </offer>
+    <offer sku="11670100">
+      <model>Лейка для душа Gross Aqua GA3057</model>
+      <brand>Gross Aqua</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="11792626">
+      <model>Лейка для душа Genebre DXE2 45</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17675.68</price>
+        <cityprice cityId="615420100">17675.68</cityprice>
+    </offer>
+    <offer sku="11616437">
+      <model>Лейка для душа Lemark LM8121C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23233.81</price>
+        <cityprice cityId="615420100">23233.81</cityprice>
+    </offer>
+    <offer sku="11839585">
+      <model>Лейка для душа Lemark LM8122BL</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32604.66</price>
+        <cityprice cityId="615420100">32604.66</cityprice>
+    </offer>
+    <offer sku="11627855">
+      <model>Лейка для душа Lemark LM8123BL</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16784.48</price>
+        <cityprice cityId="615420100">16784.48</cityprice>
+    </offer>
+    <offer sku="11585220">
+      <model>Лейка для душа Lemark LM0616C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14300.6</price>
+        <cityprice cityId="615420100">14300.6</cityprice>
+    </offer>
+    <offer sku="11850085">
+      <model>Лейка для душа Ferro S580B</model>
+      <brand>Ferro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6785.72</price>
+        <cityprice cityId="615420100">6785.72</cityprice>
+    </offer>
+    <offer sku="11630652">
+      <model>Лейка для душа Casela CL24</model>
+      <brand>Casela</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3786.09</price>
+        <cityprice cityId="615420100">3786.09</cityprice>
+    </offer>
+    <offer sku="11766296">
+      <model>Лейка для душа Аквалиния DW1065</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4433.25</price>
+        <cityprice cityId="615420100">4433.25</cityprice>
+    </offer>
+    <offer sku="11616426">
+      <model>Лейка для душа Accoona 1193925</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2014.57</price>
+        <cityprice cityId="615420100">2014.57</cityprice>
+    </offer>
+    <offer sku="11625534">
+      <model>Лейка для душа Rubineta Lota 622068</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7902.18</price>
+        <cityprice cityId="615420100">7902.18</cityprice>
+    </offer>
+    <offer sku="11652733">
+      <model>Лейка для душа Rubineta Aqua 622030</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6811.41</price>
+        <cityprice cityId="615420100">6811.41</cityprice>
+    </offer>
+    <offer sku="11708187">
+      <model>Лейка для душа Grohe Euphoria 27220000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9870.32</price>
+        <cityprice cityId="615420100">9870.32</cityprice>
+    </offer>
+    <offer sku="11857619">
+      <model>Лейка для душа Rubineta Delta 622045</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2056.78</price>
+        <cityprice cityId="615420100">2056.78</cityprice>
+    </offer>
+    <offer sku="11552423">
+      <model>Лейка для душа Lemark LM8118C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29448.92</price>
+        <cityprice cityId="615420100">29448.92</cityprice>
+    </offer>
+    <offer sku="11713799">
+      <model>Лейка для душа Lemark LM8115C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14105.96</price>
+        <cityprice cityId="615420100">14105.96</cityprice>
+    </offer>
+    <offer sku="11532288">
+      <model>Лейка для душа Lemark LM8116C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20748.42</price>
+        <cityprice cityId="615420100">20748.42</cityprice>
+    </offer>
+    <offer sku="11552426">
+      <model>Лейка для душа Lemark LM0819CW</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14816.35</price>
+        <cityprice cityId="615420100">14816.35</cityprice>
+    </offer>
+    <offer sku="11686836">
+      <model>Лейка для душа Bravat P70135CP-1-RUS</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9877.24</price>
+        <cityprice cityId="615420100">9877.24</cityprice>
+    </offer>
+    <offer sku="11823844">
+      <model>Лейка для душа Esko SPL1105</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11856.24</price>
+        <cityprice cityId="615420100">11856.24</cityprice>
+    </offer>
+    <offer sku="11839794">
+      <model>Лейка для душа AM.PM F0290100</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18659.75</price>
+        <cityprice cityId="615420100">18659.75</cityprice>
+    </offer>
+    <offer sku="11856504">
+      <model>Лейка для душа Accoona A327</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4940.1</price>
+        <cityprice cityId="615420100">4940.1</cityprice>
+    </offer>
+    <offer sku="11674707">
+      <model>Лейка для душа Rubineta Sweet 622008</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2256.26</price>
+        <cityprice cityId="615420100">2256.26</cityprice>
+    </offer>
+    <offer sku="11674720">
+      <model>Лейка для душа Gemma 577382</model>
+      <brand>Gemma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138122.23</price>
+        <cityprice cityId="615420100">138122.23</cityprice>
+    </offer>
+    <offer sku="11638040">
+      <model>Лейка для душа Accoona А322</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1101.01</price>
+        <cityprice cityId="615420100">1101.01</cityprice>
+    </offer>
+    <offer sku="10422623">
+      <model>Лейка для душа Potato P09</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1136.22</price>
+        <cityprice cityId="615420100">1136.22</cityprice>
+    </offer>
+    <offer sku="11622640">
+      <model>Лейка для душа Zepter WTS-001WH</model>
+      <brand>Zepter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98787.18</price>
+        <cityprice cityId="615420100">98787.18</cityprice>
+    </offer>
+    <offer sku="11666787">
+      <model>Лейка для душа AM.PM F0201964</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8288.5</price>
+        <cityprice cityId="615420100">8288.5</cityprice>
+    </offer>
+    <offer sku="11857263">
+      <model>Лейка для душа Gemma 00016600</model>
+      <brand>Gemma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83973.8</price>
+        <cityprice cityId="615420100">83973.8</cityprice>
+    </offer>
+    <offer sku="11745949">
+      <model>Лейка для душа Lemark LM0814C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11062.86</price>
+        <cityprice cityId="615420100">11062.86</cityprice>
+    </offer>
+    <offer sku="11853517">
+      <model>Лейка для душа Genebre DXK3 45</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21182.16</price>
+        <cityprice cityId="615420100">21182.16</cityprice>
+    </offer>
+    <offer sku="11914918">
+      <model>Лейка для душа Lemark LM8007B</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21182.16</price>
+        <cityprice cityId="615420100">21182.16</cityprice>
+    </offer>
+    <offer sku="11625519">
+      <model>Лейка для душа Brimix 889</model>
+      <brand>BRIMIX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1728.51</price>
+        <cityprice cityId="615420100">1728.51</cityprice>
+    </offer>
+    <offer sku="11532287">
+      <model>Лейка для душа Rubineta Snow 622013</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4783.68</price>
+        <cityprice cityId="615420100">4783.68</cityprice>
+    </offer>
+    <offer sku="11597660">
+      <model>Лейка для душа Esko SCU855</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7410.15</price>
+        <cityprice cityId="615420100">7410.15</cityprice>
+    </offer>
+    <offer sku="11753503">
+      <model>Лейка для душа Esko SPL955</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10216.13</price>
+        <cityprice cityId="615420100">10216.13</cityprice>
+    </offer>
+    <offer sku="11831908">
+      <model>Лейка для душа Lemark LM0913C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9483.02</price>
+        <cityprice cityId="615420100">9483.02</cityprice>
+    </offer>
+    <offer sku="11648649">
+      <model>Лейка для душа Аквалиния DW1066</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1310.18</price>
+        <cityprice cityId="615420100">1310.18</cityprice>
+    </offer>
+    <offer sku="11641669">
+      <model>Лейка для душа Rubineta Luna 622143B</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33592.68</price>
+        <cityprice cityId="615420100">33592.68</cityprice>
+    </offer>
+    <offer sku="11767665">
+      <model>Лейка для душа Lemark LM0713C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11454.12</price>
+        <cityprice cityId="615420100">11454.12</cityprice>
+    </offer>
+    <offer sku="11824182">
+      <model>Лейка для душа Gezatone SH3</model>
+      <brand>Gezatone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39510.92</price>
+        <cityprice cityId="615420100">39510.92</cityprice>
+    </offer>
+    <offer sku="11532289">
+      <model>Лейка для душа Lemark LM0135C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9164.87</price>
+        <cityprice cityId="615420100">9164.87</cityprice>
+    </offer>
+    <offer sku="11914914">
+      <model>Лейка для душа Potato P069</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3135.98</price>
+        <cityprice cityId="615420100">3135.98</cityprice>
+    </offer>
+    <offer sku="11826804">
+      <model>Лейка для душа Rubineta Kobra 622005</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1931.78</price>
+        <cityprice cityId="615420100">1931.78</cityprice>
+    </offer>
+    <offer sku="11622633">
+      <model>Лейка для душа Frap F16</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7597.87</price>
+        <cityprice cityId="615420100">7597.87</cityprice>
+    </offer>
+    <offer sku="11753492">
+      <model>Лейка для душа Аквалиния DW1046</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2914.72</price>
+        <cityprice cityId="615420100">2914.72</cityprice>
+    </offer>
+    <offer sku="11629635">
+      <model>Лейка для душа Voda  VSP855</model>
+      <brand>VODA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3408.73</price>
+        <cityprice cityId="615420100">3408.73</cityprice>
+    </offer>
+    <offer sku="11857868">
+      <model>Лейка для душа Esko HHS130</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8258.86</price>
+        <cityprice cityId="615420100">8258.86</cityprice>
+    </offer>
+    <offer sku="11848707">
+      <model>Лейка для душа GFmark 6034</model>
+      <brand>GFmark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1925.65</price>
+        <cityprice cityId="615420100">1925.65</cityprice>
+    </offer>
+    <offer sku="11839799">
+      <model>Лейка для душа Lemark LM0816C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14303.57</price>
+        <cityprice cityId="615420100">14303.57</cityprice>
+    </offer>
+    <offer sku="11588439">
+      <model>Лейка для душа Lemark LM1013BBRONZE</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12538.96</price>
+        <cityprice cityId="615420100">12538.96</cityprice>
+    </offer>
+    <offer sku="11576091">
+      <model>Лейка для душа Bravat P70138CP-1A-RUS</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19745.58</price>
+        <cityprice cityId="615420100">19745.58</cityprice>
+    </offer>
+    <offer sku="11849755">
+      <model>Лейка для душа Esko SCU855</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8791.4</price>
+        <cityprice cityId="615420100">8791.4</cityprice>
+    </offer>
+    <offer sku="11857612">
+      <model>Лейка для душа Аквалиния SH2047</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5693.94</price>
+        <cityprice cityId="615420100">5693.94</cityprice>
+    </offer>
+    <offer sku="11630520">
+      <model>Лейка для душа Esko SCU851</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6771.89</price>
+        <cityprice cityId="615420100">6771.89</cityprice>
+    </offer>
+    <offer sku="11644907">
+      <model>Лейка для душа Аквалиния 8291</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2410.77</price>
+        <cityprice cityId="615420100">2410.77</cityprice>
+    </offer>
+    <offer sku="11568461">
+      <model>Лейка для душа Dionis ZDS-01</model>
+      <brand>Dionis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1249.17</price>
+        <cityprice cityId="615420100">1249.17</cityprice>
+    </offer>
+    <offer sku="11648648">
+      <model>Лейка для душа Аквалиния RD-8147</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2928.49</price>
+        <cityprice cityId="615420100">2928.49</cityprice>
+    </offer>
+    <offer sku="11651793">
+      <model>Лейка для душа Rubineta Optima 622003</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3952.08</price>
+        <cityprice cityId="615420100">3952.08</cityprice>
+    </offer>
+    <offer sku="11543931">
+      <model>Лейка для душа Hansgrohe MyClub Variojet 26682400</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17671.73</price>
+        <cityprice cityId="615420100">17671.73</cityprice>
+    </offer>
+    <offer sku="11602644">
+      <model>Лейка для душа Grohe Rainfinity 26864340</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8892.18</price>
+        <cityprice cityId="615420100">8892.18</cityprice>
+    </offer>
+    <offer sku="11536790">
+      <model>Лейка для душа Lemark LM0125C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7668.02</price>
+        <cityprice cityId="615420100">7668.02</cityprice>
+    </offer>
+    <offer sku="11566280">
+      <model>Лейка для душа Lemark LM8123GM</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20548.84</price>
+        <cityprice cityId="615420100">20548.84</cityprice>
+    </offer>
+    <offer sku="11604699">
+      <model>Лейка для душа Lemark  LM8119C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7400.27</price>
+        <cityprice cityId="615420100">7400.27</cityprice>
+    </offer>
+    <offer sku="11625525">
+      <model>Лейка для душа Rubineta Airforce 622050</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6259.11</price>
+        <cityprice cityId="615420100">6259.11</cityprice>
+    </offer>
+    <offer sku="11851333">
+      <model>Лейка для душа IKEA Lillrevet 903.426.31</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6194.89</price>
+        <cityprice cityId="615420100">6194.89</cityprice>
+    </offer>
+    <offer sku="11670098">
+      <model>Лейка для душа Аквалиния 1030</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11756.45</price>
+        <cityprice cityId="615420100">11756.45</cityprice>
+    </offer>
+    <offer sku="11722805">
+      <model>Лейка для душа Grohe 26544000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13012.22</price>
+        <cityprice cityId="615420100">13012.22</cityprice>
+    </offer>
+    <offer sku="11823838">
+      <model>Лейка для душа Rubineta Dora 622070</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2410.77</price>
+        <cityprice cityId="615420100">2410.77</cityprice>
+    </offer>
+    <offer sku="10381283">
+      <model>Лейка для душа P036 Potato</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>834.88</price>
+        <cityprice cityId="615420100">834.88</cityprice>
+    </offer>
+    <offer sku="10398791">
+      <model>Лейка для душа Potato P10</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5903.42</price>
+        <cityprice cityId="615420100">5903.42</cityprice>
+    </offer>
+    <offer sku="11705029">
+      <model>Лейка для душка Esko TS1300</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25787.37</price>
+        <cityprice cityId="615420100">25787.37</cityprice>
+    </offer>
+    <offer sku="11861496">
+      <model>Лейка для душа Lemark LM0411BL</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8554.28</price>
+        <cityprice cityId="615420100">8554.28</cityprice>
+    </offer>
+    <offer sku="11602649">
+      <model>Лейка для душа Аквалиния YJG1942</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6453.75</price>
+        <cityprice cityId="615420100">6453.75</cityprice>
+    </offer>
+    <offer sku="11857617">
+      <model>Лейка для душа Аквалиния H1023</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2904.98</price>
+        <cityprice cityId="615420100">2904.98</cityprice>
+    </offer>
+    <offer sku="11556671">
+      <model>Лейка для душа Lemark LM8001C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5844.14</price>
+        <cityprice cityId="615420100">5844.14</cityprice>
+    </offer>
+    <offer sku="11602650">
+      <model>Лейка для душа Zein Z0508</model>
+      <brand>Zein</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1432.63</price>
+        <cityprice cityId="615420100">1432.63</cityprice>
+    </offer>
+    <offer sku="11850072">
+      <model>Лейка для душа Ferro Mattino S310</model>
+      <brand>Ferro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8462.39</price>
+        <cityprice cityId="615420100">8462.39</cityprice>
+    </offer>
+    <offer sku="11781811">
+      <model>Лейка для душа IKEA Vallamosse 403.496.54</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1549.36</price>
+        <cityprice cityId="615420100">1549.36</cityprice>
+    </offer>
+    <offer sku="1790827">
+      <model>Душевая гарнитура RedBlu PALACE EVO 974200000</model>
+      <brand>RedBlu</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>494010</price>
+        <cityprice cityId="615420100">494010</cityprice>
+    </offer>
+    <offer sku="1790879">
+      <model>Душевая гарнитура IDDIS Sena SEN3F70i16</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35365.19</price>
+        <cityprice cityId="615420100">35365.19</cityprice>
+    </offer>
+    <offer sku="1790679">
+      <model>Душевая гарнитура Lemark LM8802C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85542.77</price>
+        <cityprice cityId="615420100">85542.77</cityprice>
+    </offer>
+    <offer sku="1790728">
+      <model>Душевая гарнитура Lemark LM8066C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45762.12</price>
+        <cityprice cityId="615420100">45762.12</cityprice>
+    </offer>
+    <offer sku="1790701">
+      <model>Душевая гарнитура Grohe Tempesta Cosmopolitan 27588002</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30450.78</price>
+        <cityprice cityId="615420100">30450.78</cityprice>
+    </offer>
+    <offer sku="1790870">
+      <model>Душевая гарнитура Grohe Euphoria Cosmopolitan Stick 27368000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>360561.1</price>
+        <cityprice cityId="615420100">360561.1</cityprice>
+    </offer>
+    <offer sku="1790777">
+      <model>Душевая гарнитура Grohe Euphoria 27265000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1438</price>
+        <cityprice cityId="615420100">1438</cityprice>
+    </offer>
+    <offer sku="1791022">
+      <model>Душевая гарнитура Grohe 27296001 Euphoria 180</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>338774.27</price>
+        <cityprice cityId="615420100">338774.27</cityprice>
+    </offer>
+    <offer sku="1790682">
+      <model>Душевая гарнитура Gross Aqua GA1066+GA603-1.2</model>
+      <brand>Gross Aqua</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7880.45</price>
+        <cityprice cityId="615420100">7880.45</cityprice>
+    </offer>
+    <offer sku="1790958">
+      <model>Душевая гарнитура ERLIT 911088101</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14120.78</price>
+        <cityprice cityId="615420100">14120.78</cityprice>
+    </offer>
+    <offer sku="1790759">
+      <model>Душевая гарнитура Damixa Palace Evo 974200063</model>
+      <brand>damixa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129737.89</price>
+        <cityprice cityId="615420100">129737.89</cityprice>
+    </offer>
+    <offer sku="1790881">
+      <model>Душевая гарнитура Ideal Standard CERATHERM 25 A6426AA</model>
+      <brand>Ideal Standard </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>430273.82</price>
+        <cityprice cityId="615420100">430273.82</cityprice>
+    </offer>
+    <offer sku="1790719">
+      <model>Душевая гарнитура Rossinka Silvermix X25-55</model>
+      <brand>Rossinka</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39020.86</price>
+        <cityprice cityId="615420100">39020.86</cityprice>
+    </offer>
+    <offer sku="1790990">
+      <model>Душевая гарнитура Rubineta River+Thermo-12 625006</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138320.82</price>
+        <cityprice cityId="615420100">138320.82</cityprice>
+    </offer>
+    <offer sku="1790724">
+      <model>Душевая гарнитура Rossinka B35-46</model>
+      <brand>Rossinka</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57103.6</price>
+        <cityprice cityId="615420100">57103.6</cityprice>
+    </offer>
+    <offer sku="10750882">
+      <model>Душевая гарнитура Lemark LM8809C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68782.99</price>
+        <cityprice cityId="615420100">68782.99</cityprice>
+    </offer>
+    <offer sku="1790630">
+      <model>Душевая гарнитура Grohe Vitalio Start 100 27948000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128442.6</price>
+        <cityprice cityId="615420100">128442.6</cityprice>
+    </offer>
+    <offer sku="1790742">
+      <model>Душевая гарнитура Grohe Vitalio Comfort 100 26397000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18574.78</price>
+        <cityprice cityId="615420100">18574.78</cityprice>
+    </offer>
+    <offer sku="1790906">
+      <model>Душевая гарнитура GENEBRE OSLO CM65110 19</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>884277.9</price>
+        <cityprice cityId="615420100">884277.9</cityprice>
+    </offer>
+    <offer sku="1790915">
+      <model>Душевая гарнитура Grohe GRT SmartControl 34720000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197303.64</price>
+        <cityprice cityId="615420100">197303.64</cityprice>
+    </offer>
+    <offer sku="1790939">
+      <model>Душевая гарнитура Grohe Vitalio Comfort 26398000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52752.36</price>
+        <cityprice cityId="615420100">52752.36</cityprice>
+    </offer>
+    <offer sku="1790945">
+      <model>Душевая гарнитура Grohe Grohtherm 34729000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>457719.04</price>
+        <cityprice cityId="615420100">457719.04</cityprice>
+    </offer>
+    <offer sku="1790955">
+      <model>Душевая гарнитура Grohe Relexa 100 Five 28941000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>160741.96</price>
+        <cityprice cityId="615420100">160741.96</cityprice>
+    </offer>
+    <offer sku="1791021">
+      <model>Душевая гарнитура Grohe Tempesta New 27927001</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151361.7</price>
+        <cityprice cityId="615420100">151361.7</cityprice>
+    </offer>
+    <offer sku="1790662">
+      <model>Душевая гарнитура Lemark LM8094C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1868.92</price>
+        <cityprice cityId="615420100">1868.92</cityprice>
+    </offer>
+    <offer sku="1790848">
+      <model>Душевая гарнитура Grohe New Tempesta Rustic 100 26086000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49987.88</price>
+        <cityprice cityId="615420100">49987.88</cityprice>
+    </offer>
+    <offer sku="1790765">
+      <model>Душевая гарнитура Rossinka Silvermix B35-45</model>
+      <brand>Rossinka</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51377.04</price>
+        <cityprice cityId="615420100">51377.04</cityprice>
+    </offer>
+    <offer sku="1790912">
+      <model>Душевая гарнитура AM.PM Gem F0190100</model>
+      <brand>AM.PM </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="1790648">
+      <model>Душевая гарнитура AM.PM Gem F0590000</model>
+      <brand>AM.PM </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29632.7</price>
+        <cityprice cityId="615420100">29632.7</cityprice>
+    </offer>
+    <offer sku="1790671">
+      <model>Душевая гарнитура HansGrohe Raindance S HG27493000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4940598.95</price>
+        <cityprice cityId="615420100">4940598.95</cityprice>
+    </offer>
+    <offer sku="1790691">
+      <model>Душевая гарнитура AM.PM Spirit V2.0 F0770A400</model>
+      <brand>AM.PM </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242993.64</price>
+        <cityprice cityId="615420100">242993.64</cityprice>
+    </offer>
+    <offer sku="1790757">
+      <model>Душевая гарнитура IDDIS Shelfy SHESB3Fi06</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242879.2</price>
+        <cityprice cityId="615420100">242879.2</cityprice>
+    </offer>
+    <offer sku="1790960">
+      <model>Душевая гарнитура ERLIT 126952</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296400.07</price>
+        <cityprice cityId="615420100">296400.07</cityprice>
+    </offer>
+    <offer sku="1791046">
+      <model>Душевая гарнитура Teorema Dune 15335GG</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>380783.9</price>
+        <cityprice cityId="615420100">380783.9</cityprice>
+    </offer>
+    <offer sku="1790700">
+      <model>Душевая гарнитура IDDIS А11631</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9777.45</price>
+        <cityprice cityId="615420100">9777.45</cityprice>
+    </offer>
+    <offer sku="1790663">
+      <model>Душевая гарнитура Grohe Grohtherm 34726000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>468609.98</price>
+        <cityprice cityId="615420100">468609.98</cityprice>
+    </offer>
+    <offer sku="1790676">
+      <model>Душевая гарнитура Lemark Melange LM4922CW</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>349849.98</price>
+        <cityprice cityId="615420100">349849.98</cityprice>
+    </offer>
+    <offer sku="1790745">
+      <model>Душевая гарнитура Grohe Euphoria 260 26114001</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5130897.53</price>
+        <cityprice cityId="615420100">5130897.53</cityprice>
+    </offer>
+    <offer sku="1790846">
+      <model>Душевая гарнитура Grohe Vitalio Joy 110 Mono 27322000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62106.94</price>
+        <cityprice cityId="615420100">62106.94</cityprice>
+    </offer>
+    <offer sku="1790855">
+      <model>Душевая гарнитура Grohe Vitalio Start 100 27942000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37144.61</price>
+        <cityprice cityId="615420100">37144.61</cityprice>
+    </offer>
+    <offer sku="1790895">
+      <model>Душевая гарнитура Grohe Relexa 100 Trio 28831000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116122.98</price>
+        <cityprice cityId="615420100">116122.98</cityprice>
+    </offer>
+    <offer sku="1790942">
+      <model>Душевая гарнитура Grohe Vitalio Start 100 III 26031000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23201.67</price>
+        <cityprice cityId="615420100">23201.67</cityprice>
+    </offer>
+    <offer sku="1790962">
+      <model>Душевая гарнитура Grohe 27512000 Tempesta Trigger Spray 30</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49396.06</price>
+        <cityprice cityId="615420100">49396.06</cityprice>
+    </offer>
+    <offer sku="1790809">
+      <model>Душевая гарнитура Lemark LM8805C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="1790925">
+      <model>Душевая гарнитура Lemark LM0223C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6912.19</price>
+        <cityprice cityId="615420100">6912.19</cityprice>
+    </offer>
+    <offer sku="1790940">
+      <model>Душевая гарнитура AM.PM Like F0780000</model>
+      <brand>AM.PM </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137334.78</price>
+        <cityprice cityId="615420100">137334.78</cityprice>
+    </offer>
+    <offer sku="1812709">
+      <model>Душевая гарнитура Ideal Standard IDEALSTYLE B1431AA</model>
+      <brand>Ideal Standard </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133375.78</price>
+        <cityprice cityId="615420100">133375.78</cityprice>
+    </offer>
+    <offer sku="1790814">
+      <model>Душевая гарнитура Teorema Merida 15252110343</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>790416</price>
+        <cityprice cityId="615420100">790416</cityprice>
+    </offer>
+    <offer sku="1790821">
+      <model>Душевая гарнитура Bravat Waterfall F639114C-A2-RUS</model>
+      <brand>Bravat </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>263596.82</price>
+        <cityprice cityId="615420100">263596.82</cityprice>
+    </offer>
+    <offer sku="1790670">
+      <model>Душевая гарнитура AM-PM Gem F0790000</model>
+      <brand>AM.PM </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94348.99</price>
+        <cityprice cityId="615420100">94348.99</cityprice>
+    </offer>
+    <offer sku="1790766">
+      <model>Душевая гарнитура Rubineta Accord-Aqua 624025</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19259.67</price>
+        <cityprice cityId="615420100">19259.67</cityprice>
+    </offer>
+    <offer sku="1790773">
+      <model>Душевая гарнитура Rubineta Varianta Delta 624101</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14800.54</price>
+        <cityprice cityId="615420100">14800.54</cityprice>
+    </offer>
+    <offer sku="1790693">
+      <model>Душевая гарнитура Slezak RAV ZA081.5/3CB</model>
+      <brand>Slezak RAV</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172903.5</price>
+        <cityprice cityId="615420100">172903.5</cityprice>
+    </offer>
+    <offer sku="1790619">
+      <model>Душевая гарнитура Grohe Tempesta New 27926001</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46563.41</price>
+        <cityprice cityId="615420100">46563.41</cityprice>
+    </offer>
+    <offer sku="1790861">
+      <model>Душевая гарнитура Grohe Euphoria 260 27421002</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242854.92</price>
+        <cityprice cityId="615420100">242854.92</cityprice>
+    </offer>
+    <offer sku="1790866">
+      <model>Душевая гарнитура Grohe Grohtherm SmartControl 34744000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>612572.4</price>
+        <cityprice cityId="615420100">612572.4</cityprice>
+    </offer>
+    <offer sku="1791024">
+      <model>Душевая гарнитура Grohe SmartControl 34709000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1284426</price>
+        <cityprice cityId="615420100">1284426</cityprice>
+    </offer>
+    <offer sku="1791426">
+      <model>Душевая гарнитура Grohe BauClassic 124404</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>295310.29</price>
+        <cityprice cityId="615420100">295310.29</cityprice>
+    </offer>
+    <offer sku="1790576">
+      <model>Душевая гарнитура Lemark Duetto LM5762C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200552.25</price>
+        <cityprice cityId="615420100">200552.25</cityprice>
+    </offer>
+    <offer sku="1790947">
+      <model>Душевая гарнитура Grohe 27940000 Vitalio Start</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2124.24</price>
+        <cityprice cityId="615420100">2124.24</cityprice>
+    </offer>
+    <offer sku="1790730">
+      <model>Душевая гарнитура IDDIS Slide SLI1FB0i16</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53642.57</price>
+        <cityprice cityId="615420100">53642.57</cityprice>
+    </offer>
+    <offer sku="1790909">
+      <model>Душевая гарнитура AM.PM Spirit V2.0 F0170A000</model>
+      <brand>AM.PM </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78588.1</price>
+        <cityprice cityId="615420100">78588.1</cityprice>
+    </offer>
+    <offer sku="1790961">
+      <model>Душевая гарнитура IDDIS Oldie OLDSB3Fi06</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198951.66</price>
+        <cityprice cityId="615420100">198951.66</cityprice>
+    </offer>
+    <offer sku="1790811">
+      <model>Душевая гарнитура IDDIS А11031</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6659.25</price>
+        <cityprice cityId="615420100">6659.25</cityprice>
+    </offer>
+    <offer sku="1790644">
+      <model>Душевая гарнитура Gloria BFA20501 Bronze 3 в 1</model>
+      <brand>Gloria </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48899.09</price>
+        <cityprice cityId="615420100">48899.09</cityprice>
+    </offer>
+    <offer sku="1790696">
+      <model>Душевая гарнитура GENEBRE KENJO 1746 45</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>343429.82</price>
+        <cityprice cityId="615420100">343429.82</cityprice>
+    </offer>
+    <offer sku="1790808">
+      <model>Душевая гарнитура Grohe Rainshower SmartActive Cube 34706000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>908978.4</price>
+        <cityprice cityId="615420100">908978.4</cityprice>
+    </offer>
+    <offer sku="1790854">
+      <model>Душевая гарнитура Grohe Tempesta New I 27853000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>284248.41</price>
+        <cityprice cityId="615420100">284248.41</cityprice>
+    </offer>
+    <offer sku="1790857">
+      <model>Душевая гарнитура Grohe Rainshower Solo System 190 27642000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>626392.82</price>
+        <cityprice cityId="615420100">626392.82</cityprice>
+    </offer>
+    <offer sku="1790865">
+      <model>Душевая гарнитура Grohe Rainshower SmartActive 34705000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>899098.2</price>
+        <cityprice cityId="615420100">899098.2</cityprice>
+    </offer>
+    <offer sku="1790908">
+      <model>Душевая гарнитура Grohe Tempesta New 27926001</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48209.45</price>
+        <cityprice cityId="615420100">48209.45</cityprice>
+    </offer>
+    <offer sku="1791058">
+      <model>Душевая гарнитура Grohe 27310000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25285.41</price>
+        <cityprice cityId="615420100">25285.41</cityprice>
+    </offer>
+    <offer sku="1790579">
+      <model>Душевая гарнитура Rossinka Silvermix B35-44</model>
+      <brand>Rossinka</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13939.51</price>
+        <cityprice cityId="615420100">13939.51</cityprice>
+    </offer>
+    <offer sku="1790883">
+      <model>Душевая гарнитура Ideal Standard Ceratherm T50 A7225AA</model>
+      <brand>Ideal Standard </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>313529.37</price>
+        <cityprice cityId="615420100">313529.37</cityprice>
+    </offer>
+    <offer sku="1790896">
+      <model>Душевая гарнитура BRAVAT F65193CP-A2-RUS</model>
+      <brand>Bravat </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>231059.35</price>
+        <cityprice cityId="615420100">231059.35</cityprice>
+    </offer>
+    <offer sku="1790708">
+      <model>Душевая гарнитура IDDIS SWI3F00i18</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14221.56</price>
+        <cityprice cityId="615420100">14221.56</cityprice>
+    </offer>
+    <offer sku="1790785">
+      <model>Душевая гарнитура Rubineta River 624125</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104462.62</price>
+        <cityprice cityId="615420100">104462.62</cityprice>
+    </offer>
+    <offer sku="1790681">
+      <model>Душевая гарнитура Grohe Euphoria Cube Stick 27890000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247230.27</price>
+        <cityprice cityId="615420100">247230.27</cityprice>
+    </offer>
+    <offer sku="1790831">
+      <model>Душевая гарнитура Grohe New Tempesta II 2760110E</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37883.65</price>
+        <cityprice cityId="615420100">37883.65</cityprice>
+    </offer>
+    <offer sku="1790844">
+      <model>Душевая гарнитура GENEBRE KENJO CT67110 26</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5444099.87</price>
+        <cityprice cityId="615420100">5444099.87</cityprice>
+    </offer>
+    <offer sku="1790869">
+      <model>Душевая гарнитура Grohe Rainshower SmartActive 34705000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>889218</price>
+        <cityprice cityId="615420100">889218</cityprice>
+    </offer>
+    <offer sku="1790876">
+      <model>Душевая гарнитура Grohe Euphoria SmartControl 26510000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>634802.85</price>
+        <cityprice cityId="615420100">634802.85</cityprice>
+    </offer>
+    <offer sku="1790887">
+      <model>Душевая гарнитура Grohe New Tempesta 100 27598000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65972.07</price>
+        <cityprice cityId="615420100">65972.07</cityprice>
+    </offer>
+    <offer sku="1790957">
+      <model>Душевая гарнитура Grohe Eurosmart 124446</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134461.62</price>
+        <cityprice cityId="615420100">134461.62</cityprice>
+    </offer>
+    <offer sku="1790598">
+      <model>Душевая гарнитура Grohe New Tempesta Cosmopolitan 100 27577002</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55320.23</price>
+        <cityprice cityId="615420100">55320.23</cityprice>
+    </offer>
+    <offer sku="1790951">
+      <model>Душевая гарнитура Lemark LM8014C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10260.59</price>
+        <cityprice cityId="615420100">10260.59</cityprice>
+    </offer>
+    <offer sku="1790735">
+      <model>Душевая гарнитура Grohe 28020K00 Trigger Spray 30</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21730.51</price>
+        <cityprice cityId="615420100">21730.51</cityprice>
+    </offer>
+    <offer sku="1790952">
+      <model>Душевая гарнитура AM.PM Joy F0185000</model>
+      <brand>AM.PM </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53060.13</price>
+        <cityprice cityId="615420100">53060.13</cityprice>
+    </offer>
+    <offer sku="1790678">
+      <model>Душевая гарнитура HansGrohe Croma Select E Multi 26590400</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109427.17</price>
+        <cityprice cityId="615420100">109427.17</cityprice>
+    </offer>
+    <offer sku="1790731">
+      <model>Душевая гарнитура Ideal Standard Ceratherm T25 A7208AA</model>
+      <brand>Ideal Standard </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29044.93</price>
+        <cityprice cityId="615420100">29044.93</cityprice>
+    </offer>
+    <offer sku="1790776">
+      <model>Душевая гарнитура IDDIS А30311</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17706.31</price>
+        <cityprice cityId="615420100">17706.31</cityprice>
+    </offer>
+    <offer sku="1790837">
+      <model>Душевая гарнитура Damixa Origin One 978100000</model>
+      <brand>damixa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96312.19</price>
+        <cityprice cityId="615420100">96312.19</cityprice>
+    </offer>
+    <offer sku="1790851">
+      <model>Душевая гарнитура IDDIS Ray RAYSB3Fi76</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87706.54</price>
+        <cityprice cityId="615420100">87706.54</cityprice>
+    </offer>
+    <offer sku="1790720">
+      <model>Душевая гарнитура HansGrohe Croma Select E HG26582400</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86540.67</price>
+        <cityprice cityId="615420100">86540.67</cityprice>
+    </offer>
+    <offer sku="10750883">
+      <model>Душевая гарнитура Lemark LM8806C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89654.91</price>
+        <cityprice cityId="615420100">89654.91</cityprice>
+    </offer>
+    <offer sku="1790704">
+      <model>Душевая гарнитура IDDIS 00320RSi64</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28004.44</price>
+        <cityprice cityId="615420100">28004.44</cityprice>
+    </offer>
+    <offer sku="1790767">
+      <model>Душевая гарнитура Lemark LM8041C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17342.72</price>
+        <cityprice cityId="615420100">17342.72</cityprice>
+    </offer>
+    <offer sku="1790791">
+      <model>Душевая гарнитура IDDIS Ray RAYSW3Fi76</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84509.3</price>
+        <cityprice cityId="615420100">84509.3</cityprice>
+    </offer>
+    <offer sku="1791042">
+      <model>Душевая гарнитура Teorema Sigma 15245110343</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151779.63</price>
+        <cityprice cityId="615420100">151779.63</cityprice>
+    </offer>
+    <offer sku="1790680">
+      <model>Душевая гарнитура Gloria GL173</model>
+      <brand>Gloria </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2965549.93</price>
+        <cityprice cityId="615420100">2965549.93</cityprice>
+    </offer>
+    <offer sku="1790664">
+      <model>Душевая гарнитура Lemark Tropic LM7003C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64218.34</price>
+        <cityprice cityId="615420100">64218.34</cityprice>
+    </offer>
+    <offer sku="1790751">
+      <model>Душевая гарнитура Grohe NewTempesta System 26382001</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174674.03</price>
+        <cityprice cityId="615420100">174674.03</cityprice>
+    </offer>
+    <offer sku="1790754">
+      <model>Душевая гарнитура Grohe Grohtherm 800 34565001</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>233763.56</price>
+        <cityprice cityId="615420100">233763.56</cityprice>
+    </offer>
+    <offer sku="1790775">
+      <model>Душевая гарнитура Grohe Tempesta-F Trigger Spray 30 26356IL0</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24696.55</price>
+        <cityprice cityId="615420100">24696.55</cityprice>
+    </offer>
+    <offer sku="1790859">
+      <model>Душевая гарнитура Grohe Grandera Stick 27993IG0</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>686673.9</price>
+        <cityprice cityId="615420100">686673.9</cityprice>
+    </offer>
+    <offer sku="1790938">
+      <model>Душевая гарнитура Grohe New Tempesta II 2760110E</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41392.11</price>
+        <cityprice cityId="615420100">41392.11</cityprice>
+    </offer>
+    <offer sku="1790953">
+      <model>Душевая гарнитура Grohe New Tempesta 210 26381001</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>252924.23</price>
+        <cityprice cityId="615420100">252924.23</cityprice>
+    </offer>
+    <offer sku="1790592">
+      <model>Душевая гарнитура Gloria GL5007 3 в 1</model>
+      <brand>Gloria</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24666.91</price>
+        <cityprice cityId="615420100">24666.91</cityprice>
+    </offer>
+    <offer sku="11883950">
+      <model>Душевой гарнитур Bravat Opal F9125183CP-A-RUS</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131401.72</price>
+        <cityprice cityId="615420100">131401.72</cityprice>
+    </offer>
+    <offer sku="1790641">
+      <model>Душевая гарнитура Grohe Grandera 27974IG0</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>424542.31</price>
+        <cityprice cityId="615420100">424542.31</cityprice>
+    </offer>
+    <offer sku="1790755">
+      <model>Душевая гарнитура Teorema Dune 1533511-002</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>294582.12</price>
+        <cityprice cityId="615420100">294582.12</cityprice>
+    </offer>
+    <offer sku="1790802">
+      <model>Душевая гарнитура Ideal Standard IDEALRAIN ECO SL B1098AA</model>
+      <brand>Ideal Standard </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>243932.26</price>
+        <cityprice cityId="615420100">243932.26</cityprice>
+    </offer>
+    <offer sku="1790885">
+      <model>Душевая гарнитура BRAVAT Iceberg D285KVF-RUS</model>
+      <brand>Bravat </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57593.66</price>
+        <cityprice cityId="615420100">57593.66</cityprice>
+    </offer>
+    <offer sku="1791364">
+      <model>Душевая гарнитура Lemark Partner LM6557C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="1790687">
+      <model>Душевая гарнитура Gloria BFA20503 3 в 1</model>
+      <brand>Gloria </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48842.77</price>
+        <cityprice cityId="615420100">48842.77</cityprice>
+    </offer>
+    <offer sku="1790739">
+      <model>Душевая гарнитура GENEBRE OSLO CT67110 19</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>281973</price>
+        <cityprice cityId="615420100">281973</cityprice>
+    </offer>
+    <offer sku="1790748">
+      <model>Душевая гарнитура Grohe Tempesta New 2759810E</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40402.11</price>
+        <cityprice cityId="615420100">40402.11</cityprice>
+    </offer>
+    <offer sku="1790788">
+      <model>Душевая гарнитура Grohe Euphoria System 150 27932000</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5929472.6</price>
+        <cityprice cityId="615420100">5929472.6</cityprice>
+    </offer>
+    <offer sku="1790899">
+      <model>Душевая гарнитура Grohe New Tempesta 200 27389002</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>144836.82</price>
+        <cityprice cityId="615420100">144836.82</cityprice>
+    </offer>
+    <offer sku="1790917">
+      <model>Душевая гарнитура GENEBRE KENJO CM63110 26</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>443937.15</price>
+        <cityprice cityId="615420100">443937.15</cityprice>
+    </offer>
+    <offer sku="1790816">
+      <model>Душевая гарнитура Gloria GL171 3 в 1</model>
+      <brand>Gloria </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21098.58</price>
+        <cityprice cityId="615420100">21098.58</cityprice>
+    </offer>
+    <offer sku="1790707">
+      <model>Душевая гарнитура IDDIS 0011F00i16</model>
+      <brand>IDDIS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11263.43</price>
+        <cityprice cityId="615420100">11263.43</cityprice>
+    </offer>
+    <offer sku="1790929">
+      <model>Душевая гарнитура Lemark LM0813C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3001.9</price>
+        <cityprice cityId="615420100">3001.9</cityprice>
+    </offer>
+    <offer sku="10827181">
+      <model>Вантуз Lux Tools Classic, 135х410 мм, красный</model>
+      <brand>Lux Tools</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1383.23</price>
+        <cityprice cityId="615420100">1383.23</cityprice>
+    </offer>
+    <offer sku="10819915">
+      <model>Трос сантехнический Зубр Мастер 51902-05, 5м*6мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3385.37</price>
+        <cityprice cityId="615420100">3385.37</cityprice>
+    </offer>
+    <offer sku="233968">
+      <model>Трос сантехнический SparkLux SL-527081-3, 10м*10мм</model>
+      <brand>SparkLux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4500.43</price>
+        <cityprice cityId="615420100">4500.43</cityprice>
+    </offer>
+    <offer sku="10819925">
+      <model>Трос сантехнический Сибин 51906-050, 5м*6мм</model>
+      <brand>Сибин</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1694.45</price>
+        <cityprice cityId="615420100">1694.45</cityprice>
+    </offer>
+    <offer sku="10819907">
+      <model>Трос сантехнический Зубр Мастер 51902-03, 3м*6мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1776.76</price>
+        <cityprice cityId="615420100">1776.76</cityprice>
+    </offer>
+    <offer sku="10815395">
+      <model>Трос сантехнический Зубр Мастер 51902-10, 10м*10мм</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11856.24</price>
+        <cityprice cityId="615420100">11856.24</cityprice>
+    </offer>
+    <offer sku="10819924">
+      <model>Трос сантехнический Сибин 51906-025, 2.5м*6мм</model>
+      <brand>Сибин</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1130.29</price>
+        <cityprice cityId="615420100">1130.29</cityprice>
+    </offer>
+    <offer sku="10934141">
+      <model>Вантуз насосного типа Rothenberger Ropump Super Plus, 072070X</model>
+      <brand>Rothenberger</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>99256.73</price>
+        <cityprice cityId="615420100">99256.73</cityprice>
+    </offer>
+    <offer sku="10866992">
+      <model>Вантуз насосного типа Rothenberger Ropump 71991</model>
+      <brand>Rothenberger</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23119.67</price>
+        <cityprice cityId="615420100">23119.67</cityprice>
+    </offer>
+    <offer sku="12714537">
+      <model>Коллекторная группа Tim KDS5007 Квадрат, 1&quot;, 7 ходов</model>
+      <brand>Tim</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246845.93</price>
+        <cityprice cityId="615420100">246845.93</cityprice>
+    </offer>
+    <offer sku="1450340">
+      <model>Кухонная мойка IKEA ЭСКЕЛЕН 992.857.54 Beige</model>
+      <brand>IKEA </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118364.8</price>
+        <cityprice cityId="615420100">118364.8</cityprice>
+    </offer>
+    <offer sku="1398219">
+      <model>Кухонная мойка FLORENTINA Эмилия 900 Шампань Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107575.62</price>
+        <cityprice cityId="615420100">107575.62</cityprice>
+    </offer>
+    <offer sku="1450315">
+      <model>Кухонная мойка Эко-М М-09 серый</model>
+      <brand>Эко-М</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42534.26</price>
+        <cityprice cityId="615420100">42534.26</cityprice>
+    </offer>
+    <offer sku="1419664">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 780.2 Молодое шампанское</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>184561.15</price>
+        <cityprice cityId="615420100">184561.15</cityprice>
+    </offer>
+    <offer sku="1414067">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 780 Молодое шампанское</model>
+      <brand>Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>154625.13</price>
+        <cityprice cityId="615420100">154625.13</cityprice>
+    </offer>
+    <offer sku="1422957">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 600.2 Молодое шампанское</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95085.07</price>
+        <cityprice cityId="615420100">95085.07</cityprice>
+    </offer>
+    <offer sku="1414408">
+      <model>Кухонная мойка Zigmund &amp; Shtain KREIS OV 770 B Молодое шампанское</model>
+      <brand>Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129391.1</price>
+        <cityprice cityId="615420100">129391.1</cityprice>
+    </offer>
+    <offer sku="1422848">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 775 Молодое шампанское</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148004.41</price>
+        <cityprice cityId="615420100">148004.41</cityprice>
+    </offer>
+    <offer sku="1413012">
+      <model>Кухонная мойка FLORENTINA Вега 700 шампань-бежевый</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87373.57</price>
+        <cityprice cityId="615420100">87373.57</cityprice>
+    </offer>
+    <offer sku="1422153">
+      <model>Кухонная мойка FLORENTINA Селена 780 Шампань Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>99414.57</price>
+        <cityprice cityId="615420100">99414.57</cityprice>
+    </offer>
+    <offer sku="1423240">
+      <model>Кухонная мойка Blanco Zia XL 6S Compact 523279 Шампань Beige</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197604</price>
+        <cityprice cityId="615420100">197604</cityprice>
+    </offer>
+    <offer sku="1414358">
+      <model>Кухонная мойка Blanco Legra 45S Шампань 522205</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192945.49</price>
+        <cityprice cityId="615420100">192945.49</cityprice>
+    </offer>
+    <offer sku="1423132">
+      <model>Кухонная мойка Blanco Legra XL 6S 523330 Шампань</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>223066.26</price>
+        <cityprice cityId="615420100">223066.26</cityprice>
+    </offer>
+    <offer sku="1450825">
+      <model>Кухонная мойка Blanco Legra 6S Compact 521306 Шампань Beige</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>205210.77</price>
+        <cityprice cityId="615420100">205210.77</cityprice>
+    </offer>
+    <offer sku="1450903">
+      <model>Кухонная мойка Blanco Metra 6S Compact 513938 Шампань Beige</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246804.43</price>
+        <cityprice cityId="615420100">246804.43</cityprice>
+    </offer>
+    <offer sku="11119501">
+      <model>Кухонная мойка Florentina Липси 780 шампань</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164011.32</price>
+        <cityprice cityId="615420100">164011.32</cityprice>
+    </offer>
+    <offer sku="1412976">
+      <model>Кухонная мойка FLORENTINA Липси 770 шампань-бежевый</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77865.86</price>
+        <cityprice cityId="615420100">77865.86</cityprice>
+    </offer>
+    <offer sku="1417492">
+      <model>Кухонная мойка FLORENTINA Касси 780 Шампань Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78466.57</price>
+        <cityprice cityId="615420100">78466.57</cityprice>
+    </offer>
+    <offer sku="1419772">
+      <model>Кухонная мойка FLORENTINA Вега 300 Шампань Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52139.79</price>
+        <cityprice cityId="615420100">52139.79</cityprice>
+    </offer>
+    <offer sku="1450965">
+      <model>Кухонная мойка Blanco Dalago 5 518526 Шампань Beige</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197563.49</price>
+        <cityprice cityId="615420100">197563.49</cityprice>
+    </offer>
+    <offer sku="1417441">
+      <model>Кухонная мойка FLORENTINA Родос 760 Шампань Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44994.43</price>
+        <cityprice cityId="615420100">44994.43</cityprice>
+    </offer>
+    <offer sku="11118971">
+      <model>Кухонная мойка Florentina Липси-780Р шампань</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133183.12</price>
+        <cityprice cityId="615420100">133183.12</cityprice>
+    </offer>
+    <offer sku="1450422">
+      <model>Кухонная мойка Blanco Rotan 500-U 521352 Шампань Beige</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>367640.27</price>
+        <cityprice cityId="615420100">367640.27</cityprice>
+    </offer>
+    <offer sku="1450627">
+      <model>Кухонная мойка Blanco Legra 6S Шампань 522211</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>379580.49</price>
+        <cityprice cityId="615420100">379580.49</cityprice>
+    </offer>
+    <offer sku="1423039">
+      <model>Кухонная мойка Granicom G-006 Шампань Beige</model>
+      <brand>Granicom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38518.95</price>
+        <cityprice cityId="615420100">38518.95</cityprice>
+    </offer>
+    <offer sku="11119109">
+      <model>Кухонная мойка Florentina Липси 860 шампань</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98792.12</price>
+        <cityprice cityId="615420100">98792.12</cityprice>
+    </offer>
+    <offer sku="11249743">
+      <model>Кухонная мойка Blanco Subline 350/350-U 523580 шампань</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>552303.18</price>
+        <cityprice cityId="615420100">552303.18</cityprice>
+    </offer>
+    <offer sku="1411199">
+      <model>Кухонная мойка ORIVEL Venera Plus Шампань Beige</model>
+      <brand>ORIVEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80673.81</price>
+        <cityprice cityId="615420100">80673.81</cityprice>
+    </offer>
+    <offer sku="11119098">
+      <model>Кухонная мойка Florentina Комби 860 шампань</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164011.32</price>
+        <cityprice cityId="615420100">164011.32</cityprice>
+    </offer>
+    <offer sku="1412757">
+      <model>Кухонная мойка GranFest МРАМОР GF-C960E черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143101.85</price>
+        <cityprice cityId="615420100">143101.85</cityprice>
+    </offer>
+    <offer sku="1422893">
+      <model>Кухонная мойка Avina 68x45 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94652.32</price>
+        <cityprice cityId="615420100">94652.32</cityprice>
+    </offer>
+    <offer sku="1450533">
+      <model>Кухонная мойка Franke UBG 651-78 114.0595.468 оникс черный</model>
+      <brand>Franke</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>285138.62</price>
+        <cityprice cityId="615420100">285138.62</cityprice>
+    </offer>
+    <offer sku="511725">
+      <model>Кухонная мойка Ulgran врезная U-203 83x19 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195219.91</price>
+        <cityprice cityId="615420100">195219.91</cityprice>
+    </offer>
+    <offer sku="10952170">
+      <model>Кухонная мойка Ulgran U-405 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67848.32</price>
+        <cityprice cityId="615420100">67848.32</cityprice>
+    </offer>
+    <offer sku="10964248">
+      <model>Кухонная мойка Grohe K500 31647AP0 черная</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>374256.05</price>
+        <cityprice cityId="615420100">374256.05</cityprice>
+    </offer>
+    <offer sku="11118471">
+      <model>Кухонная мойка Avina MR-03 черная</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59242.67</price>
+        <cityprice cityId="615420100">59242.67</cityprice>
+    </offer>
+    <offer sku="1404053">
+      <model>Кухонная мойка GranFest QUARZ GF-Z48 черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51871.05</price>
+        <cityprice cityId="615420100">51871.05</cityprice>
+    </offer>
+    <offer sku="1405519">
+      <model>Кухонная мойка Avina 50x45 черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39372.6</price>
+        <cityprice cityId="615420100">39372.6</cityprice>
+    </offer>
+    <offer sku="1412451">
+      <model>Кухонная мойка ELLECI Fox Round LGFROU59 черный</model>
+      <brand>ELLECI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100382.83</price>
+        <cityprice cityId="615420100">100382.83</cityprice>
+    </offer>
+    <offer sku="1413708">
+      <model>Кухонная мойка EcoStone ES-18-308 черный</model>
+      <brand>EcoStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49638.12</price>
+        <cityprice cityId="615420100">49638.12</cityprice>
+    </offer>
+    <offer sku="1399570">
+      <model>Кухонная мойка GranFest GF-P980KL черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136359.6</price>
+        <cityprice cityId="615420100">136359.6</cityprice>
+    </offer>
+    <offer sku="1401136">
+      <model>Кухонная мойка GranFest МРАМОР GF-S850L черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143210.53</price>
+        <cityprice cityId="615420100">143210.53</cityprice>
+    </offer>
+    <offer sku="11117479">
+      <model>Кухонная мойка Delinia 82502616 черная</model>
+      <brand>Delinia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53239.46</price>
+        <cityprice cityId="615420100">53239.46</cityprice>
+    </offer>
+    <offer sku="11119047">
+      <model>Кухонная мойка Florentina Липси 780 черная</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98782.24</price>
+        <cityprice cityId="615420100">98782.24</cityprice>
+    </offer>
+    <offer sku="1404536">
+      <model>Кухонная мойка AQUASANITA SR101-601AW черный</model>
+      <brand>AQUASANITA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111362.7</price>
+        <cityprice cityId="615420100">111362.7</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
