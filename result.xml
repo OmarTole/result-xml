@@ -89823,5 +89823,3056 @@
       <price>81511.65</price>
         <cityprice cityId="615420100">81511.65</cityprice>
     </offer>
+    <offer sku="7549933">
+      <model>Электролобзик Ресанта Л-55-600 75/9/1</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9621.34</price>
+        <cityprice cityId="615420100">9621.34</cityprice>
+    </offer>
+    <offer sku="311266">
+      <model>Электролобзик Alteco JS 650.1</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13422.07</price>
+        <cityprice cityId="615420100">13422.07</cityprice>
+    </offer>
+    <offer sku="4437254">
+      <model>Электролобзик Энкор ЛЭ-500/45Э</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28534.02</price>
+        <cityprice cityId="615420100">28534.02</cityprice>
+    </offer>
+    <offer sku="4442141">
+      <model>Лобзик Энкор ЛЭ-600/60Э оранжевый 50220</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24256.88</price>
+        <cityprice cityId="615420100">24256.88</cityprice>
+    </offer>
+    <offer sku="11317083">
+      <model>Электролобзик Энкор ЛЭ-570/65Э</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133866.83</price>
+        <cityprice cityId="615420100">133866.83</cityprice>
+    </offer>
+    <offer sku="4439322">
+      <model>Электролобзик Энкор ЛЭ-750/80Э, оранжевый</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27643.81</price>
+        <cityprice cityId="615420100">27643.81</cityprice>
+    </offer>
+    <offer sku="7549893">
+      <model>Электролобзик Зубр ЗЛ-710ЭМ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>435725.71</price>
+        <cityprice cityId="615420100">435725.71</cityprice>
+    </offer>
+    <offer sku="7549770">
+      <model>Электролобзик Зубр ЗЛ-650ЭМ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>932402.38</price>
+        <cityprice cityId="615420100">932402.38</cityprice>
+    </offer>
+    <offer sku="12342333">
+      <model>Электролобзик Bosch PST 700 PE 0603351121</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74050.12</price>
+        <cityprice cityId="615420100">74050.12</cityprice>
+    </offer>
+    <offer sku="7544698">
+      <model>Электролобзик Зубр Л-400-55</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19494.62</price>
+        <cityprice cityId="615420100">19494.62</cityprice>
+    </offer>
+    <offer sku="11330973">
+      <model>Электролобзик Total TS206806</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33098.67</price>
+        <cityprice cityId="615420100">33098.67</cityprice>
+    </offer>
+    <offer sku="7549962">
+      <model>Электролобзик Ставр ЛЭ-65/700</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22262.07</price>
+        <cityprice cityId="615420100">22262.07</cityprice>
+    </offer>
+    <offer sku="7549769">
+      <model>Электролобзик Einhell TH-JS 85</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38899.34</price>
+        <cityprice cityId="615420100">38899.34</cityprice>
+    </offer>
+    <offer sku="11330950">
+      <model>Электролобзик Kolner KJS 900VC</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37198.95</price>
+        <cityprice cityId="615420100">37198.95</cityprice>
+    </offer>
+    <offer sku="11330956">
+      <model>Электролобзик Haina 6001</model>
+      <brand>Haina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57268.6</price>
+        <cityprice cityId="615420100">57268.6</cityprice>
+    </offer>
+    <offer sku="11317765">
+      <model>Электролобзик Crown CT15021</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46812.39</price>
+        <cityprice cityId="615420100">46812.39</cityprice>
+    </offer>
+    <offer sku="7542025">
+      <model>Электролобзик P.I.T. 71001 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20531.06</price>
+        <cityprice cityId="615420100">20531.06</cityprice>
+    </offer>
+    <offer sku="12166216">
+      <model>Электролобзик Bosch GST 18V-LI B 0615990M43</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395208</price>
+        <cityprice cityId="615420100">395208</cityprice>
+    </offer>
+    <offer sku="12165742">
+      <model>Электролобзик Bosch GST 18V-LIB Solo 06015A6100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97214.1</price>
+        <cityprice cityId="615420100">97214.1</cityprice>
+    </offer>
+    <offer sku="11264486">
+      <model>Электролобзик Зубр ЛП-700 К Профессионал</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35395.82</price>
+        <cityprice cityId="615420100">35395.82</cityprice>
+    </offer>
+    <offer sku="7549727">
+      <model>Электролобзик Ryobi RJS750G 5133002215</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36795.84</price>
+        <cityprice cityId="615420100">36795.84</cityprice>
+    </offer>
+    <offer sku="7549796">
+      <model>Электролобзик Black&amp;Decker KS501</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20516.24</price>
+        <cityprice cityId="615420100">20516.24</cityprice>
+    </offer>
+    <offer sku="7542737">
+      <model>Электролобзик DeWALT DW349 LAKA</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133750.24</price>
+        <cityprice cityId="615420100">133750.24</cityprice>
+    </offer>
+    <offer sku="7549728">
+      <model>Электролобзик Dremel Moto-Saw MS20-1/5</model>
+      <brand>Dremel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60602.18</price>
+        <cityprice cityId="615420100">60602.18</cityprice>
+    </offer>
+    <offer sku="7550059">
+      <model>Электролобзик Ryobi One+ R18JS-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67972.81</price>
+        <cityprice cityId="615420100">67972.81</cityprice>
+    </offer>
+    <offer sku="7549970">
+      <model>Электролобзик Зубр Л-570</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20282.07</price>
+        <cityprice cityId="615420100">20282.07</cityprice>
+    </offer>
+    <offer sku="3430124">
+      <model>Электролобзик Makita 4350CT, 720 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89108.54</price>
+        <cityprice cityId="615420100">89108.54</cityprice>
+    </offer>
+    <offer sku="7549857">
+      <model>Электролобзик Ресанта Л-100/850</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21009.26</price>
+        <cityprice cityId="615420100">21009.26</cityprice>
+    </offer>
+    <offer sku="12165715">
+      <model>Электролобзик DeWalt DWE349</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34481.9</price>
+        <cityprice cityId="615420100">34481.9</cityprice>
+    </offer>
+    <offer sku="1054794">
+      <model>Электролобзик BOSCH PST 750 PE 530 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42291.21</price>
+        <cityprice cityId="615420100">42291.21</cityprice>
+    </offer>
+    <offer sku="1054789">
+      <model>Электролобзик BOSCH GST 850 BE 600 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98566.85</price>
+        <cityprice cityId="615420100">98566.85</cityprice>
+    </offer>
+    <offer sku="12165735">
+      <model>Электролобзик Bosch Bosch PST 650 06033A0720</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28811.65</price>
+        <cityprice cityId="615420100">28811.65</cityprice>
+    </offer>
+    <offer sku="7549955">
+      <model>Электролобзик Festool Trion PS 300 EQ-Plus 561445</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3536040.59</price>
+        <cityprice cityId="615420100">3536040.59</cityprice>
+    </offer>
+    <offer sku="11317433">
+      <model>Электролобзик Crown CT15078</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41289.32</price>
+        <cityprice cityId="615420100">41289.32</cityprice>
+    </offer>
+    <offer sku="11318064">
+      <model>Электролобзик Ставр ЛЭ-80/850</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42598.48</price>
+        <cityprice cityId="615420100">42598.48</cityprice>
+    </offer>
+    <offer sku="11331298">
+      <model>Электролобзик Tен TJS6507</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36003.45</price>
+        <cityprice cityId="615420100">36003.45</cityprice>
+    </offer>
+    <offer sku="12342239">
+      <model>Электролобзик Makute JS011</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34244.77</price>
+        <cityprice cityId="615420100">34244.77</cityprice>
+    </offer>
+    <offer sku="7546301">
+      <model>Электролобзик Edon EDL-750R</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>196663.4</price>
+        <cityprice cityId="615420100">196663.4</cityprice>
+    </offer>
+    <offer sku="11275858">
+      <model>Электролобзик Hammer Flex LZK790L</model>
+      <brand>Hammer Flex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>543332.95</price>
+        <cityprice cityId="615420100">543332.95</cityprice>
+    </offer>
+    <offer sku="7550072">
+      <model>Электролобзик Black&amp;Decker JS20-RU</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>326829.11</price>
+        <cityprice cityId="615420100">326829.11</cityprice>
+    </offer>
+    <offer sku="12342250">
+      <model>Электролобзик HF JS06B-55 18680868</model>
+      <brand>HF</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53348.14</price>
+        <cityprice cityId="615420100">53348.14</cityprice>
+    </offer>
+    <offer sku="12342459">
+      <model>Электролобзик Dexter 500JS2-65.5</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48403.1</price>
+        <cityprice cityId="615420100">48403.1</cityprice>
+    </offer>
+    <offer sku="11272499">
+      <model>Электролобзик Bosch GST 18 V-LI 060158J300</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>240086.88</price>
+        <cityprice cityId="615420100">240086.88</cityprice>
+    </offer>
+    <offer sku="7549914">
+      <model>Электролобзик Edon EDL-950RL</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28255.4</price>
+        <cityprice cityId="615420100">28255.4</cityprice>
+    </offer>
+    <offer sku="12342437">
+      <model>Электролобзик Tesla TJ18DC</model>
+      <brand>Tesla</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42373.21</price>
+        <cityprice cityId="615420100">42373.21</cityprice>
+    </offer>
+    <offer sku="7549816">
+      <model>Электролобзик Ingco INDUSTRIAL JS80028</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39076.19</price>
+        <cityprice cityId="615420100">39076.19</cityprice>
+    </offer>
+    <offer sku="7549942">
+      <model>Электролобзик Bosch GST 160 BCE 0601518001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>215457.52</price>
+        <cityprice cityId="615420100">215457.52</cityprice>
+    </offer>
+    <offer sku="7550018">
+      <model>Электролобзик Wortex JS 8008-2 LE</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30331.23</price>
+        <cityprice cityId="615420100">30331.23</cityprice>
+    </offer>
+    <offer sku="11264517">
+      <model>Электролобзик P.I.T 77002</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22491.29</price>
+        <cityprice cityId="615420100">22491.29</cityprice>
+    </offer>
+    <offer sku="7549723">
+      <model>Электролобзик Kolner KJS 850VL</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41197.47</price>
+        <cityprice cityId="615420100">41197.47</cityprice>
+    </offer>
+    <offer sku="7548002">
+      <model>Электролобзик Kolner KJS 480</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19332.59</price>
+        <cityprice cityId="615420100">19332.59</cityprice>
+    </offer>
+    <offer sku="7549794">
+      <model>Электролобзик DeWALT DW341K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140841.5</price>
+        <cityprice cityId="615420100">140841.5</cityprice>
+    </offer>
+    <offer sku="11330671">
+      <model>Электролобзик Crown CT25003HX</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58999.61</price>
+        <cityprice cityId="615420100">58999.61</cityprice>
+    </offer>
+    <offer sku="419058">
+      <model>Электролобзик Crown &quot;CT15189&quot;</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21998.27</price>
+        <cityprice cityId="615420100">21998.27</cityprice>
+    </offer>
+    <offer sku="7545655">
+      <model>Электролобзик Ресанта Л-80/750</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16110.65</price>
+        <cityprice cityId="615420100">16110.65</cityprice>
+    </offer>
+    <offer sku="7549967">
+      <model>Электролобзик Milwaukee M18 BJS-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>256934.6</price>
+        <cityprice cityId="615420100">256934.6</cityprice>
+    </offer>
+    <offer sku="12342236">
+      <model>Электролобзик Ермак ЛЭ-710/Б-ЛЗ 710Вт</model>
+      <brand>Ермак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92871.9</price>
+        <cityprice cityId="615420100">92871.9</cityprice>
+    </offer>
+    <offer sku="7544334">
+      <model>Электролобзик Bosch GST 90 BE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64002.95</price>
+        <cityprice cityId="615420100">64002.95</cityprice>
+    </offer>
+    <offer sku="11276366">
+      <model>Электролобзик DeWalt DWE 249-KS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53684.46</price>
+        <cityprice cityId="615420100">53684.46</cityprice>
+    </offer>
+    <offer sku="7549926">
+      <model>Электролобзик Bosch GST 12V-70</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76663.44</price>
+        <cityprice cityId="615420100">76663.44</cityprice>
+    </offer>
+    <offer sku="1054793">
+      <model>Электролобзик BOSCH PST 700 E 500 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42237.86</price>
+        <cityprice cityId="615420100">42237.86</cityprice>
+    </offer>
+    <offer sku="7549764">
+      <model>Электролобзик Ryobi RJS850K</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37296.77</price>
+        <cityprice cityId="615420100">37296.77</cityprice>
+    </offer>
+    <offer sku="7549791">
+      <model>Электролобзик Bosch GST 90 E</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80335.91</price>
+        <cityprice cityId="615420100">80335.91</cityprice>
+    </offer>
+    <offer sku="7549885">
+      <model>Электролобзик DeWALT DWE305PK</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98014.55</price>
+        <cityprice cityId="615420100">98014.55</cityprice>
+    </offer>
+    <offer sku="7549945">
+      <model>Электролобзик DWT STS05-55 DV</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18027.41</price>
+        <cityprice cityId="615420100">18027.41</cityprice>
+    </offer>
+    <offer sku="7550075">
+      <model>Электролобзик Ставр ЛЭ-65/600</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10535.26</price>
+        <cityprice cityId="615420100">10535.26</cityprice>
+    </offer>
+    <offer sku="419055">
+      <model>Электролобзик Bosch &quot;GST 8000 E&quot;</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33342.71</price>
+        <cityprice cityId="615420100">33342.71</cityprice>
+    </offer>
+    <offer sku="1054802">
+      <model>Электролобзик DeWALT DW331K 701 Вт</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105105.57</price>
+        <cityprice cityId="615420100">105105.57</cityprice>
+    </offer>
+    <offer sku="7549817">
+      <model>Электролобзик Ingco JS57028</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28946.02</price>
+        <cityprice cityId="615420100">28946.02</cityprice>
+    </offer>
+    <offer sku="11330920">
+      <model>Электролобзик Hammer Flex LZK930L</model>
+      <brand>Hammer Flex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197593.13</price>
+        <cityprice cityId="615420100">197593.13</cityprice>
+    </offer>
+    <offer sku="7549798">
+      <model>Электролобзик Wortex CJS 6529</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>508222.67</price>
+        <cityprice cityId="615420100">508222.67</cityprice>
+    </offer>
+    <offer sku="7549862">
+      <model>Электролобзик Oasis LE-40</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296395.13</price>
+        <cityprice cityId="615420100">296395.13</cityprice>
+    </offer>
+    <offer sku="7549864">
+      <model>Электролобзик Einhell BT-JS 650 E</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296395.13</price>
+        <cityprice cityId="615420100">296395.13</cityprice>
+    </offer>
+    <offer sku="7549917">
+      <model>Электролобзик Metabo STA 18 LTX 100 601002840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1434968.63</price>
+        <cityprice cityId="615420100">1434968.63</cityprice>
+    </offer>
+    <offer sku="7549951">
+      <model>Электролобзик Metabo STE 140 Plus 601403500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3959939.7</price>
+        <cityprice cityId="615420100">3959939.7</cityprice>
+    </offer>
+    <offer sku="7550070">
+      <model>Электролобзик Black&amp;Decker JS10</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286097.99</price>
+        <cityprice cityId="615420100">286097.99</cityprice>
+    </offer>
+    <offer sku="7549793">
+      <model>Электролобзик Bosch GSG 300</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3051088.75</price>
+        <cityprice cityId="615420100">3051088.75</cityprice>
+    </offer>
+    <offer sku="1054828">
+      <model>Электролобзик Фиолент ПМ 3-600Э 600 Вт</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43559.83</price>
+        <cityprice cityId="615420100">43559.83</cityprice>
+    </offer>
+    <offer sku="11330785">
+      <model>Электролобзик Победа Л-55-570</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96825.96</price>
+        <cityprice cityId="615420100">96825.96</cityprice>
+    </offer>
+    <offer sku="11330965">
+      <model>Электролобзик Total TS2081356</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48452.5</price>
+        <cityprice cityId="615420100">48452.5</cityprice>
+    </offer>
+    <offer sku="7550017">
+      <model>Электролобзик Wortex JS 6506-2 LE</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29543.77</price>
+        <cityprice cityId="615420100">29543.77</cityprice>
+    </offer>
+    <offer sku="1054809">
+      <model>Электролобзик ДИОЛД ПЛЭ-1-06 800 Вт</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192515.7</price>
+        <cityprice cityId="615420100">192515.7</cityprice>
+    </offer>
+    <offer sku="12342477">
+      <model>Электролобзик Stanley STSC1860-RU</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111644.28</price>
+        <cityprice cityId="615420100">111644.28</cityprice>
+    </offer>
+    <offer sku="1054806">
+      <model>Электролобзик DeWALT DW349 500 Вт</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3051700.34</price>
+        <cityprice cityId="615420100">3051700.34</cityprice>
+    </offer>
+    <offer sku="1054827">
+      <model>Электролобзик Интерскол МП-100/700Э 705 Вт</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71927.86</price>
+        <cityprice cityId="615420100">71927.86</cityprice>
+    </offer>
+    <offer sku="7549873">
+      <model>Электролобзик Зубр Л-570-65</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25457.32</price>
+        <cityprice cityId="615420100">25457.32</cityprice>
+    </offer>
+    <offer sku="7549756">
+      <model>Электролобзик Kolner KJS 500</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>334056.48</price>
+        <cityprice cityId="615420100">334056.48</cityprice>
+    </offer>
+    <offer sku="419056">
+      <model>Электролобзик P.I.T. 76504</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12141.78</price>
+        <cityprice cityId="615420100">12141.78</cityprice>
+    </offer>
+    <offer sku="11322780">
+      <model>Электролобзик Ставр ЛА 80/20</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40361.61</price>
+        <cityprice cityId="615420100">40361.61</cityprice>
+    </offer>
+    <offer sku="11274420">
+      <model>Электролобзик Brait BJS55</model>
+      <brand>Brait</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19839.44</price>
+        <cityprice cityId="615420100">19839.44</cityprice>
+    </offer>
+    <offer sku="419054">
+      <model>Электролобзик Bosch &quot;PST 650&quot;</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33023.58</price>
+        <cityprice cityId="615420100">33023.58</cityprice>
+    </offer>
+    <offer sku="7550011">
+      <model>Электролобзик Ryobi RSW1240G</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>141213.75</price>
+        <cityprice cityId="615420100">141213.75</cityprice>
+    </offer>
+    <offer sku="7549814">
+      <model>Электролобзик Bosch GST 150 BCE 0601513000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149978.47</price>
+        <cityprice cityId="615420100">149978.47</cityprice>
+    </offer>
+    <offer sku="7549944">
+      <model>Электролобзик Bosch GST 150 CE 0601512000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>146876.09</price>
+        <cityprice cityId="615420100">146876.09</cityprice>
+    </offer>
+    <offer sku="7550083">
+      <model>Электролобзик Ставр ЛЭ-80/750</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27463.99</price>
+        <cityprice cityId="615420100">27463.99</cityprice>
+    </offer>
+    <offer sku="7549818">
+      <model>Электролобзик DeWalt DW341K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60496.02</price>
+        <cityprice cityId="615420100">60496.02</cityprice>
+    </offer>
+    <offer sku="3343486">
+      <model>Электролобзик Makita 4329X1 450 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29530.93</price>
+        <cityprice cityId="615420100">29530.93</cityprice>
+    </offer>
+    <offer sku="7550057">
+      <model>Электролобзик Denzel JS-65</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18543.16</price>
+        <cityprice cityId="615420100">18543.16</cityprice>
+    </offer>
+    <offer sku="11321435">
+      <model>Электролобзик Интерскол МП-55/500Э</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37050.75</price>
+        <cityprice cityId="615420100">37050.75</cityprice>
+    </offer>
+    <offer sku="1054764">
+      <model>Электролобзик аккумуляторный BOSCH EasySaw 12 0 коробка</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>892129.69</price>
+        <cityprice cityId="615420100">892129.69</cityprice>
+    </offer>
+    <offer sku="1054771">
+      <model>Электролобзик BLACK+DECKER KS701E 520 Вт</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>208347.73</price>
+        <cityprice cityId="615420100">208347.73</cityprice>
+    </offer>
+    <offer sku="1054782">
+      <model>Электролобзик ELITECH ПЛ 0810МЛЭ 850 Вт</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>273926.57</price>
+        <cityprice cityId="615420100">273926.57</cityprice>
+    </offer>
+    <offer sku="1054784">
+      <model>Электролобзик BOSCH GST 135 BCE 720 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>485752.13</price>
+        <cityprice cityId="615420100">485752.13</cityprice>
+    </offer>
+    <offer sku="7549782">
+      <model>Электролобзик Bosch PST 10.8 LI 06033B4022</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261384.64</price>
+        <cityprice cityId="615420100">261384.64</cityprice>
+    </offer>
+    <offer sku="7549795">
+      <model>Электролобзик Festool PS200 E PSB 300 EQ-PLUS</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1522890.56</price>
+        <cityprice cityId="615420100">1522890.56</cityprice>
+    </offer>
+    <offer sku="7549991">
+      <model>Электролобзик Milwaukee JS 120 4933381680</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217360.45</price>
+        <cityprice cityId="615420100">217360.45</cityprice>
+    </offer>
+    <offer sku="7549928">
+      <model>Электролобзик Ставр ЛЭ-80/800</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>203020.33</price>
+        <cityprice cityId="615420100">203020.33</cityprice>
+    </offer>
+    <offer sku="12342465">
+      <model>Электролобзик Dexter 20VJS2-28.1</model>
+      <brand>Dexter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109156.45</price>
+        <cityprice cityId="615420100">109156.45</cityprice>
+    </offer>
+    <offer sku="1054770">
+      <model>Электролобзик BLACK+DECKER BES610 650 Вт</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76581.43</price>
+        <cityprice cityId="615420100">76581.43</cityprice>
+    </offer>
+    <offer sku="11309546">
+      <model>Электролобзик Победа Л-65/690 190301690</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36544.88</price>
+        <cityprice cityId="615420100">36544.88</cityprice>
+    </offer>
+    <offer sku="11330823">
+      <model>Электролобзик Парма ПЛ 01-55/500</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44016.29</price>
+        <cityprice cityId="615420100">44016.29</cityprice>
+    </offer>
+    <offer sku="11267838">
+      <model>Электролобзик Daewoo DAJ 850</model>
+      <brand>Daewoo Power Products</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47282.69</price>
+        <cityprice cityId="615420100">47282.69</cityprice>
+    </offer>
+    <offer sku="7549931">
+      <model>Электролобзик Festool PSB 420 EBQ-Plus Carvex</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>371667.44</price>
+        <cityprice cityId="615420100">371667.44</cityprice>
+    </offer>
+    <offer sku="7549966">
+      <model>Электролобзик Ingco JS40028</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37533.89</price>
+        <cityprice cityId="615420100">37533.89</cityprice>
+    </offer>
+    <offer sku="1054819">
+      <model>Электролобзик Интерскол МП-85/600Э 701 Вт</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42040.25</price>
+        <cityprice cityId="615420100">42040.25</cityprice>
+    </offer>
+    <offer sku="1054766">
+      <model>Электролобзик аккумуляторный Makita JV100DZ 0 коробка</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242055.02</price>
+        <cityprice cityId="615420100">242055.02</cityprice>
+    </offer>
+    <offer sku="1054743">
+      <model>Электролобзик Bosch GST 12V-70 2.0Ач х2 L-BOXX</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118261.05</price>
+        <cityprice cityId="615420100">118261.05</cityprice>
+    </offer>
+    <offer sku="11269311">
+      <model>Электролобзик Wortex JS 6507</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104729.13</price>
+        <cityprice cityId="615420100">104729.13</cityprice>
+    </offer>
+    <offer sku="7549891">
+      <model>Электролобзик ТЭМП ЭЛ-65</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19670.49</price>
+        <cityprice cityId="615420100">19670.49</cityprice>
+    </offer>
+    <offer sku="11309158">
+      <model>Электролобзик Makita 4328</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77954.78</price>
+        <cityprice cityId="615420100">77954.78</cityprice>
+    </offer>
+    <offer sku="11308523">
+      <model>Электролобзик Ставр ЛЭ-110/900Л</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45488.44</price>
+        <cityprice cityId="615420100">45488.44</cityprice>
+    </offer>
+    <offer sku="7550085">
+      <model>Электролобзик Black&amp;Decker KS701PEK</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66183.51</price>
+        <cityprice cityId="615420100">66183.51</cityprice>
+    </offer>
+    <offer sku="11313790">
+      <model>Электролобзик Ryobi R18JS7-0 ONE+</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87143.36</price>
+        <cityprice cityId="615420100">87143.36</cityprice>
+    </offer>
+    <offer sku="1054801">
+      <model>Электролобзик Denzel JS-80 650 Вт</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30751.13</price>
+        <cityprice cityId="615420100">30751.13</cityprice>
+    </offer>
+    <offer sku="1054750">
+      <model>Электролобзик аккумуляторный DeWALT DCS335N</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156562.64</price>
+        <cityprice cityId="615420100">156562.64</cityprice>
+    </offer>
+    <offer sku="7542390">
+      <model>Электролобзик Зубр Л-П730-120</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29883.19</price>
+        <cityprice cityId="615420100">29883.19</cityprice>
+    </offer>
+    <offer sku="12342257">
+      <model>Электролобзик Tolsen 79551</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30020.99</price>
+        <cityprice cityId="615420100">30020.99</cityprice>
+    </offer>
+    <offer sku="7549950">
+      <model>Электролобзик Bosch GST 18 V-LI B</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145817.92</price>
+        <cityprice cityId="615420100">145817.92</cityprice>
+    </offer>
+    <offer sku="7550074">
+      <model>Электролобзик Kolner KJS 600VN</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11004.57</price>
+        <cityprice cityId="615420100">11004.57</cityprice>
+    </offer>
+    <offer sku="3344380">
+      <model>Электролобзик Makita 4351CT</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100317.62</price>
+        <cityprice cityId="615420100">100317.62</cityprice>
+    </offer>
+    <offer sku="7549889">
+      <model>Электролобзик DWT STS07-120 TV</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27273.3</price>
+        <cityprice cityId="615420100">27273.3</cityprice>
+    </offer>
+    <offer sku="7549804">
+      <model>Электролобзик Metabo STEB 65 Quick 601030000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66631.08</price>
+        <cityprice cityId="615420100">66631.08</cityprice>
+    </offer>
+    <offer sku="7550061">
+      <model>Электролобзик Bort BPS-650-Q 91271334</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>513612.32</price>
+        <cityprice cityId="615420100">513612.32</cityprice>
+    </offer>
+    <offer sku="12691966">
+      <model>Электролобзик Вихрь ЛЭ-850-10А</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17125.35</price>
+        <cityprice cityId="615420100">17125.35</cityprice>
+    </offer>
+    <offer sku="12165721">
+      <model>Электролобзик Bosch GST 90 BE 060158F001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69159.42</price>
+        <cityprice cityId="615420100">69159.42</cityprice>
+    </offer>
+    <offer sku="1054769">
+      <model>Электролобзик аккумуляторный Makita JV183DWE 1.5Ач х2 кейс</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>513215.13</price>
+        <cityprice cityId="615420100">513215.13</cityprice>
+    </offer>
+    <offer sku="12342256">
+      <model>Электролобзик Makita 4329X6</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69848.07</price>
+        <cityprice cityId="615420100">69848.07</cityprice>
+    </offer>
+    <offer sku="7542106">
+      <model>Электролобзик P.I.T. 78001</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19409.65</price>
+        <cityprice cityId="615420100">19409.65</cityprice>
+    </offer>
+    <offer sku="7550060">
+      <model>Электролобзик P.I.T. 71008 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32417.92</price>
+        <cityprice cityId="615420100">32417.92</cityprice>
+    </offer>
+    <offer sku="1054798">
+      <model>Электролобзик BOSCH PST 900 PEL 620 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61621.82</price>
+        <cityprice cityId="615420100">61621.82</cityprice>
+    </offer>
+    <offer sku="444317">
+      <model>Электролобзик Hyundai HY-J650</model>
+      <brand>Hyundai </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97224.13</price>
+        <cityprice cityId="615420100">97224.13</cityprice>
+    </offer>
+    <offer sku="11264555">
+      <model>Электролобзик Felisatti МП-​65/​18 Л3</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52700.99</price>
+        <cityprice cityId="615420100">52700.99</cityprice>
+    </offer>
+    <offer sku="7549781">
+      <model>Электролобзик Black&amp;Decker KS701EK</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45631.7</price>
+        <cityprice cityId="615420100">45631.7</cityprice>
+    </offer>
+    <offer sku="7549741">
+      <model>Электролобзик Hilti SJD 6-A22 2133671</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>158891.4</price>
+        <cityprice cityId="615420100">158891.4</cityprice>
+    </offer>
+    <offer sku="11330801">
+      <model>Электролобзик Kolner KJS 550</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39349.87</price>
+        <cityprice cityId="615420100">39349.87</cityprice>
+    </offer>
+    <offer sku="7548420">
+      <model>Электролобзик Kolner KJS 750V</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29017.16</price>
+        <cityprice cityId="615420100">29017.16</cityprice>
+    </offer>
+    <offer sku="1054785">
+      <model>Электролобзик BOSCH GST 700 500 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44450.03</price>
+        <cityprice cityId="615420100">44450.03</cityprice>
+    </offer>
+    <offer sku="7549802">
+      <model>Электролобзик Einhell TC-SS 405 E</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71848.81</price>
+        <cityprice cityId="615420100">71848.81</cityprice>
+    </offer>
+    <offer sku="1054797">
+      <model>Электролобзик BOSCH PST 800 PEL кейс 530 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47215.5</price>
+        <cityprice cityId="615420100">47215.5</cityprice>
+    </offer>
+    <offer sku="7549813">
+      <model>Электролобзик Einhell TE-JS 100</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62384.57</price>
+        <cityprice cityId="615420100">62384.57</cityprice>
+    </offer>
+    <offer sku="11308879">
+      <model>Электролобзик Edon OAF21-JB 1001010606</model>
+      <brand>Edon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77055.68</price>
+        <cityprice cityId="615420100">77055.68</cityprice>
+    </offer>
+    <offer sku="11313435">
+      <model>Электролобзик Kedr 361007</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40459.42</price>
+        <cityprice cityId="615420100">40459.42</cityprice>
+    </offer>
+    <offer sku="11330900">
+      <model>Электролобзик Felisatti МП-55/550Э</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37411.38</price>
+        <cityprice cityId="615420100">37411.38</cityprice>
+    </offer>
+    <offer sku="7549948">
+      <model>Электролобзик Зубр ЛП-500 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25431.63</price>
+        <cityprice cityId="615420100">25431.63</cityprice>
+    </offer>
+    <offer sku="7549961">
+      <model>Электролобзик Bosch PST 800 PEL 06033A0120</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44413.48</price>
+        <cityprice cityId="615420100">44413.48</cityprice>
+    </offer>
+    <offer sku="12342340">
+      <model>Электролобзик Crown CT15080</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30310.48</price>
+        <cityprice cityId="615420100">30310.48</cityprice>
+    </offer>
+    <offer sku="7549960">
+      <model>Электролобзик Milwaukee M18 FJS-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193663.78</price>
+        <cityprice cityId="615420100">193663.78</cityprice>
+    </offer>
+    <offer sku="7549957">
+      <model>Электролобзик Denzel JS-80 27103</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29950.84</price>
+        <cityprice cityId="615420100">29950.84</cityprice>
+    </offer>
+    <offer sku="7549976">
+      <model>Электролобзик Ryobi RJS1050-K 5133002219</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62571.31</price>
+        <cityprice cityId="615420100">62571.31</cityprice>
+    </offer>
+    <offer sku="12342280">
+      <model>Электролобзик Sturm JS4061P</model>
+      <brand>Sturm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52700.99</price>
+        <cityprice cityId="615420100">52700.99</cityprice>
+    </offer>
+    <offer sku="12342516">
+      <model>Электролобзик Mateus MS10104</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114383.08</price>
+        <cityprice cityId="615420100">114383.08</cityprice>
+    </offer>
+    <offer sku="7550071">
+      <model>Электролобзик TCH 7610</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97813.98</price>
+        <cityprice cityId="615420100">97813.98</cityprice>
+    </offer>
+    <offer sku="7549755">
+      <model>Электролобзик Вихрь ЛЭ-55Б</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7864.64</price>
+        <cityprice cityId="615420100">7864.64</cityprice>
+    </offer>
+    <offer sku="11331291">
+      <model>Электролобзик Elitech ПЛ 0560ЛЭ Промо</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64120.52</price>
+        <cityprice cityId="615420100">64120.52</cityprice>
+    </offer>
+    <offer sku="955243">
+      <model>Электролобзик Alteco JS 700</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20580.8</price>
+        <cityprice cityId="615420100">20580.8</cityprice>
+    </offer>
+    <offer sku="11321922">
+      <model>Электролобзик Ставр ЛЭ-110/950</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29829.31</price>
+        <cityprice cityId="615420100">29829.31</cityprice>
+    </offer>
+    <offer sku="444259">
+      <model>Электролобзик Bosch PST 700 E 06033A0020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28405.58</price>
+        <cityprice cityId="615420100">28405.58</cityprice>
+    </offer>
+    <offer sku="7549898">
+      <model>Электролобзик DWT STS06-85 DV</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31545.5</price>
+        <cityprice cityId="615420100">31545.5</cityprice>
+    </offer>
+    <offer sku="7549968">
+      <model>Электролобзик Фиолент ПМ З-650 ЭА</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18524.39</price>
+        <cityprice cityId="615420100">18524.39</cityprice>
+    </offer>
+    <offer sku="1054805">
+      <model>Электролобзик DeWALT DW333K кейс 701 Вт</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119008.99</price>
+        <cityprice cityId="615420100">119008.99</cityprice>
+    </offer>
+    <offer sku="1054768">
+      <model>Электролобзик аккумуляторный Makita JV143DWE 1.5Ач х2 кейс</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85197.95</price>
+        <cityprice cityId="615420100">85197.95</cityprice>
+    </offer>
+    <offer sku="12342252">
+      <model>Электролобзик Makute JS015</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53195</price>
+        <cityprice cityId="615420100">53195</cityprice>
+    </offer>
+    <offer sku="7550084">
+      <model>Электролобзик Bosch GST 18V-LI S</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>521268.48</price>
+        <cityprice cityId="615420100">521268.48</cityprice>
+    </offer>
+    <offer sku="7549937">
+      <model>Электролобзик Oasis LE-75</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132691.09</price>
+        <cityprice cityId="615420100">132691.09</cityprice>
+    </offer>
+    <offer sku="11274988">
+      <model>Электролобзик Dexter 750JS3-100.5</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54963.55</price>
+        <cityprice cityId="615420100">54963.55</cityprice>
+    </offer>
+    <offer sku="11330937">
+      <model>Электролобзик Felisatti МП-120/750Э(М)</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40505.86</price>
+        <cityprice cityId="615420100">40505.86</cityprice>
+    </offer>
+    <offer sku="12342237">
+      <model>Электролобзик Haina 6003</model>
+      <brand>Haina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57433.6</price>
+        <cityprice cityId="615420100">57433.6</cityprice>
+    </offer>
+    <offer sku="7549992">
+      <model>Электролобзик Milwaukee JSPE 135 TX 4933381230</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>735839.75</price>
+        <cityprice cityId="615420100">735839.75</cityprice>
+    </offer>
+    <offer sku="1054832">
+      <model>Электролобзик Фиолент ПМ 5-750Э М 750 Вт</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88820.03</price>
+        <cityprice cityId="615420100">88820.03</cityprice>
+    </offer>
+    <offer sku="11330847">
+      <model>Электролобзик Proxxon 27088</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137878.19</price>
+        <cityprice cityId="615420100">137878.19</cityprice>
+    </offer>
+    <offer sku="7549954">
+      <model>Электролобзик Einhell TC-JS 60</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>281338.7</price>
+        <cityprice cityId="615420100">281338.7</cityprice>
+    </offer>
+    <offer sku="7549869">
+      <model>Электролобзик Stanley SJ60-RU</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21311.59</price>
+        <cityprice cityId="615420100">21311.59</cityprice>
+    </offer>
+    <offer sku="7549892">
+      <model>Электролобзик Einhell TC-JS 80</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31359.75</price>
+        <cityprice cityId="615420100">31359.75</cityprice>
+    </offer>
+    <offer sku="12165743">
+      <model>Электролобзик Bosch GST 160 BCE 0601518000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290899.76</price>
+        <cityprice cityId="615420100">290899.76</cityprice>
+    </offer>
+    <offer sku="11275397">
+      <model>Электролобзик Felisatti МП-65/650Э</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46772.87</price>
+        <cityprice cityId="615420100">46772.87</cityprice>
+    </offer>
+    <offer sku="7549908">
+      <model>Электролобзик Зубр ЗСЛ-250</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>154180.52</price>
+        <cityprice cityId="615420100">154180.52</cityprice>
+    </offer>
+    <offer sku="7550019">
+      <model>Электролобзик Зубр ЛП-500</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24894.15</price>
+        <cityprice cityId="615420100">24894.15</cityprice>
+    </offer>
+    <offer sku="12165718">
+      <model>Электролобзик DeWalt DWE249</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50503.63</price>
+        <cityprice cityId="615420100">50503.63</cityprice>
+    </offer>
+    <offer sku="12342278">
+      <model>Электролобзик Диолд ПЛЭ-1-12</model>
+      <brand>ДИОЛД</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137285.38</price>
+        <cityprice cityId="615420100">137285.38</cityprice>
+    </offer>
+    <offer sku="7542028">
+      <model>Электролобзик DeWALT DW349B</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124276.12</price>
+        <cityprice cityId="615420100">124276.12</cityprice>
+    </offer>
+    <offer sku="7550045">
+      <model>Электролобзик Makita M4301</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47669</price>
+        <cityprice cityId="615420100">47669</cityprice>
+    </offer>
+    <offer sku="1054765">
+      <model>Электролобзик аккумуляторный Makita DJV181Z</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187312.78</price>
+        <cityprice cityId="615420100">187312.78</cityprice>
+    </offer>
+    <offer sku="7549720">
+      <model>Электролобзик Makita JV0600K</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68029.13</price>
+        <cityprice cityId="615420100">68029.13</cityprice>
+    </offer>
+    <offer sku="7549956">
+      <model>Электролобзик Denzel JS-110</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32095.83</price>
+        <cityprice cityId="615420100">32095.83</cityprice>
+    </offer>
+    <offer sku="12342288">
+      <model>Электролобзик Bosch GST 80 PBE 0601581808</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143260.92</price>
+        <cityprice cityId="615420100">143260.92</cityprice>
+    </offer>
+    <offer sku="11311016">
+      <model>Электролобзик Ferm JSM1023</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23527.72</price>
+        <cityprice cityId="615420100">23527.72</cityprice>
+    </offer>
+    <offer sku="11330926">
+      <model>Электролобзик Makute JS012</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44016.29</price>
+        <cityprice cityId="615420100">44016.29</cityprice>
+    </offer>
+    <offer sku="7542029">
+      <model>Электролобзик Вихрь ЛЭ-100</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14471.53</price>
+        <cityprice cityId="615420100">14471.53</cityprice>
+    </offer>
+    <offer sku="7549963">
+      <model>Электролобзик Metabo STAB 18 LTX 100 601003890</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>494010</price>
+        <cityprice cityId="615420100">494010</cityprice>
+    </offer>
+    <offer sku="7549977">
+      <model>Электролобзик Metabo STAB 18 LTX 100 601003840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2153552.61</price>
+        <cityprice cityId="615420100">2153552.61</cityprice>
+    </offer>
+    <offer sku="7549975">
+      <model>Электролобзик Metabo STE 140 601401500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1396744.11</price>
+        <cityprice cityId="615420100">1396744.11</cityprice>
+    </offer>
+    <offer sku="1054767">
+      <model>Электролобзик аккумуляторный Makita JV101DZ коробка</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>672436.53</price>
+        <cityprice cityId="615420100">672436.53</cityprice>
+    </offer>
+    <offer sku="7549797">
+      <model>Электролобзик Festool PS 300 EQ-Plus</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>400137.23</price>
+        <cityprice cityId="615420100">400137.23</cityprice>
+    </offer>
+    <offer sku="7549900">
+      <model>Электролобзик Metabo STEB 70 Quick 601040500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>455598.75</price>
+        <cityprice cityId="615420100">455598.75</cityprice>
+    </offer>
+    <offer sku="7549876">
+      <model>Электролобзик Stanley SJ45-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30383.59</price>
+        <cityprice cityId="615420100">30383.59</cityprice>
+    </offer>
+    <offer sku="12166060">
+      <model>Электролобзик Bosch GST 12V-70 06015A1005</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133175.22</price>
+        <cityprice cityId="615420100">133175.22</cityprice>
+    </offer>
+    <offer sku="7542705">
+      <model>Электролобзик Bosch PST 900 PEL 06033A0220</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49242.92</price>
+        <cityprice cityId="615420100">49242.92</cityprice>
+    </offer>
+    <offer sku="11309398">
+      <model>Электролобзик Elitech ПЛ-0885МЭ</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197594.12</price>
+        <cityprice cityId="615420100">197594.12</cityprice>
+    </offer>
+    <offer sku="11318529">
+      <model>Электролобзик Кратон JSE-07</model>
+      <brand>Кратон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>122514.48</price>
+        <cityprice cityId="615420100">122514.48</cityprice>
+    </offer>
+    <offer sku="1054816">
+      <model>Электролобзик КАЛИБР ЛЭМ-450Е 450 Вт</model>
+      <brand>КАЛИБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198319.33</price>
+        <cityprice cityId="615420100">198319.33</cityprice>
+    </offer>
+    <offer sku="11311346">
+      <model>Электролобзик Ferm JSM1014</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67471.89</price>
+        <cityprice cityId="615420100">67471.89</cityprice>
+    </offer>
+    <offer sku="7549974">
+      <model>Электролобзик Зубр ЗСЛ-90</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49499.8</price>
+        <cityprice cityId="615420100">49499.8</cityprice>
+    </offer>
+    <offer sku="865090">
+      <model>Электролобзик Crown CT15212</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16558.23</price>
+        <cityprice cityId="615420100">16558.23</cityprice>
+    </offer>
+    <offer sku="3344404">
+      <model>Электролобзик Makita 4351FCT</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>272796.27</price>
+        <cityprice cityId="615420100">272796.27</cityprice>
+    </offer>
+    <offer sku="7549911">
+      <model>Электролобзик Зубр Л-400</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15588.98</price>
+        <cityprice cityId="615420100">15588.98</cityprice>
+    </offer>
+    <offer sku="11330776">
+      <model>Электролобзик Kolner KJS 650V</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18404.84</price>
+        <cityprice cityId="615420100">18404.84</cityprice>
+    </offer>
+    <offer sku="3343950">
+      <model>Электролобзик Makita 4350FCT, 720 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94329.23</price>
+        <cityprice cityId="615420100">94329.23</cityprice>
+    </offer>
+    <offer sku="7542031">
+      <model>Электролобзик Bosch PST 750 PE 06033A0520</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30023.95</price>
+        <cityprice cityId="615420100">30023.95</cityprice>
+    </offer>
+    <offer sku="7543936">
+      <model>Электролобзик DWT STS07-100 DV</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25458.31</price>
+        <cityprice cityId="615420100">25458.31</cityprice>
+    </offer>
+    <offer sku="7549949">
+      <model>Электролобзик DeWALT DCS367N</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133477.55</price>
+        <cityprice cityId="615420100">133477.55</cityprice>
+    </offer>
+    <offer sku="1054774">
+      <model>Электролобзик аккумуляторный DeWALT DCS334N</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174064.42</price>
+        <cityprice cityId="615420100">174064.42</cityprice>
+    </offer>
+    <offer sku="7549737">
+      <model>Электролобзик DeWALT DCS334N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130245.74</price>
+        <cityprice cityId="615420100">130245.74</cityprice>
+    </offer>
+    <offer sku="7549883">
+      <model>Электролобзик DeWALT DW331K-QS</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179039.1</price>
+        <cityprice cityId="615420100">179039.1</cityprice>
+    </offer>
+    <offer sku="1054842">
+      <model>Электролобзик Hanskonner HJS0811LPE 800 Вт</model>
+      <brand>Hanskonner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40050.38</price>
+        <cityprice cityId="615420100">40050.38</cityprice>
+    </offer>
+    <offer sku="7542026">
+      <model>Электролобзик Вихрь ЛЭ-55</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8735.08</price>
+        <cityprice cityId="615420100">8735.08</cityprice>
+    </offer>
+    <offer sku="7545216">
+      <model>Электролобзик Edon JS-65/550R</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84609.09</price>
+        <cityprice cityId="615420100">84609.09</cityprice>
+    </offer>
+    <offer sku="7549969">
+      <model>Электролобзик Ingco CJSLI8501</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41683.58</price>
+        <cityprice cityId="615420100">41683.58</cityprice>
+    </offer>
+    <offer sku="7549815">
+      <model>Электролобзик Black&amp;Decker KSTR8K</model>
+      <brand>Black&amp;Decker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57433.6</price>
+        <cityprice cityId="615420100">57433.6</cityprice>
+    </offer>
+    <offer sku="11323069">
+      <model>Электролобзик Интерскол МП-65Э-01</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69161.4</price>
+        <cityprice cityId="615420100">69161.4</cityprice>
+    </offer>
+    <offer sku="7549935">
+      <model>Электролобзик Фиолент ПМ З-650 Э</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17289.36</price>
+        <cityprice cityId="615420100">17289.36</cityprice>
+    </offer>
+    <offer sku="1054812">
+      <model>Электролобзик Elmos EJS800 800 Вт</model>
+      <brand>Elmos</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>513616.27</price>
+        <cityprice cityId="615420100">513616.27</cityprice>
+    </offer>
+    <offer sku="7546450">
+      <model>Электролобзик Einhell RT-JS 85</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44940.09</price>
+        <cityprice cityId="615420100">44940.09</cityprice>
+    </offer>
+    <offer sku="7549904">
+      <model>Электролобзик Metabo STEB 70 Quick 601040000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57133.24</price>
+        <cityprice cityId="615420100">57133.24</cityprice>
+    </offer>
+    <offer sku="7549906">
+      <model>Электролобзик Metabo STE 140 Plus 601403700</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>691604.12</price>
+        <cityprice cityId="615420100">691604.12</cityprice>
+    </offer>
+    <offer sku="7550065">
+      <model>Электролобзик Bort BPS-900X-QLT 93725785</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>122069.87</price>
+        <cityprice cityId="615420100">122069.87</cityprice>
+    </offer>
+    <offer sku="4465952">
+      <model>Электролобзик Hitachi CJ65V3</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78939.83</price>
+        <cityprice cityId="615420100">78939.83</cityprice>
+    </offer>
+    <offer sku="1054835">
+      <model>Электролобзик Фиолент ПМ 7-720Э 720 Вт</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26375.19</price>
+        <cityprice cityId="615420100">26375.19</cityprice>
+    </offer>
+    <offer sku="7549790">
+      <model>Электролобзик Bosch EasyCut 50 06033C8020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195077.63</price>
+        <cityprice cityId="615420100">195077.63</cityprice>
+    </offer>
+    <offer sku="7549743">
+      <model>Электролобзик JET JSS-16A 10000808MA</model>
+      <brand>Jet</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98604.4</price>
+        <cityprice cityId="615420100">98604.4</cityprice>
+    </offer>
+    <offer sku="1054831">
+      <model>Электролобзик Фиолент ПМ 5-720Э коробка 720 Вт</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44449.04</price>
+        <cityprice cityId="615420100">44449.04</cityprice>
+    </offer>
+    <offer sku="7550068">
+      <model>Электролобзик Bort BPS-570U-Q 93727017</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76088.41</price>
+        <cityprice cityId="615420100">76088.41</cityprice>
+    </offer>
+    <offer sku="7547968">
+      <model>Электролобзик Зубр Л-710</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22357.9</price>
+        <cityprice cityId="615420100">22357.9</cityprice>
+    </offer>
+    <offer sku="7549803">
+      <model>Электролобзик Bosch AdvancedCut 50 06033C8120</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88881.29</price>
+        <cityprice cityId="615420100">88881.29</cityprice>
+    </offer>
+    <offer sku="7549920">
+      <model>Электролобзик Makita DJV182Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123239.69</price>
+        <cityprice cityId="615420100">123239.69</cityprice>
+    </offer>
+    <offer sku="12342253">
+      <model>Электролобзик DWT STS04-65 DV</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="12165571">
+      <model>Электролобзик Felisatti МП-65/550Э</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39026.79</price>
+        <cityprice cityId="615420100">39026.79</cityprice>
+    </offer>
+    <offer sku="3927091">
+      <model>Электролобзик Makita JV101DWAE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>279365.62</price>
+        <cityprice cityId="615420100">279365.62</cityprice>
+    </offer>
+    <offer sku="7550063">
+      <model>Электролобзик Milwaukee M12 JS-0 4933431305</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>147095.43</price>
+        <cityprice cityId="615420100">147095.43</cityprice>
+    </offer>
+    <offer sku="3976998">
+      <model>Электролобзик Makita MT M4301</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31492.15</price>
+        <cityprice cityId="615420100">31492.15</cityprice>
+    </offer>
+    <offer sku="7549922">
+      <model>Электролобзик Ресанта Л-65/650</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11933.31</price>
+        <cityprice cityId="615420100">11933.31</cityprice>
+    </offer>
+    <offer sku="4017183">
+      <model>Лобзиковая пила Bosch GST 90 E</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55722.35</price>
+        <cityprice cityId="615420100">55722.35</cityprice>
+    </offer>
+    <offer sku="10856058">
+      <model>Аккумуляторный лобзик P.I.T. 76500-Li</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23509.94</price>
+        <cityprice cityId="615420100">23509.94</cityprice>
+    </offer>
+    <offer sku="12166210">
+      <model>Лобзик Makita 4329K</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33744.84</price>
+        <cityprice cityId="615420100">33744.84</cityprice>
+    </offer>
+    <offer sku="7537449">
+      <model>Электрорубанок Makita KP0800</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28082.29</price>
+        <cityprice cityId="615420100">28082.29</cityprice>
+    </offer>
+    <offer sku="443415">
+      <model>Электрорубанок Bosch GHO 6500 Professional 0601596000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52613.05</price>
+        <cityprice cityId="615420100">52613.05</cityprice>
+    </offer>
+    <offer sku="932035">
+      <model>Электрорубанок Alteco PL 650</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20674.32</price>
+        <cityprice cityId="615420100">20674.32</cityprice>
+    </offer>
+    <offer sku="3927192">
+      <model>Электрорубанок Энкор РЭ-1200/110Э</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68753.35</price>
+        <cityprice cityId="615420100">68753.35</cityprice>
+    </offer>
+    <offer sku="3927212">
+      <model>Электрорубанок Энкор VEP-82/710</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>208456.41</price>
+        <cityprice cityId="615420100">208456.41</cityprice>
+    </offer>
+    <offer sku="3927205">
+      <model>Электрорубанок Энкор РЭ-800/82</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53247.11</price>
+        <cityprice cityId="615420100">53247.11</cityprice>
+    </offer>
+    <offer sku="12281596">
+      <model>Электрорубанок Felisatti Р-102/1100ЭМ</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75801.88</price>
+        <cityprice cityId="615420100">75801.88</cityprice>
+    </offer>
+    <offer sku="7540446">
+      <model>Электрорубанок Интерскол Р-102/1100ЭМ</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33842.17</price>
+        <cityprice cityId="615420100">33842.17</cityprice>
+    </offer>
+    <offer sku="7540808">
+      <model>Электрорубанок Hammer RNK900</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>811289.9</price>
+        <cityprice cityId="615420100">811289.9</cityprice>
+    </offer>
+    <offer sku="7539414">
+      <model>Электрорубанок СПЕЦ БРУ-600</model>
+      <brand>СПЕЦ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86153.87</price>
+        <cityprice cityId="615420100">86153.87</cityprice>
+    </offer>
+    <offer sku="12281210">
+      <model>Электрорубанок Победа Р-82/975</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44605.15</price>
+        <cityprice cityId="615420100">44605.15</cityprice>
+    </offer>
+    <offer sku="7540862">
+      <model>Электрорубанок Фиолент Р2-82</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37756.2</price>
+        <cityprice cityId="615420100">37756.2</cityprice>
+    </offer>
+    <offer sku="12284195">
+      <model>Электрорубанок Daewoo DAP 750-82</model>
+      <brand>Daewoo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66975.9</price>
+        <cityprice cityId="615420100">66975.9</cityprice>
+    </offer>
+    <offer sku="12281723">
+      <model>Электрорубанок Black&amp;Decker KW750K</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55348.46</price>
+        <cityprice cityId="615420100">55348.46</cityprice>
+    </offer>
+    <offer sku="7535353">
+      <model>Электрорубанок СТАВР РЭ-82/900</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32130.12</price>
+        <cityprice cityId="615420100">32130.12</cityprice>
+    </offer>
+    <offer sku="7539413">
+      <model>Электрорубанок Фиолент Р3-82</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>440090.78</price>
+        <cityprice cityId="615420100">440090.78</cityprice>
+    </offer>
+    <offer sku="7540823">
+      <model>Электрорубанок DeWALT DW680</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>144897.53</price>
+        <cityprice cityId="615420100">144897.53</cityprice>
+    </offer>
+    <offer sku="7540610">
+      <model>Электрорубанок Интерскол Р-82/650</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63727.29</price>
+        <cityprice cityId="615420100">63727.29</cityprice>
+    </offer>
+    <offer sku="7529987">
+      <model>Электрорубанок СТАВР РЭ-82/850</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20070.64</price>
+        <cityprice cityId="615420100">20070.64</cityprice>
+    </offer>
+    <offer sku="12281124">
+      <model>Электрорубанок Fixtec FPL60001</model>
+      <brand>Fixtec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61006.48</price>
+        <cityprice cityId="615420100">61006.48</cityprice>
+    </offer>
+    <offer sku="7528403">
+      <model>Электрорубанок Bort BFB-1300-T</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1537914.39</price>
+        <cityprice cityId="615420100">1537914.39</cityprice>
+    </offer>
+    <offer sku="7541943">
+      <model>Электрорубанок Rebir IE-5708M</model>
+      <brand>Rebir</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>231426.03</price>
+        <cityprice cityId="615420100">231426.03</cityprice>
+    </offer>
+    <offer sku="7540195">
+      <model>Электрорубанок Dexter Power M1B-YH2-110X3.5</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1531706.66</price>
+        <cityprice cityId="615420100">1531706.66</cityprice>
+    </offer>
+    <offer sku="7541577">
+      <model>Электрорубанок Bort BFB-850-T</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>871840.7</price>
+        <cityprice cityId="615420100">871840.7</cityprice>
+    </offer>
+    <offer sku="7541939">
+      <model>Электрорубанок Makita 1911B</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129685.45</price>
+        <cityprice cityId="615420100">129685.45</cityprice>
+    </offer>
+    <offer sku="7534650">
+      <model>Электрорубанок Bosch GHO 12V-20 06015A7000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6104472.68</price>
+        <cityprice cityId="615420100">6104472.68</cityprice>
+    </offer>
+    <offer sku="7540809">
+      <model>Электрорубанок Makita 1902</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>578144.84</price>
+        <cityprice cityId="615420100">578144.84</cityprice>
+    </offer>
+    <offer sku="10769662">
+      <model>Электрорубанок Bosch GHO 18 V-LI 06015A0300</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>491994.44</price>
+        <cityprice cityId="615420100">491994.44</cityprice>
+    </offer>
+    <offer sku="12284314">
+      <model>Электрорубанок Elitech Р110</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48411.99</price>
+        <cityprice cityId="615420100">48411.99</cityprice>
+    </offer>
+    <offer sku="3927107">
+      <model>Электрорубанок Makita MT M1902</model>
+      <brand>Maktec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45555.44</price>
+        <cityprice cityId="615420100">45555.44</cityprice>
+    </offer>
+    <offer sku="7535129">
+      <model>Электрорубанок РЕСАНТА Р-82/800</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17229.99</price>
+        <cityprice cityId="615420100">17229.99</cityprice>
+    </offer>
+    <offer sku="7539225">
+      <model>Электрорубанок Ресанта Р-110СТ</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45207.84</price>
+        <cityprice cityId="615420100">45207.84</cityprice>
+    </offer>
+    <offer sku="7529169">
+      <model>Электрорубанок DWT HB03-110 B</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31016.85</price>
+        <cityprice cityId="615420100">31016.85</cityprice>
+    </offer>
+    <offer sku="7529455">
+      <model>Электрорубанок ВИХРЬ Р-82СТ</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23708.31</price>
+        <cityprice cityId="615420100">23708.31</cityprice>
+    </offer>
+    <offer sku="7532310">
+      <model>Электрорубанок Makita DKP180Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119677.38</price>
+        <cityprice cityId="615420100">119677.38</cityprice>
+    </offer>
+    <offer sku="12281196">
+      <model>Электрорубанок Титан 82-950W</model>
+      <brand>ТИТАН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1124808.4</price>
+        <cityprice cityId="615420100">1124808.4</cityprice>
+    </offer>
+    <offer sku="12281197">
+      <model>Электрорубанок Байкал Е-312АК</model>
+      <brand>Байкал</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1124710.59</price>
+        <cityprice cityId="615420100">1124710.59</cityprice>
+    </offer>
+    <offer sku="7534942">
+      <model>Электрорубанок ТЭМП РУ-90</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22398.12</price>
+        <cityprice cityId="615420100">22398.12</cityprice>
+    </offer>
+    <offer sku="12281120">
+      <model>Электрорубанок Hiper HEP650A</model>
+      <brand>Hiper</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58735.81</price>
+        <cityprice cityId="615420100">58735.81</cityprice>
+    </offer>
+    <offer sku="7540444">
+      <model>Электрорубанок Интерскол Р-110/2000М</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>923849.09</price>
+        <cityprice cityId="615420100">923849.09</cityprice>
+    </offer>
+    <offer sku="7540440">
+      <model>Электрорубанок Kolner KEP 800</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>392225.17</price>
+        <cityprice cityId="615420100">392225.17</cityprice>
+    </offer>
+    <offer sku="7539415">
+      <model>Электрорубанок P.I.T. 949095</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93859.92</price>
+        <cityprice cityId="615420100">93859.92</cityprice>
+    </offer>
+    <offer sku="7528461">
+      <model>Электрорубанок Интерскол Р-110/1100М</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>641698.24</price>
+        <cityprice cityId="615420100">641698.24</cityprice>
+    </offer>
+    <offer sku="12281212">
+      <model>Электрорубанок Ryobi EPN7582NHG</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89386.17</price>
+        <cityprice cityId="615420100">89386.17</cityprice>
+    </offer>
+    <offer sku="12281203">
+      <model>Электрорубанок Орел ОР82001</model>
+      <brand>Орел</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42858.33</price>
+        <cityprice cityId="615420100">42858.33</cityprice>
+    </offer>
+    <offer sku="12281708">
+      <model>Электрорубанок Kedr 78204</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44290.96</price>
+        <cityprice cityId="615420100">44290.96</cityprice>
+    </offer>
+    <offer sku="12281207">
+      <model>Электрорубанок Wortex PL 2007</model>
+      <brand>Wortex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30087.86</price>
+        <cityprice cityId="615420100">30087.86</cityprice>
+    </offer>
+    <offer sku="7541718">
+      <model>Электрорубанок DeWALT D26500K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2143436.28</price>
+        <cityprice cityId="615420100">2143436.28</cityprice>
+    </offer>
+    <offer sku="7538425">
+      <model>Электрорубанок Bosch PHO 1500</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57759.66</price>
+        <cityprice cityId="615420100">57759.66</cityprice>
+    </offer>
+    <offer sku="12281652">
+      <model>Электрорубанок Felisatti Р-110/1100М(М)</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115556.84</price>
+        <cityprice cityId="615420100">115556.84</cityprice>
+    </offer>
+    <offer sku="7528504">
+      <model>Электрорубанок DeWALT D26500</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179479.76</price>
+        <cityprice cityId="615420100">179479.76</cityprice>
+    </offer>
+    <offer sku="7539538">
+      <model>Электрорубанок ЗУБР ЗР-1300-110</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50035.07</price>
+        <cityprice cityId="615420100">50035.07</cityprice>
+    </offer>
+    <offer sku="443398">
+      <model>Электрорубанок Crown CT14019X</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20793.75</price>
+        <cityprice cityId="615420100">20793.75</cityprice>
+    </offer>
+    <offer sku="12281211">
+      <model>Электрорубанок Makute EP002</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41651.96</price>
+        <cityprice cityId="615420100">41651.96</cityprice>
+    </offer>
+    <offer sku="7540464">
+      <model>Электрорубанок Rebir IE-5708C</model>
+      <brand>Rebir</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6104652.5</price>
+        <cityprice cityId="615420100">6104652.5</cityprice>
+    </offer>
+    <offer sku="12281131">
+      <model>Электрорубанок RedVerg Basic P650-82</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71177.95</price>
+        <cityprice cityId="615420100">71177.95</cityprice>
+    </offer>
+    <offer sku="7540820">
+      <model>Электрорубанок СТАВР РЭ-110/1500СТ</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77368.92</price>
+        <cityprice cityId="615420100">77368.92</cityprice>
+    </offer>
+    <offer sku="7537734">
+      <model>Электрорубанок RYOBI R18PL-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62942.32</price>
+        <cityprice cityId="615420100">62942.32</cityprice>
+    </offer>
+    <offer sku="12713478">
+      <model>Электрорубанок IVT PL-560RC</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23125.36</price>
+        <cityprice cityId="615420100">23125.36</cityprice>
+    </offer>
+    <offer sku="12281204">
+      <model>Электрорубанок Kedr К78204</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30895.39</price>
+        <cityprice cityId="615420100">30895.39</cityprice>
+    </offer>
+    <offer sku="443411">
+      <model>Электрорубанок Bosch PHO 1500 06032A4020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59450.15</price>
+        <cityprice cityId="615420100">59450.15</cityprice>
+    </offer>
+    <offer sku="443429">
+      <model>Электрорубанок Bosch PHO 2000 06032A4120</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63011.96</price>
+        <cityprice cityId="615420100">63011.96</cityprice>
+    </offer>
+    <offer sku="12281582">
+      <model>Электрорубанок TEH TEP8260</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37147.58</price>
+        <cityprice cityId="615420100">37147.58</cityprice>
+    </offer>
+    <offer sku="7535459">
+      <model>Электрорубанок DeWALT DCP580N</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>199046.05</price>
+        <cityprice cityId="615420100">199046.05</cityprice>
+    </offer>
+    <offer sku="7540338">
+      <model>Электрорубанок Triton TPL180</model>
+      <brand>Triton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1840572.58</price>
+        <cityprice cityId="615420100">1840572.58</cityprice>
+    </offer>
+    <offer sku="7540816">
+      <model>Электрорубанок Makita KP0810</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1519718.02</price>
+        <cityprice cityId="615420100">1519718.02</cityprice>
+    </offer>
+    <offer sku="7541931">
+      <model>Электрорубанок Metabo HO 18 LTX 20-82 602082840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2930434.72</price>
+        <cityprice cityId="615420100">2930434.72</cityprice>
+    </offer>
+    <offer sku="7541974">
+      <model>Электрорубанок Bosch GHO 12V-20 06015A7001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2165516.55</price>
+        <cityprice cityId="615420100">2165516.55</cityprice>
+    </offer>
+    <offer sku="7540819">
+      <model>Электрорубанок Bosch PHO 3100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108940.31</price>
+        <cityprice cityId="615420100">108940.31</cityprice>
+    </offer>
+    <offer sku="12166050">
+      <model>Электрорубанок Ferm PPM1010</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63369.63</price>
+        <cityprice cityId="615420100">63369.63</cityprice>
+    </offer>
+    <offer sku="12281202">
+      <model>Электрорубанок Felisatti PF82/900M</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1124319.34</price>
+        <cityprice cityId="615420100">1124319.34</cityprice>
+    </offer>
+    <offer sku="12281205">
+      <model>Электрорубанок Milwaukee M18 BP-0</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>270045.63</price>
+        <cityprice cityId="615420100">270045.63</cityprice>
+    </offer>
+    <offer sku="12281206">
+      <model>Электрорубанок Ryobi EPN6082CHG 5133000350</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97752.72</price>
+        <cityprice cityId="615420100">97752.72</cityprice>
+    </offer>
+    <offer sku="7540093">
+      <model>Электрорубанок WORTEX PL 3515-1</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78340.11</price>
+        <cityprice cityId="615420100">78340.11</cityprice>
+    </offer>
+    <offer sku="12281199">
+      <model>Электрорубанок Диолд РЭ-1100-01</model>
+      <brand>ДИОЛД</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67759.77</price>
+        <cityprice cityId="615420100">67759.77</cityprice>
+    </offer>
+    <offer sku="7541910">
+      <model>Электрорубанок Makita 1806B</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212206.94</price>
+        <cityprice cityId="615420100">212206.94</cityprice>
+    </offer>
+    <offer sku="7541941">
+      <model>Электрорубанок Интерскол Р-82/710М</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6104558.64</price>
+        <cityprice cityId="615420100">6104558.64</cityprice>
+    </offer>
+    <offer sku="10856010">
+      <model>Электрорубанок P.I.T. 48200-Li</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37868.61</price>
+        <cityprice cityId="615420100">37868.61</cityprice>
+    </offer>
+    <offer sku="7540744">
+      <model>Электрорубанок Интерскол Р-82/710</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39273.79</price>
+        <cityprice cityId="615420100">39273.79</cityprice>
+    </offer>
+    <offer sku="7532433">
+      <model>Электрорубанок ВИХРЬ Р-110/1100</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33339.6</price>
+        <cityprice cityId="615420100">33339.6</cityprice>
+    </offer>
+    <offer sku="7532709">
+      <model>Электрорубанок ВИХРЬ Р-82/1100</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17973.69</price>
+        <cityprice cityId="615420100">17973.69</cityprice>
+    </offer>
+    <offer sku="7529755">
+      <model>Электрорубанок СТАВР РЭ-82/950СТ</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43342.46</price>
+        <cityprice cityId="615420100">43342.46</cityprice>
+    </offer>
+    <offer sku="12281590">
+      <model>Электрорубанок Felisatti Р-82/650</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21634.67</price>
+        <cityprice cityId="615420100">21634.67</cityprice>
+    </offer>
+    <offer sku="496969">
+      <model>Электрорубанок ВИХРЬ Р-82/800</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16497.96</price>
+        <cityprice cityId="615420100">16497.96</cityprice>
+    </offer>
+    <offer sku="10760768">
+      <model>Электрорубанок Denzel EP-82 27801</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39212.54</price>
+        <cityprice cityId="615420100">39212.54</cityprice>
+    </offer>
+    <offer sku="443393">
+      <model>Электрорубанок Hyundai HY-880</model>
+      <brand>Hyundai</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65056.18</price>
+        <cityprice cityId="615420100">65056.18</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
