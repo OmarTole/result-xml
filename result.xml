@@ -61671,5 +61671,3137 @@
       <price>21621.75</price>
         <cityprice cityId="615420100">21621.75</cityprice>
     </offer>
+    <offer sku="7005244">
+      <model>Дрель ЗУБР ДУ-810 ЭРМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15199.62</price>
+        <cityprice cityId="615420100">15199.62</cityprice>
+    </offer>
+    <offer sku="7157527">
+      <model>Дрель ЗУБР ДУ-П850-2 ЭРМ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26163.76</price>
+        <cityprice cityId="615420100">26163.76</cityprice>
+    </offer>
+    <offer sku="1081457">
+      <model>Дрель ударная ЗУБР ЗДУ-780 ЭРКМ2 780 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28015.65</price>
+        <cityprice cityId="615420100">28015.65</cityprice>
+    </offer>
+    <offer sku="7074473">
+      <model>Дрель ЗУБР ЗДУ-680 ЭРКМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22230.45</price>
+        <cityprice cityId="615420100">22230.45</cityprice>
+    </offer>
+    <offer sku="7113290">
+      <model>Дрель ЗУБР ЗДУ-580ЭРКМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15078.17</price>
+        <cityprice cityId="615420100">15078.17</cityprice>
+    </offer>
+    <offer sku="12165390">
+      <model>Дрель ударная Felisatti ДУ-13/780ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12158.57</price>
+        <cityprice cityId="615420100">12158.57</cityprice>
+    </offer>
+    <offer sku="12165654">
+      <model>Аккумуляторная дрель-шуруповёрт Felisatti ДА-18ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19463.99</price>
+        <cityprice cityId="615420100">19463.99</cityprice>
+    </offer>
+    <offer sku="1055255">
+      <model>Аккумуляторная дрель-шуруповерт Энкор ДША-2 14,4ЭР/10Л 32 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29443</price>
+        <cityprice cityId="615420100">29443</cityprice>
+    </offer>
+    <offer sku="1081110">
+      <model>Сетевая дрель-шуруповерт Энкор ДШЭ-2 350ЭР/10 350 Вт 40 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21195.01</price>
+        <cityprice cityId="615420100">21195.01</cityprice>
+    </offer>
+    <offer sku="4399887">
+      <model>Аккумуляторный шуруповёрт Энкор ДША-2 12ЭР/10М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33429.66</price>
+        <cityprice cityId="615420100">33429.66</cityprice>
+    </offer>
+    <offer sku="4400770">
+      <model>Дрель ударная Энкор ДУЭ-580ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20452.01</price>
+        <cityprice cityId="615420100">20452.01</cityprice>
+    </offer>
+    <offer sku="12166011">
+      <model>Аккумуляторная дрель-шуруповёрт Felisatti ДА-12ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23376.55</price>
+        <cityprice cityId="615420100">23376.55</cityprice>
+    </offer>
+    <offer sku="7253974">
+      <model>Дрель Интерскол ДА-12ЭР-02 534 Li-Ion 2.0 А·ч 12 В х2 кейс 30 Н·м</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>512910.82</price>
+        <cityprice cityId="615420100">512910.82</cityprice>
+    </offer>
+    <offer sku="7305054">
+      <model>Дрель Интерскол ДА-18ЭР</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34383.1</price>
+        <cityprice cityId="615420100">34383.1</cityprice>
+    </offer>
+    <offer sku="4400805">
+      <model>Дрель ударная ЭНКОР ДУЭ-710ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27368.15</price>
+        <cityprice cityId="615420100">27368.15</cityprice>
+    </offer>
+    <offer sku="7015572">
+      <model>Шуруповерт Интерскол Ш-8/700ЭР</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22922.06</price>
+        <cityprice cityId="615420100">22922.06</cityprice>
+    </offer>
+    <offer sku="1080948">
+      <model>Сетевая дрель-шуруповерт Энкор ДШЭ-240ЭР/10 240 Вт 13 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35074.71</price>
+        <cityprice cityId="615420100">35074.71</cityprice>
+    </offer>
+    <offer sku="7113350">
+      <model>Дрель ЗУБР ЗД-П420ЭР</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17135.08</price>
+        <cityprice cityId="615420100">17135.08</cityprice>
+    </offer>
+    <offer sku="7293656">
+      <model>Дрель Интерскол ДА-14.4ЭР 535.3.2.01</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32599.72</price>
+        <cityprice cityId="615420100">32599.72</cityprice>
+    </offer>
+    <offer sku="4400727">
+      <model>Дрель Энкор ДЭ-380ЭР/10</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17240.95</price>
+        <cityprice cityId="615420100">17240.95</cityprice>
+    </offer>
+    <offer sku="12165050">
+      <model>Дрель ударная Felisatti ДУ-13/800ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33334.81</price>
+        <cityprice cityId="615420100">33334.81</cityprice>
+    </offer>
+    <offer sku="7276922">
+      <model>Дрель Интерскол ДА-12ЭР-01 595.3.1.00</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>805194.8</price>
+        <cityprice cityId="615420100">805194.8</cityprice>
+    </offer>
+    <offer sku="4400500">
+      <model>Винтоверт ударный Энкор ВУЭ-230ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35430.4</price>
+        <cityprice cityId="615420100">35430.4</cityprice>
+    </offer>
+    <offer sku="1081473">
+      <model>Дрель ударная ЗУБР ДУ-550 ЭР 550 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13111.03</price>
+        <cityprice cityId="615420100">13111.03</cityprice>
+    </offer>
+    <offer sku="4400499">
+      <model>Ударная дрель Энкор ДУЭ-2 1150ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27723.84</price>
+        <cityprice cityId="615420100">27723.84</cityprice>
+    </offer>
+    <offer sku="7156536">
+      <model>Дрель ЗУБР ЗД-П421 ЭР</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14896.16</price>
+        <cityprice cityId="615420100">14896.16</cityprice>
+    </offer>
+    <offer sku="7157510">
+      <model>Дрель Интерскол ДА-12ЭР Промо</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34185.49</price>
+        <cityprice cityId="615420100">34185.49</cityprice>
+    </offer>
+    <offer sku="7005252">
+      <model>Шуруповерт Интерскол ДА-12ЭР-02</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30233.41</price>
+        <cityprice cityId="615420100">30233.41</cityprice>
+    </offer>
+    <offer sku="4400726">
+      <model>Дрель-шуруповерт Энкор ДШЭ-280ЭР/10</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33509.69</price>
+        <cityprice cityId="615420100">33509.69</cityprice>
+    </offer>
+    <offer sku="7254080">
+      <model>Дрель Интерскол ДА-18ЭР 536 Li-Ion 2.0 А·ч 18 В х2 кейс 38 Н·м 4.0</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197604</price>
+        <cityprice cityId="615420100">197604</cityprice>
+    </offer>
+    <offer sku="1081007">
+      <model>Аккумуляторная дрель-шуруповерт Энкор ДША-2 12ЭР/10Л 28 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30170.77</price>
+        <cityprice cityId="615420100">30170.77</cityprice>
+    </offer>
+    <offer sku="4400544">
+      <model>Дрель ударная Энкор ДУЭ-900ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30727.42</price>
+        <cityprice cityId="615420100">30727.42</cityprice>
+    </offer>
+    <offer sku="4400854">
+      <model>Дрель-миксер Энкор ДМЭ-1200/16ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35436.33</price>
+        <cityprice cityId="615420100">35436.33</cityprice>
+    </offer>
+    <offer sku="7290345">
+      <model>Дрель ЗУБР ЗД-П550 ЭР</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16625.2</price>
+        <cityprice cityId="615420100">16625.2</cityprice>
+    </offer>
+    <offer sku="4377900">
+      <model>Шуруповерт Энкор ДША-2 10,8 ЭР/10Л</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83980.71</price>
+        <cityprice cityId="615420100">83980.71</cityprice>
+    </offer>
+    <offer sku="1079676">
+      <model>Аккумуляторная дрель-шуруповерт Энкор VDS-10/10,8L Li-Ion 1.3 А·ч 10.8 В х1 коробка 28 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98011.58</price>
+        <cityprice cityId="615420100">98011.58</cityprice>
+    </offer>
+    <offer sku="12165928">
+      <model>Миксер строительный Felisatti КМ-100/1600ЭМ</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33395.08</price>
+        <cityprice cityId="615420100">33395.08</cityprice>
+    </offer>
+    <offer sku="5437">
+      <model>Электродрель Rodex Power RDX154</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12646.66</price>
+        <cityprice cityId="615420100">12646.66</cityprice>
+    </offer>
+    <offer sku="12713475">
+      <model>Электродрель-перфоратор IVT ID-800</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16111.64</price>
+        <cityprice cityId="615420100">16111.64</cityprice>
+    </offer>
+    <offer sku="5436">
+      <model>Электродрель Rodex Power RDX153</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13717.67</price>
+        <cityprice cityId="615420100">13717.67</cityprice>
+    </offer>
+    <offer sku="5439">
+      <model>Электродрель Rodex Power RDX1504</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10868.22</price>
+        <cityprice cityId="615420100">10868.22</cityprice>
+    </offer>
+    <offer sku="12713473">
+      <model>Электродрель IVT D-800-13</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15503.02</price>
+        <cityprice cityId="615420100">15503.02</cityprice>
+    </offer>
+    <offer sku="5435">
+      <model>Электродрель Rodex Power RDX151</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16685.68</price>
+        <cityprice cityId="615420100">16685.68</cityprice>
+    </offer>
+    <offer sku="1526904">
+      <model>Дрель-шуруповерт электрическая Витязь ДЭ-970/2</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29223.66</price>
+        <cityprice cityId="615420100">29223.66</cityprice>
+    </offer>
+    <offer sku="1526794">
+      <model>Дрель электрическая Crown СТ10070</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14267.01</price>
+        <cityprice cityId="615420100">14267.01</cityprice>
+    </offer>
+    <offer sku="1527189">
+      <model>Дрель электрическая Crown СТ10065</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25490.92</price>
+        <cityprice cityId="615420100">25490.92</cityprice>
+    </offer>
+    <offer sku="1526898">
+      <model>Дрель электрическая Витязь ДЭ-970</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29344.19</price>
+        <cityprice cityId="615420100">29344.19</cityprice>
+    </offer>
+    <offer sku="1526762">
+      <model>Дрель электрическая Crown  СТ10069</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23880.44</price>
+        <cityprice cityId="615420100">23880.44</cityprice>
+    </offer>
+    <offer sku="347311">
+      <model>Дрель электрическая Tolsen 79500</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15808.32</price>
+        <cityprice cityId="615420100">15808.32</cityprice>
+    </offer>
+    <offer sku="12341188">
+      <model>Дрель электрическая Hanskonner HID2175</model>
+      <brand>Hanskonner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20993.45</price>
+        <cityprice cityId="615420100">20993.45</cityprice>
+    </offer>
+    <offer sku="1526917">
+      <model>Дрель электрическая ударная Витязь ДЭУ-920</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28948.99</price>
+        <cityprice cityId="615420100">28948.99</cityprice>
+    </offer>
+    <offer sku="1526773">
+      <model>Дрель электрическая Crown  СТ10067</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18673.58</price>
+        <cityprice cityId="615420100">18673.58</cityprice>
+    </offer>
+    <offer sku="1526775">
+      <model>Дрель электрическая Crown СТ10125</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13119.92</price>
+        <cityprice cityId="615420100">13119.92</cityprice>
+    </offer>
+    <offer sku="1526889">
+      <model>Дрель-шуруповерт электрическая Витязь ДЭ-900</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21538.84</price>
+        <cityprice cityId="615420100">21538.84</cityprice>
+    </offer>
+    <offer sku="1526797">
+      <model>Дрель электрическая Crown  СТ10076</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16296.15</price>
+        <cityprice cityId="615420100">16296.15</cityprice>
+    </offer>
+    <offer sku="5132">
+      <model>Электрический гайковерт Rodex Power RDX309</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31577.12</price>
+        <cityprice cityId="615420100">31577.12</cityprice>
+    </offer>
+    <offer sku="7085967">
+      <model>Шуруповерт Интерскол ДШ-10/320Э2</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31016.76</price>
+        <cityprice cityId="615420100">31016.76</cityprice>
+    </offer>
+    <offer sku="12165437">
+      <model>Сетевая дрель-шуруповёрт Felisatti ДШ-10/260Э</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12844.26</price>
+        <cityprice cityId="615420100">12844.26</cityprice>
+    </offer>
+    <offer sku="7074475">
+      <model>Дрель ВИХРЬ СМ-1200Э 72/20/1</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22203.98</price>
+        <cityprice cityId="615420100">22203.98</cityprice>
+    </offer>
+    <offer sku="7280378">
+      <model>Дрель Интерскол ДШ-10/260Э2 1012200000</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45251.32</price>
+        <cityprice cityId="615420100">45251.32</cityprice>
+    </offer>
+    <offer sku="12165440">
+      <model>Сетевая дрель-шуруповёрт Felisatti ДШ-10/320Э2</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19759.41</price>
+        <cityprice cityId="615420100">19759.41</cityprice>
+    </offer>
+    <offer sku="7095727">
+      <model>Шуруповерт Metabo BS 18 Quick Set 602217880</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>341262.11</price>
+        <cityprice cityId="615420100">341262.11</cityprice>
+    </offer>
+    <offer sku="7101185">
+      <model>Шуруповерт Metabo PowerMaxx BS 12 BL Q 0</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181380.71</price>
+        <cityprice cityId="615420100">181380.71</cityprice>
+    </offer>
+    <offer sku="7298628">
+      <model>Шуруповерт Metabo GB 18 LTX BL Q I 603828840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>321106.5</price>
+        <cityprice cityId="615420100">321106.5</cityprice>
+    </offer>
+    <offer sku="7017362">
+      <model>Шуруповерт Metabo SB 18 LTX BL I 602352500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>548351.1</price>
+        <cityprice cityId="615420100">548351.1</cityprice>
+    </offer>
+    <offer sku="7451595">
+      <model>Шуруповерт Metabo SB 18 LTX BL I 602352840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>248981.04</price>
+        <cityprice cityId="615420100">248981.04</cityprice>
+    </offer>
+    <offer sku="7315797">
+      <model>Шуруповерт Hitachi DS10DFL</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91885.86</price>
+        <cityprice cityId="615420100">91885.86</cityprice>
+    </offer>
+    <offer sku="7074739">
+      <model>Шуруповерт Milwaukee M18 ONEPD-0 ONE-KEY</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>866910.48</price>
+        <cityprice cityId="615420100">866910.48</cityprice>
+    </offer>
+    <offer sku="7294301">
+      <model>Шуруповерт Metabo BS 18 LTX BL Q I 602351650</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>652049.73</price>
+        <cityprice cityId="615420100">652049.73</cityprice>
+    </offer>
+    <offer sku="7156535">
+      <model>Шуруповерт P.I.T. 31308 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49786.33</price>
+        <cityprice cityId="615420100">49786.33</cityprice>
+    </offer>
+    <offer sku="7654812">
+      <model>Шуруповерт P.I.T. 31422 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32369.51</price>
+        <cityprice cityId="615420100">32369.51</cityprice>
+    </offer>
+    <offer sku="7339772">
+      <model>Шуруповерт Einhell RT-CD 18/1 Li</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33592.68</price>
+        <cityprice cityId="615420100">33592.68</cityprice>
+    </offer>
+    <offer sku="7340762">
+      <model>Шуруповерт Metabo SSD 18 LTX 200 BL 602396800</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212419.36</price>
+        <cityprice cityId="615420100">212419.36</cityprice>
+    </offer>
+    <offer sku="7654769">
+      <model>Шуруповерт Hilti SIW 22T-A 1/2</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181496.31</price>
+        <cityprice cityId="615420100">181496.31</cityprice>
+    </offer>
+    <offer sku="7452618">
+      <model>Шуруповерт Ryobi R18PD5-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175440.74</price>
+        <cityprice cityId="615420100">175440.74</cityprice>
+    </offer>
+    <offer sku="7074689">
+      <model>Шуруповерт Metabo BS 18 LT Quick 602104500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>318029.81</price>
+        <cityprice cityId="615420100">318029.81</cityprice>
+    </offer>
+    <offer sku="7309624">
+      <model>Шуруповерт DWT ABS-14.4 TC-2 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49331.84</price>
+        <cityprice cityId="615420100">49331.84</cityprice>
+    </offer>
+    <offer sku="7101476">
+      <model>Шуруповерт Metabo PowerMaxx SB 12 BL 601077840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>251747.5</price>
+        <cityprice cityId="615420100">251747.5</cityprice>
+    </offer>
+    <offer sku="7322740">
+      <model>Шуруповерт DeWALT DW269K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>240088.86</price>
+        <cityprice cityId="615420100">240088.86</cityprice>
+    </offer>
+    <offer sku="7746911">
+      <model>Шуруповерт P.I.T 31034 Pro</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33427.68</price>
+        <cityprice cityId="615420100">33427.68</cityprice>
+    </offer>
+    <offer sku="12165691">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSR 12V-35 Professional арт.06019H8002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32110.65</price>
+        <cityprice cityId="615420100">32110.65</cityprice>
+    </offer>
+    <offer sku="7017183">
+      <model>Шуруповерт Bosch GDR 10.8-LI 06019A6977</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118751.11</price>
+        <cityprice cityId="615420100">118751.11</cityprice>
+    </offer>
+    <offer sku="7156866">
+      <model>Шуруповерт Bosch GDS 18 V-EC 250</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>402660.63</price>
+        <cityprice cityId="615420100">402660.63</cityprice>
+    </offer>
+    <offer sku="7654784">
+      <model>Шуруповерт Зубр ЗГУА-18-Ли К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35325.67</price>
+        <cityprice cityId="615420100">35325.67</cityprice>
+    </offer>
+    <offer sku="7655552">
+      <model>Шуруповерт Kolner KCD 12M</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10524.39</price>
+        <cityprice cityId="615420100">10524.39</cityprice>
+    </offer>
+    <offer sku="7346703">
+      <model>Шуруповерт Bosch GSR 10,8-2-LI 0601868109</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61256.25</price>
+        <cityprice cityId="615420100">61256.25</cityprice>
+    </offer>
+    <offer sku="7658293">
+      <model>Шуруповерт Edon DS-350</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22188.95</price>
+        <cityprice cityId="615420100">22188.95</cityprice>
+    </offer>
+    <offer sku="791037">
+      <model>Дрель-шуруповерт TDM ДША-12-ЛК1</model>
+      <brand>TDM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="12165688">
+      <model>Аккумуляторная дрель-шуруповёрт Makita  DDF484RT</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25169.81</price>
+        <cityprice cityId="615420100">25169.81</cityprice>
+    </offer>
+    <offer sku="12165516">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSR 12V-35 FC Solo арт. 06019H3004</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45773.98</price>
+        <cityprice cityId="615420100">45773.98</cityprice>
+    </offer>
+    <offer sku="12165116">
+      <model>Шуруповерт аккумуляторный 18 В XR BL DeWalt DCF809L2T</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135358.74</price>
+        <cityprice cityId="615420100">135358.74</cityprice>
+    </offer>
+    <offer sku="10856089">
+      <model>Аккумуляторный шуруповерт P.I.T. 31320-Li</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23963.44</price>
+        <cityprice cityId="615420100">23963.44</cityprice>
+    </offer>
+    <offer sku="7327012">
+      <model>Шуруповерт Metabo USE 8</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32604.66</price>
+        <cityprice cityId="615420100">32604.66</cityprice>
+    </offer>
+    <offer sku="7405957">
+      <model>Шуруповерт Kolner KCD 14,4M</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25137.2</price>
+        <cityprice cityId="615420100">25137.2</cityprice>
+    </offer>
+    <offer sku="7016662">
+      <model>Шуруповерт IVT CSD-Li-18 EGK</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35459.05</price>
+        <cityprice cityId="615420100">35459.05</cityprice>
+    </offer>
+    <offer sku="7081937">
+      <model>Шуруповерт Metabo BS 14.4 602206500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85760.14</price>
+        <cityprice cityId="615420100">85760.14</cityprice>
+    </offer>
+    <offer sku="12165491">
+      <model>Аккумуляторный шуруповёрт  DeWALT DCF620D2K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194053.06</price>
+        <cityprice cityId="615420100">194053.06</cityprice>
+    </offer>
+    <offer sku="7074733">
+      <model>Шуруповерт DWT TS-550 V</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16522.66</price>
+        <cityprice cityId="615420100">16522.66</cityprice>
+    </offer>
+    <offer sku="3418880">
+      <model>Аккумуляторная ударная дрель-шуруповёрт Makita BHP446RFE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171915.48</price>
+        <cityprice cityId="615420100">171915.48</cityprice>
+    </offer>
+    <offer sku="7074490">
+      <model>Шуруповерт Metabo SSW 18 LTX 300 BL 602395890</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>231690.69</price>
+        <cityprice cityId="615420100">231690.69</cityprice>
+    </offer>
+    <offer sku="7547428">
+      <model>Шуруповерт DeWALT DCF680G2</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115876.61</price>
+        <cityprice cityId="615420100">115876.61</cityprice>
+    </offer>
+    <offer sku="1081050">
+      <model>Аккумуляторный шуруповерт Milwaukee M12 BD-0 30 Н·м</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183986.12</price>
+        <cityprice cityId="615420100">183986.12</cityprice>
+    </offer>
+    <offer sku="1196768">
+      <model>Аккумуляторный шуруповерт   Crown CT21052LH</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17784.36</price>
+        <cityprice cityId="615420100">17784.36</cityprice>
+    </offer>
+    <offer sku="7537450">
+      <model>Шуруповерт Black&amp;Decker EPC14CA</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31216.49</price>
+        <cityprice cityId="615420100">31216.49</cityprice>
+    </offer>
+    <offer sku="1079675">
+      <model>Аккумуляторная дрель-шуруповерт ЗУБР ДШЛ-141 К Li-Ion 1.3 А·ч 14.4 В х1 кейс 32 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38306.52</price>
+        <cityprice cityId="615420100">38306.52</cityprice>
+    </offer>
+    <offer sku="12165660">
+      <model>Дрель-шуруповёрт аккумуляторный Bosch GSR 185-LI Solo арт.06019K3003</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35806.83</price>
+        <cityprice cityId="615420100">35806.83</cityprice>
+    </offer>
+    <offer sku="7074599">
+      <model>Шуруповерт РЕСАНТА ДА-14-2ЛК</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20163.51</price>
+        <cityprice cityId="615420100">20163.51</cityprice>
+    </offer>
+    <offer sku="7156871">
+      <model>Шуруповерт Ryobi R18IW3-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80802.25</price>
+        <cityprice cityId="615420100">80802.25</cityprice>
+    </offer>
+    <offer sku="7343850">
+      <model>Шуруповерт Ставр ДА-14,4ЛК</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15314.31</price>
+        <cityprice cityId="615420100">15314.31</cityprice>
+    </offer>
+    <offer sku="7655939">
+      <model>Шуруповерт Crown СТ10113</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15011.98</price>
+        <cityprice cityId="615420100">15011.98</cityprice>
+    </offer>
+    <offer sku="7017569">
+      <model>Шуруповерт Milwaukee M18 BIW38-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91875.98</price>
+        <cityprice cityId="615420100">91875.98</cityprice>
+    </offer>
+    <offer sku="7113239">
+      <model>Шуруповерт СТАВР ДА-18Ф</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14679.01</price>
+        <cityprice cityId="615420100">14679.01</cityprice>
+    </offer>
+    <offer sku="1055188">
+      <model>Аккумуляторная дрель-шуруповерт DeWALT DCD791D2 70 Н·м</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125637.61</price>
+        <cityprice cityId="615420100">125637.61</cityprice>
+    </offer>
+    <offer sku="1055260">
+      <model>Аккумуляторная дрель-шуруповерт РЕСАНТА ДА-12-2ЛК 40 Н·м</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20023.21</price>
+        <cityprice cityId="615420100">20023.21</cityprice>
+    </offer>
+    <offer sku="7101014">
+      <model>Шуруповерт РЕСАНТА ДА-12-2ЛК</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18754.6</price>
+        <cityprice cityId="615420100">18754.6</cityprice>
+    </offer>
+    <offer sku="1081066">
+      <model>Аккумуляторная дрель-шуруповерт Makita DDF484RME Li-Ion 4 А·ч 18 В х2 кейс 54 Н·м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40102.74</price>
+        <cityprice cityId="615420100">40102.74</cityprice>
+    </offer>
+    <offer sku="7452659">
+      <model>Шуруповерт Metabo PowerMaxx BS 12 BL Q 2.0Ач х2</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35074.71</price>
+        <cityprice cityId="615420100">35074.71</cityprice>
+    </offer>
+    <offer sku="7480620">
+      <model>Шуруповерт Tен TDLI212</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25194.51</price>
+        <cityprice cityId="615420100">25194.51</cityprice>
+    </offer>
+    <offer sku="3700563">
+      <model>Аккумуляторная дрель-шуруповёрт Makita DF333DZ</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96749.88</price>
+        <cityprice cityId="615420100">96749.88</cityprice>
+    </offer>
+    <offer sku="12165513">
+      <model>Аккумуляторная дрель-шуруповёрт Победа ДА-20/2 Ли</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17116.46</price>
+        <cityprice cityId="615420100">17116.46</cityprice>
+    </offer>
+    <offer sku="7452739">
+      <model>Шуруповерт Ryobi R18iD3-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56372.47</price>
+        <cityprice cityId="615420100">56372.47</cityprice>
+    </offer>
+    <offer sku="7110533">
+      <model>Шуруповерт DWT ABS-12 C-2</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15838.95</price>
+        <cityprice cityId="615420100">15838.95</cityprice>
+    </offer>
+    <offer sku="7323601">
+      <model>Шуруповерт DWT BM-110 T</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13960.72</price>
+        <cityprice cityId="615420100">13960.72</cityprice>
+    </offer>
+    <offer sku="7016848">
+      <model>Шуруповерт DWT ABS-10.8 Li BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20051.87</price>
+        <cityprice cityId="615420100">20051.87</cityprice>
+    </offer>
+    <offer sku="7016934">
+      <model>Шуруповерт DWT ABS 14.4 SLI BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34999.62</price>
+        <cityprice cityId="615420100">34999.62</cityprice>
+    </offer>
+    <offer sku="10863934">
+      <model>Дрель-шуруповерт Kedr K21003</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13692.97</price>
+        <cityprice cityId="615420100">13692.97</cityprice>
+    </offer>
+    <offer sku="7656071">
+      <model>Шуруповерт Crown CT12018</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24665.21</price>
+        <cityprice cityId="615420100">24665.21</cityprice>
+    </offer>
+    <offer sku="7659184">
+      <model>Шуруповерт Crown CT21003</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18464.5</price>
+        <cityprice cityId="615420100">18464.5</cityprice>
+    </offer>
+    <offer sku="12165472">
+      <model>Аккумуляторная дрель-шуруповёрт Makita DDF453SYX5</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29047.79</price>
+        <cityprice cityId="615420100">29047.79</cityprice>
+    </offer>
+    <offer sku="10851968">
+      <model>Дрель-шуруповерт Steher CDS-200-2</model>
+      <brand>STEHER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31354.64</price>
+        <cityprice cityId="615420100">31354.64</cityprice>
+    </offer>
+    <offer sku="10804097">
+      <model>Дрель-шуруповерт Зубр Мастер ДШУ-185-22</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33631.21</price>
+        <cityprice cityId="615420100">33631.21</cityprice>
+    </offer>
+    <offer sku="7344643">
+      <model>Шуруповерт Bosch GSR 10,8-LI 0601868101</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62229.45</price>
+        <cityprice cityId="615420100">62229.45</cityprice>
+    </offer>
+    <offer sku="7547918">
+      <model>Шуруповерт P.I.T. Р31027 12 В</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21894.52</price>
+        <cityprice cityId="615420100">21894.52</cityprice>
+    </offer>
+    <offer sku="10787307">
+      <model>Дрель-шуруповерт Sturm! ID2145PT, 450 Вт</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21104.11</price>
+        <cityprice cityId="615420100">21104.11</cityprice>
+    </offer>
+    <offer sku="10802071">
+      <model>Дрель-шуруповерт Зубр Мастер ДШЛ-125-21 25 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22919.1</price>
+        <cityprice cityId="615420100">22919.1</cityprice>
+    </offer>
+    <offer sku="7080170">
+      <model>Шуруповерт Bosch GSB 18 VE-EC</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>962797.83</price>
+        <cityprice cityId="615420100">962797.83</cityprice>
+    </offer>
+    <offer sku="7005007">
+      <model>Шуруповерт ЗУБР ДА-14.4-2-Ли КМ1</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32360.62</price>
+        <cityprice cityId="615420100">32360.62</cityprice>
+    </offer>
+    <offer sku="7019573">
+      <model>Шуруповерт Metabo BS 18 LT SET 602102600</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>251835.43</price>
+        <cityprice cityId="615420100">251835.43</cityprice>
+    </offer>
+    <offer sku="7074589">
+      <model>Шуруповерт INGCO CIDLI1232</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34580.7</price>
+        <cityprice cityId="615420100">34580.7</cityprice>
+    </offer>
+    <offer sku="7074718">
+      <model>Шуруповерт Metabo PowerMaxx SSD 12 601114500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182783.7</price>
+        <cityprice cityId="615420100">182783.7</cityprice>
+    </offer>
+    <offer sku="7157526">
+      <model>Шуруповерт ЗУБР ДА-18-2-Ли КНМ1</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108682.2</price>
+        <cityprice cityId="615420100">108682.2</cityprice>
+    </offer>
+    <offer sku="10785157">
+      <model>Аккумуляторная дрель-шуруповерт Trigger 20002</model>
+      <brand>Trigger</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34580.7</price>
+        <cityprice cityId="615420100">34580.7</cityprice>
+    </offer>
+    <offer sku="7074700">
+      <model>Шуруповерт Kolner KCD 18/2С</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16710.38</price>
+        <cityprice cityId="615420100">16710.38</cityprice>
+    </offer>
+    <offer sku="3695199">
+      <model>Аккумуляторная дрель-шуруповерт Makita DDF482RME</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29443</price>
+        <cityprice cityId="615420100">29443</cityprice>
+    </offer>
+    <offer sku="7004982">
+      <model>Шуруповерт DWT ABS-18 Sli BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65209.32</price>
+        <cityprice cityId="615420100">65209.32</cityprice>
+    </offer>
+    <offer sku="7656222">
+      <model>Шуруповерт Kolner KCD 18/2L</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24751.88</price>
+        <cityprice cityId="615420100">24751.88</cityprice>
+    </offer>
+    <offer sku="7285998">
+      <model>Шуруповерт Milwaukee M12 BIW12-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72625.4</price>
+        <cityprice cityId="615420100">72625.4</cityprice>
+    </offer>
+    <offer sku="1526849">
+      <model>Аккумуляторный шуруповерт Витязь ДА-124-2</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33592.68</price>
+        <cityprice cityId="615420100">33592.68</cityprice>
+    </offer>
+    <offer sku="7286103">
+      <model>Шуруповерт P.I.T. ДА-14,4А</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30849.94</price>
+        <cityprice cityId="615420100">30849.94</cityprice>
+    </offer>
+    <offer sku="7339862">
+      <model>Шуруповерт Einhell BT-CD 18/1Li</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23988.14</price>
+        <cityprice cityId="615420100">23988.14</cityprice>
+    </offer>
+    <offer sku="12165468">
+      <model>Аккумуляторный шуруповёрт Bosch GSB 185-LI  арт.06019K3100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28652.58</price>
+        <cityprice cityId="615420100">28652.58</cityprice>
+    </offer>
+    <offer sku="1196817">
+      <model>Аккумуляторный шуруповерт CrownT21055L BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28158.57</price>
+        <cityprice cityId="615420100">28158.57</cityprice>
+    </offer>
+    <offer sku="7323749">
+      <model>Шуруповерт Интерскол ДА-10/14,4Л3</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31605.77</price>
+        <cityprice cityId="615420100">31605.77</cityprice>
+    </offer>
+    <offer sku="10851962">
+      <model>Дрель-шуруповерт Steher CD-200-2</model>
+      <brand>STEHER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23712.48</price>
+        <cityprice cityId="615420100">23712.48</cityprice>
+    </offer>
+    <offer sku="10772032">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch UniversalDrill 18V</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70149.42</price>
+        <cityprice cityId="615420100">70149.42</cityprice>
+    </offer>
+    <offer sku="3702957">
+      <model>Дрель-шуруповёрт Makita DDF481RF</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>141829.28</price>
+        <cityprice cityId="615420100">141829.28</cityprice>
+    </offer>
+    <offer sku="1055039">
+      <model>Сетевая дрель-шуруповерт ЗУБР ДШ-М1-400-2 коробка 400 Вт 40 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16049.15</price>
+        <cityprice cityId="615420100">16049.15</cityprice>
+    </offer>
+    <offer sku="7305373">
+      <model>Шуруповерт Зубр 20В 2 АКБ 4 Ач GB-250 A5</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55838.94</price>
+        <cityprice cityId="615420100">55838.94</cityprice>
+    </offer>
+    <offer sku="7018343">
+      <model>Шуруповерт Bosch GWI 10.8 V-Li 2.0Ah x2</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185741.83</price>
+        <cityprice cityId="615420100">185741.83</cityprice>
+    </offer>
+    <offer sku="7298668">
+      <model>Шуруповерт Metabo SB 18 LTX-3 BL Q I 5.5Ач х2 602357660</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>340865.91</price>
+        <cityprice cityId="615420100">340865.91</cityprice>
+    </offer>
+    <offer sku="7304924">
+      <model>Шуруповерт Metabo BS 18 LTX-3 BL I 5.5Ач х2 602354660</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1015657.88</price>
+        <cityprice cityId="615420100">1015657.88</cityprice>
+    </offer>
+    <offer sku="7074567">
+      <model>Шуруповерт Metabo BS 18 LT BL 602325550</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>652133.71</price>
+        <cityprice cityId="615420100">652133.71</cityprice>
+    </offer>
+    <offer sku="3775027">
+      <model>Шуруповерт Makita DTW450Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>244498.39</price>
+        <cityprice cityId="615420100">244498.39</cityprice>
+    </offer>
+    <offer sku="7277759">
+      <model>Шуруповерт Metabo BS 18 LTX Impuls 2013 4.0Ah x3 Metaloc 110 Н·м</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>373965.57</price>
+        <cityprice cityId="615420100">373965.57</cityprice>
+    </offer>
+    <offer sku="7361441">
+      <model>Шуруповерт Metabo PowerMaxx SSD 12 BL 601115800</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>269710.69</price>
+        <cityprice cityId="615420100">269710.69</cityprice>
+    </offer>
+    <offer sku="12165696">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSR 12V-15 FC Professional арт.06019F6000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88427.79</price>
+        <cityprice cityId="615420100">88427.79</cityprice>
+    </offer>
+    <offer sku="12165117">
+      <model>Аккумуляторная дрель-шуруповерт Bosch GSB 10.8-2-LI , без АКБ и зарядного устройства,  06019B6906</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51377.04</price>
+        <cityprice cityId="615420100">51377.04</cityprice>
+    </offer>
+    <offer sku="12165670">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSR 12V-15 Professional арт.0601868122</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107733.7</price>
+        <cityprice cityId="615420100">107733.7</cityprice>
+    </offer>
+    <offer sku="12165701">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSR 18 VE-EC Professional арт.06019F1101</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1396714.47</price>
+        <cityprice cityId="615420100">1396714.47</cityprice>
+    </offer>
+    <offer sku="7283560">
+      <model>Шуруповерт Makita DTS141RME</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>370507.5</price>
+        <cityprice cityId="615420100">370507.5</cityprice>
+    </offer>
+    <offer sku="7281679">
+      <model>Шуруповерт Hilti SF 2-A12 2200125</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>501084.22</price>
+        <cityprice cityId="615420100">501084.22</cityprice>
+    </offer>
+    <offer sku="7005241">
+      <model>Шуруповерт ЗУБР ЗСШ-730-45</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22497.22</price>
+        <cityprice cityId="615420100">22497.22</cityprice>
+    </offer>
+    <offer sku="7306851">
+      <model>Шуруповерт Bahco BCL31IW1</model>
+      <brand>BAHCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174322.3</price>
+        <cityprice cityId="615420100">174322.3</cityprice>
+    </offer>
+    <offer sku="7340840">
+      <model>Шуруповерт Einhell BT-CD 10,8/1 LI</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33592.68</price>
+        <cityprice cityId="615420100">33592.68</cityprice>
+    </offer>
+    <offer sku="7451573">
+      <model>Шуруповерт Ryobi R18PD2-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>146180.52</price>
+        <cityprice cityId="615420100">146180.52</cityprice>
+    </offer>
+    <offer sku="10756084">
+      <model>Шуруповерт Bizon BZ-21DL 21V 2Ah</model>
+      <brand>Bizon </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117273.03</price>
+        <cityprice cityId="615420100">117273.03</cityprice>
+    </offer>
+    <offer sku="1055177">
+      <model>Сетевая дрель-шуруповерт Витязь ДЭ-750 750 Вт 20 Н·м</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18871.18</price>
+        <cityprice cityId="615420100">18871.18</cityprice>
+    </offer>
+    <offer sku="12165664">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSR 12V-15 FC Professional Solo арт.06019F6004</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40507.83</price>
+        <cityprice cityId="615420100">40507.83</cityprice>
+    </offer>
+    <offer sku="7089336">
+      <model>Шуруповерт Metabo BS 18 Quick 602217500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>415857.62</price>
+        <cityprice cityId="615420100">415857.62</cityprice>
+    </offer>
+    <offer sku="7345822">
+      <model>Шуруповерт Metabo SB 18 LT 602103500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>319496.03</price>
+        <cityprice cityId="615420100">319496.03</cityprice>
+    </offer>
+    <offer sku="7361514">
+      <model>Шуруповерт Milwaukee M18 FID-0X</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>633949.2</price>
+        <cityprice cityId="615420100">633949.2</cityprice>
+    </offer>
+    <offer sku="7101574">
+      <model>Шуруповерт Metabo SB 18 L BL 602331500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>416746.84</price>
+        <cityprice cityId="615420100">416746.84</cityprice>
+    </offer>
+    <offer sku="7343984">
+      <model>Шуруповерт Makita DF031DWME</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>538827.58</price>
+        <cityprice cityId="615420100">538827.58</cityprice>
+    </offer>
+    <offer sku="1108175">
+      <model>Бесщеточный шуруповерт P.I.T. 31036, 18 В</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9340.74</price>
+        <cityprice cityId="615420100">9340.74</cityprice>
+    </offer>
+    <offer sku="3694870">
+      <model>Аккумуляторная дрель-шуруповёрт Makita DDF451RFE</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195359.22</price>
+        <cityprice cityId="615420100">195359.22</cityprice>
+    </offer>
+    <offer sku="7017056">
+      <model>Шуруповерт Bosch GSR 18V-EC TE 06019C8000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192156.06</price>
+        <cityprice cityId="615420100">192156.06</cityprice>
+    </offer>
+    <offer sku="7017867">
+      <model>Шуруповерт Makita DTL061Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163491.62</price>
+        <cityprice cityId="615420100">163491.62</cityprice>
+    </offer>
+    <offer sku="12165690">
+      <model>Аккумуляторная ударная дрель-шуруповёрт DeWALT DCD785C2</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133382.7</price>
+        <cityprice cityId="615420100">133382.7</cityprice>
+    </offer>
+    <offer sku="7452696">
+      <model>Шуруповерт P.I.T. 31037</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42053.1</price>
+        <cityprice cityId="615420100">42053.1</cityprice>
+    </offer>
+    <offer sku="7305893">
+      <model>Шуруповерт Tesla TCD182DC</model>
+      <brand>Tesla</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86412.23</price>
+        <cityprice cityId="615420100">86412.23</cityprice>
+    </offer>
+    <offer sku="7017130">
+      <model>Шуруповерт ЗУБР ДШЛ-122-1 КН</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286530.74</price>
+        <cityprice cityId="615420100">286530.74</cityprice>
+    </offer>
+    <offer sku="7016558">
+      <model>Шуруповерт Milwaukee M18 CID-202C</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>762875.93</price>
+        <cityprice cityId="615420100">762875.93</cityprice>
+    </offer>
+    <offer sku="7306852">
+      <model>Шуруповерт Total TIRLI2002</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47918.97</price>
+        <cityprice cityId="615420100">47918.97</cityprice>
+    </offer>
+    <offer sku="7330854">
+      <model>Шуруповерт Metabo SE 4000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207483.21</price>
+        <cityprice cityId="615420100">207483.21</cityprice>
+    </offer>
+    <offer sku="7074732">
+      <model>Шуруповерт TCH ZZL123</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30134.61</price>
+        <cityprice cityId="615420100">30134.61</cityprice>
+    </offer>
+    <offer sku="7005111">
+      <model>Шуруповерт Makita FS2500</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94156.33</price>
+        <cityprice cityId="615420100">94156.33</cityprice>
+    </offer>
+    <offer sku="7005248">
+      <model>Шуруповерт Hammer ACD120GLi</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109961.69</price>
+        <cityprice cityId="615420100">109961.69</cityprice>
+    </offer>
+    <offer sku="7286522">
+      <model>Шуруповерт Hyundai HY-1211</model>
+      <brand>Hyundai </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>475858.1</price>
+        <cityprice cityId="615420100">475858.1</cityprice>
+    </offer>
+    <offer sku="7326931">
+      <model>Шуруповерт TCH ТСНL125</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29630.72</price>
+        <cityprice cityId="615420100">29630.72</cityprice>
+    </offer>
+    <offer sku="7455532">
+      <model>Шуруповерт Milwaukee M12 FPD-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>735643.14</price>
+        <cityprice cityId="615420100">735643.14</cityprice>
+    </offer>
+    <offer sku="12349898">
+      <model>Дрель-шуруповерт Makita HP488DWE</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38000.63</price>
+        <cityprice cityId="615420100">38000.63</cityprice>
+    </offer>
+    <offer sku="12165488">
+      <model>Аккумуляторная дрель-шуруповерт DeWALT DCD778D2T</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96825.96</price>
+        <cityprice cityId="615420100">96825.96</cityprice>
+    </offer>
+    <offer sku="1055168">
+      <model>Аккумуляторная дрель-шуруповерт РЕСАНТА ДА-12-2Л 40 Н·м</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13152.52</price>
+        <cityprice cityId="615420100">13152.52</cityprice>
+    </offer>
+    <offer sku="7329728">
+      <model>Шуруповерт Kolner KCD 14,4C</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123866.09</price>
+        <cityprice cityId="615420100">123866.09</cityprice>
+    </offer>
+    <offer sku="7089831">
+      <model>Шуруповерт Metabo BS 18 LTX Impuls Set 602191960</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>489069.9</price>
+        <cityprice cityId="615420100">489069.9</cityprice>
+    </offer>
+    <offer sku="12165653">
+      <model>Аккумуляторная дрель-шуруповёрт Ferm CDM1120  18W АКБ</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28652.58</price>
+        <cityprice cityId="615420100">28652.58</cityprice>
+    </offer>
+    <offer sku="7310245">
+      <model>Шуруповерт Bosch GSR 14,4 V-LI 2011 4.0Ah x2</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>488457.33</price>
+        <cityprice cityId="615420100">488457.33</cityprice>
+    </offer>
+    <offer sku="7453597">
+      <model>Шуруповерт Bosch IXO V Basic 06039A8020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75088.53</price>
+        <cityprice cityId="615420100">75088.53</cityprice>
+    </offer>
+    <offer sku="7074598">
+      <model>Шуруповерт РЕСАНТА ДА-12-2Л</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14939.85</price>
+        <cityprice cityId="615420100">14939.85</cityprice>
+    </offer>
+    <offer sku="7097715">
+      <model>Шуруповерт РЕСАНТА ДА-14-2Л</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15325.18</price>
+        <cityprice cityId="615420100">15325.18</cityprice>
+    </offer>
+    <offer sku="7312007">
+      <model>Шуруповерт Milwaukee M18 CBLPD-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>302990.17</price>
+        <cityprice cityId="615420100">302990.17</cityprice>
+    </offer>
+    <offer sku="7315265">
+      <model>Шуруповерт Makita HP457DWE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55120.65</price>
+        <cityprice cityId="615420100">55120.65</cityprice>
+    </offer>
+    <offer sku="7455207">
+      <model>Шуруповерт Вихрь ДА-20Л-2К 72/14/21</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18896.87</price>
+        <cityprice cityId="615420100">18896.87</cityprice>
+    </offer>
+    <offer sku="7659186">
+      <model>Шуруповерт Вихрь СШ-550/1</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9347.66</price>
+        <cityprice cityId="615420100">9347.66</cityprice>
+    </offer>
+    <offer sku="1055153">
+      <model>Аккумуляторный шуруповерт Makita DF033DZ 30 Н·м</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54281.82</price>
+        <cityprice cityId="615420100">54281.82</cityprice>
+    </offer>
+    <offer sku="7292679">
+      <model>Шуруповерт Makita FS6300JX2</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>347113.16</price>
+        <cityprice cityId="615420100">347113.16</cityprice>
+    </offer>
+    <offer sku="7325290">
+      <model>Шуруповерт Makita DF330DWLE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63347.89</price>
+        <cityprice cityId="615420100">63347.89</cityprice>
+    </offer>
+    <offer sku="7284032">
+      <model>Шуруповерт Milwaukee M18 FHIWF12-0X</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>293894.45</price>
+        <cityprice cityId="615420100">293894.45</cityprice>
+    </offer>
+    <offer sku="7658286">
+      <model>Дрель-шуруповерт Kolner KCD 12L</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13528.96</price>
+        <cityprice cityId="615420100">13528.96</cityprice>
+    </offer>
+    <offer sku="7005011">
+      <model>Шуруповерт СТАВР ДШС-10/300</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7410.15</price>
+        <cityprice cityId="615420100">7410.15</cityprice>
+    </offer>
+    <offer sku="12165511">
+      <model>Аккумуляторная дрель-шуруповерт Bosch GSR 18V-90 C Solo арт.06019K6000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78053.58</price>
+        <cityprice cityId="615420100">78053.58</cityprice>
+    </offer>
+    <offer sku="1055122">
+      <model>Аккумуляторная дрель-шуруповерт Hitachi DS18DVF3 45 Н·м</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130393.94</price>
+        <cityprice cityId="615420100">130393.94</cityprice>
+    </offer>
+    <offer sku="7156863">
+      <model>Шуруповерт Ryobi R18iW7-0 ONE+ 5133004220</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103822.13</price>
+        <cityprice cityId="615420100">103822.13</cityprice>
+    </offer>
+    <offer sku="7305949">
+      <model>Шуруповерт DeWALT DCF897N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185102.9</price>
+        <cityprice cityId="615420100">185102.9</cityprice>
+    </offer>
+    <offer sku="1055161">
+      <model>Аккумуляторная дрель-шуруповерт Makita DF333DWYE 30 Н·м</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36556.74</price>
+        <cityprice cityId="615420100">36556.74</cityprice>
+    </offer>
+    <offer sku="1055253">
+      <model>Аккумуляторная дрель-шуруповерт ЗУБР ДШЛ-121 КН 20 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31788.56</price>
+        <cityprice cityId="615420100">31788.56</cityprice>
+    </offer>
+    <offer sku="1081120">
+      <model>Аккумуляторная дрель-шуруповерт ЗУБР ЗДА-14.4-2 КИН 28 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39491.16</price>
+        <cityprice cityId="615420100">39491.16</cityprice>
+    </offer>
+    <offer sku="10687636">
+      <model>Шуруповерт Tundra 5437468, 800 mAh, 12V</model>
+      <brand>Tundra </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30589.1</price>
+        <cityprice cityId="615420100">30589.1</cityprice>
+    </offer>
+    <offer sku="10796486">
+      <model>Бесщеточный дрель-шуруповерт Зубр DB-201-22</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79535.61</price>
+        <cityprice cityId="615420100">79535.61</cityprice>
+    </offer>
+    <offer sku="7005221">
+      <model>Шуруповерт Einhell RT-CD 14,4/1 Li</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40646.15</price>
+        <cityprice cityId="615420100">40646.15</cityprice>
+    </offer>
+    <offer sku="7283911">
+      <model>Шуруповерт Bosch GSB 18V-50 06019H5102</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75000.6</price>
+        <cityprice cityId="615420100">75000.6</cityprice>
+    </offer>
+    <offer sku="7451518">
+      <model>Шуруповерт Einhell RT-CD 18/1 4513275</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37198.95</price>
+        <cityprice cityId="615420100">37198.95</cityprice>
+    </offer>
+    <offer sku="1055238">
+      <model>Аккумуляторная дрель-шуруповерт Вихрь ДА-18Л-2К (new) 28 Н·м</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18519.45</price>
+        <cityprice cityId="615420100">18519.45</cityprice>
+    </offer>
+    <offer sku="7113294">
+      <model>Шуруповерт Фиолент ДША 1-10-РЭ3-12</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22329.25</price>
+        <cityprice cityId="615420100">22329.25</cityprice>
+    </offer>
+    <offer sku="7015255">
+      <model>Шуруповерт Bosch GSR 120-LI 1.5Ah 06019F7005</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193520.51</price>
+        <cityprice cityId="615420100">193520.51</cityprice>
+    </offer>
+    <offer sku="7113321">
+      <model>Шуруповерт Kolner KCD 18MC</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14241.32</price>
+        <cityprice cityId="615420100">14241.32</cityprice>
+    </offer>
+    <offer sku="7292681">
+      <model>Шуруповерт Kolner KCD 14,4/2L</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39107.81</price>
+        <cityprice cityId="615420100">39107.81</cityprice>
+    </offer>
+    <offer sku="7278836">
+      <model>Шуруповерт Makita DFR550RFE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>320117.49</price>
+        <cityprice cityId="615420100">320117.49</cityprice>
+    </offer>
+    <offer sku="1055025">
+      <model>Сетевая дрель-шуруповерт ЗУБР ЗСШ-300-2 300 Вт 35 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34476.96</price>
+        <cityprice cityId="615420100">34476.96</cityprice>
+    </offer>
+    <offer sku="1055232">
+      <model>Аккумуляторная дрель-шуруповерт BOSCH GSR 12V-35 Li-Ion 12 В 0 коробка 35 Н·м</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53550.68</price>
+        <cityprice cityId="615420100">53550.68</cityprice>
+    </offer>
+    <offer sku="1055268">
+      <model>Аккумуляторная дрель-шуруповерт BOSCH GSR 18-2-LI Plus 2.0Ah x2 Case 63 Н·м</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68173.38</price>
+        <cityprice cityId="615420100">68173.38</cityprice>
+    </offer>
+    <offer sku="7405981">
+      <model>Шуруповерт ТЭМП ДА-14.4 A</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23688.77</price>
+        <cityprice cityId="615420100">23688.77</cityprice>
+    </offer>
+    <offer sku="1526859">
+      <model>Аккумуляторный шуруповерт Витязь ДА-114-2</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32802.26</price>
+        <cityprice cityId="615420100">32802.26</cityprice>
+    </offer>
+    <offer sku="7003184">
+      <model>Шуруповерт Black&amp;Decker EPC18CAK</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41306.29</price>
+        <cityprice cityId="615420100">41306.29</cityprice>
+    </offer>
+    <offer sku="10804100">
+      <model>Дрель-шуруповерт Зубр Мастер ДШЛ-185-22</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24742</price>
+        <cityprice cityId="615420100">24742</cityprice>
+    </offer>
+    <offer sku="12165492">
+      <model>Аккумуляторная дрель-шуруповёрт Вихрь ДА-18Л-2К,  Н м 45, арт.72/14/9</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22918.11</price>
+        <cityprice cityId="615420100">22918.11</cityprice>
+    </offer>
+    <offer sku="7003187">
+      <model>Шуруповерт P.I.T. PSR14 4C3</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27206.12</price>
+        <cityprice cityId="615420100">27206.12</cityprice>
+    </offer>
+    <offer sku="7317334">
+      <model>Шуруповерт Ставр ДА-14,4</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23712.48</price>
+        <cityprice cityId="615420100">23712.48</cityprice>
+    </offer>
+    <offer sku="6824404">
+      <model>Шуруповерт Metabo DSSW 2440-1 601551000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>545881.05</price>
+        <cityprice cityId="615420100">545881.05</cityprice>
+    </offer>
+    <offer sku="7110672">
+      <model>Шуруповерт DeWALT DCF880M2</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>391255.92</price>
+        <cityprice cityId="615420100">391255.92</cityprice>
+    </offer>
+    <offer sku="7340706">
+      <model>Шуруповерт Einhell BT-DY 720 E</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34442.38</price>
+        <cityprice cityId="615420100">34442.38</cityprice>
+    </offer>
+    <offer sku="7341929">
+      <model>Шуруповерт Einhell RT-CD 10.8 Li Set</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37519.07</price>
+        <cityprice cityId="615420100">37519.07</cityprice>
+    </offer>
+    <offer sku="12165535">
+      <model>Аккумуляторный шуруповёрт Bosch GSR 18 V-EC TE Professional арт.06019C8001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>462916.02</price>
+        <cityprice cityId="615420100">462916.02</cityprice>
+    </offer>
+    <offer sku="12165686">
+      <model>Аккумуляторный шуруповёрт Bosch GSR 12V-35 HX Professional арт.06019J9101</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100778.04</price>
+        <cityprice cityId="615420100">100778.04</cityprice>
+    </offer>
+    <offer sku="7017572">
+      <model>Шуруповерт Milwaukee M18 BLDD-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>157853.98</price>
+        <cityprice cityId="615420100">157853.98</cityprice>
+    </offer>
+    <offer sku="7074535">
+      <model>Шуруповерт Milwaukee M18 BIW12-402C</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1013174</price>
+        <cityprice cityId="615420100">1013174</cityprice>
+    </offer>
+    <offer sku="12165704">
+      <model>Аккумуляторный шуруповёрт Bosch GSR 18 V-EC TE Professional арт.06019C8007</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>599445.57</price>
+        <cityprice cityId="615420100">599445.57</cityprice>
+    </offer>
+    <offer sku="12165706">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSB 18V-110 C Professional  арт.06019G030D , 2 аккумулятора</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46930.95</price>
+        <cityprice cityId="615420100">46930.95</cityprice>
+    </offer>
+    <offer sku="7450754">
+      <model>Шуруповерт DeWALT DCD734S2 LAKA</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182783.7</price>
+        <cityprice cityId="615420100">182783.7</cityprice>
+    </offer>
+    <offer sku="7327332">
+      <model>Шуруповерт Metabo BS 18 LTX-3 BL Q I 602355660</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>414474.39</price>
+        <cityprice cityId="615420100">414474.39</cityprice>
+    </offer>
+    <offer sku="7284373">
+      <model>Шуруповерт Metabo PowerMaxx BS 12 BL Q 601039840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>353711.16</price>
+        <cityprice cityId="615420100">353711.16</cityprice>
+    </offer>
+    <offer sku="7074626">
+      <model>Шуруповерт Metabo BS 18 LTX BL I 602350890</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1015124.35</price>
+        <cityprice cityId="615420100">1015124.35</cityprice>
+    </offer>
+    <offer sku="7658292">
+      <model>Шуруповерт P.I.T. 31034</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30009.13</price>
+        <cityprice cityId="615420100">30009.13</cityprice>
+    </offer>
+    <offer sku="4608065">
+      <model>Аккумуляторная ударная дрель-шуруповерт Hitachi DV14DBL</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1270580.88</price>
+        <cityprice cityId="615420100">1270580.88</cityprice>
+    </offer>
+    <offer sku="12165652">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch UniversalDrill 18V Solo арт.06039D4000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35074.71</price>
+        <cityprice cityId="615420100">35074.71</cityprice>
+    </offer>
+    <offer sku="7293977">
+      <model>Шуруповерт Bosch GDR L-Boxx 06019E0000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>157051.71</price>
+        <cityprice cityId="615420100">157051.71</cityprice>
+    </offer>
+    <offer sku="12165557">
+      <model>Аккумуляторная ударная дрель-шуруповерт Bosch GSB 18V-60 C Professional арт.06019G210B</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117080.37</price>
+        <cityprice cityId="615420100">117080.37</cityprice>
+    </offer>
+    <offer sku="7452703">
+      <model>Шуруповерт Wortex DR 1323</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14711.62</price>
+        <cityprice cityId="615420100">14711.62</cityprice>
+    </offer>
+    <offer sku="7002416">
+      <model>Шуруповерт Edon DS-550</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58123.24</price>
+        <cityprice cityId="615420100">58123.24</cityprice>
+    </offer>
+    <offer sku="948069">
+      <model>Шуруповерт аккумуляторный Tolsen 79033</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51644.79</price>
+        <cityprice cityId="615420100">51644.79</cityprice>
+    </offer>
+    <offer sku="250822">
+      <model>Шуруповерт аккумуляторный Tolsen 87212</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62729.39</price>
+        <cityprice cityId="615420100">62729.39</cityprice>
+    </offer>
+    <offer sku="12720719">
+      <model>Дрель-шуруповерт аккумуляторная Eurolux ДА-16/2Li</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13307.64</price>
+        <cityprice cityId="615420100">13307.64</cityprice>
+    </offer>
+    <offer sku="7015688">
+      <model>Шуруповерт ТЭМП ДА-18А</model>
+      <brand>Темп</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27664.56</price>
+        <cityprice cityId="615420100">27664.56</cityprice>
+    </offer>
+    <offer sku="12165068">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch GSB 18V-110C Professional Solo 06019G030A</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123501.51</price>
+        <cityprice cityId="615420100">123501.51</cityprice>
+    </offer>
+    <offer sku="284768">
+      <model>Аккумуляторная дрель-шуруповёрт Alteco CD 1210.1 Li X2</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21242.43</price>
+        <cityprice cityId="615420100">21242.43</cityprice>
+    </offer>
+    <offer sku="7310539">
+      <model>Шуруповерт Milwaukee TKSE 2500 Q 679050</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>454274.8</price>
+        <cityprice cityId="615420100">454274.8</cityprice>
+    </offer>
+    <offer sku="7360496">
+      <model>Шуруповерт Milwaukee M18 BDD-202C</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139217.95</price>
+        <cityprice cityId="615420100">139217.95</cityprice>
+    </offer>
+    <offer sku="12165113">
+      <model>Ударная дрель-шуруповерт Makita HP0300</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25329.87</price>
+        <cityprice cityId="615420100">25329.87</cityprice>
+    </offer>
+    <offer sku="7113337">
+      <model>Шуруповерт CROWN CT21030L</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50586.62</price>
+        <cityprice cityId="615420100">50586.62</cityprice>
+    </offer>
+    <offer sku="1055211">
+      <model>Аккумуляторная дрель-шуруповерт BLACK+DECKER LD12SP 16 Н·м</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98787.18</price>
+        <cityprice cityId="615420100">98787.18</cityprice>
+    </offer>
+    <offer sku="7649979">
+      <model>Шуруповерт Black&amp;Decker EPC12CA</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32146.81</price>
+        <cityprice cityId="615420100">32146.81</cityprice>
+    </offer>
+    <offer sku="1055191">
+      <model>Аккумуляторная дрель-шуруповерт ЗУБР ЗДА-14.4-2 28 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46372.72</price>
+        <cityprice cityId="615420100">46372.72</cityprice>
+    </offer>
+    <offer sku="12735893">
+      <model>Шуруповерт аккумуляторный Тотаl TDLI12208 12V</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34442.38</price>
+        <cityprice cityId="615420100">34442.38</cityprice>
+    </offer>
+    <offer sku="7659201">
+      <model>Шуруповерт Вихрь ДА-12Л-2К</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13226.62</price>
+        <cityprice cityId="615420100">13226.62</cityprice>
+    </offer>
+    <offer sku="7005249">
+      <model>Шуруповерт Фиолент ДША 1-10-РЭ4-12</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35448.18</price>
+        <cityprice cityId="615420100">35448.18</cityprice>
+    </offer>
+    <offer sku="12165466">
+      <model>Дрель-шуруповёрт аккумуляторный ударный Bosch GSB 185-LI  арт.06019K3101</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45448.92</price>
+        <cityprice cityId="615420100">45448.92</cityprice>
+    </offer>
+    <offer sku="7003286">
+      <model>Шуруповерт DeWALT DCF885L2</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224082.94</price>
+        <cityprice cityId="615420100">224082.94</cityprice>
+    </offer>
+    <offer sku="7016239">
+      <model>Шуруповерт DWT TS-550</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16982.09</price>
+        <cityprice cityId="615420100">16982.09</cityprice>
+    </offer>
+    <offer sku="7074582">
+      <model>Шуруповерт Festool PDC 18-4 Li 5.2 Set</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>625416.66</price>
+        <cityprice cityId="615420100">625416.66</cityprice>
+    </offer>
+    <offer sku="7074713">
+      <model>Шуруповерт Milwaukee M12 BDD-0</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76014.31</price>
+        <cityprice cityId="615420100">76014.31</cityprice>
+    </offer>
+    <offer sku="7081218">
+      <model>Шуруповерт Kolner KCD 14.4MC</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15418.05</price>
+        <cityprice cityId="615420100">15418.05</cityprice>
+    </offer>
+    <offer sku="7081759">
+      <model>Шуруповерт Makita TD111DZ</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70897.35</price>
+        <cityprice cityId="615420100">70897.35</cityprice>
+    </offer>
+    <offer sku="1055094">
+      <model>Аккумуляторная дрель-шуруповерт DeWALT DCD710C2 24 Н·м</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69161.4</price>
+        <cityprice cityId="615420100">69161.4</cityprice>
+    </offer>
+    <offer sku="1055136">
+      <model>Аккумуляторная дрель-шуруповерт ЗУБР ДА-12-2-Ли КНМ3 40 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35068.78</price>
+        <cityprice cityId="615420100">35068.78</cityprice>
+    </offer>
+    <offer sku="1055149">
+      <model>Аккумуляторная дрель-шуруповерт Makita DF333DWYE4 Li-Ion 1.5 А·ч 12 В х2 кейс 30 Н·м</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63785.58</price>
+        <cityprice cityId="615420100">63785.58</cityprice>
+    </offer>
+    <offer sku="1055171">
+      <model>Аккумуляторная дрель-шуруповерт ВИХРЬ ДА-14,4Л-2К 30 Н·м</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15590.96</price>
+        <cityprice cityId="615420100">15590.96</cityprice>
+    </offer>
+    <offer sku="1055298">
+      <model>Аккумуляторная дрель-шуруповерт P.I.T. PSR 12-D 20 Н·м</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34458.19</price>
+        <cityprice cityId="615420100">34458.19</cityprice>
+    </offer>
+    <offer sku="1079687">
+      <model>Аккумуляторная дрель-шуруповерт ЗУБР ДШЛ-141 КН 32 Н·м</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34614.29</price>
+        <cityprice cityId="615420100">34614.29</cityprice>
+    </offer>
+    <offer sku="1081108">
+      <model>Аккумуляторная дрель-шуруповерт ВИХРЬ ДА-14,4Л-2К 2015 26 Н·м</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23327.15</price>
+        <cityprice cityId="615420100">23327.15</cityprice>
+    </offer>
+    <offer sku="7107963">
+      <model>Шуруповерт Kolner KCD 14,4/2-2L</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29998.26</price>
+        <cityprice cityId="615420100">29998.26</cityprice>
+    </offer>
+    <offer sku="7113346">
+      <model>Шуруповерт Bosch GSB 12V-15 06019B6901</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44511.29</price>
+        <cityprice cityId="615420100">44511.29</cityprice>
+    </offer>
+    <offer sku="7283548">
+      <model>Шуруповерт Makita DTD152RME</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>512095.71</price>
+        <cityprice cityId="615420100">512095.71</cityprice>
+    </offer>
+    <offer sku="7288467">
+      <model>Шуруповерт Metabo BS 18 LTX Impuls</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1384329.64</price>
+        <cityprice cityId="615420100">1384329.64</cityprice>
+    </offer>
+    <offer sku="7298889">
+      <model>Шуруповерт Metabo BS 18 LTX BL Q I 602351660</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>652118.89</price>
+        <cityprice cityId="615420100">652118.89</cityprice>
+    </offer>
+    <offer sku="7299466">
+      <model>Шуруповерт Metabo PowerMaxx BS 12 Q 0 MetaLoc 601037840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>371396.72</price>
+        <cityprice cityId="615420100">371396.72</cityprice>
+    </offer>
+    <offer sku="7310318">
+      <model>Шуруповерт Milwaukee M18 FUEL FPD2-502X 4933464264</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>353837.63</price>
+        <cityprice cityId="615420100">353837.63</cityprice>
+    </offer>
+    <offer sku="3699024">
+      <model>Аккумуляторная дрель-шуруповерт Makita DDF483SYE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125478.54</price>
+        <cityprice cityId="615420100">125478.54</cityprice>
+    </offer>
+    <offer sku="1081270">
+      <model>Аккумуляторная дрель-шуруповерт BOSCH GSR 14,4-2-LI Plus 2.0Ah x2 Case 59 Н·м</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109472.62</price>
+        <cityprice cityId="615420100">109472.62</cityprice>
+    </offer>
+    <offer sku="7330424">
+      <model>Шуруповерт Makita DDF481Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200956.35</price>
+        <cityprice cityId="615420100">200956.35</cityprice>
+    </offer>
+    <offer sku="7362135">
+      <model>Шуруповерт Metabo BS 18 L Quick 602320500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68407.54</price>
+        <cityprice cityId="615420100">68407.54</cityprice>
+    </offer>
+    <offer sku="7452665">
+      <model>Шуруповерт Makita 6906</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246724.4</price>
+        <cityprice cityId="615420100">246724.4</cityprice>
+    </offer>
+    <offer sku="7452716">
+      <model>Шуруповерт Makita 6805BV</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63842.89</price>
+        <cityprice cityId="615420100">63842.89</cityprice>
+    </offer>
+    <offer sku="7452717">
+      <model>Шуруповерт Makita 6823</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79039.62</price>
+        <cityprice cityId="615420100">79039.62</cityprice>
+    </offer>
+    <offer sku="7656257">
+      <model>Шуруповерт DeWALT DCF887N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85849.23</price>
+        <cityprice cityId="615420100">85849.23</cityprice>
+    </offer>
+    <offer sku="1196853">
+      <model>Аккумуляторный шуруповерт Crown СT21056L BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27238.72</price>
+        <cityprice cityId="615420100">27238.72</cityprice>
+    </offer>
+    <offer sku="1526809">
+      <model>Аккумуляторный шуруповерт Crown СТ 21052L, 10,8 W</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16260.83</price>
+        <cityprice cityId="615420100">16260.83</cityprice>
+    </offer>
+    <offer sku="12352670">
+      <model>Аккумуляторная дрель-шуруповерт Зубр ЗДА-14.4-2 КИН20</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33592.68</price>
+        <cityprice cityId="615420100">33592.68</cityprice>
+    </offer>
+    <offer sku="1526926">
+      <model>Аккумуляторная дрель-шуруповерт Витязь ДА-118-2</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45695.93</price>
+        <cityprice cityId="615420100">45695.93</cityprice>
+    </offer>
+    <offer sku="12165648">
+      <model>Аккумуляторная дрель-шуруповёрт Вихрь ДА-12Л-2 арт.72/14/14</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12584.41</price>
+        <cityprice cityId="615420100">12584.41</cityprice>
+    </offer>
+    <offer sku="12165684">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch AdvancedDrill 18  арт.06039B5006</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>599447.54</price>
+        <cityprice cityId="615420100">599447.54</cityprice>
+    </offer>
+    <offer sku="7002424">
+      <model>Шуруповерт Metabo PowerMaxx SSD 12 601114800</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>364085.37</price>
+        <cityprice cityId="615420100">364085.37</cityprice>
+    </offer>
+    <offer sku="7016876">
+      <model>Шуруповерт Makita DHP482SYE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>147209.05</price>
+        <cityprice cityId="615420100">147209.05</cityprice>
+    </offer>
+    <offer sku="7017482">
+      <model>Шуруповерт Bosch GSR 12V-20 HX</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>410065.84</price>
+        <cityprice cityId="615420100">410065.84</cityprice>
+    </offer>
+    <offer sku="7082890">
+      <model>Шуруповерт Metabo BS 18 602207880</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>176854.59</price>
+        <cityprice cityId="615420100">176854.59</cityprice>
+    </offer>
+    <offer sku="7100823">
+      <model>Шуруповерт Makita DHP459SYE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>215388.36</price>
+        <cityprice cityId="615420100">215388.36</cityprice>
+    </offer>
+    <offer sku="7279378">
+      <model>Шуруповерт Makita DF032DWMX1</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>410161.68</price>
+        <cityprice cityId="615420100">410161.68</cityprice>
+    </offer>
+    <offer sku="7299529">
+      <model>Шуруповерт Metabo SE 18 LTX 4000 2.0Ah x2 Case Set 620048510</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>384240.98</price>
+        <cityprice cityId="615420100">384240.98</cityprice>
+    </offer>
+    <offer sku="7312547">
+      <model>Шуруповерт Einhell BT-CD 24</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38566.37</price>
+        <cityprice cityId="615420100">38566.37</cityprice>
+    </offer>
+    <offer sku="7317876">
+      <model>Шуруповерт Зубр ДА-12-2-Ли КМ1</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88921.8</price>
+        <cityprice cityId="615420100">88921.8</cityprice>
+    </offer>
+    <offer sku="7324363">
+      <model>Шуруповерт Makita DF331DWYE</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145238.94</price>
+        <cityprice cityId="615420100">145238.94</cityprice>
+    </offer>
+    <offer sku="12166208">
+      <model>Аккумуляторный шуруповёрт Bosch GSR 18V-EC TE Professional Solo арт.06019C8003</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142254.13</price>
+        <cityprice cityId="615420100">142254.13</cityprice>
+    </offer>
+    <offer sku="7156862">
+      <model>Шуруповерт Ryobi R18DD2-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148203</price>
+        <cityprice cityId="615420100">148203</cityprice>
+    </offer>
+    <offer sku="7343043">
+      <model>Шуруповерт Bosch PSR 1800 LI-2 06039A3120</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156107.16</price>
+        <cityprice cityId="615420100">156107.16</cityprice>
+    </offer>
+    <offer sku="7361442">
+      <model>Шуруповерт Metabo BS 18 L BL 602326800</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>670061.33</price>
+        <cityprice cityId="615420100">670061.33</cityprice>
+    </offer>
+    <offer sku="7454467">
+      <model>Шуруповерт Зубр Стандарт ГУЛ-251 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98802</price>
+        <cityprice cityId="615420100">98802</cityprice>
+    </offer>
+    <offer sku="7310951">
+      <model>Шуруповерт Milwaukee M12 FDD-602X</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>839089.82</price>
+        <cityprice cityId="615420100">839089.82</cityprice>
+    </offer>
+    <offer sku="7017542">
+      <model>Шуруповерт Milwaukee M12 CDD-202C</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>637251.16</price>
+        <cityprice cityId="615420100">637251.16</cityprice>
+    </offer>
+    <offer sku="7317388">
+      <model>Шуруповерт Ставр ДШС-10/400-2C</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26182.53</price>
+        <cityprice cityId="615420100">26182.53</cityprice>
+    </offer>
+    <offer sku="7017534">
+      <model>Шуруповерт Milwaukee IPWE 520 RQ</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>765898.28</price>
+        <cityprice cityId="615420100">765898.28</cityprice>
+    </offer>
+    <offer sku="7285541">
+      <model>Шуруповерт Festool DWC 18-4500 574747</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>509225.51</price>
+        <cityprice cityId="615420100">509225.51</cityprice>
+    </offer>
+    <offer sku="12165662">
+      <model>Аккумуляторная дрель-шуруповёрт Bosch EasyImpact 1200 арт.06039D3102</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34579.71</price>
+        <cityprice cityId="615420100">34579.71</cityprice>
+    </offer>
+    <offer sku="7329305">
+      <model>Шуруповерт Ставр ДА-18/2М</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35453.12</price>
+        <cityprice cityId="615420100">35453.12</cityprice>
+    </offer>
+    <offer sku="7004999">
+      <model>Шуруповерт СТАВР ДА-10,8/2ЛМ</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23119.67</price>
+        <cityprice cityId="615420100">23119.67</cityprice>
+    </offer>
+    <offer sku="7455191">
+      <model>Шуруповерт DeWALT DCF899P2</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>298930.39</price>
+        <cityprice cityId="615420100">298930.39</cityprice>
+    </offer>
+    <offer sku="12710093">
+      <model>Аккумуляторная дрель-шуруповерт Eurolux ДА-20/2Li</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17226.13</price>
+        <cityprice cityId="615420100">17226.13</cityprice>
+    </offer>
+    <offer sku="7113288">
+      <model>Шуруповерт DeWALT DCD710C2 LAKA</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70338.13</price>
+        <cityprice cityId="615420100">70338.13</cityprice>
+    </offer>
+    <offer sku="7341767">
+      <model>Шуруповерт Makita 6916FDWAE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93618.85</price>
+        <cityprice cityId="615420100">93618.85</cityprice>
+    </offer>
+    <offer sku="12165647">
+      <model>Дрель-шуруповёрт аккумуляторный Bosch GSR 18V-90 C арт.06019K6006</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177823.84</price>
+        <cityprice cityId="615420100">177823.84</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
