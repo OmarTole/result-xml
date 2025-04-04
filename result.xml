@@ -37362,5 +37362,2921 @@
       <price>33138.19</price>
         <cityprice cityId="615420100">33138.19</cityprice>
     </offer>
+    <offer sku="10723027">
+      <model>Курвиметр колесо измерительное Stayer 34191</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9093.3</price>
+        <cityprice cityId="615420100">9093.3</cityprice>
+    </offer>
+    <offer sku="10773089">
+      <model>Курвиметр Bosch GWM 40</model>
+      <brand>BOSCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90041.26</price>
+        <cityprice cityId="615420100">90041.26</cityprice>
+    </offer>
+    <offer sku="12167284">
+      <model>Лазерный нивелир Condtrol QB Set 1-2-121</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17708.48</price>
+        <cityprice cityId="615420100">17708.48</cityprice>
+    </offer>
+    <offer sku="12174379">
+      <model>Нивелир лазерный Condtrol Fliesen 3D Laser 7-2-103</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80791.38</price>
+        <cityprice cityId="615420100">80791.38</cityprice>
+    </offer>
+    <offer sku="1914231">
+      <model>Лазерный уровень WORTEX LL 0210 K LL021032114 со штативом</model>
+      <brand>WORTEX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50916.54</price>
+        <cityprice cityId="615420100">50916.54</cityprice>
+    </offer>
+    <offer sku="12173938">
+      <model>Набор нивелир лазерный ротационный Stabila LAR 350L 19111 , штатив BST-S, рейка NL</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>847225.17</price>
+        <cityprice cityId="615420100">847225.17</cityprice>
+    </offer>
+    <offer sku="1912159">
+      <model>Лазерный уровень Matrix 35033 + штатив</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25070.12</price>
+        <cityprice cityId="615420100">25070.12</cityprice>
+    </offer>
+    <offer sku="1912863">
+      <model>Лазерный уровень Condtrol Neo X1-360 Set 1-2-138 + штатив</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37544.76</price>
+        <cityprice cityId="615420100">37544.76</cityprice>
+    </offer>
+    <offer sku="1913864">
+      <model>Лазерный уровень ЗУБР Крест-3D-2 34908-2 + штатив</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85751.24</price>
+        <cityprice cityId="615420100">85751.24</cityprice>
+    </offer>
+    <offer sku="1913348">
+      <model>Лазерный уровень ЗУБР Крест-360 34906-2 + штатив</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53440.4</price>
+        <cityprice cityId="615420100">53440.4</cityprice>
+    </offer>
+    <offer sku="12173926">
+      <model>Построитель лазерный Ресанта ПЛ-3ШК 61/10/525</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31900.6</price>
+        <cityprice cityId="615420100">31900.6</cityprice>
+    </offer>
+    <offer sku="1913350">
+      <model>Лазерный уровень Ресанта ПЛ-2ШК 61/10/517</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21182.44</price>
+        <cityprice cityId="615420100">21182.44</cityprice>
+    </offer>
+    <offer sku="1912900">
+      <model>Лазерный уровень Tesla L-360х1</model>
+      <brand>Tesla </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128657.77</price>
+        <cityprice cityId="615420100">128657.77</cityprice>
+    </offer>
+    <offer sku="1914312">
+      <model>Лазерный уровень Fubag Pyramid 30R V2х360H360</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87346.9</price>
+        <cityprice cityId="615420100">87346.9</cityprice>
+    </offer>
+    <offer sku="1912926">
+      <model>Лазерный уровень Fubag Pyramid 30G V2х360H360</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120725.18</price>
+        <cityprice cityId="615420100">120725.18</cityprice>
+    </offer>
+    <offer sku="1912387">
+      <model>Лазерный уровень Leica Lino L2P5 777069</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>230321.57</price>
+        <cityprice cityId="615420100">230321.57</cityprice>
+    </offer>
+    <offer sku="687725">
+      <model>Лазерный уровень Ermenrich LT20 81436</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26617.26</price>
+        <cityprice cityId="615420100">26617.26</cityprice>
+    </offer>
+    <offer sku="1912390">
+      <model>Лазерный уровень Bosch GCL 2-50 C Professional + RM 2 0601066G00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106093.93</price>
+        <cityprice cityId="615420100">106093.93</cityprice>
+    </offer>
+    <offer sku="1913861">
+      <model>Лазерный уровень Bosch GLL 5-50 X Professional 0601063N00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120326.02</price>
+        <cityprice cityId="615420100">120326.02</cityprice>
+    </offer>
+    <offer sku="1914324">
+      <model>Лазерный уровень Геокурс GL-2D</model>
+      <brand>Геокурс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>724636.79</price>
+        <cityprice cityId="615420100">724636.79</cityprice>
+    </offer>
+    <offer sku="1912049">
+      <model>Лазерный уровень STAYER SL360 34962</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29046.9</price>
+        <cityprice cityId="615420100">29046.9</cityprice>
+    </offer>
+    <offer sku="1912384">
+      <model>Лазерный уровень Kraftool CL-70-2 34660-2</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52247.72</price>
+        <cityprice cityId="615420100">52247.72</cityprice>
+    </offer>
+    <offer sku="1912909">
+      <model>Лазерный уровень ЗУБР Крест-360 34906</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39108.8</price>
+        <cityprice cityId="615420100">39108.8</cityprice>
+    </offer>
+    <offer sku="1913373">
+      <model>Лазерный уровень STANLEY 1-77-319</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>144462.63</price>
+        <cityprice cityId="615420100">144462.63</cityprice>
+    </offer>
+    <offer sku="1912043">
+      <model>Лазерный уровень DeWALT DW088K-XJ</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81712.77</price>
+        <cityprice cityId="615420100">81712.77</cityprice>
+    </offer>
+    <offer sku="1913852">
+      <model>Лазерный уровень Bosch Advanced Level 360 0603663B04</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95028.11</price>
+        <cityprice cityId="615420100">95028.11</cityprice>
+    </offer>
+    <offer sku="1912069">
+      <model>Лазерный уровень Fubag Crystal 10R VH</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25069.23</price>
+        <cityprice cityId="615420100">25069.23</cityprice>
+    </offer>
+    <offer sku="1913381">
+      <model>Лазерный уровень Bosch UniversalLevel 2 Set 0603663801</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31553.11</price>
+        <cityprice cityId="615420100">31553.11</cityprice>
+    </offer>
+    <offer sku="1913865">
+      <model>Лазерный уровень Kapro 862</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47442.74</price>
+        <cityprice cityId="615420100">47442.74</cityprice>
+    </offer>
+    <offer sku="1912862">
+      <model>Лазерный уровень STANLEY CL90I 1-77-021</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103382.16</price>
+        <cityprice cityId="615420100">103382.16</cityprice>
+    </offer>
+    <offer sku="10775358">
+      <model>Лазерный уровень Bosch Universal Level 360 Basic 0603663E00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61989.42</price>
+        <cityprice cityId="615420100">61989.42</cityprice>
+    </offer>
+    <offer sku="1912372">
+      <model>Лазерный уровень Kraftool CL20 34700-5</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26318.88</price>
+        <cityprice cityId="615420100">26318.88</cityprice>
+    </offer>
+    <offer sku="1912373">
+      <model>Лазерный уровень Kraftool CL20 34700-4</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34575.39</price>
+        <cityprice cityId="615420100">34575.39</cityprice>
+    </offer>
+    <offer sku="1912898">
+      <model>Лазерный уровень DeWALT DCE0811D1G</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290592.56</price>
+        <cityprice cityId="615420100">290592.56</cityprice>
+    </offer>
+    <offer sku="1913853">
+      <model>Лазерный уровень Bosch Quigo Green + Tripod 0603663C01</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37550.93</price>
+        <cityprice cityId="615420100">37550.93</cityprice>
+    </offer>
+    <offer sku="1914327">
+      <model>Лазерный уровень Milwaukee C12 BL2-0</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41145.1</price>
+        <cityprice cityId="615420100">41145.1</cityprice>
+    </offer>
+    <offer sku="1912374">
+      <model>Лазерный уровень Bosch GCL 2-15 Professional 0601066E02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110255.08</price>
+        <cityprice cityId="615420100">110255.08</cityprice>
+    </offer>
+    <offer sku="1912379">
+      <model>Лазерный уровень Bosch GLL 2-50 Professional + BM 1 + L-BOXX 136 0601063108</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156690.26</price>
+        <cityprice cityId="615420100">156690.26</cityprice>
+    </offer>
+    <offer sku="1913867">
+      <model>Лазерный уровень Bosch Quigo III 0603663522</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54199.06</price>
+        <cityprice cityId="615420100">54199.06</cityprice>
+    </offer>
+    <offer sku="1912041">
+      <model>Лазерный уровень Bosch Quigo 3</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35309.86</price>
+        <cityprice cityId="615420100">35309.86</cityprice>
+    </offer>
+    <offer sku="1912393">
+      <model>Лазерный уровень Kraftool LL360 34645-2</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59762.76</price>
+        <cityprice cityId="615420100">59762.76</cityprice>
+    </offer>
+    <offer sku="1912890">
+      <model>Лазерный уровень Matrix 35006</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2100.41</price>
+        <cityprice cityId="615420100">2100.41</cityprice>
+    </offer>
+    <offer sku="1912895">
+      <model>Лазерный уровень Matrix 35022</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4710.73</price>
+        <cityprice cityId="615420100">4710.73</cityprice>
+    </offer>
+    <offer sku="1912907">
+      <model>Лазерный уровень Matrix 35027</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16053.55</price>
+        <cityprice cityId="615420100">16053.55</cityprice>
+    </offer>
+    <offer sku="1913871">
+      <model>Лазерный уровень Denzel LX3 35070</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24569.09</price>
+        <cityprice cityId="615420100">24569.09</cityprice>
+    </offer>
+    <offer sku="1913880">
+      <model>Лазерный уровень Bosch GLL 2-50 Professional 0601063109</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207481.24</price>
+        <cityprice cityId="615420100">207481.24</cityprice>
+    </offer>
+    <offer sku="1912382">
+      <model>Лазерный уровень Bosch GLL 3-80 P + BM 1 0601063309</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>313618.3</price>
+        <cityprice cityId="615420100">313618.3</cityprice>
+    </offer>
+    <offer sku="357652">
+      <model>Лазерный уровень Ermenrich LT40</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35509.44</price>
+        <cityprice cityId="615420100">35509.44</cityprice>
+    </offer>
+    <offer sku="1912885">
+      <model>Лазерный уровень Bosch PLL 1 P 0603663320</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24502.9</price>
+        <cityprice cityId="615420100">24502.9</cityprice>
+    </offer>
+    <offer sku="1912896">
+      <model>Лазерный уровень Bosch GPL 5</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70460.81</price>
+        <cityprice cityId="615420100">70460.81</cityprice>
+    </offer>
+    <offer sku="1913849">
+      <model>Лазерный уровень Bosch GLL 2 Professional 0601063A01</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33780.4</price>
+        <cityprice cityId="615420100">33780.4</cityprice>
+    </offer>
+    <offer sku="1913881">
+      <model>Лазерный уровень Fubag Crystal 20G VH Set</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49276.61</price>
+        <cityprice cityId="615420100">49276.61</cityprice>
+    </offer>
+    <offer sku="10775287">
+      <model>Лазерный уровень Bosch GLL 2-15 G 0601063W00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65976.79</price>
+        <cityprice cityId="615420100">65976.79</cityprice>
+    </offer>
+    <offer sku="10770582">
+      <model>Лазерный уровень Bosch Advanced Level 360 Basic 0603663B03</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85092.23</price>
+        <cityprice cityId="615420100">85092.23</cityprice>
+    </offer>
+    <offer sku="1913848">
+      <model>Лазерный уровень DWT LLC03-30 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24674.91</price>
+        <cityprice cityId="615420100">24674.91</cityprice>
+    </offer>
+    <offer sku="1912399">
+      <model>Лазерный уровень Bosch GLL 3-50 Professional 0601063800</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180529.77</price>
+        <cityprice cityId="615420100">180529.77</cityprice>
+    </offer>
+    <offer sku="1912042">
+      <model>Лазерный уровень STANLEY 1-77-318</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113768.72</price>
+        <cityprice cityId="615420100">113768.72</cityprice>
+    </offer>
+    <offer sku="1913374">
+      <model>Лазерный уровень Condtrol QB</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24397.18</price>
+        <cityprice cityId="615420100">24397.18</cityprice>
+    </offer>
+    <offer sku="1913854">
+      <model>Лазерный уровень DWT LLC02-30 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20561.39</price>
+        <cityprice cityId="615420100">20561.39</cityprice>
+    </offer>
+    <offer sku="1913878">
+      <model>Лазерный уровень Kraftool CL-70 34660</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39078.17</price>
+        <cityprice cityId="615420100">39078.17</cityprice>
+    </offer>
+    <offer sku="1914128">
+      <model>Лазерный уровень Matrix 35040</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3538.34</price>
+        <cityprice cityId="615420100">3538.34</cityprice>
+    </offer>
+    <offer sku="1912865">
+      <model>Лазерный уровень Matrix 35007</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4527.24</price>
+        <cityprice cityId="615420100">4527.24</cityprice>
+    </offer>
+    <offer sku="1912989">
+      <model>Лазерный уровень ЗУБР Крест-2D Профессионал 34907</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47922.49</price>
+        <cityprice cityId="615420100">47922.49</cityprice>
+    </offer>
+    <offer sku="1913345">
+      <model>Лазерный уровень Ресанта ПЛ-2 61/10/522</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12951.95</price>
+        <cityprice cityId="615420100">12951.95</cityprice>
+    </offer>
+    <offer sku="1913471">
+      <model>Лазерный уровень Matrix 35023</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18149.93</price>
+        <cityprice cityId="615420100">18149.93</cityprice>
+    </offer>
+    <offer sku="1913859">
+      <model>Лазерный уровень STAYER 34960-H2</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15544.52</price>
+        <cityprice cityId="615420100">15544.52</cityprice>
+    </offer>
+    <offer sku="1913862">
+      <model>Лазерный уровень Denzel LX360 35075</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37192.77</price>
+        <cityprice cityId="615420100">37192.77</cityprice>
+    </offer>
+    <offer sku="1912044">
+      <model>Лазерный уровень Condtrol Neo X200</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25881.18</price>
+        <cityprice cityId="615420100">25881.18</cityprice>
+    </offer>
+    <offer sku="1913860">
+      <model>Лазерный уровень Bosch UniversalLevel 2 Basic 0603663800</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33702.94</price>
+        <cityprice cityId="615420100">33702.94</cityprice>
+    </offer>
+    <offer sku="1912051">
+      <model>Лазерный уровень ADA 6D Maxliner</model>
+      <brand>  ADA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195293.61</price>
+        <cityprice cityId="615420100">195293.61</cityprice>
+    </offer>
+    <offer sku="1912381">
+      <model>Лазерный уровень Metabo KLL 2-20 606166000</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>233418.84</price>
+        <cityprice cityId="615420100">233418.84</cityprice>
+    </offer>
+    <offer sku="1913377">
+      <model>Лазерный уровень Einhell TC-LL 2</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48776.42</price>
+        <cityprice cityId="615420100">48776.42</cityprice>
+    </offer>
+    <offer sku="1913380">
+      <model>Лазерный уровень DeWALT DW0822-XJ</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>141798.51</price>
+        <cityprice cityId="615420100">141798.51</cityprice>
+    </offer>
+    <offer sku="1913857">
+      <model>Лазерный уровень Bosch PLL 360 Set 0603663001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96820.65</price>
+        <cityprice cityId="615420100">96820.65</cityprice>
+    </offer>
+    <offer sku="1913875">
+      <model>Лазерный уровень Dexell NLC02</model>
+      <brand>Dexell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24699.51</price>
+        <cityprice cityId="615420100">24699.51</cityprice>
+    </offer>
+    <offer sku="1912903">
+      <model>Лазерный уровень Denzel LX1 35055</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13274.74</price>
+        <cityprice cityId="615420100">13274.74</cityprice>
+    </offer>
+    <offer sku="1914101">
+      <model>Лазерный уровень Einhell TE-LL 360</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88890.04</price>
+        <cityprice cityId="615420100">88890.04</cityprice>
+    </offer>
+    <offer sku="1912398">
+      <model>Лазерный уровень Fubag Crystal 10G VH</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32904.58</price>
+        <cityprice cityId="615420100">32904.58</cityprice>
+    </offer>
+    <offer sku="1913851">
+      <model>Лазерный уровень Fubag Prisma 20R VH360</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59149.74</price>
+        <cityprice cityId="615420100">59149.74</cityprice>
+    </offer>
+    <offer sku="1913379">
+      <model>Лазерный уровень Bosch GLL 3-50 + L-BOXX 136 0601063801</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183966.67</price>
+        <cityprice cityId="615420100">183966.67</cityprice>
+    </offer>
+    <offer sku="1912052">
+      <model>Лазерный уровень ЗУБР Крест-15 34902</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16974.18</price>
+        <cityprice cityId="615420100">16974.18</cityprice>
+    </offer>
+    <offer sku="1913359">
+      <model>Лазерный уровень Kraftool LL3D 34640-3</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94964.59</price>
+        <cityprice cityId="615420100">94964.59</cityprice>
+    </offer>
+    <offer sku="1913876">
+      <model>Лазерный уровень Kraftool LL360 34645-3</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65732.43</price>
+        <cityprice cityId="615420100">65732.43</cityprice>
+    </offer>
+    <offer sku="1912897">
+      <model>Лазерный уровень Bosch GLL 3-80 C Professional + AA 1 + BT 150 0601063R01</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198251.5</price>
+        <cityprice cityId="615420100">198251.5</cityprice>
+    </offer>
+    <offer sku="1913874">
+      <model>Лазерный уровень STANLEY 1-77-117</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79049.53</price>
+        <cityprice cityId="615420100">79049.53</cityprice>
+    </offer>
+    <offer sku="1912872">
+      <model>Лазерный уровень Matrix ML01T 35065</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11237.74</price>
+        <cityprice cityId="615420100">11237.74</cityprice>
+    </offer>
+    <offer sku="1914313">
+      <model>Лазерный уровень Bosch Quigo Plus 0603663600</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32781.08</price>
+        <cityprice cityId="615420100">32781.08</cityprice>
+    </offer>
+    <offer sku="12681281">
+      <model>Лазерный уровень Elitech ЛН5-ЗЕЛ</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38511.04</price>
+        <cityprice cityId="615420100">38511.04</cityprice>
+    </offer>
+    <offer sku="1913635">
+      <model>Лазерный уровень Fubag Crystal 10R VH Set</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39381.49</price>
+        <cityprice cityId="615420100">39381.49</cityprice>
+    </offer>
+    <offer sku="1913923">
+      <model>Лазерный уровень Tesla L-10S</model>
+      <brand>Tesla </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87756.92</price>
+        <cityprice cityId="615420100">87756.92</cityprice>
+    </offer>
+    <offer sku="1912391">
+      <model>Лазерный уровень Bosch GCL 2-50 C Professional 0601066G03</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181777.9</price>
+        <cityprice cityId="615420100">181777.9</cityprice>
+    </offer>
+    <offer sku="1913346">
+      <model>Лазерный уровень Fubag Crystal 20R VH</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45941.94</price>
+        <cityprice cityId="615420100">45941.94</cityprice>
+    </offer>
+    <offer sku="12174380">
+      <model>Лазерный уровень Bosch GLL 3-50 0601063802</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>201259.67</price>
+        <cityprice cityId="615420100">201259.67</cityprice>
+    </offer>
+    <offer sku="868957">
+      <model>Лазерный уровень Ermenrich LT10 81434</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25431.63</price>
+        <cityprice cityId="615420100">25431.63</cityprice>
+    </offer>
+    <offer sku="157708">
+      <model>Лазерный уровень Ermenrich LN20</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29581.32</price>
+        <cityprice cityId="615420100">29581.32</cityprice>
+    </offer>
+    <offer sku="1912371">
+      <model>Лазерный уровень ЗУБР Крест-2D 34907-2</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68879.1</price>
+        <cityprice cityId="615420100">68879.1</cityprice>
+    </offer>
+    <offer sku="1912911">
+      <model>Лазерный уровень Kraftool CL20 34700-3</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28349.26</price>
+        <cityprice cityId="615420100">28349.26</cityprice>
+    </offer>
+    <offer sku="1913372">
+      <model>Лазерный уровень ЗУБР Крест-15 34902-3</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16419.9</price>
+        <cityprice cityId="615420100">16419.9</cityprice>
+    </offer>
+    <offer sku="1913873">
+      <model>Лазерный уровень Kraftool CL20 34700-2</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23607.75</price>
+        <cityprice cityId="615420100">23607.75</cityprice>
+    </offer>
+    <offer sku="1913382">
+      <model>Лазерный уровень Condtrol Xliner Pento 360G 1-2-158</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121547.21</price>
+        <cityprice cityId="615420100">121547.21</cityprice>
+    </offer>
+    <offer sku="1912378">
+      <model>Лазерный уровень РЕСАНТА ЛУ-3П Brown</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58090.64</price>
+        <cityprice cityId="615420100">58090.64</cityprice>
+    </offer>
+    <offer sku="1912386">
+      <model>Лазерный уровень STANLEY PB3 1-77-118</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94200.79</price>
+        <cityprice cityId="615420100">94200.79</cityprice>
+    </offer>
+    <offer sku="1913850">
+      <model>Лазерный уровень DWT LLC05-30 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38048.65</price>
+        <cityprice cityId="615420100">38048.65</cityprice>
+    </offer>
+    <offer sku="1913046">
+      <model>Лазерный уровень Bosch GCL 2-50 + RM1 + BM3 0601066F02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86000.22</price>
+        <cityprice cityId="615420100">86000.22</cityprice>
+    </offer>
+    <offer sku="1913575">
+      <model>Лазерный уровень Bosch Quigo Green + MM2 0603663C00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31757.78</price>
+        <cityprice cityId="615420100">31757.78</cityprice>
+    </offer>
+    <offer sku="1913385">
+      <model>Лазерный уровень DeWALT DW088K</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87002.22</price>
+        <cityprice cityId="615420100">87002.22</cityprice>
+    </offer>
+    <offer sku="1912394">
+      <model>Лазерный уровень Condtrol Neo G1-360</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55950.58</price>
+        <cityprice cityId="615420100">55950.58</cityprice>
+    </offer>
+    <offer sku="1912540">
+      <model>Лазерный уровень Bosch GCL 2-50 C Professional + BM 3 + L-BOXX 136 + RM 2 0601066G03</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>298529.25</price>
+        <cityprice cityId="615420100">298529.25</cityprice>
+    </offer>
+    <offer sku="12174399">
+      <model>Уровень лазерный аккумуляторный Makita SK105GDZ</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121524.48</price>
+        <cityprice cityId="615420100">121524.48</cityprice>
+    </offer>
+    <offer sku="1912050">
+      <model>Лазерный уровень Condtrol XLiner Combo 360</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108423.72</price>
+        <cityprice cityId="615420100">108423.72</cityprice>
+    </offer>
+    <offer sku="1912375">
+      <model>Лазерный уровень Kraftool RL600 34600</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227242.62</price>
+        <cityprice cityId="615420100">227242.62</cityprice>
+    </offer>
+    <offer sku="1914326">
+      <model>Лазерный уровень Hilti PM 30-MG</model>
+      <brand>Hilti </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>464291.35</price>
+        <cityprice cityId="615420100">464291.35</cityprice>
+    </offer>
+    <offer sku="12174375">
+      <model>Лазерный уровень DeWalt DCE088D1G</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>868814.4</price>
+        <cityprice cityId="615420100">868814.4</cityprice>
+    </offer>
+    <offer sku="1913378">
+      <model>Лазерный уровень Bosch PLL 2 0603663420</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57128.3</price>
+        <cityprice cityId="615420100">57128.3</cityprice>
+    </offer>
+    <offer sku="1913872">
+      <model>Лазерный уровень Matrix 35029</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18584.47</price>
+        <cityprice cityId="615420100">18584.47</cityprice>
+    </offer>
+    <offer sku="1913869">
+      <model>Лазерный уровень Bosch PLL 360 0603663020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177497.79</price>
+        <cityprice cityId="615420100">177497.79</cityprice>
+    </offer>
+    <offer sku="1912666">
+      <model>Лазерный уровень Fubag Prisma 20R V2H360</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62562.41</price>
+        <cityprice cityId="615420100">62562.41</cityprice>
+    </offer>
+    <offer sku="1913788">
+      <model>Лазерный уровень Condtrol X360</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78547.59</price>
+        <cityprice cityId="615420100">78547.59</cityprice>
+    </offer>
+    <offer sku="1912376">
+      <model>Лазерный уровень ЗУБР Крест-15 34902-2</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25453.37</price>
+        <cityprice cityId="615420100">25453.37</cityprice>
+    </offer>
+    <offer sku="1913879">
+      <model>Лазерный уровень Kraftool LL3D 34640</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76415.39</price>
+        <cityprice cityId="615420100">76415.39</cityprice>
+    </offer>
+    <offer sku="1914314">
+      <model>Лазерный уровень Kraftool LL3D 34640-2</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98130.15</price>
+        <cityprice cityId="615420100">98130.15</cityprice>
+    </offer>
+    <offer sku="1912038">
+      <model>Лазерный уровень Condtrol XLiner 360G</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88333.93</price>
+        <cityprice cityId="615420100">88333.93</cityprice>
+    </offer>
+    <offer sku="1913122">
+      <model>Лазерный уровень Bosch GLL 3-80 Professional 0601063S00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185630.19</price>
+        <cityprice cityId="615420100">185630.19</cityprice>
+    </offer>
+    <offer sku="2139227">
+      <model>Лазерный уровень Bosch GRL 400 H Professional 0601061800</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>494003.08</price>
+        <cityprice cityId="615420100">494003.08</cityprice>
+    </offer>
+    <offer sku="1912861">
+      <model>Лазерный уровень Bosch UniversalLevel 3 Basic 0603663900</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51609.22</price>
+        <cityprice cityId="615420100">51609.22</cityprice>
+    </offer>
+    <offer sku="1913352">
+      <model>Лазерный уровень Condtrol Neo G200</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43555.87</price>
+        <cityprice cityId="615420100">43555.87</cityprice>
+    </offer>
+    <offer sku="1912892">
+      <model>Лазерный уровень Bosch Quigo III 0603663521</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30699.18</price>
+        <cityprice cityId="615420100">30699.18</cityprice>
+    </offer>
+    <offer sku="1913187">
+      <model>Лазерный уровень Bosch GCL 2-15 G + RM 1 0601066J00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100723.7</price>
+        <cityprice cityId="615420100">100723.7</cityprice>
+    </offer>
+    <offer sku="1914318">
+      <model>Лазерный уровень DeWALT DW082K</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84629.2</price>
+        <cityprice cityId="615420100">84629.2</cityprice>
+    </offer>
+    <offer sku="1913386">
+      <model>Лазерный уровень Bosch UniversalLevel 3 Set 0603663901</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57404.95</price>
+        <cityprice cityId="615420100">57404.95</cityprice>
+    </offer>
+    <offer sku="1912395">
+      <model>Лазерный уровень Bosch GLL 3-80 C + BM 1 (12 V) + L-Boxx 0601063R02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>255896.19</price>
+        <cityprice cityId="615420100">255896.19</cityprice>
+    </offer>
+    <offer sku="12681179">
+      <model>Лазерный уровень Huepar HP-9011G</model>
+      <brand>Huepar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65547.17</price>
+        <cityprice cityId="615420100">65547.17</cityprice>
+    </offer>
+    <offer sku="12681403">
+      <model>Лазерный уровень Elitech ЛН5/2В</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>457918.62</price>
+        <cityprice cityId="615420100">457918.62</cityprice>
+    </offer>
+    <offer sku="1912444">
+      <model>Лазерный уровень Bosch GLL 3-80C+ BM1 + LR7 + L-boxx 0601063R05</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>373273.96</price>
+        <cityprice cityId="615420100">373273.96</cityprice>
+    </offer>
+    <offer sku="1912864">
+      <model>Лазерный уровень Dexell NL360</model>
+      <brand>Dexell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93861.9</price>
+        <cityprice cityId="615420100">93861.9</cityprice>
+    </offer>
+    <offer sku="1912908">
+      <model>Лазерный уровень Bosch GCL 25 Professional + BM 1 0601066B03</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200292.4</price>
+        <cityprice cityId="615420100">200292.4</cityprice>
+    </offer>
+    <offer sku="1913349">
+      <model>Лазерный уровень Fubag Crystal 20R VH Set</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58193.39</price>
+        <cityprice cityId="615420100">58193.39</cityprice>
+    </offer>
+    <offer sku="1913870">
+      <model>Лазерный уровень Kapro 862 Green</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102748.15</price>
+        <cityprice cityId="615420100">102748.15</cityprice>
+    </offer>
+    <offer sku="1914316">
+      <model>Лазерный уровень STANLEY Cubix STHT1-77340</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>155894.74</price>
+        <cityprice cityId="615420100">155894.74</cityprice>
+    </offer>
+    <offer sku="1912396">
+      <model>Лазерный уровень Matrix 35020</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3439.3</price>
+        <cityprice cityId="615420100">3439.3</cityprice>
+    </offer>
+    <offer sku="1912858">
+      <model>Лазерный уровень Dexell NLC03</model>
+      <brand>Dexell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47393.2</price>
+        <cityprice cityId="615420100">47393.2</cityprice>
+    </offer>
+    <offer sku="499758">
+      <model>Лазерный уровень Ermenrich LT30</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31952.57</price>
+        <cityprice cityId="615420100">31952.57</cityprice>
+    </offer>
+    <offer sku="991874">
+      <model>Лазерный уровень Ermenrich LN40</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45587.24</price>
+        <cityprice cityId="615420100">45587.24</cityprice>
+    </offer>
+    <offer sku="1913376">
+      <model>Лазерный уровень Bosch PLT 2 0603664020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53344.19</price>
+        <cityprice cityId="615420100">53344.19</cityprice>
+    </offer>
+    <offer sku="1913648">
+      <model>Лазерный уровень ЗУБР Крест-3D 34908</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55526.72</price>
+        <cityprice cityId="615420100">55526.72</cityprice>
+    </offer>
+    <offer sku="1912377">
+      <model>Лазерный уровень Bosch GLL 3X Professional 0601063CJ0</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62588.1</price>
+        <cityprice cityId="615420100">62588.1</cityprice>
+    </offer>
+    <offer sku="1913847">
+      <model>Лазерный уровень Bosch GCL 2-15 + RM 1 0601066E00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54251.19</price>
+        <cityprice cityId="615420100">54251.19</cityprice>
+    </offer>
+    <offer sku="1912901">
+      <model>Лазерный уровень Matrix 35033</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20819.56</price>
+        <cityprice cityId="615420100">20819.56</cityprice>
+    </offer>
+    <offer sku="4376843">
+      <model>Лазерный уровень Сибртех 35024</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19956.03</price>
+        <cityprice cityId="615420100">19956.03</cityprice>
+    </offer>
+    <offer sku="1913863">
+      <model>Лазерный уровень Condtrol Neo X200 set 1-2-123</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34990.73</price>
+        <cityprice cityId="615420100">34990.73</cityprice>
+    </offer>
+    <offer sku="1912098">
+      <model>Лазерный уровень Kraftool LL360 34645</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58249.71</price>
+        <cityprice cityId="615420100">58249.71</cityprice>
+    </offer>
+    <offer sku="1912229">
+      <model>Лазерный уровень ЗУБР Крест 55 34904</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30141.53</price>
+        <cityprice cityId="615420100">30141.53</cityprice>
+    </offer>
+    <offer sku="1913858">
+      <model>Лазерный уровень Tesla L-30</model>
+      <brand>Tesla </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34713.02</price>
+        <cityprice cityId="615420100">34713.02</cityprice>
+    </offer>
+    <offer sku="1913866">
+      <model>Лазерный уровень Bosch GLL 2-20 + BM 3 0601063J00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121909.81</price>
+        <cityprice cityId="615420100">121909.81</cityprice>
+    </offer>
+    <offer sku="1916196">
+      <model>Лазерный уровень CROWN CT44024</model>
+      <brand>CROWN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41829.41</price>
+        <cityprice cityId="615420100">41829.41</cityprice>
+    </offer>
+    <offer sku="1913877">
+      <model>Лазерный уровень Bosch GCL 2-50 C Professional 0601066G04</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>325550.61</price>
+        <cityprice cityId="615420100">325550.61</cityprice>
+    </offer>
+    <offer sku="1912894">
+      <model>Лазерный уровень Kraftool LL360 34645-4</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>99578.58</price>
+        <cityprice cityId="615420100">99578.58</cityprice>
+    </offer>
+    <offer sku="1913031">
+      <model>Лазерный уровень Kraftool LL-3D 34640-4</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151780.62</price>
+        <cityprice cityId="615420100">151780.62</cityprice>
+    </offer>
+    <offer sku="1913884">
+      <model>Лазерный уровень Kraftool CL-70-4 34660-4</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86379.62</price>
+        <cityprice cityId="615420100">86379.62</cityprice>
+    </offer>
+    <offer sku="1913308">
+      <model>Лазерный уровень DeWALT DW0811-XJ</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174385.53</price>
+        <cityprice cityId="615420100">174385.53</cityprice>
+    </offer>
+    <offer sku="3157223">
+      <model>Лазерный уровень Stabila  LAX 50 G, с перекрещивающимися линиями</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96462.51</price>
+        <cityprice cityId="615420100">96462.51</cityprice>
+    </offer>
+    <offer sku="1912910">
+      <model>Лазерный уровень Bosch GTL 3 Professional 0601015200</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151484.21</price>
+        <cityprice cityId="615420100">151484.21</cityprice>
+    </offer>
+    <offer sku="1912400">
+      <model>Лазерный уровень STANLEY SP-2 Torpedo 0-77-152</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50081.75</price>
+        <cityprice cityId="615420100">50081.75</cityprice>
+    </offer>
+    <offer sku="1912045">
+      <model>Лазерный уровень DeWALT DW084K</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>250313.98</price>
+        <cityprice cityId="615420100">250313.98</cityprice>
+    </offer>
+    <offer sku="1912039">
+      <model>Лазерный уровень Condtrol NEO X2-360</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57987.88</price>
+        <cityprice cityId="615420100">57987.88</cityprice>
+    </offer>
+    <offer sku="1912383">
+      <model>Лазерный уровень Bosch GCL 2-15 + RM1 + Case 0601066E02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73757.45</price>
+        <cityprice cityId="615420100">73757.45</cityprice>
+    </offer>
+    <offer sku="1913384">
+      <model>Лазерный уровень РЕСАНТА ЛУ-3П</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30134.61</price>
+        <cityprice cityId="615420100">30134.61</cityprice>
+    </offer>
+    <offer sku="1913730">
+      <model>Лазерный уровень Matrix ML01T 35063</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27698.15</price>
+        <cityprice cityId="615420100">27698.15</cityprice>
+    </offer>
+    <offer sku="1913868">
+      <model>Лазерный уровень Bosch GLL 3-15 X Professional 0601063M00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79719.38</price>
+        <cityprice cityId="615420100">79719.38</cityprice>
+    </offer>
+    <offer sku="1913825">
+      <model>Лазерный уровень Bosch GLL 3-80 CG Professional + L-BOXX 136 + BM 1 0601063T00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>334866.65</price>
+        <cityprice cityId="615420100">334866.65</cityprice>
+    </offer>
+    <offer sku="1914325">
+      <model>Лазерный уровень Hilti PM 2-LG</model>
+      <brand>Hilti </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>285038.83</price>
+        <cityprice cityId="615420100">285038.83</cityprice>
+    </offer>
+    <offer sku="1914323">
+      <model>Лазерный уровень Геокурс GL-3D</model>
+      <brand>Геокурс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>945038.17</price>
+        <cityprice cityId="615420100">945038.17</cityprice>
+    </offer>
+    <offer sku="12174370">
+      <model>Уровень лазерный c зеленым лучом Fubag Crystal 20G VH 31627</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85282.92</price>
+        <cityprice cityId="615420100">85282.92</cityprice>
+    </offer>
+    <offer sku="1912034">
+      <model>Лазерный уровень Condtrol Octoliner Servo</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261825.3</price>
+        <cityprice cityId="615420100">261825.3</cityprice>
+    </offer>
+    <offer sku="1912036">
+      <model>Лазерный уровень Matrix ML03 35057</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22228.47</price>
+        <cityprice cityId="615420100">22228.47</cityprice>
+    </offer>
+    <offer sku="1912137">
+      <model>Лазерный уровень DeWALT DW089K-XJ</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242071.07</price>
+        <cityprice cityId="615420100">242071.07</cityprice>
+    </offer>
+    <offer sku="1912877">
+      <model>Лазерный уровень Makita SK204</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>590697.64</price>
+        <cityprice cityId="615420100">590697.64</cityprice>
+    </offer>
+    <offer sku="1912891">
+      <model>Лазерный уровень Bosch PCL 20 0603008220</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77481.52</price>
+        <cityprice cityId="615420100">77481.52</cityprice>
+    </offer>
+    <offer sku="1913375">
+      <model>Лазерный уровень Bosch GCL 2-50 C Professional 0601066G02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217780.36</price>
+        <cityprice cityId="615420100">217780.36</cityprice>
+    </offer>
+    <offer sku="1913882">
+      <model>Лазерный уровень Bosch GCL 2-50 CG + RM 2 + L-BOXX 136 0601066H00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>255528.65</price>
+        <cityprice cityId="615420100">255528.65</cityprice>
+    </offer>
+    <offer sku="1912397">
+      <model>Лазерный уровень Leica Lino L2 757225</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98250.68</price>
+        <cityprice cityId="615420100">98250.68</cityprice>
+    </offer>
+    <offer sku="1912388">
+      <model>Лазерный уровень P.I.T. 5012 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30296.03</price>
+        <cityprice cityId="615420100">30296.03</cityprice>
+    </offer>
+    <offer sku="1912902">
+      <model>Лазерный уровень Kraftool CL20 34700</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19717.92</price>
+        <cityprice cityId="615420100">19717.92</cityprice>
+    </offer>
+    <offer sku="1913344">
+      <model>Лазерный уровень CROWN CT44022</model>
+      <brand>CROWN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30134.61</price>
+        <cityprice cityId="615420100">30134.61</cityprice>
+    </offer>
+    <offer sku="1912370">
+      <model>Лазерный уровень RYOBI RPW-1600</model>
+      <brand>  RYOBI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31271.82</price>
+        <cityprice cityId="615420100">31271.82</cityprice>
+    </offer>
+    <offer sku="1912380">
+      <model>Лазерный уровень Condtrol UniX 360 Green Pro</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>158127.66</price>
+        <cityprice cityId="615420100">158127.66</cityprice>
+    </offer>
+    <offer sku="1913347">
+      <model>Лазерный уровень Condtrol XLiner Pento 360 1-2-303</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108934.15</price>
+        <cityprice cityId="615420100">108934.15</cityprice>
+    </offer>
+    <offer sku="10769143">
+      <model>Лазерный уровень Bosch Universal Level 360 Set TT150</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85349.04</price>
+        <cityprice cityId="615420100">85349.04</cityprice>
+    </offer>
+    <offer sku="10770576">
+      <model>Лазерный уровень Bosch GCL 2-50 G 0601066M01</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103821.49</price>
+        <cityprice cityId="615420100">103821.49</cityprice>
+    </offer>
+    <offer sku="12353435">
+      <model>Лазерный уровень Зубр Крест 34900</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22795.6</price>
+        <cityprice cityId="615420100">22795.6</cityprice>
+    </offer>
+    <offer sku="1912046">
+      <model>Лазерный уровень Condtrol Xliner Duo 360</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59062.85</price>
+        <cityprice cityId="615420100">59062.85</cityprice>
+    </offer>
+    <offer sku="1912392">
+      <model>Лазерный уровень Condtrol Neo G220 Set 1-2-137</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51894.76</price>
+        <cityprice cityId="615420100">51894.76</cityprice>
+    </offer>
+    <offer sku="1913343">
+      <model>Лазерный уровень Condtrol Neo X1-360</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50907.73</price>
+        <cityprice cityId="615420100">50907.73</cityprice>
+    </offer>
+    <offer sku="1913383">
+      <model>Лазерный уровень Bosch GLL 2-10 Professional 0601063L00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45272.48</price>
+        <cityprice cityId="615420100">45272.48</cityprice>
+    </offer>
+    <offer sku="12173940">
+      <model>Лазерный ротационный нивелир Bosch GRL 600 CHV Professional + LR 60 0601061F00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129498.54</price>
+        <cityprice cityId="615420100">129498.54</cityprice>
+    </offer>
+    <offer sku="12174234">
+      <model>Нивелир лазерный ротационный Condtrol Easy Roto HVR 7-2-113</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>263318.2</price>
+        <cityprice cityId="615420100">263318.2</cityprice>
+    </offer>
+    <offer sku="12174382">
+      <model>Нивелир лазерный ротационный Condtrol HR с детектором X-ActRoto 7-2-091</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>339929.27</price>
+        <cityprice cityId="615420100">339929.27</cityprice>
+    </offer>
+    <offer sku="12173939">
+      <model>Комплект ротационный лазерный нивелир Leica Rugby 640G, Leica Rod Eye 120G 6011487</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1075952.79</price>
+        <cityprice cityId="615420100">1075952.79</cityprice>
+    </offer>
+    <offer sku="12174395">
+      <model>Нивелир лазерный ротационный Condtrol Digi Roto HVR 7-2-096</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>626763.72</price>
+        <cityprice cityId="615420100">626763.72</cityprice>
+    </offer>
+    <offer sku="3155212">
+      <model>Нивелир лазерный ротационный Stabila LAR 100 Universal-Set</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>853461.56</price>
+        <cityprice cityId="615420100">853461.56</cityprice>
+    </offer>
+    <offer sku="12174383">
+      <model>Нивелир лазерный ротационный Condtrol HG с детектором X-ActRoto 7-2-087</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>425523.42</price>
+        <cityprice cityId="615420100">425523.42</cityprice>
+    </offer>
+    <offer sku="12173936">
+      <model>Ротационный лазерный нивелир Condtrol Roto HVR 7-1-028</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>444607.23</price>
+        <cityprice cityId="615420100">444607.23</cityprice>
+    </offer>
+    <offer sku="12173937">
+      <model>Ротационный лазерный нивелир Leica Rugby 620 6011151</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>753163.69</price>
+        <cityprice cityId="615420100">753163.69</cityprice>
+    </offer>
+    <offer sku="12174384">
+      <model>Нивелир лазерный ротационный Condtrol Roto HVG 1-7-029</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>651105.18</price>
+        <cityprice cityId="615420100">651105.18</cityprice>
+    </offer>
+    <offer sku="3170612">
+      <model>Мультилинейный лазерный прибор Stabila LAX 400</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>218498.85</price>
+        <cityprice cityId="615420100">218498.85</cityprice>
+    </offer>
+    <offer sku="12174403">
+      <model>Построитель плоскостей лазерный Stayer Master Lasermax 34960</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18835</price>
+        <cityprice cityId="615420100">18835</cityprice>
+    </offer>
+    <offer sku="3154426">
+      <model>Нивелир лазерный линейный Stabila FLS 90</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57921.78</price>
+        <cityprice cityId="615420100">57921.78</cityprice>
+    </offer>
+    <offer sku="12167392">
+      <model>Лазерный нивелир Condtrol QB Green 1-2-304</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48396.21</price>
+        <cityprice cityId="615420100">48396.21</cityprice>
+    </offer>
+    <offer sku="12167283">
+      <model>Лазерный нивелир Condtrol GFX300 1-2-220</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84969.72</price>
+        <cityprice cityId="615420100">84969.72</cityprice>
+    </offer>
+    <offer sku="12174376">
+      <model>Лазерный нивелир Infiniter X360 1-2-299</model>
+      <brand>Infiniter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42796.25</price>
+        <cityprice cityId="615420100">42796.25</cityprice>
+    </offer>
+    <offer sku="12174391">
+      <model>Лазерный нивелир Condtrol Omniliner G3D 1-2-153</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169160.88</price>
+        <cityprice cityId="615420100">169160.88</cityprice>
+    </offer>
+    <offer sku="12174227">
+      <model>Лазерный линейный нивелир Bosch Atino 0603663A00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28526.42</price>
+        <cityprice cityId="615420100">28526.42</cityprice>
+    </offer>
+    <offer sku="12174398">
+      <model>Лазерный нивелир Condtrol GFX360-3 1-2-222</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114537.21</price>
+        <cityprice cityId="615420100">114537.21</cityprice>
+    </offer>
+    <offer sku="3155660">
+      <model>Нивелир лазерный линейный Stabila LAX 100</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>229027.43</price>
+        <cityprice cityId="615420100">229027.43</cityprice>
+    </offer>
+    <offer sku="12167393">
+      <model>Нивелир лазерный Bosch GLL 2-15 G 0601063W01</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92625.99</price>
+        <cityprice cityId="615420100">92625.99</cityprice>
+    </offer>
+    <offer sku="12174373">
+      <model>Лазерный нивелир Bosch GCL 2-50G + RM10 + клипса + кейс 0601066M02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19.76</price>
+        <cityprice cityId="615420100">19.76</cityprice>
+    </offer>
+    <offer sku="12174243">
+      <model>Лазерный нивелир Bosch Professional GCL 2-50 G + RM10 0601066M00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92287.23</price>
+        <cityprice cityId="615420100">92287.23</cityprice>
+    </offer>
+    <offer sku="3170457">
+      <model>Нивелир лазерный линейный Stabila LAX 200 Complete-Set</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198385.52</price>
+        <cityprice cityId="615420100">198385.52</cityprice>
+    </offer>
+    <offer sku="12174349">
+      <model>Лазерный нивелир Condtrol GFX360 1-2-221</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50921.84</price>
+        <cityprice cityId="615420100">50921.84</cityprice>
+    </offer>
+    <offer sku="12174419">
+      <model>Лазерный нивелир Bosch GLL 2-15G Professional + LB10 + клипса + кейс 0601063W02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>352373.38</price>
+        <cityprice cityId="615420100">352373.38</cityprice>
+    </offer>
+    <offer sku="12174357">
+      <model>Нивелир лазерный Condtrol GFX 360-3 Kit 1-2-404</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>598876.47</price>
+        <cityprice cityId="615420100">598876.47</cityprice>
+    </offer>
+    <offer sku="3157636">
+      <model>Нивелир лазерный линейный Stabila LAX 200 Set</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>277631.64</price>
+        <cityprice cityId="615420100">277631.64</cityprice>
+    </offer>
+    <offer sku="12174412">
+      <model>Лазерный нивелир Bosch Professional GPL 3 G 0601066N00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132196.09</price>
+        <cityprice cityId="615420100">132196.09</cityprice>
+    </offer>
+    <offer sku="12174372">
+      <model>Нивелир лазерный Condtrol EFX360-2 1-2-241</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95006.03</price>
+        <cityprice cityId="615420100">95006.03</cityprice>
+    </offer>
+    <offer sku="12174400">
+      <model>Нивелир лазерный Stabila LAX 600 19793</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>402285.19</price>
+        <cityprice cityId="615420100">402285.19</cityprice>
+    </offer>
+    <offer sku="12174408">
+      <model>Лазерный линейный нивелир Bosch Atino Set 0603663A01</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>314088.59</price>
+        <cityprice cityId="615420100">314088.59</cityprice>
+    </offer>
+    <offer sku="12174341">
+      <model>Лазерный нивелир Bosch Professional GLL 2-20 G + BT 150 0601065001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92406.33</price>
+        <cityprice cityId="615420100">92406.33</cityprice>
+    </offer>
+    <offer sku="12174368">
+      <model>Лазерный линейный нивелир Bosch Professional GLL 3-80 G + кейс 0601063Y00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>211170.5</price>
+        <cityprice cityId="615420100">211170.5</cityprice>
+    </offer>
+    <offer sku="12174224">
+      <model>Нивелир лазерный Condtrol EFX360-3 82732136</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165987.36</price>
+        <cityprice cityId="615420100">165987.36</cityprice>
+    </offer>
+    <offer sku="12174374">
+      <model>Нивелир лазерный Stabila LAX 300 Set 18327</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197570.48</price>
+        <cityprice cityId="615420100">197570.48</cityprice>
+    </offer>
+    <offer sku="12174237">
+      <model>Лазерный нивелир Bosch Professional GLL 3-80 C 0601063R00</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124490.52</price>
+        <cityprice cityId="615420100">124490.52</cityprice>
+    </offer>
+    <offer sku="7491513">
+      <model>Нивелир Tен TM1212</model>
+      <brand>Тен</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64537.47</price>
+        <cityprice cityId="615420100">64537.47</cityprice>
+    </offer>
+    <offer sku="12174229">
+      <model>Нивелир лазерный Infiniter CL10G 1-003-001</model>
+      <brand>Infiniter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>252535.94</price>
+        <cityprice cityId="615420100">252535.94</cityprice>
+    </offer>
+    <offer sku="12174337">
+      <model>Лазерный нивелир Bosch UnivLevel 360 0603663E01</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81259.34</price>
+        <cityprice cityId="615420100">81259.34</cityprice>
+    </offer>
+    <offer sku="12174347">
+      <model>Лазерный нивелир Condtrol Omniliner 3D 1-2-129</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>343732.16</price>
+        <cityprice cityId="615420100">343732.16</cityprice>
+    </offer>
+    <offer sku="12174401">
+      <model>Нивелир лазерный Stabila LAX 600G 19797</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>553906.74</price>
+        <cityprice cityId="615420100">553906.74</cityprice>
+    </offer>
+    <offer sku="12167285">
+      <model>Лазерный нивелир Bosch Quigo Green Set 0603663C03</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41300.11</price>
+        <cityprice cityId="615420100">41300.11</cityprice>
+    </offer>
+    <offer sku="12167290">
+      <model>Лазерный линейный нивелир Bosch Quigo Green + зажим MM2 0603663C02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40622.44</price>
+        <cityprice cityId="615420100">40622.44</cityprice>
+    </offer>
+    <offer sku="7491084">
+      <model>Нивелир Tен TM1205</model>
+      <brand>Тен</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57105.58</price>
+        <cityprice cityId="615420100">57105.58</cityprice>
+    </offer>
+    <offer sku="12174377">
+      <model>Нивелир лазерный Infiniter X360 G 1-004-002</model>
+      <brand>Infiniter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>457901.82</price>
+        <cityprice cityId="615420100">457901.82</cityprice>
+    </offer>
+    <offer sku="12174378">
+      <model>Лазерный нивелир Infiniter CL360-3 1-2-125</model>
+      <brand>Infiniter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118761.98</price>
+        <cityprice cityId="615420100">118761.98</cityprice>
+    </offer>
+    <offer sku="12174418">
+      <model>Лазерный нивелир Condtrol GFX360-2 1-2-229</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>153052.2</price>
+        <cityprice cityId="615420100">153052.2</cityprice>
+    </offer>
+    <offer sku="12174225">
+      <model>Нивелир лазерный Condtrol EFX360 82732135</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>536810.04</price>
+        <cityprice cityId="615420100">536810.04</cityprice>
+    </offer>
+    <offer sku="12174230">
+      <model>Нивелир лазерный Infiniter CLG 4D 1-2-295</model>
+      <brand>Infiniter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100000.47</price>
+        <cityprice cityId="615420100">100000.47</cityprice>
+    </offer>
+    <offer sku="12174365">
+      <model>Нивелир лазерный Infiniter CLG 3D 1-2-296</model>
+      <brand>Infiniter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101644.53</price>
+        <cityprice cityId="615420100">101644.53</cityprice>
+    </offer>
+    <offer sku="3170544">
+      <model>Нивелир лазерный линейный Stabila LAX 50</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69457.81</price>
+        <cityprice cityId="615420100">69457.81</cityprice>
+    </offer>
+    <offer sku="12167282">
+      <model>Лазерный нивелир Condtrol QB Promo 1-2-142</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48808.19</price>
+        <cityprice cityId="615420100">48808.19</cityprice>
+    </offer>
+    <offer sku="12174366">
+      <model>Лазерный нивелир Condtrol GFX 360 Kit 1-2-402</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168902.02</price>
+        <cityprice cityId="615420100">168902.02</cityprice>
+    </offer>
+    <offer sku="12339986">
+      <model>Люксметр Uni-T UT381</model>
+      <brand>Uni-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65113.48</price>
+        <cityprice cityId="615420100">65113.48</cityprice>
+    </offer>
+    <offer sku="12731500">
+      <model>Манометр Росма ТМ-610Р.05 с элек­тро­кон­такт­ной при­став­кой,  М20×1,5</model>
+      <brand>Росма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38325.3</price>
+        <cityprice cityId="615420100">38325.3</cityprice>
+    </offer>
+    <offer sku="11643885">
+      <model>Манометр ПО Физтех МП2-Уф d.50</model>
+      <brand>ПО Физтех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7390.39</price>
+        <cityprice cityId="615420100">7390.39</cityprice>
+    </offer>
+    <offer sku="11643706">
+      <model>Манометр ПО Физтех МП2-Уф исп 1</model>
+      <brand>ПО Физтех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8097.81</price>
+        <cityprice cityId="615420100">8097.81</cityprice>
+    </offer>
+    <offer sku="12681129">
+      <model>Манометр ТОО &quot;НПО Манометр&quot; NMP-3-U, 6 МПа</model>
+      <brand>ТОО &quot;НПО Манометр&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12236.63</price>
+        <cityprice cityId="615420100">12236.63</cityprice>
+    </offer>
+    <offer sku="12216419">
+      <model>Манометр ТОО &quot;НПО Манометр&quot; MP-5-U 1,6 МПа</model>
+      <brand>ТОО &quot;НПО Манометр&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8860.56</price>
+        <cityprice cityId="615420100">8860.56</cityprice>
+    </offer>
+    <offer sku="12731494">
+      <model>Манометр радиальный Росма ТМ-510Т 0-10 МПа</model>
+      <brand>Росма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28642.7</price>
+        <cityprice cityId="615420100">28642.7</cityprice>
+    </offer>
+    <offer sku="265995">
+      <model>Манометр Росма показывающий технический ТМ-510Р.00 0-1,0MPa M20x1,5.1,5, НТ00183124</model>
+      <brand>Росма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8103.74</price>
+        <cityprice cityId="615420100">8103.74</cityprice>
+    </offer>
+    <offer sku="265998">
+      <model>Манометр Росма показывающий технический ТМ-510Р.00 0-1,6MPa M20x1,5.1,5, НТ00183131</model>
+      <brand>Росма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9362.48</price>
+        <cityprice cityId="615420100">9362.48</cityprice>
+    </offer>
+    <offer sku="240000">
+      <model>Манометр НП ООО &quot;МЦ-Багория&quot; МТ-100</model>
+      <brand>НП ООО &quot;МЦ-Багория&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3952.08</price>
+        <cityprice cityId="615420100">3952.08</cityprice>
+    </offer>
+    <offer sku="239998">
+      <model>Манометр НП ООО &quot;МЦ-Багория&quot; МТ-50</model>
+      <brand>НП ООО &quot;МЦ-Багория&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7321.23</price>
+        <cityprice cityId="615420100">7321.23</cityprice>
+    </offer>
+    <offer sku="239999">
+      <model>Манометр НП ООО &quot;МЦ-Багория&quot; МТ-63</model>
+      <brand>НП ООО &quot;МЦ-Багория&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3348.4</price>
+        <cityprice cityId="615420100">3348.4</cityprice>
+    </offer>
+    <offer sku="589498">
+      <model>Цифровой мультиметр Tdm Electric &quot;МастерЭлектрик&quot; М-838 SQ1005-0003</model>
+      <brand>Tdm Electric</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4149.68</price>
+        <cityprice cityId="615420100">4149.68</cityprice>
+    </offer>
+    <offer sku="329132">
+      <model>Мультиметр цифровой Ermenrich Zing TC14</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18890.94</price>
+        <cityprice cityId="615420100">18890.94</cityprice>
+    </offer>
+    <offer sku="836816">
+      <model>Цифровой мультиметр Ermenrich Zing TC19</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20689.14</price>
+        <cityprice cityId="615420100">20689.14</cityprice>
+    </offer>
+    <offer sku="9777827">
+      <model>Мультиметр цифровой UNI-T UT33B</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6436.95</price>
+        <cityprice cityId="615420100">6436.95</cityprice>
+    </offer>
+    <offer sku="12174199">
+      <model>Мультиметр цифровой Зубр Мастер MX-804 59804</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4983.32</price>
+        <cityprice cityId="615420100">4983.32</cityprice>
+    </offer>
+    <offer sku="539262">
+      <model>Мультиметр цифровой Ermenrich Zing TC13</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18100.53</price>
+        <cityprice cityId="615420100">18100.53</cityprice>
+    </offer>
+    <offer sku="566990">
+      <model>Мультиметр цифровой Ermenrich Zing TC17</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22843.02</price>
+        <cityprice cityId="615420100">22843.02</cityprice>
+    </offer>
+    <offer sku="11337234">
+      <model>Кабельный тестер цифровой Noyafa NF-8209</model>
+      <brand>Noyafa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20738.71</price>
+        <cityprice cityId="615420100">20738.71</cityprice>
+    </offer>
+    <offer sku="12174201">
+      <model>Мультиметр цифровой UNI-T UT890D+</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9318.02</price>
+        <cityprice cityId="615420100">9318.02</cityprice>
+    </offer>
+    <offer sku="121152">
+      <model>Мультиметр цифровой Ermenrich Zing TC27</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26617.26</price>
+        <cityprice cityId="615420100">26617.26</cityprice>
+    </offer>
+    <offer sku="143425">
+      <model>Мультиметр цифровой Ermenrich Zing TC32</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33731</price>
+        <cityprice cityId="615420100">33731</cityprice>
+    </offer>
+    <offer sku="767251">
+      <model>Мультиметр цифровой Ermenrich Zing TC24</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24838.82</price>
+        <cityprice cityId="615420100">24838.82</cityprice>
+    </offer>
+    <offer sku="374084">
+      <model>Мультиметр цифровой IEK Master MAS838L</model>
+      <brand>IEK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8892.18</price>
+        <cityprice cityId="615420100">8892.18</cityprice>
+    </offer>
+    <offer sku="9782058">
+      <model>Мультиметр цифровой UNI-T UT33C+</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5732.49</price>
+        <cityprice cityId="615420100">5732.49</cityprice>
+    </offer>
+    <offer sku="10760309">
+      <model>Мультиметр цифровой Stayer Master MaxDigital 45306</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3060.89</price>
+        <cityprice cityId="615420100">3060.89</cityprice>
+    </offer>
+    <offer sku="909664">
+      <model>Мультиметр цифровой Ermenrich Zing TC35</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36102.25</price>
+        <cityprice cityId="615420100">36102.25</cityprice>
+    </offer>
+    <offer sku="268546">
+      <model>Мультиметр цифровой Ermenrich Zing TC07</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9405.95</price>
+        <cityprice cityId="615420100">9405.95</cityprice>
+    </offer>
+    <offer sku="998297">
+      <model>Мультиметр цифровой Ermenrich Zing TC12</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17310.11</price>
+        <cityprice cityId="615420100">17310.11</cityprice>
+    </offer>
+    <offer sku="523921">
+      <model>Мультиметр цифровой Ermenrich Zing TC21</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21874.76</price>
+        <cityprice cityId="615420100">21874.76</cityprice>
+    </offer>
+    <offer sku="650872">
+      <model>Мультиметр цифровой с зажимом Tolsen 38034</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44306.51</price>
+        <cityprice cityId="615420100">44306.51</cityprice>
+    </offer>
+    <offer sku="438579">
+      <model>Мультиметр цифровой IEK Universal M830B</model>
+      <brand>IEK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2371.25</price>
+        <cityprice cityId="615420100">2371.25</cityprice>
+    </offer>
+    <offer sku="992548">
+      <model>Мультиметр цифровой IEK Professional MY62</model>
+      <brand>IEK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14996.73</price>
+        <cityprice cityId="615420100">14996.73</cityprice>
+    </offer>
+    <offer sku="512736">
+      <model>Мультиметр цифровой Ermenrich Zing TC26</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26617.26</price>
+        <cityprice cityId="615420100">26617.26</cityprice>
+    </offer>
+    <offer sku="10760123">
+      <model>Мультиметр Зубр Профессионал ТХ-810-Т 59810</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12493.51</price>
+        <cityprice cityId="615420100">12493.51</cityprice>
+    </offer>
+    <offer sku="10760262">
+      <model>Токоизмерительные клещи Зубр Профессионал PRO-824 59824</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23832.03</price>
+        <cityprice cityId="615420100">23832.03</cityprice>
+    </offer>
+    <offer sku="10760295">
+      <model>Токоизмерительные клещи Stayer Expert HighDigital 59820</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6786.45</price>
+        <cityprice cityId="615420100">6786.45</cityprice>
+    </offer>
+    <offer sku="268829">
+      <model>Клещи токоизмерительные Sirius ST183</model>
+      <brand>Sirius</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11894.08</price>
+        <cityprice cityId="615420100">11894.08</cityprice>
+    </offer>
+    <offer sku="108359">
+      <model>Клещи токоизмерительные Sirius ST170</model>
+      <brand>Sirius</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="820055">
+      <model>Кабельный тестер Ermenrich Ping SM110 82553</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74635.03</price>
+        <cityprice cityId="615420100">74635.03</cityprice>
+    </offer>
+    <offer sku="521016">
+      <model>Кабельный тестер Ermenrich NetGeeks NP30</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44401.62</price>
+        <cityprice cityId="615420100">44401.62</cityprice>
+    </offer>
+    <offer sku="809411">
+      <model>Кабельный тестер Ermenrich NetGeeks NP35</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46180.05</price>
+        <cityprice cityId="615420100">46180.05</cityprice>
+    </offer>
+    <offer sku="12098846">
+      <model>Кабельный тестер Bside FWT-11</model>
+      <brand>Bside</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12127.95</price>
+        <cityprice cityId="615420100">12127.95</cityprice>
+    </offer>
+    <offer sku="12174183">
+      <model>Мультиметр Ресанта M 830B (DT 830B)</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4449.61</price>
+        <cityprice cityId="615420100">4449.61</cityprice>
+    </offer>
+    <offer sku="12174184">
+      <model>Мультиметр Ресанта DT266C</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4319.05</price>
+        <cityprice cityId="615420100">4319.05</cityprice>
+    </offer>
+    <offer sku="12174185">
+      <model>Мультиметр Ресанта DT266F</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6650.36</price>
+        <cityprice cityId="615420100">6650.36</cityprice>
+    </offer>
+    <offer sku="12174196">
+      <model>Мультиметр Ресанта DT181</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4791.9</price>
+        <cityprice cityId="615420100">4791.9</cityprice>
+    </offer>
+    <offer sku="12174325">
+      <model>Мультиметр Ресанта DT838 61/10/513</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9420.58</price>
+        <cityprice cityId="615420100">9420.58</cityprice>
+    </offer>
+    <offer sku="12174182">
+      <model>Мультиметр Ресанта DT9208A</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7246.06</price>
+        <cityprice cityId="615420100">7246.06</cityprice>
+    </offer>
+    <offer sku="12174195">
+      <model>Мультиметр Ресанта DT890B+</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5037.91</price>
+        <cityprice cityId="615420100">5037.91</cityprice>
+    </offer>
+    <offer sku="12174324">
+      <model>Мультиметр Ресанта DT832 61/10/512</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10927.31</price>
+        <cityprice cityId="615420100">10927.31</cityprice>
+    </offer>
+    <offer sku="12174186">
+      <model>Мультиметр Ресанта DT 266</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5319.11</price>
+        <cityprice cityId="615420100">5319.11</cityprice>
+    </offer>
+    <offer sku="12174187">
+      <model>Мультиметр Ресанта DT9205A</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14860.81</price>
+        <cityprice cityId="615420100">14860.81</cityprice>
+    </offer>
+    <offer sku="10760257">
+      <model>Мультиметр Зубр Профессионал PRO-815-T 59815-T</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22301.01</price>
+        <cityprice cityId="615420100">22301.01</cityprice>
+    </offer>
+    <offer sku="155958">
+      <model>Оптический мультиметр Ermenrich NetGeeks NU40 82559</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59221.92</price>
+        <cityprice cityId="615420100">59221.92</cityprice>
+    </offer>
+    <offer sku="138973">
+      <model>Оптический мультиметр Ermenrich NetGeeks NU10 82556</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22467.57</price>
+        <cityprice cityId="615420100">22467.57</cityprice>
+    </offer>
+    <offer sku="361611">
+      <model>Оптический мультиметр Ermenrich NetGeeks NU20 82558</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23653.2</price>
+        <cityprice cityId="615420100">23653.2</cityprice>
+    </offer>
+    <offer sku="12174191">
+      <model>Мультиметр UNI-T UT60EU</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32026.67</price>
+        <cityprice cityId="615420100">32026.67</cityprice>
+    </offer>
+    <offer sku="10778554">
+      <model>Мультиметр KBT MS8248S</model>
+      <brand>KBT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56777.56</price>
+        <cityprice cityId="615420100">56777.56</cityprice>
+    </offer>
+    <offer sku="12174192">
+      <model>Мультиметр UNI-T UT195M</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73507.7</price>
+        <cityprice cityId="615420100">73507.7</cityprice>
+    </offer>
+    <offer sku="3173219">
+      <model>Мультиметр Digital DT 9205A</model>
+      <brand>Digital</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3713.89</price>
+        <cityprice cityId="615420100">3713.89</cityprice>
+    </offer>
+    <offer sku="12174194">
+      <model>Мультиметр UNI-T UT139C</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15247.12</price>
+        <cityprice cityId="615420100">15247.12</cityprice>
+    </offer>
+    <offer sku="10772673">
+      <model>Мультиметр UNI-T UT132C</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12211.93</price>
+        <cityprice cityId="615420100">12211.93</cityprice>
+    </offer>
+    <offer sku="12174188">
+      <model>Мультиметр UNI-T UT120A</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14768.92</price>
+        <cityprice cityId="615420100">14768.92</cityprice>
+    </offer>
+    <offer sku="12174198">
+      <model>Мультиметр YX-360 TRn</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18749.66</price>
+        <cityprice cityId="615420100">18749.66</cityprice>
+    </offer>
+    <offer sku="12174189">
+      <model>Мультиметр UNI-T UT125C</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11575.64</price>
+        <cityprice cityId="615420100">11575.64</cityprice>
+    </offer>
+    <offer sku="12174193">
+      <model>Мультиметр UNI-T UT131D</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6842.08</price>
+        <cityprice cityId="615420100">6842.08</cityprice>
+    </offer>
+    <offer sku="12195754">
+      <model>Комплект оптический нивелир Leica NA532 со штативом и рейкой</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>663158.94</price>
+        <cityprice cityId="615420100">663158.94</cityprice>
+    </offer>
+    <offer sku="12195737">
+      <model>Комплект оптический нивелир Leica NA332 со штативом и рейкой</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>283267.09</price>
+        <cityprice cityId="615420100">283267.09</cityprice>
+    </offer>
+    <offer sku="12195705">
+      <model>Комплект оптический нивелир Leica NA320 со штативом и рейкой</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>280259.78</price>
+        <cityprice cityId="615420100">280259.78</cityprice>
+    </offer>
+    <offer sku="4030623">
+      <model>Оптический нивелир Геокурс GTX 120 + штатив + рейка</model>
+      <brand>Геокурс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191733.99</price>
+        <cityprice cityId="615420100">191733.99</cityprice>
+    </offer>
+    <offer sku="4030436">
+      <model>Оптический нивелир Геокурс GTX 32, штатив, рейка</model>
+      <brand>Геокурс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130748.56</price>
+        <cityprice cityId="615420100">130748.56</cityprice>
+    </offer>
+    <offer sku="12173960">
+      <model>Цифровой нивелир Leica Sprinter 150M, 762630</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>753017.66</price>
+        <cityprice cityId="615420100">753017.66</cityprice>
+    </offer>
+    <offer sku="12195579">
+      <model>Оптический нивелир Leica NA724</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>335975.21</price>
+        <cityprice cityId="615420100">335975.21</cityprice>
+    </offer>
+    <offer sku="3730485">
+      <model>Оптический нивелир Геокурс GTX 28A</model>
+      <brand>Геокурс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125410.15</price>
+        <cityprice cityId="615420100">125410.15</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
