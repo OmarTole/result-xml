@@ -59457,5 +59457,3011 @@
       <price>39422</price>
         <cityprice cityId="615420100">39422</cityprice>
     </offer>
+    <offer sku="11416406">
+      <model>Дисковая пила Диолд ДП-0.55 МФ</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1090844.23</price>
+        <cityprice cityId="615420100">1090844.23</cityprice>
+    </offer>
+    <offer sku="12684109">
+      <model>Дисковая пила Rodex RDX382</model>
+      <brand>Rodex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35152.47</price>
+        <cityprice cityId="615420100">35152.47</cityprice>
+    </offer>
+    <offer sku="11680369">
+      <model>Дисковая пила Интерскол ДП-210/1900М</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66467.07</price>
+        <cityprice cityId="615420100">66467.07</cityprice>
+    </offer>
+    <offer sku="6913926">
+      <model>Дисковая пила P.I.T. 82557</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70926</price>
+        <cityprice cityId="615420100">70926</cityprice>
+    </offer>
+    <offer sku="6911851">
+      <model>Дисковая пила P.I.T. 41251 1350 w 125</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24442.63</price>
+        <cityprice cityId="615420100">24442.63</cityprice>
+    </offer>
+    <offer sku="6942620">
+      <model>Дисковая пила Stanley SC12-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54849.93</price>
+        <cityprice cityId="615420100">54849.93</cityprice>
+    </offer>
+    <offer sku="6915083">
+      <model>Дисковая пила Зубр ЗПД-1600</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>361860.35</price>
+        <cityprice cityId="615420100">361860.35</cityprice>
+    </offer>
+    <offer sku="7709861">
+      <model>Дисковая пила Bosch GKS 55+ GCE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171849.27</price>
+        <cityprice cityId="615420100">171849.27</cityprice>
+    </offer>
+    <offer sku="997627">
+      <model>Дисковая пила PRORAB 5110</model>
+      <brand>PRORAB</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123502.5</price>
+        <cityprice cityId="615420100">123502.5</cityprice>
+    </offer>
+    <offer sku="997829">
+      <model>Дисковая пила Wortex CS 2170</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55308.37</price>
+        <cityprice cityId="615420100">55308.37</cityprice>
+    </offer>
+    <offer sku="6914360">
+      <model>Дисковая пила Einhell TC-MS 2513 L</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117363.93</price>
+        <cityprice cityId="615420100">117363.93</cityprice>
+    </offer>
+    <offer sku="7157864">
+      <model>Дисковая пила Einhell TH-SM 2131 Dual</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>442431.4</price>
+        <cityprice cityId="615420100">442431.4</cityprice>
+    </offer>
+    <offer sku="997818">
+      <model>Дисковая пила ВИХРЬ ДП-140/1100</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18516.55</price>
+        <cityprice cityId="615420100">18516.55</cityprice>
+    </offer>
+    <offer sku="3733959">
+      <model>Дисковая пила Makita DHS680Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183383.58</price>
+        <cityprice cityId="615420100">183383.58</cityprice>
+    </offer>
+    <offer sku="972864">
+      <model>Дисковая пила RYOBI R18CS-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49736.06</price>
+        <cityprice cityId="615420100">49736.06</cityprice>
+    </offer>
+    <offer sku="6911894">
+      <model>Дисковая пила Зубр ПДП-75</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52083.47</price>
+        <cityprice cityId="615420100">52083.47</cityprice>
+    </offer>
+    <offer sku="6913904">
+      <model>Дисковая пила Bosch GKS 12V-26 06016A1001</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70059.51</price>
+        <cityprice cityId="615420100">70059.51</cityprice>
+    </offer>
+    <offer sku="11615056">
+      <model>Дисковая пила Total TS1121856</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39558.34</price>
+        <cityprice cityId="615420100">39558.34</cityprice>
+    </offer>
+    <offer sku="10687299">
+      <model>Дисковая пила Kolner KCS 190/1600</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120785.44</price>
+        <cityprice cityId="615420100">120785.44</cityprice>
+    </offer>
+    <offer sku="11388104">
+      <model>Дисковая пила Парма 255Д</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80029.62</price>
+        <cityprice cityId="615420100">80029.62</cityprice>
+    </offer>
+    <offer sku="6960876">
+      <model>Дисковая пила Ryobi EMS254L</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246782.7</price>
+        <cityprice cityId="615420100">246782.7</cityprice>
+    </offer>
+    <offer sku="6966881">
+      <model>Дисковая пила Stanley SC16-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51672.46</price>
+        <cityprice cityId="615420100">51672.46</cityprice>
+    </offer>
+    <offer sku="7003185">
+      <model>Дисковая пила Milwaukee CHS 355</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197553.61</price>
+        <cityprice cityId="615420100">197553.61</cityprice>
+    </offer>
+    <offer sku="972668">
+      <model>Дисковая пила Makita DSS610Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75660.6</price>
+        <cityprice cityId="615420100">75660.6</cityprice>
+    </offer>
+    <offer sku="11447926">
+      <model>Дисковая пила Felisatti ДП-190/1500</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128340.83</price>
+        <cityprice cityId="615420100">128340.83</cityprice>
+    </offer>
+    <offer sku="6856491">
+      <model>Дисковая пила Crown CT15110</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111433.84</price>
+        <cityprice cityId="615420100">111433.84</cityprice>
+    </offer>
+    <offer sku="7517510">
+      <model>Дисковая пила Зубр ПД-65</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35095.46</price>
+        <cityprice cityId="615420100">35095.46</cityprice>
+    </offer>
+    <offer sku="972317">
+      <model>Дисковая пила CROWN CT15210-235</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46949.72</price>
+        <cityprice cityId="615420100">46949.72</cityprice>
+    </offer>
+    <offer sku="11614234">
+      <model>Дисковая пила Crown CT 25002-165НХ</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>245006.24</price>
+        <cityprice cityId="615420100">245006.24</cityprice>
+    </offer>
+    <offer sku="3926974">
+      <model>Дисковая пила Makita HS7600</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56740.58</price>
+        <cityprice cityId="615420100">56740.58</cityprice>
+    </offer>
+    <offer sku="619277">
+      <model>Дисковая пила Crown CT15188-190</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24651.1</price>
+        <cityprice cityId="615420100">24651.1</cityprice>
+    </offer>
+    <offer sku="7002557">
+      <model>Дисковая пила Kolner KMS 210/1400</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>436232.57</price>
+        <cityprice cityId="615420100">436232.57</cityprice>
+    </offer>
+    <offer sku="6969725">
+      <model>Дисковая пила DeWALT DWS774-QS</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>307816.48</price>
+        <cityprice cityId="615420100">307816.48</cityprice>
+    </offer>
+    <offer sku="7709863">
+      <model>Дисковая пила Ryobi ECO2335HG</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119658.53</price>
+        <cityprice cityId="615420100">119658.53</cityprice>
+    </offer>
+    <offer sku="6970507">
+      <model>Дисковая пила DWT KGS18-305 P</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>651912.39</price>
+        <cityprice cityId="615420100">651912.39</cityprice>
+    </offer>
+    <offer sku="7157886">
+      <model>Дисковая пила P.I.T. 43552</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54340.11</price>
+        <cityprice cityId="615420100">54340.11</cityprice>
+    </offer>
+    <offer sku="972834">
+      <model>Дисковая пила PRORAB 5211</model>
+      <brand>PRORAB</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54329.24</price>
+        <cityprice cityId="615420100">54329.24</cityprice>
+    </offer>
+    <offer sku="997794">
+      <model>Дисковая пила URAGAN MCS 185 1300</model>
+      <brand>URAGAN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>457351.49</price>
+        <cityprice cityId="615420100">457351.49</cityprice>
+    </offer>
+    <offer sku="6914598">
+      <model>Дисковая пила DeWALT DWE576K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197230.69</price>
+        <cityprice cityId="615420100">197230.69</cityprice>
+    </offer>
+    <offer sku="12683794">
+      <model>Дисковая пила Ingco COS35538</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148859.67</price>
+        <cityprice cityId="615420100">148859.67</cityprice>
+    </offer>
+    <offer sku="11448617">
+      <model>Дисковая пила Makita 5903RK</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>378513.43</price>
+        <cityprice cityId="615420100">378513.43</cityprice>
+    </offer>
+    <offer sku="11617436">
+      <model>Дисковая пила Kedr K41115</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198327.23</price>
+        <cityprice cityId="615420100">198327.23</cityprice>
+    </offer>
+    <offer sku="11710971">
+      <model>Дисковая пила Rodex RDX385</model>
+      <brand>Rodex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>496771.52</price>
+        <cityprice cityId="615420100">496771.52</cityprice>
+    </offer>
+    <offer sku="7158216">
+      <model>Дисковая пила P.I.T. 43558 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79256.99</price>
+        <cityprice cityId="615420100">79256.99</cityprice>
+    </offer>
+    <offer sku="7003623">
+      <model>Дисковая пила IVT MTS-255-RC</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61719.11</price>
+        <cityprice cityId="615420100">61719.11</cityprice>
+    </offer>
+    <offer sku="998591">
+      <model>Дисковая пила ЗУБР ЗПДЭ-235-2200</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>807881.23</price>
+        <cityprice cityId="615420100">807881.23</cityprice>
+    </offer>
+    <offer sku="6934415">
+      <model>Дисковая пила Bosch GKS 165</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92781.01</price>
+        <cityprice cityId="615420100">92781.01</cityprice>
+    </offer>
+    <offer sku="972860">
+      <model>Дисковая пила RYOBI RCS1400-G</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148181.26</price>
+        <cityprice cityId="615420100">148181.26</cityprice>
+    </offer>
+    <offer sku="3926969">
+      <model>Дисковая пила Makita HS6100</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105560.06</price>
+        <cityprice cityId="615420100">105560.06</cityprice>
+    </offer>
+    <offer sku="972294">
+      <model>Дисковая пила BOSCH PKS 55</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74728.19</price>
+        <cityprice cityId="615420100">74728.19</cityprice>
+    </offer>
+    <offer sku="972873">
+      <model>Дисковая пила Sparta 94809</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32593.79</price>
+        <cityprice cityId="615420100">32593.79</cityprice>
+    </offer>
+    <offer sku="972657">
+      <model>Дисковая пила Makita 5903R</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74101.5</price>
+        <cityprice cityId="615420100">74101.5</cityprice>
+    </offer>
+    <offer sku="6856785">
+      <model>Дисковая пила Зубр ЗПДС-255-1500</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>562566.73</price>
+        <cityprice cityId="615420100">562566.73</cityprice>
+    </offer>
+    <offer sku="972673">
+      <model>Дисковая пила Makita HS6601J</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91624.03</price>
+        <cityprice cityId="615420100">91624.03</cityprice>
+    </offer>
+    <offer sku="330708">
+      <model>Дисковая пила Makita LW1400</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>321994.73</price>
+        <cityprice cityId="615420100">321994.73</cityprice>
+    </offer>
+    <offer sku="11447664">
+      <model>Дисковая пила Makita DSS610RF</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>147531.15</price>
+        <cityprice cityId="615420100">147531.15</cityprice>
+    </offer>
+    <offer sku="813026">
+      <model>Дисковая пила Crown CT15228</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46480.41</price>
+        <cityprice cityId="615420100">46480.41</cityprice>
+    </offer>
+    <offer sku="3951353">
+      <model>Дисковая пила Makita LH1040F</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>250720.94</price>
+        <cityprice cityId="615420100">250720.94</cityprice>
+    </offer>
+    <offer sku="6912260">
+      <model>Дисковая пила Crown CT15111</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85650.47</price>
+        <cityprice cityId="615420100">85650.47</cityprice>
+    </offer>
+    <offer sku="6856761">
+      <model>Дисковая пила P.I.T. 71851</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28270.22</price>
+        <cityprice cityId="615420100">28270.22</cityprice>
+    </offer>
+    <offer sku="11446363">
+      <model>Дисковая пила Wortex CCS 1819</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142549.55</price>
+        <cityprice cityId="615420100">142549.55</cityprice>
+    </offer>
+    <offer sku="6936849">
+      <model>Дисковая пила DeWALT D28715-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>189220.81</price>
+        <cityprice cityId="615420100">189220.81</cityprice>
+    </offer>
+    <offer sku="6960522">
+      <model>Дисковая пила DeWALT DWE7492</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>382503.05</price>
+        <cityprice cityId="615420100">382503.05</cityprice>
+    </offer>
+    <offer sku="6960555">
+      <model>Дисковая пила Makita CC301DWAE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121893.02</price>
+        <cityprice cityId="615420100">121893.02</cityprice>
+    </offer>
+    <offer sku="3344221">
+      <model>Дисковая пила Makita 4105KB</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177626.24</price>
+        <cityprice cityId="615420100">177626.24</cityprice>
+    </offer>
+    <offer sku="690095">
+      <model>Дисковая пила Alteco MS 1400-210</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31493.14</price>
+        <cityprice cityId="615420100">31493.14</cityprice>
+    </offer>
+    <offer sku="794786">
+      <model>Дисковая пила Bosch GTS 635-216 0601B42000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>258067.86</price>
+        <cityprice cityId="615420100">258067.86</cityprice>
+    </offer>
+    <offer sku="6933269">
+      <model>Дисковая пила Makita LC1230</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>407102.57</price>
+        <cityprice cityId="615420100">407102.57</cityprice>
+    </offer>
+    <offer sku="7002746">
+      <model>Дисковая пила DeWALT DCS7485N</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>600932.7</price>
+        <cityprice cityId="615420100">600932.7</cityprice>
+    </offer>
+    <offer sku="11446330">
+      <model>Дисковая пила Dewalt DCS579N-XJ</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195664.52</price>
+        <cityprice cityId="615420100">195664.52</cityprice>
+    </offer>
+    <offer sku="6914491">
+      <model>Дисковая пила Crown CT15109</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119372.58</price>
+        <cityprice cityId="615420100">119372.58</cityprice>
+    </offer>
+    <offer sku="7158562">
+      <model>Дисковая пила Black&amp;Decker CS1004</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>256348.71</price>
+        <cityprice cityId="615420100">256348.71</cityprice>
+    </offer>
+    <offer sku="11420813">
+      <model>Дисковая пила Bosch GKS 36 V-LI 0601673R02</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>323702.26</price>
+        <cityprice cityId="615420100">323702.26</cityprice>
+    </offer>
+    <offer sku="11414848">
+      <model>Дисковая пила Felisatti МНП-355/2400</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>239088.98</price>
+        <cityprice cityId="615420100">239088.98</cityprice>
+    </offer>
+    <offer sku="11616849">
+      <model>Дисковая пила Ryobi R18CS7-0 ONE+ 5133002890</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1439868.22</price>
+        <cityprice cityId="615420100">1439868.22</cityprice>
+    </offer>
+    <offer sku="11613629">
+      <model>Дисковая пила Felisatti CS165/18L</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200446.53</price>
+        <cityprice cityId="615420100">200446.53</cityprice>
+    </offer>
+    <offer sku="11614924">
+      <model>Дисковая пила Festool TS 75 EBQ-Plus</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>920307.87</price>
+        <cityprice cityId="615420100">920307.87</cityprice>
+    </offer>
+    <offer sku="11678011">
+      <model>Дисковая пила Интерскол ДП-140/800</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48513.76</price>
+        <cityprice cityId="615420100">48513.76</cityprice>
+    </offer>
+    <offer sku="972846">
+      <model>Дисковая пила RedVerg RD-CS210-85</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>346893.82</price>
+        <cityprice cityId="615420100">346893.82</cityprice>
+    </offer>
+    <offer sku="12683944">
+      <model>Дисковая пила RedVerg RD-MSU255-1200</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1124152.36</price>
+        <cityprice cityId="615420100">1124152.36</cityprice>
+    </offer>
+    <offer sku="6912308">
+      <model>Дисковая пила Зубр ЗПД-2000</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38977.39</price>
+        <cityprice cityId="615420100">38977.39</cityprice>
+    </offer>
+    <offer sku="6914595">
+      <model>Дисковая пила Kolner KCS 160/1300</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212021.19</price>
+        <cityprice cityId="615420100">212021.19</cityprice>
+    </offer>
+    <offer sku="6932095">
+      <model>Дисковая пила Metabo KS 55 FS</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125291.8</price>
+        <cityprice cityId="615420100">125291.8</cityprice>
+    </offer>
+    <offer sku="6967240">
+      <model>Дисковая пила Bosch GKS 55+ G 0601682000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152154.09</price>
+        <cityprice cityId="615420100">152154.09</cityprice>
+    </offer>
+    <offer sku="6967246">
+      <model>Дисковая пила TCH ZZ6206</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183445.67</price>
+        <cityprice cityId="615420100">183445.67</cityprice>
+    </offer>
+    <offer sku="7157881">
+      <model>Дисковая пила Einhell BT-UP 470</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55346.65</price>
+        <cityprice cityId="615420100">55346.65</cityprice>
+    </offer>
+    <offer sku="7158215">
+      <model>Дисковая пила P.I.T. 40255</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191302.41</price>
+        <cityprice cityId="615420100">191302.41</cityprice>
+    </offer>
+    <offer sku="7516720">
+      <model>Дисковая пила Wortex CS 2320</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>575289.47</price>
+        <cityprice cityId="615420100">575289.47</cityprice>
+    </offer>
+    <offer sku="3738031">
+      <model>Дисковая пила Makita DLS111ZU</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>403511.32</price>
+        <cityprice cityId="615420100">403511.32</cityprice>
+    </offer>
+    <offer sku="6913900">
+      <model>Дисковая пила P.I.T. 82559 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172810.63</price>
+        <cityprice cityId="615420100">172810.63</cityprice>
+    </offer>
+    <offer sku="7157871">
+      <model>Дисковая пила P.I.T. 82558 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>141463.1</price>
+        <cityprice cityId="615420100">141463.1</cityprice>
+    </offer>
+    <offer sku="7157955">
+      <model>Дисковая пила P.I.T. 43551</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110780.67</price>
+        <cityprice cityId="615420100">110780.67</cityprice>
+    </offer>
+    <offer sku="11448999">
+      <model>Дисковая пила Dewalt D23700</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>237361.92</price>
+        <cityprice cityId="615420100">237361.92</cityprice>
+    </offer>
+    <offer sku="11676588">
+      <model>Дисковая пила Edon CS-235-2350</model>
+      <brand>Edon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55142.38</price>
+        <cityprice cityId="615420100">55142.38</cityprice>
+    </offer>
+    <offer sku="12684596">
+      <model>Дисковая пила TCH ZZ8003</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>452202.92</price>
+        <cityprice cityId="615420100">452202.92</cityprice>
+    </offer>
+    <offer sku="6940735">
+      <model>Дисковая пила DWT HKS12-55</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>248766.64</price>
+        <cityprice cityId="615420100">248766.64</cityprice>
+    </offer>
+    <offer sku="11708981">
+      <model>Дисковая пила Triton TTS1400</model>
+      <brand>Triton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1423269.49</price>
+        <cityprice cityId="615420100">1423269.49</cityprice>
+    </offer>
+    <offer sku="7158007">
+      <model>Дисковая пила Makita EK7650H</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2866617.52</price>
+        <cityprice cityId="615420100">2866617.52</cityprice>
+    </offer>
+    <offer sku="6970516">
+      <model>Дисковая пила Einhell TC-TS 2031 U</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>738974.74</price>
+        <cityprice cityId="615420100">738974.74</cityprice>
+    </offer>
+    <offer sku="6940179">
+      <model>Дисковая пила Bosch PKS 55 A</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69605.5</price>
+        <cityprice cityId="615420100">69605.5</cityprice>
+    </offer>
+    <offer sku="972775">
+      <model>Дисковая пила OMAX 11320</model>
+      <brand>OMAX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1656835.44</price>
+        <cityprice cityId="615420100">1656835.44</cityprice>
+    </offer>
+    <offer sku="619276">
+      <model>Дисковая пила P.I.T. 41104 1200 W</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15712.48</price>
+        <cityprice cityId="615420100">15712.48</cityprice>
+    </offer>
+    <offer sku="6937383">
+      <model>Дисковая пила Makita 2414NB</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>272069.09</price>
+        <cityprice cityId="615420100">272069.09</cityprice>
+    </offer>
+    <offer sku="12165922">
+      <model>Дисковая пила Makita LS1219</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>603660.46</price>
+        <cityprice cityId="615420100">603660.46</cityprice>
+    </offer>
+    <offer sku="3742320">
+      <model>Дисковая пила Makita DSP600Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207185.04</price>
+        <cityprice cityId="615420100">207185.04</cityprice>
+    </offer>
+    <offer sku="997802">
+      <model>Дисковая пила ВИХРЬ ДП-185/1600 (old)</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30062.48</price>
+        <cityprice cityId="615420100">30062.48</cityprice>
+    </offer>
+    <offer sku="6913875">
+      <model>Дисковая пила Crown CT15075</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34541.18</price>
+        <cityprice cityId="615420100">34541.18</cityprice>
+    </offer>
+    <offer sku="6914411">
+      <model>Дисковая пила Crown CT15072</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182504.68</price>
+        <cityprice cityId="615420100">182504.68</cityprice>
+    </offer>
+    <offer sku="6913914">
+      <model>Дисковая пила DWT TKS18-255 S</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72534.5</price>
+        <cityprice cityId="615420100">72534.5</cityprice>
+    </offer>
+    <offer sku="6963495">
+      <model>Дисковая пила Bosch GCD 12 JL 0601B28000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>263367.6</price>
+        <cityprice cityId="615420100">263367.6</cityprice>
+    </offer>
+    <offer sku="11424189">
+      <model>Дисковая пила Makita 5143R</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>535921.81</price>
+        <cityprice cityId="615420100">535921.81</cityprice>
+    </offer>
+    <offer sku="6856904">
+      <model>Дисковая пила DeWALT DWE7485-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>279699.73</price>
+        <cityprice cityId="615420100">279699.73</cityprice>
+    </offer>
+    <offer sku="6856848">
+      <model>Дисковая пила Зубр ЗПД-900</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20971.6</price>
+        <cityprice cityId="615420100">20971.6</cityprice>
+    </offer>
+    <offer sku="6912269">
+      <model>Дисковая пила Вихрь ОП-355/2200</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60492.51</price>
+        <cityprice cityId="615420100">60492.51</cityprice>
+    </offer>
+    <offer sku="6938649">
+      <model>Дисковая пила Milwaukee M12 FCOT-0 FUEL</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142976.37</price>
+        <cityprice cityId="615420100">142976.37</cityprice>
+    </offer>
+    <offer sku="972405">
+      <model>Дисковая пила DeWALT DWE560</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82631.08</price>
+        <cityprice cityId="615420100">82631.08</cityprice>
+    </offer>
+    <offer sku="972643">
+      <model>Дисковая пила Makita 5008MG</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118596.98</price>
+        <cityprice cityId="615420100">118596.98</cityprice>
+    </offer>
+    <offer sku="12683725">
+      <model>Дисковая пила Makita M2402</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>209848.53</price>
+        <cityprice cityId="615420100">209848.53</cityprice>
+    </offer>
+    <offer sku="6914350">
+      <model>Дисковая пила Bosch GKS 55</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135598.83</price>
+        <cityprice cityId="615420100">135598.83</cityprice>
+    </offer>
+    <offer sku="972862">
+      <model>Дисковая пила RYOBI R18CSP-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98363.32</price>
+        <cityprice cityId="615420100">98363.32</cityprice>
+    </offer>
+    <offer sku="972771">
+      <model>Дисковая пила P.I.T. 72351</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42592.55</price>
+        <cityprice cityId="615420100">42592.55</cityprice>
+    </offer>
+    <offer sku="972825">
+      <model>Дисковая пила Парма 165Д</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>173137.66</price>
+        <cityprice cityId="615420100">173137.66</cityprice>
+    </offer>
+    <offer sku="7003223">
+      <model>Дисковая пила Зубр ПД-55</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25378.28</price>
+        <cityprice cityId="615420100">25378.28</cityprice>
+    </offer>
+    <offer sku="7709877">
+      <model>Дисковая пила P.I.T. 71858 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29936.02</price>
+        <cityprice cityId="615420100">29936.02</cityprice>
+    </offer>
+    <offer sku="11675138">
+      <model>Дисковая пила Felisatti ДП-165/1300</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75978.74</price>
+        <cityprice cityId="615420100">75978.74</cityprice>
+    </offer>
+    <offer sku="12683684">
+      <model>Дисковая пила Makute MC003</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>557761.99</price>
+        <cityprice cityId="615420100">557761.99</cityprice>
+    </offer>
+    <offer sku="7158561">
+      <model>Дисковая пила Hilti SC 55W 2089107</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>249958.19</price>
+        <cityprice cityId="615420100">249958.19</cityprice>
+    </offer>
+    <offer sku="6914328">
+      <model>Дисковая пила DeWALT D27111</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>747885.99</price>
+        <cityprice cityId="615420100">747885.99</cityprice>
+    </offer>
+    <offer sku="6855378">
+      <model>Дисковая пила Crown CT15074</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23076.2</price>
+        <cityprice cityId="615420100">23076.2</cityprice>
+    </offer>
+    <offer sku="11678354">
+      <model>Дисковая пила Elitech ПД 1300</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47888.34</price>
+        <cityprice cityId="615420100">47888.34</cityprice>
+    </offer>
+    <offer sku="11679344">
+      <model>Дисковая пила Edon CS-165-1250</model>
+      <brand>Edon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>241308.08</price>
+        <cityprice cityId="615420100">241308.08</cityprice>
+    </offer>
+    <offer sku="6913879">
+      <model>Дисковая пила DWT KGS18-255 K</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1065890.8</price>
+        <cityprice cityId="615420100">1065890.8</cityprice>
+    </offer>
+    <offer sku="6915059">
+      <model>Дисковая пила DeWALT DWS520K-QS</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>352421.13</price>
+        <cityprice cityId="615420100">352421.13</cityprice>
+    </offer>
+    <offer sku="7002420">
+      <model>Дисковая пила Einhell RT-CS 165</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53825.35</price>
+        <cityprice cityId="615420100">53825.35</cityprice>
+    </offer>
+    <offer sku="7157880">
+      <model>Дисковая пила Einhell RT-SM 305 L</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185179.65</price>
+        <cityprice cityId="615420100">185179.65</cityprice>
+    </offer>
+    <offer sku="7158073">
+      <model>Дисковая пила P.I.T. 43552</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49400.01</price>
+        <cityprice cityId="615420100">49400.01</cityprice>
+    </offer>
+    <offer sku="7158558">
+      <model>Дисковая пила Black&amp;Decker BES510-QS</model>
+      <brand>Black&amp;Decker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69704.2</price>
+        <cityprice cityId="615420100">69704.2</cityprice>
+    </offer>
+    <offer sku="7516541">
+      <model>Дисковая пила Practyl J1G-ZPA-210D</model>
+      <brand>Practyl</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>699455.91</price>
+        <cityprice cityId="615420100">699455.91</cityprice>
+    </offer>
+    <offer sku="972776">
+      <model>Дисковая пила OMAX 11308</model>
+      <brand>OMAX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>285844.07</price>
+        <cityprice cityId="615420100">285844.07</cityprice>
+    </offer>
+    <offer sku="972798">
+      <model>Дисковая пила Парма 235Д</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93955.57</price>
+        <cityprice cityId="615420100">93955.57</cityprice>
+    </offer>
+    <offer sku="997816">
+      <model>Дисковая пила ВИХРЬ ДП-185/1300</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>274631.03</price>
+        <cityprice cityId="615420100">274631.03</cityprice>
+    </offer>
+    <offer sku="6911164">
+      <model>Дисковая пила Ingco BMS14002</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71230.31</price>
+        <cityprice cityId="615420100">71230.31</cityprice>
+    </offer>
+    <offer sku="3436859">
+      <model>Дисковая пила Makita CA5000XJ</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>415910.97</price>
+        <cityprice cityId="615420100">415910.97</cityprice>
+    </offer>
+    <offer sku="7158560">
+      <model>Дисковая пила Kolner KCS 190/1900T</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46777.93</price>
+        <cityprice cityId="615420100">46777.93</cityprice>
+    </offer>
+    <offer sku="11392109">
+      <model>Дисковая пила Wortex MS 2520-1 LMO</model>
+      <brand>Wortex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1407193.41</price>
+        <cityprice cityId="615420100">1407193.41</cityprice>
+    </offer>
+    <offer sku="11414225">
+      <model>Монтажная пила Парма 355МО</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112755.72</price>
+        <cityprice cityId="615420100">112755.72</cityprice>
+    </offer>
+    <offer sku="11447229">
+      <model>Дисковая пила Milwaukee CS 55</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121463.23</price>
+        <cityprice cityId="615420100">121463.23</cityprice>
+    </offer>
+    <offer sku="11423849">
+      <model>Дисковая пила Einhell TC-CS 1410</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>221768.72</price>
+        <cityprice cityId="615420100">221768.72</cityprice>
+    </offer>
+    <offer sku="11724858">
+      <model>Дисковая пила Oasis PC-160</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38406.41</price>
+        <cityprice cityId="615420100">38406.41</cityprice>
+    </offer>
+    <offer sku="972671">
+      <model>Дисковая пила Makita HS6100K</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180035.87</price>
+        <cityprice cityId="615420100">180035.87</cityprice>
+    </offer>
+    <offer sku="618975">
+      <model>Дисковая пила Makita m5802</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51970.84</price>
+        <cityprice cityId="615420100">51970.84</cityprice>
+    </offer>
+    <offer sku="7709866">
+      <model>Дисковая пила Зубр ПДП-65</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33372.35</price>
+        <cityprice cityId="615420100">33372.35</cityprice>
+    </offer>
+    <offer sku="998580">
+      <model>Дисковая пила ЗУБР ПДП-55</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29530.93</price>
+        <cityprice cityId="615420100">29530.93</cityprice>
+    </offer>
+    <offer sku="11420032">
+      <model>Дисковая пила Dewalt DCS520NT-XJ</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>427038.81</price>
+        <cityprice cityId="615420100">427038.81</cityprice>
+    </offer>
+    <offer sku="6915084">
+      <model>Дисковая пила DeWALT D23700-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1427559.47</price>
+        <cityprice cityId="615420100">1427559.47</cityprice>
+    </offer>
+    <offer sku="6942652">
+      <model>Дисковая пила Bosch GCM 8 SJL 0601B19100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>412791.79</price>
+        <cityprice cityId="615420100">412791.79</cityprice>
+    </offer>
+    <offer sku="7002422">
+      <model>Дисковая пила DWT HKS12-54</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30494.25</price>
+        <cityprice cityId="615420100">30494.25</cityprice>
+    </offer>
+    <offer sku="997815">
+      <model>Дисковая пила ВИХРЬ ДП-185/1600</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19859.2</price>
+        <cityprice cityId="615420100">19859.2</cityprice>
+    </offer>
+    <offer sku="7002958">
+      <model>Дисковая пила DWT MS 12-115</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20728.66</price>
+        <cityprice cityId="615420100">20728.66</cityprice>
+    </offer>
+    <offer sku="6912323">
+      <model>Дисковая пила Kolner KCS 185/1500</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>202492.72</price>
+        <cityprice cityId="615420100">202492.72</cityprice>
+    </offer>
+    <offer sku="7709876">
+      <model>Дисковая пила P.I.T. 71852</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23889.34</price>
+        <cityprice cityId="615420100">23889.34</cityprice>
+    </offer>
+    <offer sku="11447155">
+      <model>Дисковая пила Felisatti ДП-210/2000М 553.5.1.00</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>264488.01</price>
+        <cityprice cityId="615420100">264488.01</cityprice>
+    </offer>
+    <offer sku="7709864">
+      <model>Дисковая пила Ryobi RTS1800ES-G 5133002023</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195207.06</price>
+        <cityprice cityId="615420100">195207.06</cityprice>
+    </offer>
+    <offer sku="6856845">
+      <model>Дисковая пила Зубр ЗПТ-255-1800 ЛМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67057.44</price>
+        <cityprice cityId="615420100">67057.44</cityprice>
+    </offer>
+    <offer sku="972663">
+      <model>Дисковая пила Makita M5802</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32769.66</price>
+        <cityprice cityId="615420100">32769.66</cityprice>
+    </offer>
+    <offer sku="6963045">
+      <model>Дисковая пила DWT HKS 18-75</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45076.44</price>
+        <cityprice cityId="615420100">45076.44</cityprice>
+    </offer>
+    <offer sku="6963087">
+      <model>Дисковая пила Ryobi RWSL1801M</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67830.54</price>
+        <cityprice cityId="615420100">67830.54</cityprice>
+    </offer>
+    <offer sku="6914403">
+      <model>Дисковая пила Bosch GTS 10 XC</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>568485.96</price>
+        <cityprice cityId="615420100">568485.96</cityprice>
+    </offer>
+    <offer sku="7517219">
+      <model>Дисковая пила Зубр ПД-75</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28137.82</price>
+        <cityprice cityId="615420100">28137.82</cityprice>
+    </offer>
+    <offer sku="6912244">
+      <model>Дисковая пила DeWALT DW714-KS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>330247.66</price>
+        <cityprice cityId="615420100">330247.66</cityprice>
+    </offer>
+    <offer sku="7002807">
+      <model>Дисковая пила Einhell TE-TS 2025 UF 4340565</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>301691.37</price>
+        <cityprice cityId="615420100">301691.37</cityprice>
+    </offer>
+    <offer sku="7157551">
+      <model>Дисковая пила Jet JSMS-12L</model>
+      <brand>Jet</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>262801.46</price>
+        <cityprice cityId="615420100">262801.46</cityprice>
+    </offer>
+    <offer sku="7517784">
+      <model>Дисковая пила Ryobi EMS305RG</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>221274.95</price>
+        <cityprice cityId="615420100">221274.95</cityprice>
+    </offer>
+    <offer sku="7517961">
+      <model>Дисковая пила Ryobi RTMS1800-G</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>633310.94</price>
+        <cityprice cityId="615420100">633310.94</cityprice>
+    </offer>
+    <offer sku="507124">
+      <model>Дисковая пила DeWALT DCS570N-XJ</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192652.04</price>
+        <cityprice cityId="615420100">192652.04</cityprice>
+    </offer>
+    <offer sku="10769150">
+      <model>Дисковая пила Bosch GKS 18V-68 GC</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>397538.74</price>
+        <cityprice cityId="615420100">397538.74</cityprice>
+    </offer>
+    <offer sku="12683737">
+      <model>Дисковая пила Makita BSS610Z</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1149043.55</price>
+        <cityprice cityId="615420100">1149043.55</cityprice>
+    </offer>
+    <offer sku="11446430">
+      <model>Дисковая пила Диолд ДП-2.0-200</model>
+      <brand>ДИОЛД</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112854.47</price>
+        <cityprice cityId="615420100">112854.47</cityprice>
+    </offer>
+    <offer sku="3773382">
+      <model>Шуруповерт Makita FS2700</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54341.1</price>
+        <cityprice cityId="615420100">54341.1</cityprice>
+    </offer>
+    <offer sku="7278877">
+      <model>Шуруповерт Makita FS4000K</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56811.15</price>
+        <cityprice cityId="615420100">56811.15</cityprice>
+    </offer>
+    <offer sku="7454959">
+      <model>Шуруповерт Ресанта СШ-550-1</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9880.2</price>
+        <cityprice cityId="615420100">9880.2</cityprice>
+    </offer>
+    <offer sku="10770062">
+      <model>Дрель-шуруповерт Bosch GSR 180-LI Professional, в комплекте GLI 18V-300 Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35212.04</price>
+        <cityprice cityId="615420100">35212.04</cityprice>
+    </offer>
+    <offer sku="1055307">
+      <model>Аккумуляторная дрель-шуруповерт ВИХРЬ ДА-18Л-2К/Б Li-Ion 2.0 А-ч 18 В х2 кейс 45 Н·м</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23767.81</price>
+        <cityprice cityId="615420100">23767.81</cityprice>
+    </offer>
+    <offer sku="7283423">
+      <model>Шуруповерт Makita DFS451RFE</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118562.4</price>
+        <cityprice cityId="615420100">118562.4</cityprice>
+    </offer>
+    <offer sku="1055178">
+      <model>Аккумуляторная дрель-шуруповерт Makita DDF484Z 54 Н·м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44991.47</price>
+        <cityprice cityId="615420100">44991.47</cityprice>
+    </offer>
+    <offer sku="7292680">
+      <model>Шуруповерт Makita DTW190RME</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108682.2</price>
+        <cityprice cityId="615420100">108682.2</cityprice>
+    </offer>
+    <offer sku="1055151">
+      <model>Сетевая дрель-шуруповерт Makita DF0300 коробка 320 Вт 56 Н·м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22398.41</price>
+        <cityprice cityId="615420100">22398.41</cityprice>
+    </offer>
+    <offer sku="597080">
+      <model>Шуруповёрт Alteco CD 1210Li</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16004.94</price>
+        <cityprice cityId="615420100">16004.94</cityprice>
+    </offer>
+    <offer sku="1055048">
+      <model>Аккумуляторная дрель-шуруповерт BOSCH GSR 180-LI 2.0Ач х2 кейс 54 Н·м</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32277.63</price>
+        <cityprice cityId="615420100">32277.63</cityprice>
+    </offer>
+    <offer sku="1055075">
+      <model>Аккумуляторная дрель-шуруповерт Makita DF347DWE Li-Ion 1.5 А·ч 14.4 В х2 кейс 30 Н·м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27664.56</price>
+        <cityprice cityId="615420100">27664.56</cityprice>
+    </offer>
+    <offer sku="145604">
+      <model>Шуруповерт Alteco CD 1813 Li</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26280.34</price>
+        <cityprice cityId="615420100">26280.34</cityprice>
+    </offer>
+    <offer sku="383435">
+      <model>Шуруповерт Alteco CID 2013LI</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62719.51</price>
+        <cityprice cityId="615420100">62719.51</cityprice>
+    </offer>
+    <offer sku="1081071">
+      <model>Аккумуляторная дрель-шуруповерт Makita DF347DWLE 30 Н·м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59775.21</price>
+        <cityprice cityId="615420100">59775.21</cityprice>
+    </offer>
+    <offer sku="546688">
+      <model>Шуруповерт Alteco CD 2110.1 CD 0413</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18410.69</price>
+        <cityprice cityId="615420100">18410.69</cityprice>
+    </offer>
+    <offer sku="7452714">
+      <model>Шуруповерт Bosch GDS 250-LI 06019G6120</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129331.82</price>
+        <cityprice cityId="615420100">129331.82</cityprice>
+    </offer>
+    <offer sku="7157210">
+      <model>Шуруповерт Bosch GSR 18V-50 Professional 06019H5002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57799.17</price>
+        <cityprice cityId="615420100">57799.17</cityprice>
+    </offer>
+    <offer sku="1055134">
+      <model>Аккумуляторная дрель-шуруповерт Makita DF330DWE 24 Н·м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33395.08</price>
+        <cityprice cityId="615420100">33395.08</cityprice>
+    </offer>
+    <offer sku="130308">
+      <model>Шуруповерт Alteco D 300-10 D 0327</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12364.08</price>
+        <cityprice cityId="615420100">12364.08</cityprice>
+    </offer>
+    <offer sku="330403">
+      <model>Аккумуляторная ударная дрель-шуруповёрт Alteco CID 0414 CID 1610.1/16V</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20079.53</price>
+        <cityprice cityId="615420100">20079.53</cityprice>
+    </offer>
+    <offer sku="4028519">
+      <model>Шуруповерт Bosch GDR 180-LI</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56755.82</price>
+        <cityprice cityId="615420100">56755.82</cityprice>
+    </offer>
+    <offer sku="9203913">
+      <model>Дрель-шуруповерт Makita DF333DAX13 + набор бит D-31756</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72015.79</price>
+        <cityprice cityId="615420100">72015.79</cityprice>
+    </offer>
+    <offer sku="1055368">
+      <model>Аккумуляторная дрель-шуруповерт ВИХРЬ ДА-14,4Л-2К 2018 30 Н·м</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19740.64</price>
+        <cityprice cityId="615420100">19740.64</cityprice>
+    </offer>
+    <offer sku="1081015">
+      <model>Аккумуляторная дрель-шуруповерт Makita DDF458RFE 91 Н·м</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119846.83</price>
+        <cityprice cityId="615420100">119846.83</cityprice>
+    </offer>
+    <offer sku="1055033">
+      <model>Аккумуляторная дрель-шуруповерт Makita DDF485Z 50 Н·м</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36309.74</price>
+        <cityprice cityId="615420100">36309.74</cityprice>
+    </offer>
+    <offer sku="7280010">
+      <model>Шуруповерт Makita FS4000</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39520.8</price>
+        <cityprice cityId="615420100">39520.8</cityprice>
+    </offer>
+    <offer sku="7454377">
+      <model>Шуруповерт Вихрь ДА-24Л-2К/Б</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27170.55</price>
+        <cityprice cityId="615420100">27170.55</cityprice>
+    </offer>
+    <offer sku="4028572">
+      <model>Шуруповерт Bosch GDX 180-LI</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120933.65</price>
+        <cityprice cityId="615420100">120933.65</cityprice>
+    </offer>
+    <offer sku="3776716">
+      <model>Шуруповерт Makita FS2300</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52815.6</price>
+        <cityprice cityId="615420100">52815.6</cityprice>
+    </offer>
+    <offer sku="1055113">
+      <model>Аккумуляторная дрель-шуруповерт Makita DDF482Z 54 Н·м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36550.81</price>
+        <cityprice cityId="615420100">36550.81</cityprice>
+    </offer>
+    <offer sku="1055402">
+      <model>Шуруповерт Вихрь ДА-24Л-2К 40 Н·м</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22625.66</price>
+        <cityprice cityId="615420100">22625.66</cityprice>
+    </offer>
+    <offer sku="783459">
+      <model>Шуруповерт ALTECO IW 350-200</model>
+      <brand>ALTECO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18935.57</price>
+        <cityprice cityId="615420100">18935.57</cityprice>
+    </offer>
+    <offer sku="6665276">
+      <model>Шуруповерт Bosch GSR 120-LI 06019G8000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34579.71</price>
+        <cityprice cityId="615420100">34579.71</cityprice>
+    </offer>
+    <offer sku="7455069">
+      <model>Шуруповерт Bosch GDX 180-LI 3.0Ач х2</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148900.54</price>
+        <cityprice cityId="615420100">148900.54</cityprice>
+    </offer>
+    <offer sku="9204748">
+      <model>Дрель-шуруповерт Makita DF333DYX14 + набор бит D-31083</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64221.3</price>
+        <cityprice cityId="615420100">64221.3</cityprice>
+    </offer>
+    <offer sku="6540">
+      <model>Дрель ударная Bosch GSB 1600 RE (БЗП)</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32110.65</price>
+        <cityprice cityId="615420100">32110.65</cityprice>
+    </offer>
+    <offer sku="3907803">
+      <model>Дрель ударная Makita HP2070</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54044.69</price>
+        <cityprice cityId="615420100">54044.69</cityprice>
+    </offer>
+    <offer sku="3952110">
+      <model>Сетевой ударный винтовёрт Makita TD0100</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47177.96</price>
+        <cityprice cityId="615420100">47177.96</cityprice>
+    </offer>
+    <offer sku="1081463">
+      <model>Дрель ударная Makita HP1631 710 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35568.72</price>
+        <cityprice cityId="615420100">35568.72</cityprice>
+    </offer>
+    <offer sku="1081336">
+      <model>Дрель ударная Makita HP1640 680 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.6</price>
+        <cityprice cityId="615420100">29640.6</cityprice>
+    </offer>
+    <offer sku="1081346">
+      <model>Дрель ударная BOSCH GSB 13 RE (БЗП) 600 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27170.55</price>
+        <cityprice cityId="615420100">27170.55</cityprice>
+    </offer>
+    <offer sku="1081356">
+      <model>Дрель ударная BOSCH GSB 1600 RE (БЗП) коробка 700 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39356.79</price>
+        <cityprice cityId="615420100">39356.79</cityprice>
+    </offer>
+    <offer sku="1081485">
+      <model>Дрель ударная Makita HP1630 710 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37326.41</price>
+        <cityprice cityId="615420100">37326.41</cityprice>
+    </offer>
+    <offer sku="3905696">
+      <model>Дрель ударная Makita HP1631K</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48906.99</price>
+        <cityprice cityId="615420100">48906.99</cityprice>
+    </offer>
+    <offer sku="3742450">
+      <model>Аккумуляторный ударный винтовёрт Makita DTD153ZJ</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38423.11</price>
+        <cityprice cityId="615420100">38423.11</cityprice>
+    </offer>
+    <offer sku="3773745">
+      <model>Аккумуляторный ударный гайковёрт Makita DTW251Z</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33891.56</price>
+        <cityprice cityId="615420100">33891.56</cityprice>
+    </offer>
+    <offer sku="3955200">
+      <model>Ударный гайковерт Makita TW1000</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>226256.58</price>
+        <cityprice cityId="615420100">226256.58</cityprice>
+    </offer>
+    <offer sku="3907773">
+      <model>Дрель ударная Makita HP2050</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28652.58</price>
+        <cityprice cityId="615420100">28652.58</cityprice>
+    </offer>
+    <offer sku="7002465">
+      <model>Дрель РЕСАНТА ДУ-15-680</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9979</price>
+        <cityprice cityId="615420100">9979</cityprice>
+    </offer>
+    <offer sku="7455163">
+      <model>Дрель Bosch GSB 13 RE ЗВП 0601217102</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33436.57</price>
+        <cityprice cityId="615420100">33436.57</cityprice>
+    </offer>
+    <offer sku="7659199">
+      <model>Дрель Вихрь ДУ-500</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8716.31</price>
+        <cityprice cityId="615420100">8716.31</cityprice>
+    </offer>
+    <offer sku="302140">
+      <model>Дрель Alteco Professional DD 1713 S</model>
+      <brand>ALTECO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63527.71</price>
+        <cityprice cityId="615420100">63527.71</cityprice>
+    </offer>
+    <offer sku="348751">
+      <model>Миксер строительный Alteco MX 14002.1</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44411.5</price>
+        <cityprice cityId="615420100">44411.5</cityprice>
+    </offer>
+    <offer sku="6665292">
+      <model>Дрель Bosch EasyImpact 550 0603130020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23069.28</price>
+        <cityprice cityId="615420100">23069.28</cityprice>
+    </offer>
+    <offer sku="7113359">
+      <model>Дрель Makita HP1640K</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28553.78</price>
+        <cityprice cityId="615420100">28553.78</cityprice>
+    </offer>
+    <offer sku="7455196">
+      <model>Дрель Bosch GBM 10 RE 0601473600</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32110.65</price>
+        <cityprice cityId="615420100">32110.65</cityprice>
+    </offer>
+    <offer sku="202520">
+      <model>Дрель Alteco D 500-10.1</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11343.46</price>
+        <cityprice cityId="615420100">11343.46</cityprice>
+    </offer>
+    <offer sku="7455402">
+      <model>Дрель Bosch GSB 16 RE БЗП 060114E500</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60763.23</price>
+        <cityprice cityId="615420100">60763.23</cityprice>
+    </offer>
+    <offer sku="107269">
+      <model>Дрель Alteco DP 600-13.1</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11115.23</price>
+        <cityprice cityId="615420100">11115.23</cityprice>
+    </offer>
+    <offer sku="629435">
+      <model>Дрель ALTECO Professional DD 1713</model>
+      <brand>ALTECO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56811.15</price>
+        <cityprice cityId="615420100">56811.15</cityprice>
+    </offer>
+    <offer sku="133278">
+      <model>Дрель Alteco DP 800-13.1</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19300.97</price>
+        <cityprice cityId="615420100">19300.97</cityprice>
+    </offer>
+    <offer sku="7654827">
+      <model>Дрель Bosch GSB 21-2 RCT БЗП</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175373.55</price>
+        <cityprice cityId="615420100">175373.55</cityprice>
+    </offer>
+    <offer sku="7455180">
+      <model>Дрель Bosch GSB 24-2</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133679.11</price>
+        <cityprice cityId="615420100">133679.11</cityprice>
+    </offer>
+    <offer sku="7650673">
+      <model>Дрель Makita HP1230</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37435.09</price>
+        <cityprice cityId="615420100">37435.09</cityprice>
+    </offer>
+    <offer sku="3742346">
+      <model>Дрель Makita DTD152Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30628.62</price>
+        <cityprice cityId="615420100">30628.62</cityprice>
+    </offer>
+    <offer sku="1081406">
+      <model>Дрель Makita DP4011 720 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42978.87</price>
+        <cityprice cityId="615420100">42978.87</cityprice>
+    </offer>
+    <offer sku="1081456">
+      <model>Дрель BOSCH GBM 6 RE 2010 350 Вт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25194.51</price>
+        <cityprice cityId="615420100">25194.51</cityprice>
+    </offer>
+    <offer sku="782164">
+      <model>Дрель Alteco Professional DD 1409</model>
+      <brand>ALTECO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48610.58</price>
+        <cityprice cityId="615420100">48610.58</cityprice>
+    </offer>
+    <offer sku="3349445">
+      <model>Дрель Makita 6408</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="7345864">
+      <model>Дрель Bosch GSB 24-2 060119C801</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105718.14</price>
+        <cityprice cityId="615420100">105718.14</cityprice>
+    </offer>
+    <offer sku="118815">
+      <model>Дрель Alteco CD 1610Li X2</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22545.63</price>
+        <cityprice cityId="615420100">22545.63</cityprice>
+    </offer>
+    <offer sku="7454259">
+      <model>Дрель Bosch GDR 120 LI 06019F0000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27218.96</price>
+        <cityprice cityId="615420100">27218.96</cityprice>
+    </offer>
+    <offer sku="1081355">
+      <model>Дрель Makita 6413 450 Вт</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16302.33</price>
+        <cityprice cityId="615420100">16302.33</cityprice>
+    </offer>
+    <offer sku="7654088">
+      <model>Дрель Bosch GBH 4-32 DFR</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>202939.31</price>
+        <cityprice cityId="615420100">202939.31</cityprice>
+    </offer>
+    <offer sku="3738373">
+      <model>Дрель Makita DP4700</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30134.61</price>
+        <cityprice cityId="615420100">30134.61</cityprice>
+    </offer>
+    <offer sku="7343429">
+      <model>Дрель Makita TD0101F</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31616.64</price>
+        <cityprice cityId="615420100">31616.64</cityprice>
+    </offer>
+    <offer sku="3775295">
+      <model>Дрель Makita DTW285Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31603.8</price>
+        <cityprice cityId="615420100">31603.8</cityprice>
+    </offer>
+    <offer sku="1081414">
+      <model>Дрель ударная ЗУБР ЗДУ-1100-2 ЭРММ2 1100 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16796.34</price>
+        <cityprice cityId="615420100">16796.34</cityprice>
+    </offer>
+    <offer sku="1081433">
+      <model>Дрель ударная ЗУБР ЗДУ-850 ЭРММ2 850 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20772.13</price>
+        <cityprice cityId="615420100">20772.13</cityprice>
+    </offer>
+    <offer sku="1081436">
+      <model>Дрель ударная ЗУБР ЗДУ-850 ЭРМКМ2 850 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27858.21</price>
+        <cityprice cityId="615420100">27858.21</cityprice>
+    </offer>
+    <offer sku="7005097">
+      <model>Дрель ЗУБР ЗДУ-1100-2 ЭРМКМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32048.4</price>
+        <cityprice cityId="615420100">32048.4</cityprice>
+    </offer>
+    <offer sku="7289429">
+      <model>Дрель ЗУБР ДУ-П850-2 ЭРМК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31468.44</price>
+        <cityprice cityId="615420100">31468.44</cityprice>
+    </offer>
+    <offer sku="7157525">
+      <model>Дрель ЗУБР ЗДУ-580 ЭРМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13808.57</price>
+        <cityprice cityId="615420100">13808.57</cityprice>
+    </offer>
+    <offer sku="7014749">
+      <model>Дрель ЗУБР ЗДУ-680 ЭРМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29680.12</price>
+        <cityprice cityId="615420100">29680.12</cityprice>
+    </offer>
+    <offer sku="1081439">
+      <model>Дрель ударная ЗУБР ДУ-710 ЭРМ2 710 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21350.93</price>
+        <cityprice cityId="615420100">21350.93</cityprice>
+    </offer>
+    <offer sku="7005244">
+      <model>Дрель ЗУБР ДУ-810 ЭРМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15199.62</price>
+        <cityprice cityId="615420100">15199.62</cityprice>
+    </offer>
+    <offer sku="7157527">
+      <model>Дрель ЗУБР ДУ-П850-2 ЭРМ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26163.76</price>
+        <cityprice cityId="615420100">26163.76</cityprice>
+    </offer>
+    <offer sku="1081457">
+      <model>Дрель ударная ЗУБР ЗДУ-780 ЭРКМ2 780 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28008.6</price>
+        <cityprice cityId="615420100">28008.6</cityprice>
+    </offer>
+    <offer sku="7074473">
+      <model>Дрель ЗУБР ЗДУ-680 ЭРКМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22230.45</price>
+        <cityprice cityId="615420100">22230.45</cityprice>
+    </offer>
+    <offer sku="7113290">
+      <model>Дрель ЗУБР ЗДУ-580ЭРКМ2</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15078.17</price>
+        <cityprice cityId="615420100">15078.17</cityprice>
+    </offer>
+    <offer sku="12165390">
+      <model>Дрель ударная Felisatti ДУ-13/780ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12158.57</price>
+        <cityprice cityId="615420100">12158.57</cityprice>
+    </offer>
+    <offer sku="12165654">
+      <model>Аккумуляторная дрель-шуруповёрт Felisatti ДА-18ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19463.99</price>
+        <cityprice cityId="615420100">19463.99</cityprice>
+    </offer>
+    <offer sku="1055255">
+      <model>Аккумуляторная дрель-шуруповерт Энкор ДША-2 14,4ЭР/10Л 32 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29443</price>
+        <cityprice cityId="615420100">29443</cityprice>
+    </offer>
+    <offer sku="1081110">
+      <model>Сетевая дрель-шуруповерт Энкор ДШЭ-2 350ЭР/10 350 Вт 40 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21195.01</price>
+        <cityprice cityId="615420100">21195.01</cityprice>
+    </offer>
+    <offer sku="4399887">
+      <model>Аккумуляторный шуруповёрт Энкор ДША-2 12ЭР/10М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33429.66</price>
+        <cityprice cityId="615420100">33429.66</cityprice>
+    </offer>
+    <offer sku="4400770">
+      <model>Дрель ударная Энкор ДУЭ-580ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20452.01</price>
+        <cityprice cityId="615420100">20452.01</cityprice>
+    </offer>
+    <offer sku="12166011">
+      <model>Аккумуляторная дрель-шуруповёрт Felisatti ДА-12ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23376.55</price>
+        <cityprice cityId="615420100">23376.55</cityprice>
+    </offer>
+    <offer sku="7253974">
+      <model>Дрель Интерскол ДА-12ЭР-02 534 Li-Ion 2.0 А·ч 12 В х2 кейс 30 Н·м</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>512910.82</price>
+        <cityprice cityId="615420100">512910.82</cityprice>
+    </offer>
+    <offer sku="7305054">
+      <model>Дрель Интерскол ДА-18ЭР</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34383.1</price>
+        <cityprice cityId="615420100">34383.1</cityprice>
+    </offer>
+    <offer sku="4400805">
+      <model>Дрель ударная ЭНКОР ДУЭ-710ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27368.15</price>
+        <cityprice cityId="615420100">27368.15</cityprice>
+    </offer>
+    <offer sku="7015572">
+      <model>Шуруповерт Интерскол Ш-8/700ЭР</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22922.06</price>
+        <cityprice cityId="615420100">22922.06</cityprice>
+    </offer>
+    <offer sku="1080948">
+      <model>Сетевая дрель-шуруповерт Энкор ДШЭ-240ЭР/10 240 Вт 13 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35074.71</price>
+        <cityprice cityId="615420100">35074.71</cityprice>
+    </offer>
+    <offer sku="7113350">
+      <model>Дрель ЗУБР ЗД-П420ЭР</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17346.67</price>
+        <cityprice cityId="615420100">17346.67</cityprice>
+    </offer>
+    <offer sku="7293656">
+      <model>Дрель Интерскол ДА-14.4ЭР 535.3.2.01</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32599.72</price>
+        <cityprice cityId="615420100">32599.72</cityprice>
+    </offer>
+    <offer sku="4400727">
+      <model>Дрель Энкор ДЭ-380ЭР/10</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17240.95</price>
+        <cityprice cityId="615420100">17240.95</cityprice>
+    </offer>
+    <offer sku="12165050">
+      <model>Дрель ударная Felisatti ДУ-13/800ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32913.91</price>
+        <cityprice cityId="615420100">32913.91</cityprice>
+    </offer>
+    <offer sku="7276922">
+      <model>Дрель Интерскол ДА-12ЭР-01 595.3.1.00</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>805194.8</price>
+        <cityprice cityId="615420100">805194.8</cityprice>
+    </offer>
+    <offer sku="4400500">
+      <model>Винтоверт ударный Энкор ВУЭ-230ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35430.4</price>
+        <cityprice cityId="615420100">35430.4</cityprice>
+    </offer>
+    <offer sku="1081473">
+      <model>Дрель ударная ЗУБР ДУ-550 ЭР 550 Вт</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13111.03</price>
+        <cityprice cityId="615420100">13111.03</cityprice>
+    </offer>
+    <offer sku="4400499">
+      <model>Ударная дрель Энкор ДУЭ-2 1150ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27668.39</price>
+        <cityprice cityId="615420100">27668.39</cityprice>
+    </offer>
+    <offer sku="7156536">
+      <model>Дрель ЗУБР ЗД-П421 ЭР</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14898.35</price>
+        <cityprice cityId="615420100">14898.35</cityprice>
+    </offer>
+    <offer sku="7157510">
+      <model>Дрель Интерскол ДА-12ЭР Промо</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34185.49</price>
+        <cityprice cityId="615420100">34185.49</cityprice>
+    </offer>
+    <offer sku="7005252">
+      <model>Шуруповерт Интерскол ДА-12ЭР-02</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30233.41</price>
+        <cityprice cityId="615420100">30233.41</cityprice>
+    </offer>
+    <offer sku="4400726">
+      <model>Дрель-шуруповерт Энкор ДШЭ-280ЭР/10</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33509.69</price>
+        <cityprice cityId="615420100">33509.69</cityprice>
+    </offer>
+    <offer sku="7254080">
+      <model>Дрель Интерскол ДА-18ЭР 536 Li-Ion 2.0 А·ч 18 В х2 кейс 38 Н·м 4.0</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197604</price>
+        <cityprice cityId="615420100">197604</cityprice>
+    </offer>
+    <offer sku="1081007">
+      <model>Аккумуляторная дрель-шуруповерт Энкор ДША-2 12ЭР/10Л 28 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30170.77</price>
+        <cityprice cityId="615420100">30170.77</cityprice>
+    </offer>
+    <offer sku="4400544">
+      <model>Дрель ударная Энкор ДУЭ-900ЭР/13М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30727.42</price>
+        <cityprice cityId="615420100">30727.42</cityprice>
+    </offer>
+    <offer sku="4400854">
+      <model>Дрель-миксер Энкор ДМЭ-1200/16ЭР</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35436.33</price>
+        <cityprice cityId="615420100">35436.33</cityprice>
+    </offer>
+    <offer sku="7290345">
+      <model>Дрель ЗУБР ЗД-П550 ЭР</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16627.39</price>
+        <cityprice cityId="615420100">16627.39</cityprice>
+    </offer>
+    <offer sku="4377900">
+      <model>Шуруповерт Энкор ДША-2 10,8 ЭР/10Л</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83980.71</price>
+        <cityprice cityId="615420100">83980.71</cityprice>
+    </offer>
+    <offer sku="1079676">
+      <model>Аккумуляторная дрель-шуруповерт Энкор VDS-10/10,8L Li-Ion 1.3 А·ч 10.8 В х1 коробка 28 Н·м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98011.58</price>
+        <cityprice cityId="615420100">98011.58</cityprice>
+    </offer>
+    <offer sku="12165928">
+      <model>Миксер строительный Felisatti КМ-100/1600ЭМ</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33395.08</price>
+        <cityprice cityId="615420100">33395.08</cityprice>
+    </offer>
+    <offer sku="5437">
+      <model>Электродрель Rodex Power RDX154</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12646.66</price>
+        <cityprice cityId="615420100">12646.66</cityprice>
+    </offer>
+    <offer sku="12713475">
+      <model>Электродрель-перфоратор IVT ID-800</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15917.99</price>
+        <cityprice cityId="615420100">15917.99</cityprice>
+    </offer>
+    <offer sku="5436">
+      <model>Электродрель Rodex Power RDX153</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13717.67</price>
+        <cityprice cityId="615420100">13717.67</cityprice>
+    </offer>
+    <offer sku="5439">
+      <model>Электродрель Rodex Power RDX1504</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10868.22</price>
+        <cityprice cityId="615420100">10868.22</cityprice>
+    </offer>
+    <offer sku="12713473">
+      <model>Электродрель IVT D-800-13</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15316.29</price>
+        <cityprice cityId="615420100">15316.29</cityprice>
+    </offer>
+    <offer sku="5435">
+      <model>Электродрель Rodex Power RDX151</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16685.68</price>
+        <cityprice cityId="615420100">16685.68</cityprice>
+    </offer>
+    <offer sku="1526904">
+      <model>Дрель-шуруповерт электрическая Витязь ДЭ-970/2</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29223.66</price>
+        <cityprice cityId="615420100">29223.66</cityprice>
+    </offer>
+    <offer sku="1526794">
+      <model>Дрель электрическая Crown СТ10070</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14267.01</price>
+        <cityprice cityId="615420100">14267.01</cityprice>
+    </offer>
+    <offer sku="1527189">
+      <model>Дрель электрическая Crown СТ10065</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25490.92</price>
+        <cityprice cityId="615420100">25490.92</cityprice>
+    </offer>
+    <offer sku="1526898">
+      <model>Дрель электрическая Витязь ДЭ-970</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29344.19</price>
+        <cityprice cityId="615420100">29344.19</cityprice>
+    </offer>
+    <offer sku="1526762">
+      <model>Дрель электрическая Crown  СТ10069</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23832.68</price>
+        <cityprice cityId="615420100">23832.68</cityprice>
+    </offer>
+    <offer sku="347311">
+      <model>Дрель электрическая Tolsen 79500</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15808.32</price>
+        <cityprice cityId="615420100">15808.32</cityprice>
+    </offer>
+    <offer sku="12341188">
+      <model>Дрель электрическая Hanskonner HID2175</model>
+      <brand>Hanskonner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20993.45</price>
+        <cityprice cityId="615420100">20993.45</cityprice>
+    </offer>
+    <offer sku="1526917">
+      <model>Дрель электрическая ударная Витязь ДЭУ-920</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28948.99</price>
+        <cityprice cityId="615420100">28948.99</cityprice>
+    </offer>
+    <offer sku="1526773">
+      <model>Дрель электрическая Crown  СТ10067</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18673.58</price>
+        <cityprice cityId="615420100">18673.58</cityprice>
+    </offer>
+    <offer sku="1526775">
+      <model>Дрель электрическая Crown СТ10125</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13119.92</price>
+        <cityprice cityId="615420100">13119.92</cityprice>
+    </offer>
+    <offer sku="1526889">
+      <model>Дрель-шуруповерт электрическая Витязь ДЭ-900</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21538.84</price>
+        <cityprice cityId="615420100">21538.84</cityprice>
+    </offer>
+    <offer sku="1526797">
+      <model>Дрель электрическая Crown  СТ10076</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16298.38</price>
+        <cityprice cityId="615420100">16298.38</cityprice>
+    </offer>
+    <offer sku="5132">
+      <model>Электрический гайковерт Rodex Power RDX309</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31513.96</price>
+        <cityprice cityId="615420100">31513.96</cityprice>
+    </offer>
+    <offer sku="7085967">
+      <model>Шуруповерт Интерскол ДШ-10/320Э2</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31016.76</price>
+        <cityprice cityId="615420100">31016.76</cityprice>
+    </offer>
+    <offer sku="12165437">
+      <model>Сетевая дрель-шуруповёрт Felisatti ДШ-10/260Э</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12844.26</price>
+        <cityprice cityId="615420100">12844.26</cityprice>
+    </offer>
+    <offer sku="7074475">
+      <model>Дрель ВИХРЬ СМ-1200Э 72/20/1</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22203.98</price>
+        <cityprice cityId="615420100">22203.98</cityprice>
+    </offer>
+    <offer sku="7280378">
+      <model>Дрель Интерскол ДШ-10/260Э2 1012200000</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45251.32</price>
+        <cityprice cityId="615420100">45251.32</cityprice>
+    </offer>
+    <offer sku="12165440">
+      <model>Сетевая дрель-шуруповёрт Felisatti ДШ-10/320Э2</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19759.41</price>
+        <cityprice cityId="615420100">19759.41</cityprice>
+    </offer>
+    <offer sku="7095727">
+      <model>Шуруповерт Metabo BS 18 Quick Set 602217880</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>341262.11</price>
+        <cityprice cityId="615420100">341262.11</cityprice>
+    </offer>
+    <offer sku="7101185">
+      <model>Шуруповерт Metabo PowerMaxx BS 12 BL Q 0</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181380.71</price>
+        <cityprice cityId="615420100">181380.71</cityprice>
+    </offer>
+    <offer sku="7298628">
+      <model>Шуруповерт Metabo GB 18 LTX BL Q I 603828840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>321106.5</price>
+        <cityprice cityId="615420100">321106.5</cityprice>
+    </offer>
+    <offer sku="7017362">
+      <model>Шуруповерт Metabo SB 18 LTX BL I 602352500</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>548351.1</price>
+        <cityprice cityId="615420100">548351.1</cityprice>
+    </offer>
+    <offer sku="7451595">
+      <model>Шуруповерт Metabo SB 18 LTX BL I 602352840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>248981.04</price>
+        <cityprice cityId="615420100">248981.04</cityprice>
+    </offer>
+    <offer sku="7315797">
+      <model>Шуруповерт Hitachi DS10DFL</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91885.86</price>
+        <cityprice cityId="615420100">91885.86</cityprice>
+    </offer>
+    <offer sku="7074739">
+      <model>Шуруповерт Milwaukee M18 ONEPD-0 ONE-KEY</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>866910.48</price>
+        <cityprice cityId="615420100">866910.48</cityprice>
+    </offer>
+    <offer sku="7294301">
+      <model>Шуруповерт Metabo BS 18 LTX BL Q I 602351650</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>652049.73</price>
+        <cityprice cityId="615420100">652049.73</cityprice>
+    </offer>
+    <offer sku="7156535">
+      <model>Шуруповерт P.I.T. 31308 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49786.33</price>
+        <cityprice cityId="615420100">49786.33</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
