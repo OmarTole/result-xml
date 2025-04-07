@@ -99246,5 +99246,3173 @@
       <price>98782.24</price>
         <cityprice cityId="615420100">98782.24</cityprice>
     </offer>
+    <offer sku="1404536">
+      <model>Кухонная мойка AQUASANITA SR101-601AW черный</model>
+      <brand>AQUASANITA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110026.9</price>
+        <cityprice cityId="615420100">110026.9</cityprice>
+    </offer>
+    <offer sku="1412159">
+      <model>Кухонная мойка Avina 80х45 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110998.12</price>
+        <cityprice cityId="615420100">110998.12</cityprice>
+    </offer>
+    <offer sku="10684725">
+      <model>Кухонная мойка Zox ZX-GM 01, черная, круглая 480 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58540.18</price>
+        <cityprice cityId="615420100">58540.18</cityprice>
+    </offer>
+    <offer sku="1412480">
+      <model>Кухонная мойка Dr. Gans Гала черный</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118562.4</price>
+        <cityprice cityId="615420100">118562.4</cityprice>
+    </offer>
+    <offer sku="11117529">
+      <model>Кухонная мойка Ecology Stone ES-19 308 черная</model>
+      <brand>  Ecology Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98792.12</price>
+        <cityprice cityId="615420100">98792.12</cityprice>
+    </offer>
+    <offer sku="11117556">
+      <model>Кухонная мойка Ecology Stone ES-10 308 черная</model>
+      <brand>  Ecology Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61239.46</price>
+        <cityprice cityId="615420100">61239.46</cityprice>
+    </offer>
+    <offer sku="1399545">
+      <model>Кухонная мойка GranFest QUARZ GF-ZW-71 черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112632.3</price>
+        <cityprice cityId="615420100">112632.3</cityprice>
+    </offer>
+    <offer sku="11088962">
+      <model>Кухонная мойка Ulgran врезная U-402 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98774.34</price>
+        <cityprice cityId="615420100">98774.34</cityprice>
+    </offer>
+    <offer sku="12560599">
+      <model>Кухонная мойка Ulgran U-104 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63197.71</price>
+        <cityprice cityId="615420100">63197.71</cityprice>
+    </offer>
+    <offer sku="1399451">
+      <model>Кухонная мойка GranFest QUARZ GF-ZL-52 черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74789.16</price>
+        <cityprice cityId="615420100">74789.16</cityprice>
+    </offer>
+    <offer sku="1399718">
+      <model>Кухонная мойка Avina 60x45 черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123798.91</price>
+        <cityprice cityId="615420100">123798.91</cityprice>
+    </offer>
+    <offer sku="1423191">
+      <model>Кухонная мойка Vidage VD-5444 черный</model>
+      <brand>Vidage</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121436.08</price>
+        <cityprice cityId="615420100">121436.08</cityprice>
+    </offer>
+    <offer sku="11138506">
+      <model>Кухонная мойка Ulgran U-102 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118068.39</price>
+        <cityprice cityId="615420100">118068.39</cityprice>
+    </offer>
+    <offer sku="11138848">
+      <model>Кухонная мойка Gran-Stone G-11N 308 черная</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98795.08</price>
+        <cityprice cityId="615420100">98795.08</cityprice>
+    </offer>
+    <offer sku="1407168">
+      <model>Кухонная мойка Avina HM black 65x43 черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138247.71</price>
+        <cityprice cityId="615420100">138247.71</cityprice>
+    </offer>
+    <offer sku="1423160">
+      <model>Кухонная мойка GranFest QUARZ GF-ZW-72 черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81986.89</price>
+        <cityprice cityId="615420100">81986.89</cityprice>
+    </offer>
+    <offer sku="12560409">
+      <model>Кухонная мойка Gran-Stone G 11 308 черная</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98791.13</price>
+        <cityprice cityId="615420100">98791.13</cityprice>
+    </offer>
+    <offer sku="11202521">
+      <model>Кухонная мойка Gran-Stone GS-21 308 черная</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91877.96</price>
+        <cityprice cityId="615420100">91877.96</cityprice>
+    </offer>
+    <offer sku="11263744">
+      <model>Кухонная мойка Dr. Gans Астра 780 черная</model>
+      <brand>Dr.Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88910.93</price>
+        <cityprice cityId="615420100">88910.93</cityprice>
+    </offer>
+    <offer sku="1405677">
+      <model>Кухонная мойка GranFest Standart GF-S780L черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70509.06</price>
+        <cityprice cityId="615420100">70509.06</cityprice>
+    </offer>
+    <offer sku="1423128">
+      <model>Кухонная мойка Avina HM black 80x45 черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102754.08</price>
+        <cityprice cityId="615420100">102754.08</cityprice>
+    </offer>
+    <offer sku="10951134">
+      <model>Кухонная мойка Blanco Legra 6 черная</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>226256.58</price>
+        <cityprice cityId="615420100">226256.58</cityprice>
+    </offer>
+    <offer sku="11119030">
+      <model>Кухонная мойка Florentina Вега 500 черная</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96331.95</price>
+        <cityprice cityId="615420100">96331.95</cityprice>
+    </offer>
+    <offer sku="10944199">
+      <model>Кухонная мойка Ulgran U-101 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79030.73</price>
+        <cityprice cityId="615420100">79030.73</cityprice>
+    </offer>
+    <offer sku="11118683">
+      <model>Кухонная мойка Teka Stone 60 S-TG 1B 1D Carbon черная</model>
+      <brand>TEKA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177837.67</price>
+        <cityprice cityId="615420100">177837.67</cityprice>
+    </offer>
+    <offer sku="1400689">
+      <model>Кухонная мойка Avina 65x48 L\R сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148193.12</price>
+        <cityprice cityId="615420100">148193.12</cityprice>
+    </offer>
+    <offer sku="1403769">
+      <model>Кухонная мойка GranFest МРАМОР GF-P780K черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97610.45</price>
+        <cityprice cityId="615420100">97610.45</cityprice>
+    </offer>
+    <offer sku="1406261">
+      <model>Кухонная мойка AQUASANITA GQD150B-112AW черный-бежевый</model>
+      <brand>AQUASANITA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>414968.4</price>
+        <cityprice cityId="615420100">414968.4</cityprice>
+    </offer>
+    <offer sku="1406800">
+      <model>Кухонная мойка Avina 78х43 L\R сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140179.32</price>
+        <cityprice cityId="615420100">140179.32</cityprice>
+    </offer>
+    <offer sku="1407277">
+      <model>Кухонная мойка LEX Geneva 740 черный</model>
+      <brand>LEX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34274.89</price>
+        <cityprice cityId="615420100">34274.89</cityprice>
+    </offer>
+    <offer sku="1409611">
+      <model>Кухонная мойка FLORENTINA Вега 700 антрацит-черный</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137513</price>
+        <cityprice cityId="615420100">137513</cityprice>
+    </offer>
+    <offer sku="1411907">
+      <model>Кухонная мойка Avina 70x48 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128083.95</price>
+        <cityprice cityId="615420100">128083.95</cityprice>
+    </offer>
+    <offer sku="1413522">
+      <model>Кухонная мойка Zigmund &amp; Shtain KASKADE 800 Черный базальт</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102890.34</price>
+        <cityprice cityId="615420100">102890.34</cityprice>
+    </offer>
+    <offer sku="1423167">
+      <model>Кухонная мойка GranFest GF-P505 черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55224.39</price>
+        <cityprice cityId="615420100">55224.39</cityprice>
+    </offer>
+    <offer sku="1423184">
+      <model>Кухонная мойка Delinia 82532325 черный</model>
+      <brand>Delinia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121915.74</price>
+        <cityprice cityId="615420100">121915.74</cityprice>
+    </offer>
+    <offer sku="10935366">
+      <model>Кухонная мойка Ulgran врезная U-403 56x18 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79015.91</price>
+        <cityprice cityId="615420100">79015.91</cityprice>
+    </offer>
+    <offer sku="511702">
+      <model>Кухонная мойка GranFest Rondo врезная GF-R-580L 58x20 черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98799.04</price>
+        <cityprice cityId="615420100">98799.04</cityprice>
+    </offer>
+    <offer sku="1403657">
+      <model>Кухонная мойка GranFest QUARZ GF-Z13 черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50229.08</price>
+        <cityprice cityId="615420100">50229.08</cityprice>
+    </offer>
+    <offer sku="10950413">
+      <model>Кухонная мойка Ulgran врезная U-202 черная</model>
+      <brand>Ulgran</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138816.81</price>
+        <cityprice cityId="615420100">138816.81</cityprice>
+    </offer>
+    <offer sku="10957374">
+      <model>Кухонная мойка Green-Stone GS 12 308 черная</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118456.68</price>
+        <cityprice cityId="615420100">118456.68</cityprice>
+    </offer>
+    <offer sku="1404029">
+      <model>Кухонная мойка Avina 45x48 черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68053.83</price>
+        <cityprice cityId="615420100">68053.83</cityprice>
+    </offer>
+    <offer sku="1410616">
+      <model>Кухонная мойка AQUASANITA SCP151-601AW черный</model>
+      <brand>AQUASANITA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139685.56</price>
+        <cityprice cityId="615420100">139685.56</cityprice>
+    </offer>
+    <offer sku="1412275">
+      <model>Кухонная мойка LEX Lugano 480 черный</model>
+      <brand>LEX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55987.14</price>
+        <cityprice cityId="615420100">55987.14</cityprice>
+    </offer>
+    <offer sku="1423228">
+      <model>Кухонная мойка LEX St. Moritz 740 черный</model>
+      <brand>LEX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53976.05</price>
+        <cityprice cityId="615420100">53976.05</cityprice>
+    </offer>
+    <offer sku="10684996">
+      <model>Кухонная мойка Zox ZХ-GM 02 овальная с крылом, черная 460*580*180 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55081.13</price>
+        <cityprice cityId="615420100">55081.13</cityprice>
+    </offer>
+    <offer sku="10951230">
+      <model>Раковина Avina MR 02 (308) черная</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65850.54</price>
+        <cityprice cityId="615420100">65850.54</cityprice>
+    </offer>
+    <offer sku="1407204">
+      <model>Кухонная мойка Avina HM black 50x45 черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40772.92</price>
+        <cityprice cityId="615420100">40772.92</cityprice>
+    </offer>
+    <offer sku="10950800">
+      <model>Кухонная мойка EcoStone ES-33 308 чёрная</model>
+      <brand>  Ecology Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139113.22</price>
+        <cityprice cityId="615420100">139113.22</cityprice>
+    </offer>
+    <offer sku="10950965">
+      <model>Кухонная мойка Ecology Stone ES-13 черная</model>
+      <brand>  Ecology Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130912.65</price>
+        <cityprice cityId="615420100">130912.65</cityprice>
+    </offer>
+    <offer sku="509356">
+      <model>Кухонная мойка Ecology Stone ES-12 Черная</model>
+      <brand>  Ecology Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96529.55</price>
+        <cityprice cityId="615420100">96529.55</cityprice>
+    </offer>
+    <offer sku="1450322">
+      <model>Кухонная мойка Blanco Subline 500-U 525995 черный</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175215.47</price>
+        <cityprice cityId="615420100">175215.47</cityprice>
+    </offer>
+    <offer sku="1399748">
+      <model>Кухонная мойка GranFest Srandart GF-S780K черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83107.3</price>
+        <cityprice cityId="615420100">83107.3</cityprice>
+    </offer>
+    <offer sku="1406716">
+      <model>Кухонная мойка Avina 65x48 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66323.81</price>
+        <cityprice cityId="615420100">66323.81</cityprice>
+    </offer>
+    <offer sku="1409791">
+      <model>Кухонная мойка Grohe 31655AP0 K700U черный</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>225807.69</price>
+        <cityprice cityId="615420100">225807.69</cityprice>
+    </offer>
+    <offer sku="1412101">
+      <model>Кухонная мойка Avina 78х48 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92781.01</price>
+        <cityprice cityId="615420100">92781.01</cityprice>
+    </offer>
+    <offer sku="1406360">
+      <model>Кухонная мойка Avina 80х48 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82303.05</price>
+        <cityprice cityId="615420100">82303.05</cityprice>
+    </offer>
+    <offer sku="1406958">
+      <model>Кухонная мойка Avina 78x48 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139377.02</price>
+        <cityprice cityId="615420100">139377.02</cityprice>
+    </offer>
+    <offer sku="1409280">
+      <model>Кухонная мойка GranFest МРАМОР GF-Q780L черная</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72171.78</price>
+        <cityprice cityId="615420100">72171.78</cityprice>
+    </offer>
+    <offer sku="1409634">
+      <model>Кухонная мойка FLORENTINA Липси 770 черный</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119658.53</price>
+        <cityprice cityId="615420100">119658.53</cityprice>
+    </offer>
+    <offer sku="1409676">
+      <model>Кухонная мойка AQUASANITA GQD150B-110AW черный-бежевый</model>
+      <brand>AQUASANITA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>305149.1</price>
+        <cityprice cityId="615420100">305149.1</cityprice>
+    </offer>
+    <offer sku="10770899">
+      <model>Кухонная мойка Melana S8045HB, черная</model>
+      <brand>MELANA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>381575.3</price>
+        <cityprice cityId="615420100">381575.3</cityprice>
+    </offer>
+    <offer sku="11118979">
+      <model>Кухонная мойка Florentina Вега 700 черная</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136236.1</price>
+        <cityprice cityId="615420100">136236.1</cityprice>
+    </offer>
+    <offer sku="1406919">
+      <model>Кухонная мойка Avina 78x43 сатин черный</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72566.59</price>
+        <cityprice cityId="615420100">72566.59</cityprice>
+    </offer>
+    <offer sku="1421284">
+      <model>Кухонная мойка Zigmund &amp; Shtain ECKIG 900 Черный базальт</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112656.96</price>
+        <cityprice cityId="615420100">112656.96</cityprice>
+    </offer>
+    <offer sku="1421543">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 780 Черный базальт</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134364.79</price>
+        <cityprice cityId="615420100">134364.79</cityprice>
+    </offer>
+    <offer sku="1450393">
+      <model>Кухонная мойка Blanco Subline 700-U 526001 черный</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>280103.67</price>
+        <cityprice cityId="615420100">280103.67</cityprice>
+    </offer>
+    <offer sku="1398230">
+      <model>Кухонная мойка Avina 78х48 сатин серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79339.98</price>
+        <cityprice cityId="615420100">79339.98</cityprice>
+    </offer>
+    <offer sku="1409247">
+      <model>Кухонная мойка AVINA 60х80 см 0.8 глянец</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37344.19</price>
+        <cityprice cityId="615420100">37344.19</cityprice>
+    </offer>
+    <offer sku="10689357">
+      <model>Кухонная мойка Mixline d49 (0.6), 3 1/2, 49х49см, врезная, нержавеющая сталь</model>
+      <brand>Mixline</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26669.62</price>
+        <cityprice cityId="615420100">26669.62</cityprice>
+    </offer>
+    <offer sku="1398170">
+      <model>Кухонная мойка Avina 80х45 серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143052.45</price>
+        <cityprice cityId="615420100">143052.45</cityprice>
+    </offer>
+    <offer sku="18119">
+      <model>Мойка Zigmund&amp;Shtain ECKIG-900 (топленое молоко)</model>
+      <brand>Zigmund&amp;Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168689.19</price>
+        <cityprice cityId="615420100">168689.19</cityprice>
+    </offer>
+    <offer sku="1422057">
+      <model>Кухонная мойка Zigmund &amp; Shtain ECKIG 800 Топленое молоко</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102989.09</price>
+        <cityprice cityId="615420100">102989.09</cityprice>
+    </offer>
+    <offer sku="1422946">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 780 Топленое молоко</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119954.79</price>
+        <cityprice cityId="615420100">119954.79</cityprice>
+    </offer>
+    <offer sku="1420569">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 775.2 Топленое молоко</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108531.03</price>
+        <cityprice cityId="615420100">108531.03</cityprice>
+    </offer>
+    <offer sku="1398429">
+      <model>Кухонная мойка Dr. Gans Техно 860 Латте Beige</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44904.44</price>
+        <cityprice cityId="615420100">44904.44</cityprice>
+    </offer>
+    <offer sku="1422969">
+      <model>Кухонная мойка Dr. Gans Техно 760 White</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44817.58</price>
+        <cityprice cityId="615420100">44817.58</cityprice>
+    </offer>
+    <offer sku="1397924">
+      <model>Кухонная мойка Dr. Gans Техно 650 White</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41265.94</price>
+        <cityprice cityId="615420100">41265.94</cityprice>
+    </offer>
+    <offer sku="1397700">
+      <model>Кухонная мойка Dr. Gans Техно 650 Gray</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40772.92</price>
+        <cityprice cityId="615420100">40772.92</cityprice>
+    </offer>
+    <offer sku="1397059">
+      <model>Кухонная мойка Dr. Gans Техно 760 Дюна Beige</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41463.15</price>
+        <cityprice cityId="615420100">41463.15</cityprice>
+    </offer>
+    <offer sku="1398489">
+      <model>Кухонная мойка Dr. Gans Техно 860 Black</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44805.84</price>
+        <cityprice cityId="615420100">44805.84</cityprice>
+    </offer>
+    <offer sku="1421415">
+      <model>Кухонная мойка Dr. Gans Техно 760 Grey</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44820.54</price>
+        <cityprice cityId="615420100">44820.54</cityprice>
+    </offer>
+    <offer sku="1451181">
+      <model>Кухонная мойка Ecology Stone ES-12 Терракотовый</model>
+      <brand>EcologyStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395208</price>
+        <cityprice cityId="615420100">395208</cityprice>
+    </offer>
+    <offer sku="1422880">
+      <model>Кухонная мойка Dr. Gans Оливия 620 Терракота</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27964.21</price>
+        <cityprice cityId="615420100">27964.21</cityprice>
+    </offer>
+    <offer sku="1397738">
+      <model>Кухонная мойка Dr. Gans Габи Терракота Brown</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43274.29</price>
+        <cityprice cityId="615420100">43274.29</cityprice>
+    </offer>
+    <offer sku="1398179">
+      <model>Кухонная мойка Dr. Gans Ника 570 Терра Beige</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82680.48</price>
+        <cityprice cityId="615420100">82680.48</cityprice>
+    </offer>
+    <offer sku="1397065">
+      <model>Кухонная мойка Dr. Gans Виола 740 Терра</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27668.39</price>
+        <cityprice cityId="615420100">27668.39</cityprice>
+    </offer>
+    <offer sku="1398044">
+      <model>Кухонная мойка Dr. Gans Габи Терра Beige</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48454.2</price>
+        <cityprice cityId="615420100">48454.2</cityprice>
+    </offer>
+    <offer sku="1417229">
+      <model>Кухонная мойка Dr. Gans Астра 760К Терра Beige</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43139.42</price>
+        <cityprice cityId="615420100">43139.42</cityprice>
+    </offer>
+    <offer sku="1412526">
+      <model>Кухонная мойка Dr. Gans Оливия 620 Терра</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47073.74</price>
+        <cityprice cityId="615420100">47073.74</cityprice>
+    </offer>
+    <offer sku="1422705">
+      <model>Кухонная мойка Zigmund &amp; Shtain ECKIG 900 Темная скала</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113535.87</price>
+        <cityprice cityId="615420100">113535.87</cityprice>
+    </offer>
+    <offer sku="1413874">
+      <model>Кухонная мойка Zigmund &amp; Shtain KREIS OV 770 D Темная скала</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100224.02</price>
+        <cityprice cityId="615420100">100224.02</cityprice>
+    </offer>
+    <offer sku="12160437">
+      <model>Кухонная мойка Gama 760x420 мм из нержавеющей стали</model>
+      <brand>Gama</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91836.46</price>
+        <cityprice cityId="615420100">91836.46</cityprice>
+    </offer>
+    <offer sku="1398555">
+      <model>Кухонная мойка Zigmund &amp; Shtain ECKIG 900 Каменная соль</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113535.87</price>
+        <cityprice cityId="615420100">113535.87</cityprice>
+    </offer>
+    <offer sku="1398042">
+      <model>Кухонная мойка Antika с кронш. 50x50 см Белая</model>
+      <brand>Антика</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14569.34</price>
+        <cityprice cityId="615420100">14569.34</cityprice>
+    </offer>
+    <offer sku="1397031">
+      <model>Кухонная мойка LEGENDA D6050A серебристый</model>
+      <brand>LEGENDA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42894.89</price>
+        <cityprice cityId="615420100">42894.89</cityprice>
+    </offer>
+    <offer sku="1406459">
+      <model>Кухонная мойка Avina 65x48 L\R сатин серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64725.19</price>
+        <cityprice cityId="615420100">64725.19</cityprice>
+    </offer>
+    <offer sku="135847">
+      <model>Кухонная мойка Smeg 11I, серебристая</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59683.32</price>
+        <cityprice cityId="615420100">59683.32</cityprice>
+    </offer>
+    <offer sku="1400474">
+      <model>Кухонная мойка Avina 78x43 сатин серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117055.67</price>
+        <cityprice cityId="615420100">117055.67</cityprice>
+    </offer>
+    <offer sku="1407447">
+      <model>Кухонная мойка MAIDSINKS Kiba серебристый</model>
+      <brand>MAIDSINKS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29541.88</price>
+        <cityprice cityId="615420100">29541.88</cityprice>
+    </offer>
+    <offer sku="1408436">
+      <model>Кухонная мойка MAIDSINKS Handmade серебристый</model>
+      <brand>MAIDSINKS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80721.23</price>
+        <cityprice cityId="615420100">80721.23</cityprice>
+    </offer>
+    <offer sku="11138733">
+      <model>Кухонная мойка Нептун 7642 серебристая</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14095.09</price>
+        <cityprice cityId="615420100">14095.09</cityprice>
+    </offer>
+    <offer sku="135843">
+      <model>Кухонная мойка Smeg, LYP116D, серебристая</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123055.91</price>
+        <cityprice cityId="615420100">123055.91</cityprice>
+    </offer>
+    <offer sku="1399337">
+      <model>Кухонная мойка Avina 65x43 серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84793.85</price>
+        <cityprice cityId="615420100">84793.85</cityprice>
+    </offer>
+    <offer sku="1406086">
+      <model>Кухонная мойка Franke LLX 651 серебристый</model>
+      <brand>Franke</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172872.87</price>
+        <cityprice cityId="615420100">172872.87</cityprice>
+    </offer>
+    <offer sku="1406739">
+      <model>Кухонная мойка Avina 78x48 сатин серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74629.49</price>
+        <cityprice cityId="615420100">74629.49</cityprice>
+    </offer>
+    <offer sku="1409722">
+      <model>Кухонная мойка Smeg LGM862-2 серебристый</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>159055.41</price>
+        <cityprice cityId="615420100">159055.41</cityprice>
+    </offer>
+    <offer sku="11117488">
+      <model>Кухонная мойка Leroy Merlin 82261717 серебристая</model>
+      <brand>Leroy</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48395.2</price>
+        <cityprice cityId="615420100">48395.2</cityprice>
+    </offer>
+    <offer sku="135888">
+      <model>Кухонная мойка Melana MLN-6950, серебристая</model>
+      <brand>MELANA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38898.35</price>
+        <cityprice cityId="615420100">38898.35</cityprice>
+    </offer>
+    <offer sku="1407016">
+      <model>Кухонная мойка Avina 75x41 сатин серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>160822.98</price>
+        <cityprice cityId="615420100">160822.98</cityprice>
+    </offer>
+    <offer sku="11118571">
+      <model>Кухонная мойка Teka Be Linea RS15 40.40 серебристая</model>
+      <brand>TEKA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177836.68</price>
+        <cityprice cityId="615420100">177836.68</cityprice>
+    </offer>
+    <offer sku="11138265">
+      <model>Кухонная мойка Нептун 6044 серебристая</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25888.1</price>
+        <cityprice cityId="615420100">25888.1</cityprice>
+    </offer>
+    <offer sku="1413175">
+      <model>Кухонная мойка MELANA MLN-6950 серебристый</model>
+      <brand>MELANA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40291.46</price>
+        <cityprice cityId="615420100">40291.46</cityprice>
+    </offer>
+    <offer sku="1400737">
+      <model>Кухонная мойка Smeg LYP116S серебристый</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156292.91</price>
+        <cityprice cityId="615420100">156292.91</cityprice>
+    </offer>
+    <offer sku="1422220">
+      <model>Кухонная мойка Smeg VQR50RS серебристый</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>289538.27</price>
+        <cityprice cityId="615420100">289538.27</cityprice>
+    </offer>
+    <offer sku="12546308">
+      <model>Кухонная мойка Gama G7848A серебристая</model>
+      <brand>Gama</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69157.45</price>
+        <cityprice cityId="615420100">69157.45</cityprice>
+    </offer>
+    <offer sku="1400730">
+      <model>Кухонная мойка ZEUS FS7750 серебристый</model>
+      <brand>ZEUS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35568.72</price>
+        <cityprice cityId="615420100">35568.72</cityprice>
+    </offer>
+    <offer sku="1407695">
+      <model>Кухонная мойка Avina HM satin 65x43 серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91892.68</price>
+        <cityprice cityId="615420100">91892.68</cityprice>
+    </offer>
+    <offer sku="1423124">
+      <model>Кухонная мойка Avina HM satin L 78x43 серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>146621.18</price>
+        <cityprice cityId="615420100">146621.18</cityprice>
+    </offer>
+    <offer sku="1450381">
+      <model>Кухонная мойка Blanco Supra 400-U 518201 серебристый</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114358.37</price>
+        <cityprice cityId="615420100">114358.37</cityprice>
+    </offer>
+    <offer sku="135297">
+      <model>Кухонная мойка Smeg, VS34P3N, серебристая</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192464.32</price>
+        <cityprice cityId="615420100">192464.32</cityprice>
+    </offer>
+    <offer sku="1406847">
+      <model>Кухонная мойка Avina 65x45 сатин серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37716.18</price>
+        <cityprice cityId="615420100">37716.18</cityprice>
+    </offer>
+    <offer sku="1400191">
+      <model>Кухонная мойка ZorG ZRE 5444 серебристый</model>
+      <brand>ZorG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83978.74</price>
+        <cityprice cityId="615420100">83978.74</cityprice>
+    </offer>
+    <offer sku="11117096">
+      <model>Кухонная мойка Blanco Andano 400/400U серебристая</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>255817.15</price>
+        <cityprice cityId="615420100">255817.15</cityprice>
+    </offer>
+    <offer sku="1400363">
+      <model>Кухонная мойка Smeg VS34/P3 серебристый</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167557.32</price>
+        <cityprice cityId="615420100">167557.32</cityprice>
+    </offer>
+    <offer sku="11138701">
+      <model>Кухонная мойка Нептун 6550 серебристая</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43036.18</price>
+        <cityprice cityId="615420100">43036.18</cityprice>
+    </offer>
+    <offer sku="1404342">
+      <model>Кухонная мойка Avina 50x45 серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76719.75</price>
+        <cityprice cityId="615420100">76719.75</cityprice>
+    </offer>
+    <offer sku="10951128">
+      <model>Кухонная мойка Нептун 7844 серебристая</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47116.7</price>
+        <cityprice cityId="615420100">47116.7</cityprice>
+    </offer>
+    <offer sku="1408166">
+      <model>Кухонная мойка MELANA 7848 U серебристый</model>
+      <brand>MELANA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57364.44</price>
+        <cityprice cityId="615420100">57364.44</cityprice>
+    </offer>
+    <offer sku="1405542">
+      <model>Кухонная мойка Avina 58x48 L\R серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78972.43</price>
+        <cityprice cityId="615420100">78972.43</cityprice>
+    </offer>
+    <offer sku="1408466">
+      <model>Кухонная мойка MAIDSINKS Klio серебристый</model>
+      <brand>MAIDSINKS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62244.27</price>
+        <cityprice cityId="615420100">62244.27</cityprice>
+    </offer>
+    <offer sku="1412843">
+      <model>Кухонная мойка MELANA 5745 U серебристый</model>
+      <brand>MELANA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66197.34</price>
+        <cityprice cityId="615420100">66197.34</cityprice>
+    </offer>
+    <offer sku="1398940">
+      <model>Кухонная мойка HandMade Сатин 78x43 серебристый</model>
+      <brand>HandMade</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111872.52</price>
+        <cityprice cityId="615420100">111872.52</cityprice>
+    </offer>
+    <offer sku="11119523">
+      <model>Кухонная мойка Kromrus Orionis 15745451 серебристая</model>
+      <brand>Kromrus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51228.84</price>
+        <cityprice cityId="615420100">51228.84</cityprice>
+    </offer>
+    <offer sku="12540382">
+      <model>Кухонная мойка Нептун 7449 E Левая серебристая</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38125.72</price>
+        <cityprice cityId="615420100">38125.72</cityprice>
+    </offer>
+    <offer sku="1413205">
+      <model>Кухонная мойка MELANA MLN-7848 серебристый</model>
+      <brand>MELANA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57006.78</price>
+        <cityprice cityId="615420100">57006.78</cityprice>
+    </offer>
+    <offer sku="1410491">
+      <model>Кухонная мойка Smeg LYP116D серебристый</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>196605.11</price>
+        <cityprice cityId="615420100">196605.11</cityprice>
+    </offer>
+    <offer sku="11138736">
+      <model>Кухонная мойка Нептун 5848 серебристая</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31977.27</price>
+        <cityprice cityId="615420100">31977.27</cityprice>
+    </offer>
+    <offer sku="1407794">
+      <model>Кухонная мойка MELANA 490 серебристый</model>
+      <brand>MELANA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42037.29</price>
+        <cityprice cityId="615420100">42037.29</cityprice>
+    </offer>
+    <offer sku="135883">
+      <model>Кухонная мойка Smeg, VQR50RS, серебристая</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>288957.32</price>
+        <cityprice cityId="615420100">288957.32</cityprice>
+    </offer>
+    <offer sku="11136110">
+      <model>Кухонная мойка Нептун 2309 серебристая</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41002.83</price>
+        <cityprice cityId="615420100">41002.83</cityprice>
+    </offer>
+    <offer sku="135882">
+      <model>Кухонная мойка Smeg, VS34/P3, серебристая</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177644.02</price>
+        <cityprice cityId="615420100">177644.02</cityprice>
+    </offer>
+    <offer sku="1401494">
+      <model>Кухонная мойка Avina 45x48 серебристый</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60813.62</price>
+        <cityprice cityId="615420100">60813.62</cityprice>
+    </offer>
+    <offer sku="135833">
+      <model>Кухонная мойка Smeg, VQR40, серебристая</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>254907.18</price>
+        <cityprice cityId="615420100">254907.18</cityprice>
+    </offer>
+    <offer sku="12545829">
+      <model>Кухонная мойка Maidsinks 82013133 серебристая</model>
+      <brand>MAIDSINKS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111646.26</price>
+        <cityprice cityId="615420100">111646.26</cityprice>
+    </offer>
+    <offer sku="1409189">
+      <model>Кухонная мойка Smeg LYP862 серебристый</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135676.88</price>
+        <cityprice cityId="615420100">135676.88</cityprice>
+    </offer>
+    <offer sku="10684722">
+      <model>Кухонная мойка Zox ZX-GM 03 овальная с крылом, серая 480*740*180 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74002.7</price>
+        <cityprice cityId="615420100">74002.7</cityprice>
+    </offer>
+    <offer sku="10684916">
+      <model>Кухонная мойка Zox ZX-GM 09 серая 510*570*200 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59586.5</price>
+        <cityprice cityId="615420100">59586.5</cityprice>
+    </offer>
+    <offer sku="1398187">
+      <model>Кухонная мойка AQUASANITA SQ101-110AW PDN серый</model>
+      <brand>AQUASANITA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116004.68</price>
+        <cityprice cityId="615420100">116004.68</cityprice>
+    </offer>
+    <offer sku="1399680">
+      <model>Кухонная мойка GranFest GF-Q560 серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63693.17</price>
+        <cityprice cityId="615420100">63693.17</cityprice>
+    </offer>
+    <offer sku="1406002">
+      <model>Кухонная мойка GranFest МРАМОР GF-S645L серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82892.9</price>
+        <cityprice cityId="615420100">82892.9</cityprice>
+    </offer>
+    <offer sku="1423202">
+      <model>Кухонная мойка GranFest QUARZ GF-Z18 серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92379.87</price>
+        <cityprice cityId="615420100">92379.87</cityprice>
+    </offer>
+    <offer sku="1423217">
+      <model>Кухонная мойка GranFest QUARZ GF-Z09 серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118523.87</price>
+        <cityprice cityId="615420100">118523.87</cityprice>
+    </offer>
+    <offer sku="1399975">
+      <model>Кухонная мойка GranFest QUARZ GF-Z21k серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108114.35</price>
+        <cityprice cityId="615420100">108114.35</cityprice>
+    </offer>
+    <offer sku="1423186">
+      <model>Кухонная мойка Delinia 82532327 серый</model>
+      <brand>Delinia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100901.54</price>
+        <cityprice cityId="615420100">100901.54</cityprice>
+    </offer>
+    <offer sku="1413343">
+      <model>Кухонная мойка FLORENTINA Липси 770 серый</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77689.29</price>
+        <cityprice cityId="615420100">77689.29</cityprice>
+    </offer>
+    <offer sku="10685010">
+      <model>Кухонная мойка Zox ZХ-GM 02 овальная с крылом, серая 460*580*180 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57291.33</price>
+        <cityprice cityId="615420100">57291.33</cityprice>
+    </offer>
+    <offer sku="1399616">
+      <model>Кухонная мойка GranFest МРАМОР GF-Q650L серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72270.48</price>
+        <cityprice cityId="615420100">72270.48</cityprice>
+    </offer>
+    <offer sku="1423135">
+      <model>Кухонная мойка GranFest МРАМОР GF-C800E серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62508.74</price>
+        <cityprice cityId="615420100">62508.74</cityprice>
+    </offer>
+    <offer sku="1398603">
+      <model>Кухонная мойка EcoStone ES-15-310 серый</model>
+      <brand>EcoStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50229.08</price>
+        <cityprice cityId="615420100">50229.08</cityprice>
+    </offer>
+    <offer sku="1423142">
+      <model>Кухонная мойка GranFest QUARZ GF-Z08 серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46087.69</price>
+        <cityprice cityId="615420100">46087.69</cityprice>
+    </offer>
+    <offer sku="11118475">
+      <model>Кухонная мойка Kromrus Classic 15752310 серая</model>
+      <brand>Kromrus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23094.97</price>
+        <cityprice cityId="615420100">23094.97</cityprice>
+    </offer>
+    <offer sku="1399823">
+      <model>Кухонная мойка GranFest GF-P505 серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53187.21</price>
+        <cityprice cityId="615420100">53187.21</cityprice>
+    </offer>
+    <offer sku="11119073">
+      <model>Кухонная мойка Lex Geneva 740 серая</model>
+      <brand>LEX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40666.9</price>
+        <cityprice cityId="615420100">40666.9</cityprice>
+    </offer>
+    <offer sku="18125">
+      <model>Односекционная реверсивная мойка EcologyStone ES26310 серый</model>
+      <brand>EcologyStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53806.58</price>
+        <cityprice cityId="615420100">53806.58</cityprice>
+    </offer>
+    <offer sku="1409894">
+      <model>Кухонная мойка Smeg VZUM79CT серый</model>
+      <brand>Smeg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>293439.96</price>
+        <cityprice cityId="615420100">293439.96</cityprice>
+    </offer>
+    <offer sku="1415269">
+      <model>Кухонная мойка GranFest МРАМОР GF-Q775KL серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73957.25</price>
+        <cityprice cityId="615420100">73957.25</cityprice>
+    </offer>
+    <offer sku="1423219">
+      <model>Кухонная мойка GranFest Standart GF-S780K серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80809.17</price>
+        <cityprice cityId="615420100">80809.17</cityprice>
+    </offer>
+    <offer sku="1410701">
+      <model>Кухонная мойка AQUASANITA SQB102-110AW серый</model>
+      <brand>AQUASANITA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74629.49</price>
+        <cityprice cityId="615420100">74629.49</cityprice>
+    </offer>
+    <offer sku="1399414">
+      <model>Кухонная мойка GranFest МРАМОР GF-C960E серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66150.88</price>
+        <cityprice cityId="615420100">66150.88</cityprice>
+    </offer>
+    <offer sku="1404148">
+      <model>Кухонная мойка GranFest МРАМОР GF-P780K серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74728.19</price>
+        <cityprice cityId="615420100">74728.19</cityprice>
+    </offer>
+    <offer sku="1404761">
+      <model>Кухонная мойка GranFest QUARZ GF-ZW-72 серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76998.36</price>
+        <cityprice cityId="615420100">76998.36</cityprice>
+    </offer>
+    <offer sku="10684723">
+      <model>Кухонная мойка Zox ZX-GM  01 круглая, серая 480 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81441.5</price>
+        <cityprice cityId="615420100">81441.5</cityprice>
+    </offer>
+    <offer sku="509400">
+      <model>Кухонная мойка Omega 15745443 серая</model>
+      <brand>Omega</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11847.35</price>
+        <cityprice cityId="615420100">11847.35</cityprice>
+    </offer>
+    <offer sku="1403894">
+      <model>Кухонная мойка GranFest QUARZ GF-ZL-53 серая</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44125.47</price>
+        <cityprice cityId="615420100">44125.47</cityprice>
+    </offer>
+    <offer sku="10684943">
+      <model>Кухонная мойка Zox ZX-GM 12 с крылом, серая, 510*760*200 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>345807</price>
+        <cityprice cityId="615420100">345807</cityprice>
+    </offer>
+    <offer sku="1397931">
+      <model>Кухонная мойка FLORENTINA Селена 780 Brown</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91608.23</price>
+        <cityprice cityId="615420100">91608.23</cityprice>
+    </offer>
+    <offer sku="1416051">
+      <model>Кухонная мойка Granicom G-005 Сахара Beige</model>
+      <brand>Granicom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51834.49</price>
+        <cityprice cityId="615420100">51834.49</cityprice>
+    </offer>
+    <offer sku="1398647">
+      <model>Кухонная мойка FLORENTINA Родос 760 Brown</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108395.67</price>
+        <cityprice cityId="615420100">108395.67</cityprice>
+    </offer>
+    <offer sku="1421092">
+      <model>Кухонная мойка FLORENTINA Родос 760 Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70066.43</price>
+        <cityprice cityId="615420100">70066.43</cityprice>
+    </offer>
+    <offer sku="1422950">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 775 Речной песок</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>225200.39</price>
+        <cityprice cityId="615420100">225200.39</cityprice>
+    </offer>
+    <offer sku="1422919">
+      <model>Кухонная мойка Zigmund &amp; Shtain ECKIG 900 Речной песок</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91300.46</price>
+        <cityprice cityId="615420100">91300.46</cityprice>
+    </offer>
+    <offer sku="1413988">
+      <model>Кухонная мойка Zigmund &amp; Shtain RECHTECK 780 Речной песок</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119954.79</price>
+        <cityprice cityId="615420100">119954.79</cityprice>
+    </offer>
+    <offer sku="1422827">
+      <model>Кухонная мойка Zigmund &amp; Shtain KREIS OV 770 B Речной песок</model>
+      <brand>  Zigmund &amp; Shtain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100224.02</price>
+        <cityprice cityId="615420100">100224.02</cityprice>
+    </offer>
+    <offer sku="11118524">
+      <model>Кухонная раковина Avina MR-03 песочная</model>
+      <brand>Avina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>867710.78</price>
+        <cityprice cityId="615420100">867710.78</cityprice>
+    </offer>
+    <offer sku="1422879">
+      <model>Кухонная мойка FLORENTINA Липси-780Р Жасмин White</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86365.3</price>
+        <cityprice cityId="615420100">86365.3</cityprice>
+    </offer>
+    <offer sku="1397375">
+      <model>Кухонная мойка FLORENTINA Липси-780Р Песочный Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80058.16</price>
+        <cityprice cityId="615420100">80058.16</cityprice>
+    </offer>
+    <offer sku="1450358">
+      <model>Кухонная мойка Imenza Charisma 1 1/2B 1D правая Black</model>
+      <brand>Imenza</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217130.24</price>
+        <cityprice cityId="615420100">217130.24</cityprice>
+    </offer>
+    <offer sku="1417701">
+      <model>Кухонная мойка Нептун 6060 Е правая Silver</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33592.68</price>
+        <cityprice cityId="615420100">33592.68</cityprice>
+    </offer>
+    <offer sku="1397014">
+      <model>Кухонная мойка Dr.Gans Smart Пион белый</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39096.64</price>
+        <cityprice cityId="615420100">39096.64</cityprice>
+    </offer>
+    <offer sku="10684710">
+      <model>Кухонная мойка Zox ZX-GM 01 песочная, круглая 480 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37189.07</price>
+        <cityprice cityId="615420100">37189.07</cityprice>
+    </offer>
+    <offer sku="1397244">
+      <model>Кухонная мойка Gran-Stone G-76K-302 Песочный Beige</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59843.75</price>
+        <cityprice cityId="615420100">59843.75</cityprice>
+    </offer>
+    <offer sku="10684873">
+      <model>Кухонная мойка Zox ZX-GM 05 с крылом, песочная, 480*620*180 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66548.09</price>
+        <cityprice cityId="615420100">66548.09</cityprice>
+    </offer>
+    <offer sku="1397359">
+      <model>Кухонная мойка FLORENTINA Касси 780 Песочный Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73652.33</price>
+        <cityprice cityId="615420100">73652.33</cityprice>
+    </offer>
+    <offer sku="1398393">
+      <model>Кухонная мойка FLORENTINA Лотос 510 Песочный Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50604.41</price>
+        <cityprice cityId="615420100">50604.41</cityprice>
+    </offer>
+    <offer sku="1409438">
+      <model>Кухонная мойка FLORENTINA Липси 770 песочный-бежевый</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77689.29</price>
+        <cityprice cityId="615420100">77689.29</cityprice>
+    </offer>
+    <offer sku="1398367">
+      <model>Кухонная мойка FLORENTINA Липси 600 Песочный Beige</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67434.02</price>
+        <cityprice cityId="615420100">67434.02</cityprice>
+    </offer>
+    <offer sku="10685009">
+      <model>Кухонная мойка Zox ZХ-GM 02 овальная с крылом, песочная 460*580*180 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55081.13</price>
+        <cityprice cityId="615420100">55081.13</cityprice>
+    </offer>
+    <offer sku="10684915">
+      <model>Кухонная мойка Zox ZX-GM 09 песочная 510*570*200 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69158.44</price>
+        <cityprice cityId="615420100">69158.44</cityprice>
+    </offer>
+    <offer sku="1398490">
+      <model>Кухонная мойка Gran-Stone G-06 302 Песочный Beige</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47862.57</price>
+        <cityprice cityId="615420100">47862.57</cityprice>
+    </offer>
+    <offer sku="10684942">
+      <model>Кухонная мойка Zox ZX-GM 12 с крылом, песочная, 510*760*200 мм</model>
+      <brand>Zox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98800.02</price>
+        <cityprice cityId="615420100">98800.02</cityprice>
+    </offer>
+    <offer sku="1419220">
+      <model>Кухонная мойка Gran-Stone G-62-302 Песок</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34659.45</price>
+        <cityprice cityId="615420100">34659.45</cityprice>
+    </offer>
+    <offer sku="1417703">
+      <model>Кухонная мойка Gran-Stone G-76-302 Песок</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40082.69</price>
+        <cityprice cityId="615420100">40082.69</cityprice>
+    </offer>
+    <offer sku="1397742">
+      <model>Кухонная мойка Gran-Stone G-40S-302 Песок</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47369.55</price>
+        <cityprice cityId="615420100">47369.55</cityprice>
+    </offer>
+    <offer sku="1397152">
+      <model>Кухонная мойка Dr. Gans Оливия 620 White</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79367.24</price>
+        <cityprice cityId="615420100">79367.24</cityprice>
+    </offer>
+    <offer sku="1397718">
+      <model>Кухонная мойка Dr. Gans Оливия 420 White</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56234.09</price>
+        <cityprice cityId="615420100">56234.09</cityprice>
+    </offer>
+    <offer sku="510493">
+      <model>Кухонная мойка Dr. Gans Оливия 620 Black</model>
+      <brand>Dr.Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45444.97</price>
+        <cityprice cityId="615420100">45444.97</cityprice>
+    </offer>
+    <offer sku="1450343">
+      <model>Кухонная мойка IKEA Норршён 992.430.47 Silver</model>
+      <brand>IKEA </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>372458.84</price>
+        <cityprice cityId="615420100">372458.84</cityprice>
+    </offer>
+    <offer sku="1421031">
+      <model>Кухонная мойка Dr. Gans Ника 470 Gray</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30725.13</price>
+        <cityprice cityId="615420100">30725.13</cityprice>
+    </offer>
+    <offer sku="1404248">
+      <model>Кухонная мойка GranFest МРАМОР GF-S780K бежевый</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79140.4</price>
+        <cityprice cityId="615420100">79140.4</cityprice>
+    </offer>
+    <offer sku="1423151">
+      <model>Кухонная мойка GranFest МРАМОР GF-Q610K бежевый</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98802</price>
+        <cityprice cityId="615420100">98802</cityprice>
+    </offer>
+    <offer sku="1404597">
+      <model>Кухонная мойка GranFest МРАМОР GF-R750L бежевый</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43632.45</price>
+        <cityprice cityId="615420100">43632.45</cityprice>
+    </offer>
+    <offer sku="1401159">
+      <model>Кухонная мойка GranFest МРАМОР GF-C800E бежевый</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36138.51</price>
+        <cityprice cityId="615420100">36138.51</cityprice>
+    </offer>
+    <offer sku="1404683">
+      <model>Кухонная мойка GranFest МРАМОР GF-P780K бежевый</model>
+      <brand>GranFest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78478.91</price>
+        <cityprice cityId="615420100">78478.91</cityprice>
+    </offer>
+    <offer sku="1398381">
+      <model>Кухонная мойка Ecology Stone ES-12 Молочный</model>
+      <brand>EcologyStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58595.51</price>
+        <cityprice cityId="615420100">58595.51</cityprice>
+    </offer>
+    <offer sku="1397053">
+      <model>Кухонная мойка Ecology Stone ES-10 341 молоко Beige</model>
+      <brand>  Ecology Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81905.87</price>
+        <cityprice cityId="615420100">81905.87</cityprice>
+    </offer>
+    <offer sku="1420422">
+      <model>Кухонная мойка Ecology Stone ES-23 341 Молоко White</model>
+      <brand>EcologyStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105744.28</price>
+        <cityprice cityId="615420100">105744.28</cityprice>
+    </offer>
+    <offer sku="1450597">
+      <model>Кухонная мойка Ecology Stone ES-27 341 Молоко Beige</model>
+      <brand>EcologyStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106705.17</price>
+        <cityprice cityId="615420100">106705.17</cityprice>
+    </offer>
+    <offer sku="1398562">
+      <model>Кухонная мойка Ecology Stone ES-29 341 Молоко Beige</model>
+      <brand>EcologyStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123881.9</price>
+        <cityprice cityId="615420100">123881.9</cityprice>
+    </offer>
+    <offer sku="1450870">
+      <model>Кухонная мойка Ecology Stone ES-31 341 молоко</model>
+      <brand>EcologyStone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42942.21</price>
+        <cityprice cityId="615420100">42942.21</cityprice>
+    </offer>
+    <offer sku="1398395">
+      <model>Кухонная мойка FLORENTINA Касси 780 Мокко Brown</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78251.18</price>
+        <cityprice cityId="615420100">78251.18</cityprice>
+    </offer>
+    <offer sku="1421376">
+      <model>Кухонная мойка FLORENTINA Липси 780 Мокко Brown</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84469.78</price>
+        <cityprice cityId="615420100">84469.78</cityprice>
+    </offer>
+    <offer sku="1398394">
+      <model>Кухонная мойка FLORENTINA Лотос 510 Мокко Brown</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33584.66</price>
+        <cityprice cityId="615420100">33584.66</cityprice>
+    </offer>
+    <offer sku="1397914">
+      <model>Кухонная мойка FLORENTINA Вега 300 Мокко Brown</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48454.2</price>
+        <cityprice cityId="615420100">48454.2</cityprice>
+    </offer>
+    <offer sku="1398496">
+      <model>Кухонная мойка FLORENTINA Вега 160 Мокко Brown</model>
+      <brand>FLORENTINA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28457.23</price>
+        <cityprice cityId="615420100">28457.23</cityprice>
+    </offer>
+    <offer sku="1397999">
+      <model>Кухонная мойка Dr. Gans Гала White</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25400.49</price>
+        <cityprice cityId="615420100">25400.49</cityprice>
+    </offer>
+    <offer sku="1417767">
+      <model>Кухонная мойка Gran-Stone GS-20 302 Beige</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40378.5</price>
+        <cityprice cityId="615420100">40378.5</cityprice>
+    </offer>
+    <offer sku="1423096">
+      <model>Кухонная мойка Dr. Gans Адель 780 Латте Beige</model>
+      <brand>Dr. Gans</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42153.38</price>
+        <cityprice cityId="615420100">42153.38</cityprice>
+    </offer>
+    <offer sku="1397034">
+      <model>Кухонная мойка Gran-Stone G-06-308 Black</model>
+      <brand>Gran-Stone</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57322.94</price>
+        <cityprice cityId="615420100">57322.94</cityprice>
+    </offer>
+    <offer sku="1450645">
+      <model>Кухонная мойка Blanco Subline 700-U Level 523540 Gray</model>
+      <brand>Blanco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>262813.32</price>
+        <cityprice cityId="615420100">262813.32</cityprice>
+    </offer>
+    <offer sku="511721">
+      <model>Раковина Универсал Яуза белая</model>
+      <brand>Универсал</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10650.86</price>
+        <cityprice cityId="615420100">10650.86</cityprice>
+    </offer>
+    <offer sku="508601">
+      <model>Умывальник Sanita Эталон ETL55SAWB01 белый</model>
+      <brand>Sanita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16845.74</price>
+        <cityprice cityId="615420100">16845.74</cityprice>
+    </offer>
+    <offer sku="10681936">
+      <model>Раковина с пьедесталом Sanita Эталон ETL55SAWB01</model>
+      <brand>Sanita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14756.08</price>
+        <cityprice cityId="615420100">14756.08</cityprice>
+    </offer>
+    <offer sku="1478147">
+      <model>Раковина АКВАТОН Эрис 46 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41639.31</price>
+        <cityprice cityId="615420100">41639.31</cityprice>
+    </offer>
+    <offer sku="1471367">
+      <model>Раковина Santek Эльбрус 100</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54126.7</price>
+        <cityprice cityId="615420100">54126.7</cityprice>
+    </offer>
+    <offer sku="1477811">
+      <model>Раковина Santek Эллада 60 White</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16461.99</price>
+        <cityprice cityId="615420100">16461.99</cityprice>
+    </offer>
+    <offer sku="1476759">
+      <model>Раковина ROSA Элеганс 650</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18592.47</price>
+        <cityprice cityId="615420100">18592.47</cityprice>
+    </offer>
+    <offer sku="508429">
+      <model>Умывальник ROSA Элеганс 600 белый</model>
+      <brand>Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25639.12</price>
+        <cityprice cityId="615420100">25639.12</cityprice>
+    </offer>
+    <offer sku="1474827">
+      <model>Раковина ROSA Элеганс 65 белый с пьедесталом</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20496.47</price>
+        <cityprice cityId="615420100">20496.47</cityprice>
+    </offer>
+    <offer sku="1472454">
+      <model>Раковина ROSA Элеганс белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17092.75</price>
+        <cityprice cityId="615420100">17092.75</cityprice>
+    </offer>
+    <offer sku="1471482">
+      <model>Раковина ROSA Элеганс 65 белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28360.13</price>
+        <cityprice cityId="615420100">28360.13</cityprice>
+    </offer>
+    <offer sku="10950434">
+      <model>Умывальник Kirovit Элеганс 850 белый</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38538.71</price>
+        <cityprice cityId="615420100">38538.71</cityprice>
+    </offer>
+    <offer sku="1477629">
+      <model>Раковина Kirovit Элеганс 105 White</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81006.77</price>
+        <cityprice cityId="615420100">81006.77</cityprice>
+    </offer>
+    <offer sku="1472119">
+      <model>Раковина ROSA Элеганс 60 белый</model>
+      <brand>Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21743.36</price>
+        <cityprice cityId="615420100">21743.36</cityprice>
+    </offer>
+    <offer sku="1476940">
+      <model>Раковина Roca Элегия 55 White</model>
+      <brand>Roca </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53254.28</price>
+        <cityprice cityId="615420100">53254.28</cityprice>
+    </offer>
+    <offer sku="1471162">
+      <model>Раковина Универсал Элегия 50 белый</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17817.78</price>
+        <cityprice cityId="615420100">17817.78</cityprice>
+    </offer>
+    <offer sku="1477040">
+      <model>Раковина ROSA ЭЛЕГИЯ 40 белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20924.29</price>
+        <cityprice cityId="615420100">20924.29</cityprice>
+    </offer>
+    <offer sku="1477860">
+      <model>Раковина Roca Элегия КСФ 60 White</model>
+      <brand>  Элегия </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29531.92</price>
+        <cityprice cityId="615420100">29531.92</cityprice>
+    </offer>
+    <offer sku="1476917">
+      <model>Раковина Kirovit Элвис 105 White</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65979.98</price>
+        <cityprice cityId="615420100">65979.98</cityprice>
+    </offer>
+    <offer sku="1476839">
+      <model>Раковина Kirovit Элвис 85 White</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76033.08</price>
+        <cityprice cityId="615420100">76033.08</cityprice>
+    </offer>
+    <offer sku="1478288">
+      <model>Раковина Opadiris Эйфория 60 White</model>
+      <brand>Cersanit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>147213.99</price>
+        <cityprice cityId="615420100">147213.99</cityprice>
+    </offer>
+    <offer sku="10978420">
+      <model>Раковина Jacob Delafon Vox EVG102-PN1 розовый шелк</model>
+      <brand>Jacob Delafon </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286989.18</price>
+        <cityprice cityId="615420100">286989.18</cityprice>
+    </offer>
+    <offer sku="11118578">
+      <model>Раковина Rak Ceramics FEECT5000504A черная</model>
+      <brand>Rak Ceramics</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296399.08</price>
+        <cityprice cityId="615420100">296399.08</cityprice>
+    </offer>
+    <offer sku="10951067">
+      <model>Раковина Gappo GT403-8 черная</model>
+      <brand>Gappo </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6873120.62</price>
+        <cityprice cityId="615420100">6873120.62</cityprice>
+    </offer>
+    <offer sku="1472304">
+      <model>Раковина Кировская керамика ROSA Комфорт Черный</model>
+      <brand>Кировская керамика</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>291873.95</price>
+        <cityprice cityId="615420100">291873.95</cityprice>
+    </offer>
+    <offer sku="1475788">
+      <model>Раковина Керамин Омега-Л с2 черный</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31359.75</price>
+        <cityprice cityId="615420100">31359.75</cityprice>
+    </offer>
+    <offer sku="1477017">
+      <model>Раковина Grossman GR-3052BM черный</model>
+      <brand>Grossman </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44409.52</price>
+        <cityprice cityId="615420100">44409.52</cityprice>
+    </offer>
+    <offer sku="10950510">
+      <model>Раковина Grossman GR-3025ВМ черная матовая</model>
+      <brand>Grossman </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145186.57</price>
+        <cityprice cityId="615420100">145186.57</cityprice>
+    </offer>
+    <offer sku="11118695">
+      <model>Раковина Rak Ceramics FEECT5500504A черная</model>
+      <brand>Rac Ceramics</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296406</price>
+        <cityprice cityId="615420100">296406</cityprice>
+    </offer>
+    <offer sku="1478270">
+      <model>Раковина Керамин Чезаро 60 White</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17768.55</price>
+        <cityprice cityId="615420100">17768.55</cityprice>
+    </offer>
+    <offer sku="10950516">
+      <model>Раковина-чаша 40х40 см Jacob Delafon Vox логотип 1930 EVG102-PT6</model>
+      <brand>Jacob Delafon </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375447.6</price>
+        <cityprice cityId="615420100">375447.6</cityprice>
+    </offer>
+    <offer sku="1473680">
+      <model>Раковина ROSA Хирургический 65.5 белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53258.23</price>
+        <cityprice cityId="615420100">53258.23</cityprice>
+    </offer>
+    <offer sku="1476772">
+      <model>Раковина Керамин Хирургический белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48772.62</price>
+        <cityprice cityId="615420100">48772.62</cityprice>
+    </offer>
+    <offer sku="1476752">
+      <model>Раковина BQ-B015 90х46 белый</model>
+      <brand>Daiva team </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>291753.41</price>
+        <cityprice cityId="615420100">291753.41</cityprice>
+    </offer>
+    <offer sku="508945">
+      <model>Раковина Kirovit Престиж 60х60 белая</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135358.74</price>
+        <cityprice cityId="615420100">135358.74</cityprice>
+    </offer>
+    <offer sku="1477739">
+      <model>Раковина DAIVA SHOP BQ-A609 42х42 белый</model>
+      <brand>DAIVA SHOP</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59133.99</price>
+        <cityprice cityId="615420100">59133.99</cityprice>
+    </offer>
+    <offer sku="508678">
+      <model>Раковина Andrea Quartz 50х50 белая</model>
+      <brand>Andrea</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93860.91</price>
+        <cityprice cityId="615420100">93860.91</cityprice>
+    </offer>
+    <offer sku="12469042">
+      <model>Раковина угловая Santeri Воротынский 816 40.5х48 см</model>
+      <brand>Santeri</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16527.6</price>
+        <cityprice cityId="615420100">16527.6</cityprice>
+    </offer>
+    <offer sku="10950661">
+      <model>Подвесная раковина Lyrа (Dino) 50х41х28 см 8142700001049 белая</model>
+      <brand>Jika </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23419.04</price>
+        <cityprice cityId="615420100">23419.04</cityprice>
+    </offer>
+    <offer sku="1477021">
+      <model>Раковина Kirovit ФОСТЕР 500 белый</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33637.14</price>
+        <cityprice cityId="615420100">33637.14</cityprice>
+    </offer>
+    <offer sku="1476945">
+      <model>Раковина Kirovit КСФ Фостер 800 П White</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>642400.72</price>
+        <cityprice cityId="615420100">642400.72</cityprice>
+    </offer>
+    <offer sku="1477727">
+      <model>Раковина Kirovit Фостер 70 White</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88920.81</price>
+        <cityprice cityId="615420100">88920.81</cityprice>
+    </offer>
+    <offer sku="1472705">
+      <model>Раковина ROSA Фостер 60 белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35730.76</price>
+        <cityprice cityId="615420100">35730.76</cityprice>
+    </offer>
+    <offer sku="1475052">
+      <model>Раковина Kirovit Фостер 60 белый</model>
+      <brand>Kirovit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32128.43</price>
+        <cityprice cityId="615420100">32128.43</cityprice>
+    </offer>
+    <offer sku="1477373">
+      <model>Раковина Santek Форум-45 White с отверстием слева</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19257.5</price>
+        <cityprice cityId="615420100">19257.5</cityprice>
+    </offer>
+    <offer sku="1477504">
+      <model>Раковина Santek Форум-45 White с отверстием справа</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16849.69</price>
+        <cityprice cityId="615420100">16849.69</cityprice>
+    </offer>
+    <offer sku="1478305">
+      <model>Раковина АКВАТОН Фабиа 80 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97811.02</price>
+        <cityprice cityId="615420100">97811.02</cityprice>
+    </offer>
+    <offer sku="1478100">
+      <model>Раковина АКВАТОН Фабиа 65 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85628.73</price>
+        <cityprice cityId="615420100">85628.73</cityprice>
+    </offer>
+    <offer sku="1477915">
+      <model>Раковина АКВАТОН Фабиа 80 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>971907.37</price>
+        <cityprice cityId="615420100">971907.37</cityprice>
+    </offer>
+    <offer sku="508419">
+      <model>Умывальник ROSA Уют 450 белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13733.48</price>
+        <cityprice cityId="615420100">13733.48</cityprice>
+    </offer>
+    <offer sku="10951241">
+      <model>Умывальник Rosa Уют 550 белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48403.1</price>
+        <cityprice cityId="615420100">48403.1</cityprice>
+    </offer>
+    <offer sku="1477733">
+      <model>Раковина Кировская Керамика Уют 45 белый</model>
+      <brand>Кировская керамика</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32604.66</price>
+        <cityprice cityId="615420100">32604.66</cityprice>
+    </offer>
+    <offer sku="1477118">
+      <model>Раковина ROSA Уют 500 White</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32505.86</price>
+        <cityprice cityId="615420100">32505.86</cityprice>
+    </offer>
+    <offer sku="1472260">
+      <model>Раковина ROSA УЮТ-50 белый</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17220.2</price>
+        <cityprice cityId="615420100">17220.2</cityprice>
+    </offer>
+    <offer sku="1476630">
+      <model>Раковина ДОМИНО Уют 60</model>
+      <brand>ДОМИНО </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21205.87</price>
+        <cityprice cityId="615420100">21205.87</cityprice>
+    </offer>
+    <offer sku="1478285">
+      <model>Раковина Rosa Уют 600</model>
+      <brand>Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19562.8</price>
+        <cityprice cityId="615420100">19562.8</cityprice>
+    </offer>
+    <offer sku="10936631">
+      <model>Двойная раковина для установки на тумбу Villeroy &amp; Boch Subway 2.0 7175D001 белая</model>
+      <brand>Villeroy &amp; Boch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134708.62</price>
+        <cityprice cityId="615420100">134708.62</cityprice>
+    </offer>
+    <offer sku="509000">
+      <model>Раковина для установки на тумбу Villeroy &amp; Boch Collaro 4A331G01 белая</model>
+      <brand>Villeroy &amp; Boch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143400.23</price>
+        <cityprice cityId="615420100">143400.23</cityprice>
+    </offer>
+    <offer sku="1476170">
+      <model>Раковина Универсал Амур 60 белый</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22173.14</price>
+        <cityprice cityId="615420100">22173.14</cityprice>
+    </offer>
+    <offer sku="1478212">
+      <model>Раковина Универсал Катунь Белый без отверстия под смеситель</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19034.21</price>
+        <cityprice cityId="615420100">19034.21</cityprice>
+    </offer>
+    <offer sku="508609">
+      <model>Раковина Универсал Малыш 82034489 белая</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64221.3</price>
+        <cityprice cityId="615420100">64221.3</cityprice>
+    </offer>
+    <offer sku="10952186">
+      <model>Мебельная раковина Универсал Исеть 55 белая</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17674.69</price>
+        <cityprice cityId="615420100">17674.69</cityprice>
+    </offer>
+    <offer sku="10827634">
+      <model>Раковина Универсал &quot;Ностальжи&quot; с пьедесталом</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16133.38</price>
+        <cityprice cityId="615420100">16133.38</cityprice>
+    </offer>
+    <offer sku="1475195">
+      <model>Раковина Универсал Мини 60 белый</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17043.1</price>
+        <cityprice cityId="615420100">17043.1</cityprice>
+    </offer>
+    <offer sku="1475071">
+      <model>Раковина Универсал Енисей 50 белый</model>
+      <brand>Универсал </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32145.23</price>
+        <cityprice cityId="615420100">32145.23</cityprice>
+    </offer>
+    <offer sku="18118">
+      <model>Угловой умывальник Ирис-36 с отверстием под смеситель</model>
+      <brand>Santek</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12839.32</price>
+        <cityprice cityId="615420100">12839.32</cityprice>
+    </offer>
+    <offer sku="10951012">
+      <model>Умывальник Ravak Rosa II 60x49 белый</model>
+      <brand>Ravak </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128924.75</price>
+        <cityprice cityId="615420100">128924.75</cityprice>
+    </offer>
+    <offer sku="508774">
+      <model>Умывальник мебельный Милан 55 белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23514.88</price>
+        <cityprice cityId="615420100">23514.88</cityprice>
+    </offer>
+    <offer sku="508454">
+      <model>Накладной умывальник Sanita Luxe Infinity 60 белый</model>
+      <brand>Sanita Luxe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102762.97</price>
+        <cityprice cityId="615420100">102762.97</cityprice>
+    </offer>
+    <offer sku="10950845">
+      <model>Умывальник Ravak Formy-01 500 D белый</model>
+      <brand>Ravak </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>425644.94</price>
+        <cityprice cityId="615420100">425644.94</cityprice>
+    </offer>
+    <offer sku="508489">
+      <model>Умывальник Sanita для пьедестала Аттика белый</model>
+      <brand>Sanita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15689.76</price>
+        <cityprice cityId="615420100">15689.76</cityprice>
+    </offer>
+    <offer sku="10681950">
+      <model>Умывальник Sanita Комфорт CMFSAWB01, с пьедесталом</model>
+      <brand>Sanita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18278.37</price>
+        <cityprice cityId="615420100">18278.37</cityprice>
+    </offer>
+    <offer sku="10952153">
+      <model>Мебельный умывальник Sanita Luxe Best 85 белый</model>
+      <brand>Sanita Luxe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92458.91</price>
+        <cityprice cityId="615420100">92458.91</cityprice>
+    </offer>
+    <offer sku="1526296">
+      <model>Умывальник Santeri, Воротынский 56 см с пьедесталом</model>
+      <brand>Santeri</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19612.2</price>
+        <cityprice cityId="615420100">19612.2</cityprice>
+    </offer>
+    <offer sku="10951280">
+      <model>Умывальник встраиваемый Керамин Бари 50 белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48900.07</price>
+        <cityprice cityId="615420100">48900.07</cityprice>
+    </offer>
+    <offer sku="10682484">
+      <model>Умывальник с пьедесталом Santeri &quot;Версия&quot;  69.2 см</model>
+      <brand>Santeri</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15808.32</price>
+        <cityprice cityId="615420100">15808.32</cityprice>
+    </offer>
+    <offer sku="18117">
+      <model>Умывальник Santek Анимо-40 c отверстием под смеситель</model>
+      <brand>Santek</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11757.44</price>
+        <cityprice cityId="615420100">11757.44</cityprice>
+    </offer>
+    <offer sku="10951190">
+      <model>Умывальник Sanita Самарский SMRSAWB01 белый</model>
+      <brand>Sanita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11879.95</price>
+        <cityprice cityId="615420100">11879.95</cityprice>
+    </offer>
+    <offer sku="10950941">
+      <model>Мебельный умывальник Sanita Luxe Fest 60 белый</model>
+      <brand>Sanita Luxe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61244.4</price>
+        <cityprice cityId="615420100">61244.4</cityprice>
+    </offer>
+    <offer sku="12625006">
+      <model>Умывальник Deryakeramika DK-32218 с пьедесталом, белый</model>
+      <brand>Deryakeramika</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17430.35</price>
+        <cityprice cityId="615420100">17430.35</cityprice>
+    </offer>
+    <offer sku="511703">
+      <model>Полупьедестальный умывальник Best Color Green BSTSLWB01</model>
+      <brand>Sanita Luxe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18329.74</price>
+        <cityprice cityId="615420100">18329.74</cityprice>
+    </offer>
+    <offer sku="18116">
+      <model>Умывальник Бриз-40 левое отверстие</model>
+      <brand>Santek</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11846.36</price>
+        <cityprice cityId="615420100">11846.36</cityprice>
+    </offer>
+    <offer sku="10682532">
+      <model>Умывальник Оскольская керамика &quot;Престиж&quot; 55 см с пьедесталом белый</model>
+      <brand>Оскольская керамика</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20335.43</price>
+        <cityprice cityId="615420100">20335.43</cityprice>
+    </offer>
+    <offer sku="1471054">
+      <model>Раковина ROSA Угловой White</model>
+      <brand>Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16959.36</price>
+        <cityprice cityId="615420100">16959.36</cityprice>
+    </offer>
+    <offer sku="1470965">
+      <model>Раковина IKEA Тэллевикен 103.838.66 белый</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37013.21</price>
+        <cityprice cityId="615420100">37013.21</cityprice>
+    </offer>
+    <offer sku="10878264">
+      <model>Раковина тройная Franke Quadro ANMW430, белая</model>
+      <brand>Franke</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1280018.44</price>
+        <cityprice cityId="615420100">1280018.44</cityprice>
+    </offer>
+    <offer sku="1477654">
+      <model>Раковина Керамин Трино 55 Белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39392.36</price>
+        <cityprice cityId="615420100">39392.36</cityprice>
+    </offer>
+    <offer sku="1478207">
+      <model>Раковина Керамин Трино 65 с1 белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41847.59</price>
+        <cityprice cityId="615420100">41847.59</cityprice>
+    </offer>
+    <offer sku="508234">
+      <model>Раковина накладная IKEA Торнвикен 203.690.87 белая</model>
+      <brand>IKEA </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="1473266">
+      <model>Раковина ТМ ROSA Ока 55 белый</model>
+      <brand>  ТМ ROSA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28652.58</price>
+        <cityprice cityId="615420100">28652.58</cityprice>
+    </offer>
+    <offer sku="11118641">
+      <model>Раковина Keramik тип 02 UZU55-02 белая</model>
+      <brand>Keramik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28639.74</price>
+        <cityprice cityId="615420100">28639.74</cityprice>
+    </offer>
+    <offer sku="1477803">
+      <model>Раковина АКВАТОН Тигода 60 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38395.45</price>
+        <cityprice cityId="615420100">38395.45</cityprice>
+    </offer>
+    <offer sku="1477813">
+      <model>Раковина АКВАТОН Тигода 80 White</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74094.58</price>
+        <cityprice cityId="615420100">74094.58</cityprice>
+    </offer>
+    <offer sku="1478090">
+      <model>Раковина АКВАТОН Тигода 70 White</model>
+      <brand>Cersanit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61671.22</price>
+        <cityprice cityId="615420100">61671.22</cityprice>
+    </offer>
+    <offer sku="1476774">
+      <model>Раковина SANTEK Тигода 60 белый</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49345.67</price>
+        <cityprice cityId="615420100">49345.67</cityprice>
+    </offer>
+    <offer sku="1477820">
+      <model>Раковина АКВАТОН Тигода 55 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34867.23</price>
+        <cityprice cityId="615420100">34867.23</cityprice>
+    </offer>
+    <offer sku="1477036">
+      <model>Раковина Santek Тигода 80 белый</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33213.28</price>
+        <cityprice cityId="615420100">33213.28</cityprice>
+    </offer>
+    <offer sku="1476773">
+      <model>Раковина Santek Тигода 50 белый</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21856.98</price>
+        <cityprice cityId="615420100">21856.98</cityprice>
+    </offer>
+    <offer sku="10951168">
+      <model>Раковина Santek Тигода 70 белая</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113622.3</price>
+        <cityprice cityId="615420100">113622.3</cityprice>
+    </offer>
+    <offer sku="1470954">
+      <model>Раковина Cersanit Crea на столешницу 38 белый</model>
+      <brand>Cersanit </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85752</price>
+        <cityprice cityId="615420100">85752</cityprice>
+    </offer>
+    <offer sku="510168">
+      <model>Раковина-столешница Jacob Delafon Odeon Rive Gauche EXAW112-Z-00 белая</model>
+      <brand>Jacob Delafon </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168446.54</price>
+        <cityprice cityId="615420100">168446.54</cityprice>
+    </offer>
+    <offer sku="507838">
+      <model>Раковина над стиральной машиной Marrbaxx Стайл V50D1 белая</model>
+      <brand>MARRBAXX </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91807.81</price>
+        <cityprice cityId="615420100">91807.81</cityprice>
+    </offer>
+    <offer sku="1478078">
+      <model>Раковина Santek Стелла-65 White</model>
+      <brand>Santek </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74101.5</price>
+        <cityprice cityId="615420100">74101.5</cityprice>
+    </offer>
+    <offer sku="508529">
+      <model>Раковина ROSA Стандарт без пьедестала белая</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16324.29</price>
+        <cityprice cityId="615420100">16324.29</cityprice>
+    </offer>
+    <offer sku="1476813">
+      <model>Раковина Rosa Стандарт, белая</model>
+      <brand>  Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16461.99</price>
+        <cityprice cityId="615420100">16461.99</cityprice>
+    </offer>
+    <offer sku="1472225">
+      <model>Раковина Santeri Соната 131112S0011B0 белый</model>
+      <brand>Santeri</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23416.07</price>
+        <cityprice cityId="615420100">23416.07</cityprice>
+    </offer>
+    <offer sku="10950826">
+      <model>Раковина Jacob Delafon Escale E1211-00 65 см белая</model>
+      <brand>Jacob Delafon </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>592812</price>
+        <cityprice cityId="615420100">592812</cityprice>
+    </offer>
+    <offer sku="1471098">
+      <model>Раковина Grohe Euro Ceramic 39324000 45 см</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>660447.9</price>
+        <cityprice cityId="615420100">660447.9</cityprice>
+    </offer>
+    <offer sku="1478135">
+      <model>Раковина ROSA Лира 55 см White с пьедесталом</model>
+      <brand>Rosa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20819.7</price>
+        <cityprice cityId="615420100">20819.7</cityprice>
+    </offer>
+    <offer sku="10780945">
+      <model>Раковина Serel Friendly, 33x45 см</model>
+      <brand>Serel </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35766.32</price>
+        <cityprice cityId="615420100">35766.32</cityprice>
+    </offer>
+    <offer sku="508870">
+      <model>Раковина Andrea Сorolina 60 см белая</model>
+      <brand>Andrea</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114119.82</price>
+        <cityprice cityId="615420100">114119.82</cityprice>
+    </offer>
+    <offer sku="1477784">
+      <model>Раковина АКВАТОН Сиена М 110 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119352.82</price>
+        <cityprice cityId="615420100">119352.82</cityprice>
+    </offer>
+    <offer sku="1478335">
+      <model>Раковина АКВАТОН Сиена М 75 White</model>
+      <brand>АКВАТОН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90886.97</price>
+        <cityprice cityId="615420100">90886.97</cityprice>
+    </offer>
+    <offer sku="1474179">
+      <model>Раковина Сантехпром МСК 50 белый</model>
+      <brand>Сантехпром </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10941.33</price>
+        <cityprice cityId="615420100">10941.33</cityprice>
+    </offer>
+    <offer sku="1475723">
+      <model>Раковина САНТЕК НС Инфинити 76</model>
+      <brand>  САНТЕК НС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100139.78</price>
+        <cityprice cityId="615420100">100139.78</cityprice>
+    </offer>
+    <offer sku="1473021">
+      <model>Раковина Керамин Санти 65 1с белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34162.77</price>
+        <cityprice cityId="615420100">34162.77</cityprice>
+    </offer>
+    <offer sku="1471512">
+      <model>Раковина Керамин Санти 80 1с белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77984.42</price>
+        <cityprice cityId="615420100">77984.42</cityprice>
+    </offer>
+    <offer sku="1475818">
+      <model>Раковина Керамин Санти 70 1с белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131722.83</price>
+        <cityprice cityId="615420100">131722.83</cityprice>
+    </offer>
+    <offer sku="1472189">
+      <model>Раковина СанТа Stella 100 белый</model>
+      <brand>  СанТа </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132830.59</price>
+        <cityprice cityId="615420100">132830.59</cityprice>
+    </offer>
+    <offer sku="10682062">
+      <model>Раковина Sanita Самарский, с пьедесталом, белая</model>
+      <brand>Sanita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19562.8</price>
+        <cityprice cityId="615420100">19562.8</cityprice>
+    </offer>
+    <offer sku="1476962">
+      <model>Раковина Керамин Женева-Л 1С White</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27135.97</price>
+        <cityprice cityId="615420100">27135.97</cityprice>
+    </offer>
+    <offer sku="1472734">
+      <model>Раковина Керамин Женева-Л 2с белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21376.8</price>
+        <cityprice cityId="615420100">21376.8</cityprice>
+    </offer>
+    <offer sku="1476777">
+      <model>Раковина Керамин Бари 80 1с белый</model>
+      <brand>Керамин </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61880.68</price>
+        <cityprice cityId="615420100">61880.68</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
