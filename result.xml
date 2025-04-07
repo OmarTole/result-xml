@@ -33735,5 +33735,2615 @@
       <price>1544.65</price>
         <cityprice cityId="615420100">1544.65</cityprice>
     </offer>
+    <offer sku="3124889">
+      <model>Рулетка Энкор РФ2-10-25 25 мм x 10 м</model>
+      <brand>Энкор </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2155.99</price>
+        <cityprice cityId="615420100">2155.99</cityprice>
+    </offer>
+    <offer sku="3154287">
+      <model>Рулетка Энкор Наутилус 3 м</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2754.01</price>
+        <cityprice cityId="615420100">2754.01</cityprice>
+    </offer>
+    <offer sku="3124730">
+      <model>Рулетка Энкор 4127 13 мм x 30 м</model>
+      <brand>Энкор </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10632.48</price>
+        <cityprice cityId="615420100">10632.48</cityprice>
+    </offer>
+    <offer sku="1908384">
+      <model>Рулетка ЭКСПЕРТ 7175 7.5 м</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2137.46</price>
+        <cityprice cityId="615420100">2137.46</cityprice>
+    </offer>
+    <offer sku="12249184">
+      <model>Рулетка Эксперт 7275, 7.5 м</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1553.47</price>
+        <cityprice cityId="615420100">1553.47</cityprice>
+    </offer>
+    <offer sku="1907197">
+      <model>Рулетка Xiaomi Duka Small Q Ruler черный</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23097.93</price>
+        <cityprice cityId="615420100">23097.93</cityprice>
+    </offer>
+    <offer sku="12174146">
+      <model>Рулетка Центроинструмент Ультра-чемпион 10 м*32 мм</model>
+      <brand>Центроинструмент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9866.37</price>
+        <cityprice cityId="615420100">9866.37</cityprice>
+    </offer>
+    <offer sku="12249188">
+      <model>Рулетка Центроинструмент 5-25 ультра, 5 м</model>
+      <brand>Центроинструмент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2895.24</price>
+        <cityprice cityId="615420100">2895.24</cityprice>
+    </offer>
+    <offer sku="10527871">
+      <model>Рулетка Matrix Chrom 31036, 3 м x 13 мм, хромированный корпус</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>497.96</price>
+        <cityprice cityId="615420100">497.96</cityprice>
+    </offer>
+    <offer sku="10817201">
+      <model>Рулетка Зубр Автостоп 34052-05-19, 5м х 19мм, обрезиненный корпус</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>846.73</price>
+        <cityprice cityId="615420100">846.73</cityprice>
+    </offer>
+    <offer sku="10817209">
+      <model>Рулетка Kraftool Grand 34022-10-25, 10м х 25мм</model>
+      <brand>KRAFTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2582.07</price>
+        <cityprice cityId="615420100">2582.07</cityprice>
+    </offer>
+    <offer sku="10817206">
+      <model>Рулетка Kraftool Grand 34022-05-19, 5м х 19мм</model>
+      <brand>KRAFTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1814.99</price>
+        <cityprice cityId="615420100">1814.99</cityprice>
+    </offer>
+    <offer sku="4295319">
+      <model>Рулетка Matrix 31078 Strong, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>586.88</price>
+        <cityprice cityId="615420100">586.88</cityprice>
+    </offer>
+    <offer sku="4308951">
+      <model>Рулетка Gross 32570 Magnetisch, 3м х 16мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2914.66</price>
+        <cityprice cityId="615420100">2914.66</cityprice>
+    </offer>
+    <offer sku="4327245">
+      <model>Рулетка Gross 32562 Komfortabel, 5 м х 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2486.8</price>
+        <cityprice cityId="615420100">2486.8</cityprice>
+    </offer>
+    <offer sku="4309671">
+      <model>Рулетка Gross 32564 Komfortabel, 10 м х 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4122.33</price>
+        <cityprice cityId="615420100">4122.33</cityprice>
+    </offer>
+    <offer sku="4323573">
+      <model>Рулетка геодезическая Gross 31251 20 м х 13 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8791.6</price>
+        <cityprice cityId="615420100">8791.6</cityprice>
+    </offer>
+    <offer sku="1907676">
+      <model>Рулетка Matrix 31033, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>841.79</price>
+        <cityprice cityId="615420100">841.79</cityprice>
+    </offer>
+    <offer sku="4324857">
+      <model>Рулетка геодезическая  Сибртех 31263 50 м х 13 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3316.91</price>
+        <cityprice cityId="615420100">3316.91</cityprice>
+    </offer>
+    <offer sku="4303113">
+      <model>Рулетка Matrix 31012 Magnetic, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1181.67</price>
+        <cityprice cityId="615420100">1181.67</cityprice>
+    </offer>
+    <offer sku="4989223">
+      <model>Рулетка геодезическая Sparta 314355, 30 м х 12,5 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2228.97</price>
+        <cityprice cityId="615420100">2228.97</cityprice>
+    </offer>
+    <offer sku="10524367">
+      <model>Рулетка Сибртех Сапфир 32582, двухкомпонентный корпус, 5 м х 25 мм</model>
+      <brand>Сибртех </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>886.56</price>
+        <cityprice cityId="615420100">886.56</cityprice>
+    </offer>
+    <offer sku="10817204">
+      <model>Рулетка Зубр Автостоп 34052-10-25, 10м х 25мм, обрезиненный корпус</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1351.46</price>
+        <cityprice cityId="615420100">1351.46</cityprice>
+    </offer>
+    <offer sku="10524458">
+      <model>Рулетка Pro Matrix 31281 геодезическая, 30 м х 12.5 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5520.07</price>
+        <cityprice cityId="615420100">5520.07</cityprice>
+    </offer>
+    <offer sku="10817129">
+      <model>Рулетка Сибин 34020-03-16 3м х 16мм</model>
+      <brand>СИБИН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>600.72</price>
+        <cityprice cityId="615420100">600.72</cityprice>
+    </offer>
+    <offer sku="10817130">
+      <model>Рулетка Сибин 34020-05-19 5м х 19мм</model>
+      <brand>СИБИН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>496.97</price>
+        <cityprice cityId="615420100">496.97</cityprice>
+    </offer>
+    <offer sku="4302707">
+      <model>Рулетка Барс 32544 Вектор 10 м х 25 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3321.72</price>
+        <cityprice cityId="615420100">3321.72</cityprice>
+    </offer>
+    <offer sku="4292637">
+      <model>Рулетка  Matrix 31023 Status magnet fixation, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1467.21</price>
+        <cityprice cityId="615420100">1467.21</cityprice>
+    </offer>
+    <offer sku="10817207">
+      <model>Рулетка Kraftool Grand 34022-05-25, 5м х 25мм</model>
+      <brand>KRAFTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2189.45</price>
+        <cityprice cityId="615420100">2189.45</cityprice>
+    </offer>
+    <offer sku="4325782">
+      <model>Рулетка геодезическая Matrix 31271 30 м х 15 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4795.85</price>
+        <cityprice cityId="615420100">4795.85</cityprice>
+    </offer>
+    <offer sku="10525397">
+      <model>Рулетка Black Matrix 31015,  7,5 м х 25 мм, обрезиненный корпус</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1366.43</price>
+        <cityprice cityId="615420100">1366.43</cityprice>
+    </offer>
+    <offer sku="4989203">
+      <model>Рулетка геодезическая Sparta 312115, 10 м х 12,5 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1000.86</price>
+        <cityprice cityId="615420100">1000.86</cityprice>
+    </offer>
+    <offer sku="4290297">
+      <model>Рулетка Matrix 31001 Rubber, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1416.82</price>
+        <cityprice cityId="615420100">1416.82</cityprice>
+    </offer>
+    <offer sku="4314857">
+      <model>Рулетка Matrix 31224 геодезическая, 30 м х 12,5 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1114.16</price>
+        <cityprice cityId="615420100">1114.16</cityprice>
+    </offer>
+    <offer sku="4321124">
+      <model>Рулетка Matrix 31445 геодезическая, 50 м х 12,5 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3890.23</price>
+        <cityprice cityId="615420100">3890.23</cityprice>
+    </offer>
+    <offer sku="4326557">
+      <model>Рулетка Сибртех 32521 Кварц, 5 м х 19 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>648.38</price>
+        <cityprice cityId="615420100">648.38</cityprice>
+    </offer>
+    <offer sku="3151305">
+      <model>Рулетка Sparta Elastica, 3 м х 16 мм, обрезиненный корпус</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>688.08</price>
+        <cityprice cityId="615420100">688.08</cityprice>
+    </offer>
+    <offer sku="3151341">
+      <model>Рулетка Sparta Elastica, 5 м х 18 мм, обрезиненный корпус</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1154.01</price>
+        <cityprice cityId="615420100">1154.01</cityprice>
+    </offer>
+    <offer sku="4308405">
+      <model>Рулетка  Барс 32542 Вектор 5 м х 25 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3107.32</price>
+        <cityprice cityId="615420100">3107.32</cityprice>
+    </offer>
+    <offer sku="4294842">
+      <model>Рулетка Matrix 31075 Crystal, 10 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1831.79</price>
+        <cityprice cityId="615420100">1831.79</cityprice>
+    </offer>
+    <offer sku="4315420">
+      <model>Рулетка Sparta 31302 Classic, 3 м х 16 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>694.58</price>
+        <cityprice cityId="615420100">694.58</cityprice>
+    </offer>
+    <offer sku="4328424">
+      <model>Рулетка Gross 32572 Magnetisch, 5м х 25мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4616.03</price>
+        <cityprice cityId="615420100">4616.03</cityprice>
+    </offer>
+    <offer sku="4334757">
+      <model>Рулетка Matrix 31280 геодезическая 20 м х 12,5 мм PRO</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5926.14</price>
+        <cityprice cityId="615420100">5926.14</cityprice>
+    </offer>
+    <offer sku="10817205">
+      <model>Рулетка Kraftool Grand 34022-03-16, 3м х 16мм</model>
+      <brand>KRAFTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1455.35</price>
+        <cityprice cityId="615420100">1455.35</cityprice>
+    </offer>
+    <offer sku="4315663">
+      <model>Рулетка Matrix 31013 Black, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>990.98</price>
+        <cityprice cityId="615420100">990.98</cityprice>
+    </offer>
+    <offer sku="4289435">
+      <model>Рулетка Matrix 31016 Fine, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>419.02</price>
+        <cityprice cityId="615420100">419.02</cityprice>
+    </offer>
+    <offer sku="4314088">
+      <model>Рулетка Matrix 31011 Magnetic, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1363.47</price>
+        <cityprice cityId="615420100">1363.47</cityprice>
+    </offer>
+    <offer sku="4297515">
+      <model>Рулетка Matrix 31080 Strong, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>826.97</price>
+        <cityprice cityId="615420100">826.97</cityprice>
+    </offer>
+    <offer sku="4324294">
+      <model>Рулетка геодезическая Сибртех 31260 10 м х 13 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1209.34</price>
+        <cityprice cityId="615420100">1209.34</cityprice>
+    </offer>
+    <offer sku="4989216">
+      <model>Рулетка геодезическая Sparta 314305, 20 м х 12,5 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1531.43</price>
+        <cityprice cityId="615420100">1531.43</cityprice>
+    </offer>
+    <offer sku="10816566">
+      <model>Рулетка Сибин 34020-10-25, 10м х 25мм</model>
+      <brand>СИБИН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1252.81</price>
+        <cityprice cityId="615420100">1252.81</cityprice>
+    </offer>
+    <offer sku="4329541">
+      <model>Рулетка Gross 32573 Magnetisch, 8м х 25мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5060.07</price>
+        <cityprice cityId="615420100">5060.07</cityprice>
+    </offer>
+    <offer sku="4335955">
+      <model>Рулетка Sparta 31301 Classic, 2 м х 13 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>566.14</price>
+        <cityprice cityId="615420100">566.14</cityprice>
+    </offer>
+    <offer sku="4316066">
+      <model>Рулетка Sparta 31304 Classic, 7.5 м х 24 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>821.04</price>
+        <cityprice cityId="615420100">821.04</cityprice>
+    </offer>
+    <offer sku="4289891">
+      <model>Рулетка Matrix 31014 Black, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1480.05</price>
+        <cityprice cityId="615420100">1480.05</cityprice>
+    </offer>
+    <offer sku="4306479">
+      <model>Рулетка Барс 32540 Вектор 3 м х 19 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2053.11</price>
+        <cityprice cityId="615420100">2053.11</cityprice>
+    </offer>
+    <offer sku="10817131">
+      <model>Рулетка Зубр Автостоп 34052-03-16, 3м х 16мм, обрезиненный корпус</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>825.98</price>
+        <cityprice cityId="615420100">825.98</cityprice>
+    </offer>
+    <offer sku="4335478">
+      <model>Рулетка Matrix 31282 геодезическая 50 м х 12,5 мм PRO</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7425.96</price>
+        <cityprice cityId="615420100">7425.96</cityprice>
+    </offer>
+    <offer sku="10817202">
+      <model>Рулетка Зубр Автостоп 34052-05-25, 5м х 25мм, обрезиненный корпус</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1210.32</price>
+        <cityprice cityId="615420100">1210.32</cityprice>
+    </offer>
+    <offer sku="12249289">
+      <model>Рулетка КВТ РС-01-5х25, 25 мм</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8407.06</price>
+        <cityprice cityId="615420100">8407.06</cityprice>
+    </offer>
+    <offer sku="10817203">
+      <model>Рулетка Зубр Автостоп 34052-08-25, 7.5м х 25мм, обрезиненный корпус</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1539.36</price>
+        <cityprice cityId="615420100">1539.36</cityprice>
+    </offer>
+    <offer sku="4312405">
+      <model>Рулетка Gross 32563 Komfortabel, 8 м х 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3950.1</price>
+        <cityprice cityId="615420100">3950.1</cityprice>
+    </offer>
+    <offer sku="4319339">
+      <model>Рулетка Matrix Crystal 31072, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1323.95</price>
+        <cityprice cityId="615420100">1323.95</cityprice>
+    </offer>
+    <offer sku="4321424">
+      <model>Рулетка Matrix 31090 Continuous fixation, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1177.72</price>
+        <cityprice cityId="615420100">1177.72</cityprice>
+    </offer>
+    <offer sku="4325700">
+      <model>Рулетка Gross 32560 Komfortabel, 3 м х 19 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1727.26</price>
+        <cityprice cityId="615420100">1727.26</cityprice>
+    </offer>
+    <offer sku="4323673">
+      <model>Рулетка Matrix 32550 Autostop, 3 м х 16 мм, двухкомпонентный корпус PRO</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1402.99</price>
+        <cityprice cityId="615420100">1402.99</cityprice>
+    </offer>
+    <offer sku="4325182">
+      <model>Рулетка Matrix 32552 Autostop, 5 м х 25 мм, двухкомпонентный корпус PRO</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2805.98</price>
+        <cityprice cityId="615420100">2805.98</cityprice>
+    </offer>
+    <offer sku="4989212">
+      <model>Рулетка геодезическая 312235, 30 м х 12,5 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3109.3</price>
+        <cityprice cityId="615420100">3109.3</cityprice>
+    </offer>
+    <offer sku="4326000">
+      <model>Рулетка геодезическая Matrix 31272 50 м х 15 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7107.56</price>
+        <cityprice cityId="615420100">7107.56</cityprice>
+    </offer>
+    <offer sku="4305606">
+      <model>Рулетка Сибртех 32533 Графит, 7,5 м х 25 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1547.24</price>
+        <cityprice cityId="615420100">1547.24</cityprice>
+    </offer>
+    <offer sku="4317840">
+      <model>Рулетка Sparta 31313 Elastica, 7.5 м х 24 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>870.45</price>
+        <cityprice cityId="615420100">870.45</cityprice>
+    </offer>
+    <offer sku="4989207">
+      <model>Рулетка геодезическая Sparta 312175, 20 м х 12,5 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1158.95</price>
+        <cityprice cityId="615420100">1158.95</cityprice>
+    </offer>
+    <offer sku="4296387">
+      <model>Рулетка Matrix 31074 Crystal, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2379.15</price>
+        <cityprice cityId="615420100">2379.15</cityprice>
+    </offer>
+    <offer sku="4303457">
+      <model>Рулетка Сибртех 32530 Графит, обрезиненный корпус, амортизатор, 3 м х 16 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>548.35</price>
+        <cityprice cityId="615420100">548.35</cityprice>
+    </offer>
+    <offer sku="4322188">
+      <model>Рулетка Барс 32501 Полимер, 3 м х 16 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>819.07</price>
+        <cityprice cityId="615420100">819.07</cityprice>
+    </offer>
+    <offer sku="4285080">
+      <model>Рулетка Matrix 31005 Status Magnet 3 fixations, 5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1727.26</price>
+        <cityprice cityId="615420100">1727.26</cityprice>
+    </offer>
+    <offer sku="4320952">
+      <model>Рулетка Matrix 31088 Continuous fixation, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1014.7</price>
+        <cityprice cityId="615420100">1014.7</cityprice>
+    </offer>
+    <offer sku="4324324">
+      <model>Рулетка Matrix 32551 Autostop, 5 м х 19 мм, двухкомпонентный корпус PRO</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1775.47</price>
+        <cityprice cityId="615420100">1775.47</cityprice>
+    </offer>
+    <offer sku="4305011">
+      <model>Рулетка Matrix 31017 Fine, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>602.69</price>
+        <cityprice cityId="615420100">602.69</cityprice>
+    </offer>
+    <offer sku="4315738">
+      <model>Рулетка Sparta 31303 Classic, 5 м х 18 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>652.09</price>
+        <cityprice cityId="615420100">652.09</cityprice>
+    </offer>
+    <offer sku="4319637">
+      <model>Рулетка Sparta 31314 Elastica, 10 м х 25 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1126.51</price>
+        <cityprice cityId="615420100">1126.51</cityprice>
+    </offer>
+    <offer sku="4320005">
+      <model>Рулетка Matrix 31082 Strong, 7,5м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1851.55</price>
+        <cityprice cityId="615420100">1851.55</cityprice>
+    </offer>
+    <offer sku="4298375">
+      <model>Рулетка Matrix 31034 Status 3 fixations, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1100.65</price>
+        <cityprice cityId="615420100">1100.65</cityprice>
+    </offer>
+    <offer sku="4327034">
+      <model>Рулетка  Сибртех 32522 Кварц, 5 м х 25 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>914.91</price>
+        <cityprice cityId="615420100">914.91</cityprice>
+    </offer>
+    <offer sku="4333480">
+      <model>Рулетка Сибртех 32580 Сапфир, двухкомпонентный корпус, 3 м х 16 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>646.17</price>
+        <cityprice cityId="615420100">646.17</cityprice>
+    </offer>
+    <offer sku="4323293">
+      <model>Рулетка Барс 32503 Полимер, 7,5 м х 25 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2963.07</price>
+        <cityprice cityId="615420100">2963.07</cityprice>
+    </offer>
+    <offer sku="4320502">
+      <model>Рулетка Matrix 31443 геодезическая, 30 м х 12,5 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6788.69</price>
+        <cityprice cityId="615420100">6788.69</cityprice>
+    </offer>
+    <offer sku="4293065">
+      <model>Рулетка Matrix 31031 Status magnet fixation, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2797.08</price>
+        <cityprice cityId="615420100">2797.08</cityprice>
+    </offer>
+    <offer sku="4316580">
+      <model>Рулетка Matrix 31058 Double fixation, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1346.67</price>
+        <cityprice cityId="615420100">1346.67</cityprice>
+    </offer>
+    <offer sku="4316592">
+      <model>Рулетка Sparta 31305 Classic, 10 м х 25 мм</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1357.54</price>
+        <cityprice cityId="615420100">1357.54</cityprice>
+    </offer>
+    <offer sku="4325349">
+      <model>Рулетка геодезическая Matrix 31270 20 м х 15 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3413.95</price>
+        <cityprice cityId="615420100">3413.95</cityprice>
+    </offer>
+    <offer sku="4326536">
+      <model>Рулетка Gross 32561 Komfortabel, 5 м х 19 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2946.28</price>
+        <cityprice cityId="615420100">2946.28</cityprice>
+    </offer>
+    <offer sku="4338546">
+      <model>Рулетка Сибртех 32581 Сапфир, двухкомпонентный корпус, 5 м х 19 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1032.48</price>
+        <cityprice cityId="615420100">1032.48</cityprice>
+    </offer>
+    <offer sku="4366937">
+      <model>Рулетка Сапфир, Сибртех 32583, двухкомпонентный корпус, 7,5 м х 25 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2822.75</price>
+        <cityprice cityId="615420100">2822.75</cityprice>
+    </offer>
+    <offer sku="4292208">
+      <model>Рулетка Matrix 31018 Fine, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1761.64</price>
+        <cityprice cityId="615420100">1761.64</cityprice>
+    </offer>
+    <offer sku="4304794">
+      <model>Рулетка Сибртех 32532 Графит, обрезиненный корпус, амортизатор, 5 м х 25 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>986.04</price>
+        <cityprice cityId="615420100">986.04</cityprice>
+    </offer>
+    <offer sku="4323202">
+      <model>Рулетка Барс 32502 Полимер, 5 м х 19 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3136.96</price>
+        <cityprice cityId="615420100">3136.96</cityprice>
+    </offer>
+    <offer sku="4323387">
+      <model>Рулетка геодезическая Matrix 31226, 50 м х 12,5 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7333.39</price>
+        <cityprice cityId="615420100">7333.39</cityprice>
+    </offer>
+    <offer sku="4324524">
+      <model>Рулетка геодезическая Сибртех 31262 30 м х 13 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2123.35</price>
+        <cityprice cityId="615420100">2123.35</cityprice>
+    </offer>
+    <offer sku="4304199">
+      <model>Рулетка Сибртех 32531 Графит, обрезиненный корпус, амортизатор, 5 м х 19 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>810.18</price>
+        <cityprice cityId="615420100">810.18</cityprice>
+    </offer>
+    <offer sku="4307488">
+      <model>Рулетка Барс 32541 Вектор 5 м х 19 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1363.47</price>
+        <cityprice cityId="615420100">1363.47</cityprice>
+    </offer>
+    <offer sku="4285141">
+      <model>Рулетка Matrix 31002 Rubber, 5 м х 19 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>760.78</price>
+        <cityprice cityId="615420100">760.78</cityprice>
+    </offer>
+    <offer sku="10527838">
+      <model>Рулетка Matrix 31029 Status Magnet fixation, 5 м х 25 мм, обрезиненный корпус</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2112.39</price>
+        <cityprice cityId="615420100">2112.39</cityprice>
+    </offer>
+    <offer sku="4302181">
+      <model>Рулетка Matrix 31000 Status Magnet 3 fixations, 10 м х 32 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3260.47</price>
+        <cityprice cityId="615420100">3260.47</cityprice>
+    </offer>
+    <offer sku="4337732">
+      <model>Рулетка Барс 32543 Вектор 7,5 м х 25 мм</model>
+      <brand>Барс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4270.22</price>
+        <cityprice cityId="615420100">4270.22</cityprice>
+    </offer>
+    <offer sku="4327734">
+      <model>Рулетка Gross 32571 Magnetisch, 5м х 19мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3826.6</price>
+        <cityprice cityId="615420100">3826.6</cityprice>
+    </offer>
+    <offer sku="4284774">
+      <model>Рулетка Matrix  31004 Status Magnet 3 fixations, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1483.02</price>
+        <cityprice cityId="615420100">1483.02</cityprice>
+    </offer>
+    <offer sku="4290786">
+      <model>Рулетка Matrix 31006 Status Magnet 3 fixations, 7,5 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3782.14</price>
+        <cityprice cityId="615420100">3782.14</cityprice>
+    </offer>
+    <offer sku="4291824">
+      <model>Рулетка Matrix 31010 Magnetic, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>748.92</price>
+        <cityprice cityId="615420100">748.92</cityprice>
+    </offer>
+    <offer sku="4320568">
+      <model>Рулетка Matrix 31086 Continuous fixation, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>996.91</price>
+        <cityprice cityId="615420100">996.91</cityprice>
+    </offer>
+    <offer sku="10527842">
+      <model>Рулетка Pro Matrix Autostop 32553, 8 м х 25 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3819.69</price>
+        <cityprice cityId="615420100">3819.69</cityprice>
+    </offer>
+    <offer sku="4303111">
+      <model>Рулетка Сибртех 32523 Кварц, прозрачный корпус, амортизатор, 7,5 м х 25 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1696.43</price>
+        <cityprice cityId="615420100">1696.43</cityprice>
+    </offer>
+    <offer sku="4368635">
+      <model>Рулетка Кварц, Сибртех 32524, прозрачный корпус, амортизатор, 10 м х 25 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1898.4</price>
+        <cityprice cityId="615420100">1898.4</cityprice>
+    </offer>
+    <offer sku="10526497">
+      <model>Рулетка Matrix 31019 Status Magnet fixation, 3 м х 16 мм, обрезиненный корпус, зацеп с магнитом</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1328.89</price>
+        <cityprice cityId="615420100">1328.89</cityprice>
+    </offer>
+    <offer sku="4285016">
+      <model>Рулетка Matrix 31003 Rubber, 3 м х 16 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>495.99</price>
+        <cityprice cityId="615420100">495.99</cityprice>
+    </offer>
+    <offer sku="4301896">
+      <model>Рулетка геодезическая Сибртех 31261, 20 м х 13 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1743.86</price>
+        <cityprice cityId="615420100">1743.86</cityprice>
+    </offer>
+    <offer sku="4336777">
+      <model>Рулетка Сибртех 32520 Кварц, 3 м х 16 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>515.75</price>
+        <cityprice cityId="615420100">515.75</cityprice>
+    </offer>
+    <offer sku="4369325">
+      <model>Рулетка Neon, Matrix 32591, 5 м x 19 мм, обрезиненный корпус, 3 фиксации</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1586.76</price>
+        <cityprice cityId="615420100">1586.76</cityprice>
+    </offer>
+    <offer sku="4370234">
+      <model>Рулетка Neon, Matrix 32593, 8 м x 25 мм, обрезиненный корпус, 3 фиксации</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2770.41</price>
+        <cityprice cityId="615420100">2770.41</cityprice>
+    </offer>
+    <offer sku="4369676">
+      <model>Рулетка Neon, Matrix 32592, 5 м x 25 мм, обрезиненный корпус, 3 фиксации</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1539.36</price>
+        <cityprice cityId="615420100">1539.36</cityprice>
+    </offer>
+    <offer sku="4369015">
+      <model>Рулетка Neon, Matrix 32590, 3 м x 16 мм, обрезиненный корпус, 3 фиксации</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1245.6</price>
+        <cityprice cityId="615420100">1245.6</cityprice>
+    </offer>
+    <offer sku="12249177">
+      <model>Рулетка Total ТМТ126352M, 5 м</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39123.62</price>
+        <cityprice cityId="615420100">39123.62</cityprice>
+    </offer>
+    <offer sku="12174120">
+      <model>Рулетка РемоКолор Т1 15-1-505 5 м*25 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1310</price>
+        <cityprice cityId="615420100">1310</cityprice>
+    </offer>
+    <offer sku="12174140">
+      <model>Рулетка РемоКолор Т1 15-1-502 2 м*13 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>704.46</price>
+        <cityprice cityId="615420100">704.46</cityprice>
+    </offer>
+    <offer sku="12174110">
+      <model>Рулетка РемоКолор Т1 15-1-503 3 м*16 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>792.39</price>
+        <cityprice cityId="615420100">792.39</cityprice>
+    </offer>
+    <offer sku="243298">
+      <model>Рулетка измерительная Tolsen 35013, стальная, 30 м</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7686.8</price>
+        <cityprice cityId="615420100">7686.8</cityprice>
+    </offer>
+    <offer sku="1908403">
+      <model>Рулетка CREST CTM-10 1000 см</model>
+      <brand>Crest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45018.14</price>
+        <cityprice cityId="615420100">45018.14</cityprice>
+    </offer>
+    <offer sku="1908404">
+      <model>Рулетка CREST CTM-05 500 см</model>
+      <brand>Crest</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29238.48</price>
+        <cityprice cityId="615420100">29238.48</cityprice>
+    </offer>
+    <offer sku="12249310">
+      <model>Рулетка Сибин 34019-08-25, 7.5 м</model>
+      <brand>СИБИН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19163.64</price>
+        <cityprice cityId="615420100">19163.64</cityprice>
+    </offer>
+    <offer sku="1907936">
+      <model>Рулетка Сибин 34019-03-16 3 м</model>
+      <brand>СИБИН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>863.53</price>
+        <cityprice cityId="615420100">863.53</cityprice>
+    </offer>
+    <offer sku="12248800">
+      <model>Рулетка Total TMT126351M, 5 м</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3827.69</price>
+        <cityprice cityId="615420100">3827.69</cityprice>
+    </offer>
+    <offer sku="12248819">
+      <model>Рулетка Milwaukee Stud Gen II 4932471626, 5 м</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48309.24</price>
+        <cityprice cityId="615420100">48309.24</cityprice>
+    </offer>
+    <offer sku="12248823">
+      <model>Рулетка Total TMT126081M, 8 м</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30612.81</price>
+        <cityprice cityId="615420100">30612.81</cityprice>
+    </offer>
+    <offer sku="12250007">
+      <model>Рулетка Milwaukee Magnetic Tape Premium 4932464601, 10 м</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18978.85</price>
+        <cityprice cityId="615420100">18978.85</cityprice>
+    </offer>
+    <offer sku="12250034">
+      <model>Рулетка геодезическая Sparta 2922147, 30 м</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51573.66</price>
+        <cityprice cityId="615420100">51573.66</cityprice>
+    </offer>
+    <offer sku="12249271">
+      <model>Рулетка Thorvik SMT7525AM, 7.5 м</model>
+      <brand>Thorvik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69270.08</price>
+        <cityprice cityId="615420100">69270.08</cityprice>
+    </offer>
+    <offer sku="1908051">
+      <model>Рулетка Kolner KМТ 7.5/25M 7.5 м</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2563.91</price>
+        <cityprice cityId="615420100">2563.91</cityprice>
+    </offer>
+    <offer sku="1906698">
+      <model>Рулетка Stabila ВМ-50Р 20 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21725.57</price>
+        <cityprice cityId="615420100">21725.57</cityprice>
+    </offer>
+    <offer sku="1907896">
+      <model>Рулетка ОРМИС RemoRay 15-4-207 7.5 м</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3214.03</price>
+        <cityprice cityId="615420100">3214.03</cityprice>
+    </offer>
+    <offer sku="3150993">
+      <model>Рулетка Stabila BM40 5 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8101.76</price>
+        <cityprice cityId="615420100">8101.76</cityprice>
+    </offer>
+    <offer sku="12174136">
+      <model>Рулетка Stabila 30 16450 3 м*12.5 мм</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4050.88</price>
+        <cityprice cityId="615420100">4050.88</cityprice>
+    </offer>
+    <offer sku="12249251">
+      <model>Рулетка DWT DHMT-B0519, 5 м</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>838.93</price>
+        <cityprice cityId="615420100">838.93</cityprice>
+    </offer>
+    <offer sku="12248852">
+      <model>Рулетка Patriot MTP-5-01 350005006, 5 м</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2662.35</price>
+        <cityprice cityId="615420100">2662.35</cityprice>
+    </offer>
+    <offer sku="12249168">
+      <model>Рулетка Ермак 658-086, 10 м</model>
+      <brand>Ермак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15518.96</price>
+        <cityprice cityId="615420100">15518.96</cityprice>
+    </offer>
+    <offer sku="118171">
+      <model>Рулетка Ermenrich Reel SR50</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12567.61</price>
+        <cityprice cityId="615420100">12567.61</cityprice>
+    </offer>
+    <offer sku="442689">
+      <model>Рулетка Ermenrich Reel SQ100</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7825.12</price>
+        <cityprice cityId="615420100">7825.12</cityprice>
+    </offer>
+    <offer sku="208800">
+      <model>Лазерная рулетка Ermenrich Reel GE80</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26024.45</price>
+        <cityprice cityId="615420100">26024.45</cityprice>
+    </offer>
+    <offer sku="12249317">
+      <model>Рулетка Stanley Max STHT0-36118, 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39369.63</price>
+        <cityprice cityId="615420100">39369.63</cityprice>
+    </offer>
+    <offer sku="1907664">
+      <model>Рулетка STANLEY 0-33-514 5 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11441.27</price>
+        <cityprice cityId="615420100">11441.27</cityprice>
+    </offer>
+    <offer sku="12249196">
+      <model>Рулетка Total TMT126051M, 5 м</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1512.02</price>
+        <cityprice cityId="615420100">1512.02</cityprice>
+    </offer>
+    <offer sku="12249219">
+      <model>Рулетка Зубр 34016-8, 7.5 м</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>899.1</price>
+        <cityprice cityId="615420100">899.1</cityprice>
+    </offer>
+    <offer sku="1908400">
+      <model>Рулетка Gross 31125 Doppelhaken 8 м x 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4420.4</price>
+        <cityprice cityId="615420100">4420.4</cityprice>
+    </offer>
+    <offer sku="12248881">
+      <model>Рулетка Stayer Standard 34014-05-19, 5 м</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32968.25</price>
+        <cityprice cityId="615420100">32968.25</cityprice>
+    </offer>
+    <offer sku="12250098">
+      <model>Рулетка погружная Stanley 2-34-077, 30 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102351.96</price>
+        <cityprice cityId="615420100">102351.96</cityprice>
+    </offer>
+    <offer sku="1907658">
+      <model>Рулетка STANLEY Tylon 0-30-656 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6026.92</price>
+        <cityprice cityId="615420100">6026.92</cityprice>
+    </offer>
+    <offer sku="1906681">
+      <model>Рулетка STANLEY LongTape Fiberglass 2-34-792 30 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14038.78</price>
+        <cityprice cityId="615420100">14038.78</cityprice>
+    </offer>
+    <offer sku="4294076">
+      <model>Рулетка Gross 31112 &quot;Schlagfest&quot;, 5 м x 19 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2820.8</price>
+        <cityprice cityId="615420100">2820.8</cityprice>
+    </offer>
+    <offer sku="10524386">
+      <model>Рулетка Gross Experte 32574, 3 м x 19 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2913.67</price>
+        <cityprice cityId="615420100">2913.67</cityprice>
+    </offer>
+    <offer sku="1906863">
+      <model>Рулетка STANLEY POWERLOCK 0-33-443 10 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25688.52</price>
+        <cityprice cityId="615420100">25688.52</cityprice>
+    </offer>
+    <offer sku="1907900">
+      <model>Рулетка STANLEY 1-33-959 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7805.36</price>
+        <cityprice cityId="615420100">7805.36</cityprice>
+    </offer>
+    <offer sku="1907722">
+      <model>Рулетка Gross 31104, 8 м x 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2620.23</price>
+        <cityprice cityId="615420100">2620.23</cityprice>
+    </offer>
+    <offer sku="1907925">
+      <model>Рулетка STANLEY 0-33-527 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10621.22</price>
+        <cityprice cityId="615420100">10621.22</cityprice>
+    </offer>
+    <offer sku="1908389">
+      <model>Рулетка ЗУБР 34057-10-25_z01 10 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2635.89</price>
+        <cityprice cityId="615420100">2635.89</cityprice>
+    </offer>
+    <offer sku="4368340">
+      <model>Рулетка Extra Wide, Matrix 32586, 8 м x 27 мм, двухкомпонентный корпус</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4050.88</price>
+        <cityprice cityId="615420100">4050.88</cityprice>
+    </offer>
+    <offer sku="12250027">
+      <model>Рулетка Matrix Crystal 31073, 5 м</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>857.45</price>
+        <cityprice cityId="615420100">857.45</cityprice>
+    </offer>
+    <offer sku="1908387">
+      <model>Рулетка ОРМИС Hobbi T2 15-1-510 10 м</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3351.36</price>
+        <cityprice cityId="615420100">3351.36</cityprice>
+    </offer>
+    <offer sku="12249151">
+      <model>Рулетка Stayer Mars 34131-05, 5 м</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1742.87</price>
+        <cityprice cityId="615420100">1742.87</cityprice>
+    </offer>
+    <offer sku="1907643">
+      <model>Рулетка STANLEY FatMax Autolock XTHT0-33501 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21044.83</price>
+        <cityprice cityId="615420100">21044.83</cityprice>
+    </offer>
+    <offer sku="12248833">
+      <model>Рулетка Stanley 0-33-959, 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11757.44</price>
+        <cityprice cityId="615420100">11757.44</cityprice>
+    </offer>
+    <offer sku="12248845">
+      <model>Рулетка Sparta Automatic 31330, 3 м</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2972.86</price>
+        <cityprice cityId="615420100">2972.86</cityprice>
+    </offer>
+    <offer sku="1906700">
+      <model>Рулетка Stabila BM 50 30 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46733.35</price>
+        <cityprice cityId="615420100">46733.35</cityprice>
+    </offer>
+    <offer sku="1907187">
+      <model>Рулетка Stabila BM40 17747 10 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11451.15</price>
+        <cityprice cityId="615420100">11451.15</cityprice>
+    </offer>
+    <offer sku="1907679">
+      <model>Рулетка STANLEY POWERLOCK 0-33-203 3 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7360.75</price>
+        <cityprice cityId="615420100">7360.75</cityprice>
+    </offer>
+    <offer sku="12174138">
+      <model>Рулетка Patriot MTA-7 350005037 7,5 м</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3062.86</price>
+        <cityprice cityId="615420100">3062.86</cityprice>
+    </offer>
+    <offer sku="12174102">
+      <model>Рулетка Stabila BM100 19568 5 м*19 мм</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6461.65</price>
+        <cityprice cityId="615420100">6461.65</cityprice>
+    </offer>
+    <offer sku="12174111">
+      <model>Рулетка Stabila BM300 19577 8 м*27 мм</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8892.18</price>
+        <cityprice cityId="615420100">8892.18</cityprice>
+    </offer>
+    <offer sku="12174116">
+      <model>Рулетка РемоКолор RemoCosmo 15-4-110 10 м*25 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6717.55</price>
+        <cityprice cityId="615420100">6717.55</cityprice>
+    </offer>
+    <offer sku="12174122">
+      <model>Рулетка РемоКолор 15-1-515 5 м*25 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1409.9</price>
+        <cityprice cityId="615420100">1409.9</cityprice>
+    </offer>
+    <offer sku="12249234">
+      <model>Рулетка Tundra 881712, 10 м</model>
+      <brand>Tundra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2470.05</price>
+        <cityprice cityId="615420100">2470.05</cityprice>
+    </offer>
+    <offer sku="1907441">
+      <model>Рулетка STANLEY Tylon 0-30-696 5 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4425.34</price>
+        <cityprice cityId="615420100">4425.34</cityprice>
+    </offer>
+    <offer sku="12174131">
+      <model>Рулетка Patriot MTA-10м 350005010</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4551.27</price>
+        <cityprice cityId="615420100">4551.27</cityprice>
+    </offer>
+    <offer sku="738848">
+      <model>Рулетка Ermenrich Reel SQ30</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3556.87</price>
+        <cityprice cityId="615420100">3556.87</cityprice>
+    </offer>
+    <offer sku="894252">
+      <model>Рулетка геодезическая Ermenrich Reel SL100</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15729.28</price>
+        <cityprice cityId="615420100">15729.28</cityprice>
+    </offer>
+    <offer sku="733431">
+      <model>Лазерная рулетка Ermenrich Reel GK60</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21874.76</price>
+        <cityprice cityId="615420100">21874.76</cityprice>
+    </offer>
+    <offer sku="1908396">
+      <model>Рулетка STAYER MASTER OMEGA 3402-3_z01 3 м</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>948.5</price>
+        <cityprice cityId="615420100">948.5</cityprice>
+    </offer>
+    <offer sku="636088">
+      <model>Рулетка измерительная Tolsen 35984, 8 м</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2840.56</price>
+        <cityprice cityId="615420100">2840.56</cityprice>
+    </offer>
+    <offer sku="12174135">
+      <model>Рулетка Makita B-57168 10 м*25 мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21637.64</price>
+        <cityprice cityId="615420100">21637.64</cityprice>
+    </offer>
+    <offer sku="1907184">
+      <model>Рулетка STANLEY 1-33-522 3 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4605.75</price>
+        <cityprice cityId="615420100">4605.75</cityprice>
+    </offer>
+    <offer sku="1907684">
+      <model>Рулетка STANLEY 0-30-457 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4805.73</price>
+        <cityprice cityId="615420100">4805.73</cityprice>
+    </offer>
+    <offer sku="4299560">
+      <model>Рулетка Gross 31124 &quot;Doppelhaken&quot;, 5 м x 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5000.37</price>
+        <cityprice cityId="615420100">5000.37</cityprice>
+    </offer>
+    <offer sku="1907200">
+      <model>Рулетка STANLEY 0-34-297 30 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14880.57</price>
+        <cityprice cityId="615420100">14880.57</cityprice>
+    </offer>
+    <offer sku="1907689">
+      <model>Рулетка STANLEY PowerWinder Fiberglass 2-34-775 60 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14411.26</price>
+        <cityprice cityId="615420100">14411.26</cityprice>
+    </offer>
+    <offer sku="1907930">
+      <model>Рулетка STANLEY FMHT0-33868 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15896.25</price>
+        <cityprice cityId="615420100">15896.25</cityprice>
+    </offer>
+    <offer sku="1906676">
+      <model>Рулетка STANLEY 0-34-133 20 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11703.1</price>
+        <cityprice cityId="615420100">11703.1</cityprice>
+    </offer>
+    <offer sku="1906675">
+      <model>Рулетка STANLEY Tylon 0-30-657 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7410.15</price>
+        <cityprice cityId="615420100">7410.15</cityprice>
+    </offer>
+    <offer sku="1906693">
+      <model>Рулетка STANLEY FMHT1-33856 2 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3070.77</price>
+        <cityprice cityId="615420100">3070.77</cityprice>
+    </offer>
+    <offer sku="1907922">
+      <model>Рулетка Dexell 15368351 3 м</model>
+      <brand>Dexell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4678.27</price>
+        <cityprice cityId="615420100">4678.27</cityprice>
+    </offer>
+    <offer sku="1907927">
+      <model>Рулетка Gross 31105 &quot;Ergonomisch&quot;, 10 м x 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2950.23</price>
+        <cityprice cityId="615420100">2950.23</cityprice>
+    </offer>
+    <offer sku="12250109">
+      <model>Рулетка геодезическая Total TMTF12306, 30 м</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4707.2</price>
+        <cityprice cityId="615420100">4707.2</cityprice>
+    </offer>
+    <offer sku="1906691">
+      <model>Рулетка ВИХРЬ 73/11/1/2 5 м</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>852.66</price>
+        <cityprice cityId="615420100">852.66</cityprice>
+    </offer>
+    <offer sku="1907920">
+      <model>Рулетка Sparta 314405</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2092.33</price>
+        <cityprice cityId="615420100">2092.33</cityprice>
+    </offer>
+    <offer sku="1908121">
+      <model>Рулетка ОРМИС Hobbi T1 15-1-507 7.5 м</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2785.23</price>
+        <cityprice cityId="615420100">2785.23</cityprice>
+    </offer>
+    <offer sku="3151238">
+      <model>Рулетка Stabila ВМ-30, 8 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8398.17</price>
+        <cityprice cityId="615420100">8398.17</cityprice>
+    </offer>
+    <offer sku="1907929">
+      <model>Рулетка ОРМИС RemoCosmo 15-4-103 3 м</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2454.24</price>
+        <cityprice cityId="615420100">2454.24</cityprice>
+    </offer>
+    <offer sku="1906688">
+      <model>Рулетка STANLEY Bimat 1-30-697 5 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6731.76</price>
+        <cityprice cityId="615420100">6731.76</cityprice>
+    </offer>
+    <offer sku="1908386">
+      <model>Рулетка ОРМИС RemoCosmo 5-4-110 10 м</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4335.43</price>
+        <cityprice cityId="615420100">4335.43</cityprice>
+    </offer>
+    <offer sku="12250040">
+      <model>Рулетка FIT 17600, 50 м</model>
+      <brand>FIT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7775.35</price>
+        <cityprice cityId="615420100">7775.35</cityprice>
+    </offer>
+    <offer sku="12248858">
+      <model>Рулетка FIT 17287 Люкс, 7.5 м</model>
+      <brand>FIT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3704.19</price>
+        <cityprice cityId="615420100">3704.19</cityprice>
+    </offer>
+    <offer sku="12248864">
+      <model>Рулетка Fixtec FHSMT103, 3 м</model>
+      <brand>Fixtec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3014.33</price>
+        <cityprice cityId="615420100">3014.33</cityprice>
+    </offer>
+    <offer sku="12250142">
+      <model>Рулетка Milwaukee LTO 48225211, 100 м</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61021.1</price>
+        <cityprice cityId="615420100">61021.1</cityprice>
+    </offer>
+    <offer sku="1906703">
+      <model>Рулетка STANLEY STHT36802-0 TYLON DUAL LOCK 3 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4936.15</price>
+        <cityprice cityId="615420100">4936.15</cityprice>
+    </offer>
+    <offer sku="1907508">
+      <model>Рулетка STANLEY POWERLOCK 0-33-194 5 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26212.17</price>
+        <cityprice cityId="615420100">26212.17</cityprice>
+    </offer>
+    <offer sku="3119668">
+      <model>Рулетка Stabila ВМ-20Р, 5 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6323.33</price>
+        <cityprice cityId="615420100">6323.33</cityprice>
+    </offer>
+    <offer sku="1907926">
+      <model>Рулетка Dexell 15368377 8 м</model>
+      <brand>Dexell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5599.11</price>
+        <cityprice cityId="615420100">5599.11</cityprice>
+    </offer>
+    <offer sku="261246">
+      <model>Рулетка измерительная Tolsen 35981, 3 м</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>846.86</price>
+        <cityprice cityId="615420100">846.86</cityprice>
+    </offer>
+    <offer sku="945707">
+      <model>Рулетка измерительная Tolsen 36002, 3 м</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1482.03</price>
+        <cityprice cityId="615420100">1482.03</cityprice>
+    </offer>
+    <offer sku="770951">
+      <model>Рулетка Ermenrich Reel KD100</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6639.49</price>
+        <cityprice cityId="615420100">6639.49</cityprice>
+    </offer>
+    <offer sku="977753">
+      <model>Лазерная рулетка Ermenrich Reel GS40</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23633.44</price>
+        <cityprice cityId="615420100">23633.44</cityprice>
+    </offer>
+    <offer sku="212311">
+      <model>Лазерная рулетка Ermenrich Reel GE100</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28988.51</price>
+        <cityprice cityId="615420100">28988.51</cityprice>
+    </offer>
+    <offer sku="474921">
+      <model>Лазерная рулетка Ermenrich Reel GS80</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22467.57</price>
+        <cityprice cityId="615420100">22467.57</cityprice>
+    </offer>
+    <offer sku="1907672">
+      <model>Рулетка STANLEY 0-34-295 10 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7014.94</price>
+        <cityprice cityId="615420100">7014.94</cityprice>
+    </offer>
+    <offer sku="12174142">
+      <model>Рулетка Patriot MTA-5 350005035 5 м*25 мм</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3953.84</price>
+        <cityprice cityId="615420100">3953.84</cityprice>
+    </offer>
+    <offer sku="4373328">
+      <model>Рулетка Matrix Compact Pro, 2 м x 16 мм, карабин-держатель</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15845.86</price>
+        <cityprice cityId="615420100">15845.86</cityprice>
+    </offer>
+    <offer sku="1906704">
+      <model>Рулетка STANLEY STHT36803-0 TYLON DUAL LOCK 5 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14966.53</price>
+        <cityprice cityId="615420100">14966.53</cityprice>
+    </offer>
+    <offer sku="1908399">
+      <model>Рулетка Gross 31126 Doppelhaken 10 м x 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5768.06</price>
+        <cityprice cityId="615420100">5768.06</cityprice>
+    </offer>
+    <offer sku="12174113">
+      <model>Рулетка Kraftool Grand 34022-08-25 8 м*25 мм</model>
+      <brand>KRAFTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2926.12</price>
+        <cityprice cityId="615420100">2926.12</cityprice>
+    </offer>
+    <offer sku="12251415">
+      <model>Рулетка Stayer Master 62499, 5 м</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2807.26</price>
+        <cityprice cityId="615420100">2807.26</cityprice>
+    </offer>
+    <offer sku="3151035">
+      <model>Рулетка Stabila BM40 8 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21484.49</price>
+        <cityprice cityId="615420100">21484.49</cityprice>
+    </offer>
+    <offer sku="12250078">
+      <model>Рулетка геодезическая Зубр 34181-100, 10 мм x 100 м</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8629.03</price>
+        <cityprice cityId="615420100">8629.03</cityprice>
+    </offer>
+    <offer sku="1908402">
+      <model>Рулетка STANLEY 0-33-811 10 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19848.33</price>
+        <cityprice cityId="615420100">19848.33</cityprice>
+    </offer>
+    <offer sku="1906689">
+      <model>Рулетка STANLEY POWERLOCK 0-33-442 10 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24938.61</price>
+        <cityprice cityId="615420100">24938.61</cityprice>
+    </offer>
+    <offer sku="4322023">
+      <model>Рулетка Gross31102 &quot;Ergonomisch&quot;, 5 м x 19 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3153.76</price>
+        <cityprice cityId="615420100">3153.76</cityprice>
+    </offer>
+    <offer sku="1906732">
+      <model>Рулетка ВИХРЬ 73/11/1/1 3 м</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>529.58</price>
+        <cityprice cityId="615420100">529.58</cityprice>
+    </offer>
+    <offer sku="1907971">
+      <model>Рулетка Kolner KМТ 3/16М 3 м</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1272.57</price>
+        <cityprice cityId="615420100">1272.57</cityprice>
+    </offer>
+    <offer sku="1906692">
+      <model>Рулетка STANLEY 0-33-897 10 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11065.82</price>
+        <cityprice cityId="615420100">11065.82</cityprice>
+    </offer>
+    <offer sku="1906695">
+      <model>Рулетка STANLEY 0-34-105 20 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6619.73</price>
+        <cityprice cityId="615420100">6619.73</cityprice>
+    </offer>
+    <offer sku="12249192">
+      <model>Рулетка Total TMT126052M, 5 м</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1773.13</price>
+        <cityprice cityId="615420100">1773.13</cityprice>
+    </offer>
+    <offer sku="1907649">
+      <model>Рулетка STANLEY 0-34-296 20 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10554.03</price>
+        <cityprice cityId="615420100">10554.03</cityprice>
+    </offer>
+    <offer sku="1907192">
+      <model>Рулетка Dexell 15368326 3 м</model>
+      <brand>Dexell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3950.1</price>
+        <cityprice cityId="615420100">3950.1</cityprice>
+    </offer>
+    <offer sku="3151593">
+      <model>Рулетка Stabila 42 W 30 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>229817.4</price>
+        <cityprice cityId="615420100">229817.4</cityprice>
+    </offer>
+    <offer sku="1906702">
+      <model>Рулетка STANLEY STHT36804-0 TYLON DUAL LOCK 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64273.67</price>
+        <cityprice cityId="615420100">64273.67</cityprice>
+    </offer>
+    <offer sku="12249301">
+      <model>Рулетка Total TMT126331M, 3 м</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>770.11</price>
+        <cityprice cityId="615420100">770.11</cityprice>
+    </offer>
+    <offer sku="1906684">
+      <model>Рулетка STANLEY 0-33-892 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30826.22</price>
+        <cityprice cityId="615420100">30826.22</cityprice>
+    </offer>
+    <offer sku="1907186">
+      <model>Рулетка STANLEY 0-33-238 3 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8882.3</price>
+        <cityprice cityId="615420100">8882.3</cityprice>
+    </offer>
+    <offer sku="1907293">
+      <model>Рулетка Matrix 312075 10 м</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4549.34</price>
+        <cityprice cityId="615420100">4549.34</cityprice>
+    </offer>
+    <offer sku="231662">
+      <model>Рулетка измерительная Tolsen 35982, 5м</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1421.76</price>
+        <cityprice cityId="615420100">1421.76</cityprice>
+    </offer>
+    <offer sku="172721">
+      <model>Рулетка геодезическая Ermenrich Reel SL50</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10196.37</price>
+        <cityprice cityId="615420100">10196.37</cityprice>
+    </offer>
+    <offer sku="428756">
+      <model>Лазерная рулетка Ermenrich Reel GD80</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18910.7</price>
+        <cityprice cityId="615420100">18910.7</cityprice>
+    </offer>
+    <offer sku="514158">
+      <model>Лазерная рулетка Ermenrich Reel GS60</model>
+      <brand>Ermenrich</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20689.14</price>
+        <cityprice cityId="615420100">20689.14</cityprice>
+    </offer>
+    <offer sku="12174143">
+      <model>Рулетка Stabila BM20 16446 5 м*19 мм</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3947.14</price>
+        <cityprice cityId="615420100">3947.14</cityprice>
+    </offer>
+    <offer sku="1906674">
+      <model>Рулетка STANLEY POWERLOCK 1-33-218 3 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16851.67</price>
+        <cityprice cityId="615420100">16851.67</cityprice>
+    </offer>
+    <offer sku="1907933">
+      <model>Рулетка ЗУБР 34056-10-25_z01 10 м</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3600.34</price>
+        <cityprice cityId="615420100">3600.34</cityprice>
+    </offer>
+    <offer sku="1907669">
+      <model>Рулетка STANLEY PowerWinder Fiberglass 2-34-777 100 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18159.81</price>
+        <cityprice cityId="615420100">18159.81</cityprice>
+    </offer>
+    <offer sku="4297949">
+      <model>Рулетка Gross 31122 &quot;Doppelhaken&quot;, 3 м x 16 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1676.98</price>
+        <cityprice cityId="615420100">1676.98</cityprice>
+    </offer>
+    <offer sku="4330726">
+      <model>Рулетка Gross 32575 Experte, 5 м x 27 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7157.22</price>
+        <cityprice cityId="615420100">7157.22</cityprice>
+    </offer>
+    <offer sku="4296192">
+      <model>Рулетка Gross 31114 &quot;Schlagfest&quot;, 8 м x 25 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5172.28</price>
+        <cityprice cityId="615420100">5172.28</cityprice>
+    </offer>
+    <offer sku="4298709">
+      <model>Рулетка Gross 31123 &quot;Doppelhaken&quot;, 5 м x 19 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5320.49</price>
+        <cityprice cityId="615420100">5320.49</cityprice>
+    </offer>
+    <offer sku="12250071">
+      <model>Рулетка геодезическая Matrix 1087079, 50 м</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6482.99</price>
+        <cityprice cityId="615420100">6482.99</cityprice>
+    </offer>
+    <offer sku="12249094">
+      <model>Рулетка Stroxx 00000004704, 5 м</model>
+      <brand>Stroxx</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4446.09</price>
+        <cityprice cityId="615420100">4446.09</cityprice>
+    </offer>
+    <offer sku="1907940">
+      <model>Рулетка STAYER 3410-05_z01 5 м</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1194.52</price>
+        <cityprice cityId="615420100">1194.52</cityprice>
+    </offer>
+    <offer sku="1907203">
+      <model>Рулетка РемоКолор 15-1-325 5 м</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1892.23</price>
+        <cityprice cityId="615420100">1892.23</cityprice>
+    </offer>
+    <offer sku="12248869">
+      <model>Рулетка Fixtec FHSMT275, 7.5 м</model>
+      <brand>Fixtec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3556.87</price>
+        <cityprice cityId="615420100">3556.87</cityprice>
+    </offer>
+    <offer sku="12249217">
+      <model>Рулетка Зубр 34016-10, 10 м</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1283.44</price>
+        <cityprice cityId="615420100">1283.44</cityprice>
+    </offer>
+    <offer sku="12249240">
+      <model>Рулетка Зубр 34016-5, 5 м</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>875.39</price>
+        <cityprice cityId="615420100">875.39</cityprice>
+    </offer>
+    <offer sku="12249291">
+      <model>Рулетка Stabila 46 W, 20 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61051.73</price>
+        <cityprice cityId="615420100">61051.73</cityprice>
+    </offer>
+    <offer sku="12248796">
+      <model>Рулетка Makita PGC-80520, 5 м</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2575.02</price>
+        <cityprice cityId="615420100">2575.02</cityprice>
+    </offer>
+    <offer sku="12249162">
+      <model>Рулетка Matrix Status autostop magnet+ 31009, 7.5 м</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41635.16</price>
+        <cityprice cityId="615420100">41635.16</cityprice>
+    </offer>
+    <offer sku="12248891">
+      <model>Рулетка Stayer MaxTape 34014-03-16, 3 м</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36150.66</price>
+        <cityprice cityId="615420100">36150.66</cityprice>
+    </offer>
+    <offer sku="4293477">
+      <model>Рулетка Matrix 31032 Chrom, 2 м x 13 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>748.92</price>
+        <cityprice cityId="615420100">748.92</cityprice>
+    </offer>
+    <offer sku="1907944">
+      <model>Рулетка Kolner KМТ 5/19М 5 м</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4332.47</price>
+        <cityprice cityId="615420100">4332.47</cityprice>
+    </offer>
+    <offer sku="3124816">
+      <model>Рулетка Stabila ВМ-20, 3 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41701.36</price>
+        <cityprice cityId="615420100">41701.36</cityprice>
+    </offer>
+    <offer sku="1906697">
+      <model>Рулетка Stabila ВМ-50Р 30 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27565.76</price>
+        <cityprice cityId="615420100">27565.76</cityprice>
+    </offer>
+    <offer sku="1907633">
+      <model>Рулетка STANLEY Grip Tape STHT0-33561 5 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6244.29</price>
+        <cityprice cityId="615420100">6244.29</cityprice>
+    </offer>
+    <offer sku="1907897">
+      <model>Рулетка ОРМИС RemoCosmo 15-4-107 7.5 м</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3797.95</price>
+        <cityprice cityId="615420100">3797.95</cityprice>
+    </offer>
+    <offer sku="12249187">
+      <model>Рулетка Tundra 881704, 10 м</model>
+      <brand>Tundra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3970.26</price>
+        <cityprice cityId="615420100">3970.26</cityprice>
+    </offer>
+    <offer sku="1908391">
+      <model>Рулетка STANLEY 1-30-657 8 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10715.08</price>
+        <cityprice cityId="615420100">10715.08</cityprice>
+    </offer>
+    <offer sku="12249122">
+      <model>Рулетка Patriot MTP-10 350005010, 10 м</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4095.17</price>
+        <cityprice cityId="615420100">4095.17</cityprice>
+    </offer>
+    <offer sku="12174130">
+      <model>Рулетка Stabila BM 30 SP 16452 8 м*25 мм</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10621.22</price>
+        <cityprice cityId="615420100">10621.22</cityprice>
+    </offer>
+    <offer sku="12177676">
+      <model>Рулетка геодезическая Matrix 312195,30 м</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16857.99</price>
+        <cityprice cityId="615420100">16857.99</cityprice>
+    </offer>
+    <offer sku="12174144">
+      <model>Рулетка Stabila 30 16525 5м*19мм</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9332.84</price>
+        <cityprice cityId="615420100">9332.84</cityprice>
+    </offer>
+    <offer sku="12174109">
+      <model>Рулетка РемоКолор 15-1-510 10 м*25 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2620.89</price>
+        <cityprice cityId="615420100">2620.89</cityprice>
+    </offer>
+    <offer sku="1907188">
+      <model>Рулетка STANLEY 0-33-236 2 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7340.99</price>
+        <cityprice cityId="615420100">7340.99</cityprice>
+    </offer>
+    <offer sku="1907667">
+      <model>Рулетка STANLEY Tylon 0-30-686 3 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2862.6</price>
+        <cityprice cityId="615420100">2862.6</cityprice>
+    </offer>
+    <offer sku="3151801">
+      <model>Рулетка Stabila 42 W 100 м</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118525.84</price>
+        <cityprice cityId="615420100">118525.84</cityprice>
+    </offer>
+    <offer sku="1907198">
+      <model>Рулетка STANLEY 1-33-236 2 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6471.53</price>
+        <cityprice cityId="615420100">6471.53</cityprice>
+    </offer>
+    <offer sku="12174108">
+      <model>Рулетка Stabila BM100 19570 3 м*16 мм</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3054.03</price>
+        <cityprice cityId="615420100">3054.03</cityprice>
+    </offer>
+    <offer sku="12174306">
+      <model>Рулетка РемоКолор RemoCosmo 15-4-105 5 м*19 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3439.3</price>
+        <cityprice cityId="615420100">3439.3</cityprice>
+    </offer>
+    <offer sku="1907683">
+      <model>Рулетка РемоКолор 15-1-327 7.5 м</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3731.75</price>
+        <cityprice cityId="615420100">3731.75</cityprice>
+    </offer>
+    <offer sku="4313230">
+      <model>Рулетка Gross 31101 &quot;Ergonomisch&quot;, 3 м x 16 мм</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1579.84</price>
+        <cityprice cityId="615420100">1579.84</cityprice>
+    </offer>
+    <offer sku="12249091">
+      <model>Рулетка Stanley Grip Tape STHT0-33559, 3 м</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4192.89</price>
+        <cityprice cityId="615420100">4192.89</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
