@@ -13593,5 +13593,3110 @@
       <price>97674.59</price>
         <cityprice cityId="615420100">97674.59</cityprice>
     </offer>
+    <offer sku="12177656">
+      <model>Тепловизор Condtrol IR-CAM 2 PRO 3-17-026</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>333966.57</price>
+        <cityprice cityId="615420100">333966.57</cityprice>
+    </offer>
+    <offer sku="12177662">
+      <model>Курвиметр электронный Matrix 36002, 9999,9 м</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18657.69</price>
+        <cityprice cityId="615420100">18657.69</cityprice>
+    </offer>
+    <offer sku="12177663">
+      <model>Штангенциркуль Hobbi ШЦ-250 0.02x250мм 15-5-225</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14597.11</price>
+        <cityprice cityId="615420100">14597.11</cityprice>
+    </offer>
+    <offer sku="12177664">
+      <model>Линейка двусторонняя РемоКолор металлическая 1000мм арт.15-6-100</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2419.66</price>
+        <cityprice cityId="615420100">2419.66</cityprice>
+    </offer>
+    <offer sku="12177665">
+      <model>Строительная линейка Stayer Professional   30 см  арт.3427-030_z01</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227.59</price>
+        <cityprice cityId="615420100">227.59</cityprice>
+    </offer>
+    <offer sku="12177666">
+      <model>Клещи токоизмерительные Uni-T UT210A</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11465.97</price>
+        <cityprice cityId="615420100">11465.97</cityprice>
+    </offer>
+    <offer sku="12177668">
+      <model>Пирометр Condtrol Maxwell 4 3-16-044</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45382.72</price>
+        <cityprice cityId="615420100">45382.72</cityprice>
+    </offer>
+    <offer sku="12177669">
+      <model>Пирометр инфракрасный Зубр Профессионал ТермПРО-550 45723-550</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11042.11</price>
+        <cityprice cityId="615420100">11042.11</cityprice>
+    </offer>
+    <offer sku="12177687">
+      <model>Ящик для инструмента Зубр 38323-23 Нева-23</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9875.78</price>
+        <cityprice cityId="615420100">9875.78</cityprice>
+    </offer>
+    <offer sku="12177688">
+      <model>Ящик для инструментов Blokcer Boombox 65-1-424 черный</model>
+      <brand>BLOCKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25371.37</price>
+        <cityprice cityId="615420100">25371.37</cityprice>
+    </offer>
+    <offer sku="12177691">
+      <model>Кейс для набора инструментов Мастак 01-058C 516-00058C</model>
+      <brand>МАСТАК</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51313.81</price>
+        <cityprice cityId="615420100">51313.81</cityprice>
+    </offer>
+    <offer sku="12177697">
+      <model>Ящик для ручного инструмента 28 OTCK028</model>
+      <brand>ORIENT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>158083.2</price>
+        <cityprice cityId="615420100">158083.2</cityprice>
+    </offer>
+    <offer sku="12177791">
+      <model>Набор инструмента Force 2203-5  19 предметов</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="12177801">
+      <model>Угольник магнитный РемоКолор для сварки арт.73-0-204</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6036.61</price>
+        <cityprice cityId="615420100">6036.61</cityprice>
+    </offer>
+    <offer sku="12177802">
+      <model>Угольник магнитный РемоКолор для сварки 45-135° арт.73-0-201</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3364.21</price>
+        <cityprice cityId="615420100">3364.21</cityprice>
+    </offer>
+    <offer sku="12177805">
+      <model>Угольник магнитный РемоКолор для сварки 45-135° арт.73-0-202</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4218.48</price>
+        <cityprice cityId="615420100">4218.48</cityprice>
+    </offer>
+    <offer sku="12177806">
+      <model>Столярный угольник  металлический РемоКолор  250мм арт.15-3-250</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1504.75</price>
+        <cityprice cityId="615420100">1504.75</cityprice>
+    </offer>
+    <offer sku="12177807">
+      <model>Угольник Sparta металлический 250мм арт.323425</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1121.21</price>
+        <cityprice cityId="615420100">1121.21</cityprice>
+    </offer>
+    <offer sku="12177809">
+      <model>Угольник Sparta металлический 350мм арт.323465</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1241.94</price>
+        <cityprice cityId="615420100">1241.94</cityprice>
+    </offer>
+    <offer sku="12177810">
+      <model>Угольник Sparta металлический 500мм 323525</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1515.62</price>
+        <cityprice cityId="615420100">1515.62</cityprice>
+    </offer>
+    <offer sku="12177812">
+      <model>Угольник для газо и пенобетона РемоКолор  550мм  арт.28-5-055</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4744.25</price>
+        <cityprice cityId="615420100">4744.25</cityprice>
+    </offer>
+    <offer sku="12177813">
+      <model>Тепловизор Condtrol IR-CAM 1 3-17-023</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33315.67</price>
+        <cityprice cityId="615420100">33315.67</cityprice>
+    </offer>
+    <offer sku="12177824">
+      <model>Курвиметр электронный Condtrol WheelTronic 2-10-005, 10000 м</model>
+      <brand>CONDTROL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57674.78</price>
+        <cityprice cityId="615420100">57674.78</cityprice>
+    </offer>
+    <offer sku="12177826">
+      <model>Штангенциркуль Hobbi ШЦ-200 0.02x200мм 15-5-200</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8802.27</price>
+        <cityprice cityId="615420100">8802.27</cityprice>
+    </offer>
+    <offer sku="12177829">
+      <model>Штангенциркуль Hobbi ШЦ-150 0.02x150мм 15-5-150</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16782.51</price>
+        <cityprice cityId="615420100">16782.51</cityprice>
+    </offer>
+    <offer sku="12177830">
+      <model>Штангенциркуль Hobbi ШЦ-125 0.02x125мм 15-5-125</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11362.23</price>
+        <cityprice cityId="615420100">11362.23</cityprice>
+    </offer>
+    <offer sku="12177831">
+      <model>Штангенциркуль пластмассовый Stayer Standard 125мм 3440_z01</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>771</price>
+        <cityprice cityId="615420100">771</cityprice>
+    </offer>
+    <offer sku="12177832">
+      <model>Штангенциркуль Hobbi ШЦЦ-150 15-5-215</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17605.53</price>
+        <cityprice cityId="615420100">17605.53</cityprice>
+    </offer>
+    <offer sku="12177833">
+      <model>Строительная линейка  РемоКолор металлическая 300 мм  арт.15-6-030</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172.01</price>
+        <cityprice cityId="615420100">172.01</cityprice>
+    </offer>
+    <offer sku="12177834">
+      <model>Строительная линейка  РемоКолор металлическая 500мм арт.15-6-050</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3185.48</price>
+        <cityprice cityId="615420100">3185.48</cityprice>
+    </offer>
+    <offer sku="12177835">
+      <model>Строительная линейка Stayer  Professional  100 см 3427-100_z01</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2938.47</price>
+        <cityprice cityId="615420100">2938.47</cityprice>
+    </offer>
+    <offer sku="12177836">
+      <model>Строительная линейка Россия 300мм арт.30561</model>
+      <brand>RUSSIA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>292.45</price>
+        <cityprice cityId="615420100">292.45</cityprice>
+    </offer>
+    <offer sku="12177837">
+      <model>Строительная линейка Stayer 20см 3427-020_z01</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168.49</price>
+        <cityprice cityId="615420100">168.49</cityprice>
+    </offer>
+    <offer sku="12177839">
+      <model>Строительная линейка Stayer 500мм  3427-050_z01</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>430.48</price>
+        <cityprice cityId="615420100">430.48</cityprice>
+    </offer>
+    <offer sku="12177842">
+      <model>Клещи токоизмерительные Uni-T UT201+</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13104.48</price>
+        <cityprice cityId="615420100">13104.48</cityprice>
+    </offer>
+    <offer sku="12177843">
+      <model>Клещи токоизмерительные Uni-T UT202R</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19906.63</price>
+        <cityprice cityId="615420100">19906.63</cityprice>
+    </offer>
+    <offer sku="12177844">
+      <model>Клещи токоизмерительные Uni-T UT203+</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11176.48</price>
+        <cityprice cityId="615420100">11176.48</cityprice>
+    </offer>
+    <offer sku="12177845">
+      <model>Клещи токоизмерительные Uni-T UT202A+</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12580.46</price>
+        <cityprice cityId="615420100">12580.46</cityprice>
+    </offer>
+    <offer sku="12177853">
+      <model>Пирометр UNI-T UT301D+</model>
+      <brand>UNI-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36104.23</price>
+        <cityprice cityId="615420100">36104.23</cityprice>
+    </offer>
+    <offer sku="12177856">
+      <model>Пирометр Condtrol Maxwell 3 3-16-043</model>
+      <brand>Condtrol</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44559.7</price>
+        <cityprice cityId="615420100">44559.7</cityprice>
+    </offer>
+    <offer sku="12177907">
+      <model>Бур по бетону Bosch 2608833802 10х300х360 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6912.19</price>
+        <cityprice cityId="615420100">6912.19</cityprice>
+    </offer>
+    <offer sku="12177915">
+      <model>Удлинитель РемоКолор 35-4-500</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2642.95</price>
+        <cityprice cityId="615420100">2642.95</cityprice>
+    </offer>
+    <offer sku="12177916">
+      <model>Адаптер РемоКолор 33-2-606</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2380.14</price>
+        <cityprice cityId="615420100">2380.14</cityprice>
+    </offer>
+    <offer sku="12177927">
+      <model>Набор адаптеров Kraftool Expert 26775-H3 3 шт</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2662.71</price>
+        <cityprice cityId="615420100">2662.71</cityprice>
+    </offer>
+    <offer sku="12177935">
+      <model>Сверло по металлу Bosch PointTec 2.5х57мм 2608577156, 2 шт</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1326.91</price>
+        <cityprice cityId="615420100">1326.91</cityprice>
+    </offer>
+    <offer sku="12177939">
+      <model>Набор свёрл по металлу РемоКолор 36-8-302, 19 шт.</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="12177944">
+      <model>Сверло по металлу Makita D-38504 11х142</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27550.94</price>
+        <cityprice cityId="615420100">27550.94</cityprice>
+    </offer>
+    <offer sku="12177955">
+      <model>Сверло по металлу Makita D-09787 8х117мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31007.03</price>
+        <cityprice cityId="615420100">31007.03</cityprice>
+    </offer>
+    <offer sku="12177956">
+      <model>Сверло по металлу ступенчатое РемоКолор 6-20мм 35-6-620 HSS</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8013.83</price>
+        <cityprice cityId="615420100">8013.83</cityprice>
+    </offer>
+    <offer sku="12177960">
+      <model>Сверло ступенчатое по металлу РемоКолор 9-36мм 35-6-936</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11855.25</price>
+        <cityprice cityId="615420100">11855.25</cityprice>
+    </offer>
+    <offer sku="12177966">
+      <model>Сверло по металлу Makita D-38495 10х133</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>711.37</price>
+        <cityprice cityId="615420100">711.37</cityprice>
+    </offer>
+    <offer sku="12177968">
+      <model>Сверло по металлу РемоКолор 2.5x57мм 35-5-325 Р6М5/HSS, 2 шт.</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>987.03</price>
+        <cityprice cityId="615420100">987.03</cityprice>
+    </offer>
+    <offer sku="12177971">
+      <model>Сверло по металлу РемоКолор 13x101мм 35-5-213, 5шт.</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6915.15</price>
+        <cityprice cityId="615420100">6915.15</cityprice>
+    </offer>
+    <offer sku="12177980">
+      <model>Переходник Зубр Мастер 29061_z01</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>888.23</price>
+        <cityprice cityId="615420100">888.23</cityprice>
+    </offer>
+    <offer sku="12177982">
+      <model>Удлинитель Force 8044125</model>
+      <brand>Force</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9656.91</price>
+        <cityprice cityId="615420100">9656.91</cityprice>
+    </offer>
+    <offer sku="12177983">
+      <model>Адаптер Gross 11342</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3086.57</price>
+        <cityprice cityId="615420100">3086.57</cityprice>
+    </offer>
+    <offer sku="12177988">
+      <model>Патрон Stayer 29052-13-1/2</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2839.57</price>
+        <cityprice cityId="615420100">2839.57</cityprice>
+    </offer>
+    <offer sku="12177992">
+      <model>Патрон РемоКолор 80-0-011</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4141.78</price>
+        <cityprice cityId="615420100">4141.78</cityprice>
+    </offer>
+    <offer sku="12177995">
+      <model>Удлинитель РемоКолор 36-7-951</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6171.17</price>
+        <cityprice cityId="615420100">6171.17</cityprice>
+    </offer>
+    <offer sku="12177998">
+      <model>Патрон РемоКолор 80-0-010</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7773.74</price>
+        <cityprice cityId="615420100">7773.74</cityprice>
+    </offer>
+    <offer sku="12178002">
+      <model>Адаптер Matrix 76290</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>320.12</price>
+        <cityprice cityId="615420100">320.12</cityprice>
+    </offer>
+    <offer sku="12178004">
+      <model>Переходник Gross 11367</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2644.93</price>
+        <cityprice cityId="615420100">2644.93</cityprice>
+    </offer>
+    <offer sku="12178006">
+      <model>Патрон РемоКолор B16 80-0-113</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5708.78</price>
+        <cityprice cityId="615420100">5708.78</cityprice>
+    </offer>
+    <offer sku="12178012">
+      <model>Удлинитель Stels 13909</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1999.75</price>
+        <cityprice cityId="615420100">1999.75</cityprice>
+    </offer>
+    <offer sku="12178019">
+      <model>Переходник Gross 11369</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3086.57</price>
+        <cityprice cityId="615420100">3086.57</cityprice>
+    </offer>
+    <offer sku="12178020">
+      <model>Адаптер Gross 11317</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3262.44</price>
+        <cityprice cityId="615420100">3262.44</cityprice>
+    </offer>
+    <offer sku="12178024">
+      <model>Патрон  РемоКолор B18 80-0-114</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6702.73</price>
+        <cityprice cityId="615420100">6702.73</cityprice>
+    </offer>
+    <offer sku="12178030">
+      <model>Патрон Alteco Weldon КМ2-50-19.05 25221</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28276.14</price>
+        <cityprice cityId="615420100">28276.14</cityprice>
+    </offer>
+    <offer sku="12178050">
+      <model>Сверло по металлу Bosch PointTeQ 1.5х40 2608577154, 2 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>932.69</price>
+        <cityprice cityId="615420100">932.69</cityprice>
+    </offer>
+    <offer sku="12178061">
+      <model>Сверло по металлу Bosch PointTec 4х75мм 2608577161, 2 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1317.03</price>
+        <cityprice cityId="615420100">1317.03</cityprice>
+    </offer>
+    <offer sku="12178093">
+      <model>Сверло по металлу РемоКолор 6.5 мм 35-5-665 Р6М5/HSS TIN</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1753.74</price>
+        <cityprice cityId="615420100">1753.74</cityprice>
+    </offer>
+    <offer sku="12178100">
+      <model>Набор сверл по металлу Bosch PointTeQ 1.0-10мм ProBox 2608577351, 19шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17784.36</price>
+        <cityprice cityId="615420100">17784.36</cityprice>
+    </offer>
+    <offer sku="12178119">
+      <model>Сверло по металлу Bosch PointTeQ 2608577300</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2981.84</price>
+        <cityprice cityId="615420100">2981.84</cityprice>
+    </offer>
+    <offer sku="12178121">
+      <model>Сверло по металлу Hardax 4.8х86 мм 35-5-348 Р6М5/HSS</model>
+      <brand>Hardax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23094.97</price>
+        <cityprice cityId="615420100">23094.97</cityprice>
+    </offer>
+    <offer sku="12178126">
+      <model>Сверло ступенчатое по металлу РемоКолор 6-25мм 35-5-025</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9659.87</price>
+        <cityprice cityId="615420100">9659.87</cityprice>
+    </offer>
+    <offer sku="12178151">
+      <model>Сверло ступенчатое по металлу РемоКолор 6-32мм 35-5-032</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13282.94</price>
+        <cityprice cityId="615420100">13282.94</cityprice>
+    </offer>
+    <offer sku="12178154">
+      <model>Сверло ступенчатое по металлу РемоКолор 6-20мм 35-5-020</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8781.52</price>
+        <cityprice cityId="615420100">8781.52</cityprice>
+    </offer>
+    <offer sku="12178164">
+      <model>Сверло по металлу РемоКолор 1.5 мм 35-5-615 Р6М5/HSS TIN, 2 шт.</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1097.69</price>
+        <cityprice cityId="615420100">1097.69</cityprice>
+    </offer>
+    <offer sku="12178168">
+      <model>Сверло по металлу РемоКолор 35-5-142 4.2 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2743.73</price>
+        <cityprice cityId="615420100">2743.73</cityprice>
+    </offer>
+    <offer sku="12178169">
+      <model>Сверло по металлу РемоКолор 35-5-216 16 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14807.45</price>
+        <cityprice cityId="615420100">14807.45</cityprice>
+    </offer>
+    <offer sku="12178170">
+      <model>Сверло по металлу Bosch PointTeQ 1мм 2608577178, 10шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1827.84</price>
+        <cityprice cityId="615420100">1827.84</cityprice>
+    </offer>
+    <offer sku="12178172">
+      <model>Набор сверл по металлу Вихрь 73/10/6/18 1-10мм HSS, 19шт.</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5433.12</price>
+        <cityprice cityId="615420100">5433.12</cityprice>
+    </offer>
+    <offer sku="12178184">
+      <model>Сверло по металлу Bosch PointTeQ 6мм 2608577228, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5875.75</price>
+        <cityprice cityId="615420100">5875.75</cityprice>
+    </offer>
+    <offer sku="12178200">
+      <model>Сверло по металлу Bosch PointTeQ 8мм 2608577248, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41792.26</price>
+        <cityprice cityId="615420100">41792.26</cityprice>
+    </offer>
+    <offer sku="12178217">
+      <model>Набор сверл по металлу Hobbi 3-10мм 36-8-305, 8 шт.</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5892.55</price>
+        <cityprice cityId="615420100">5892.55</cityprice>
+    </offer>
+    <offer sku="12178226">
+      <model>Набор сверл по металлу Hobbi 1.5-6.5мм 36-8-308, 13 шт.</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3457.08</price>
+        <cityprice cityId="615420100">3457.08</cityprice>
+    </offer>
+    <offer sku="12178227">
+      <model>Сверло по металлу Bosch PointTeQ 6.7 мм 2608577235, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30516.97</price>
+        <cityprice cityId="615420100">30516.97</cityprice>
+    </offer>
+    <offer sku="12178230">
+      <model>Набор сверл по металлу Зубр 4-29625-H20-P 0.33-1.0мм, 20шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3833.52</price>
+        <cityprice cityId="615420100">3833.52</cityprice>
+    </offer>
+    <offer sku="12178233">
+      <model>Сверло по металлу РемоКолор 5.5x93мм 35-5-355 Р6М5/HSS</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1207.36</price>
+        <cityprice cityId="615420100">1207.36</cityprice>
+    </offer>
+    <offer sku="12178245">
+      <model>Сверло по металлу Bosch PointTeQ 10 мм. 2608577268, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18735.82</price>
+        <cityprice cityId="615420100">18735.82</cityprice>
+    </offer>
+    <offer sku="12178265">
+      <model>Сверло по металлу Kraftool 29656-4 4х75мм</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>655.06</price>
+        <cityprice cityId="615420100">655.06</cityprice>
+    </offer>
+    <offer sku="12178271">
+      <model>Сверло по металлу Bosch PointTeQ 6.5мм 2608577233, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3574.66</price>
+        <cityprice cityId="615420100">3574.66</cityprice>
+    </offer>
+    <offer sku="12178278">
+      <model>Набор сверл по металлу РемоКолор 36-8-203, 13 предметов</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14819.31</price>
+        <cityprice cityId="615420100">14819.31</cityprice>
+    </offer>
+    <offer sku="12178279">
+      <model>Набор сверл по металлу Bosch PointTec 1.5-6.5мм 2608577349, 13 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.6</price>
+        <cityprice cityId="615420100">29640.6</cityprice>
+    </offer>
+    <offer sku="12178308">
+      <model>Сверло по металлу Bosch HSS-G 5.1мм 2608585923</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4636.78</price>
+        <cityprice cityId="615420100">4636.78</cityprice>
+    </offer>
+    <offer sku="12178319">
+      <model>Набор сверл по металлу Зубр Профессионал 29625-H10-P 0.5-2.2мм, 10шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23712.48</price>
+        <cityprice cityId="615420100">23712.48</cityprice>
+    </offer>
+    <offer sku="12178320">
+      <model>Набор сверл по металлу Hobbi 1-10мм 36-8-307, 19шт.</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23602.81</price>
+        <cityprice cityId="615420100">23602.81</cityprice>
+    </offer>
+    <offer sku="12178360">
+      <model>Сверло по металлу Bosch HSS-G 3.2 мм 2608595056, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44299.85</price>
+        <cityprice cityId="615420100">44299.85</cityprice>
+    </offer>
+    <offer sku="12178361">
+      <model>Набор сверл по металлу Bosch PointTec 1.0-10мм 2608577350, 18 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8742</price>
+        <cityprice cityId="615420100">8742</cityprice>
+    </offer>
+    <offer sku="12178362">
+      <model>Сверло корончатое Lenz LZHS-32 32х30мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27664.56</price>
+        <cityprice cityId="615420100">27664.56</cityprice>
+    </offer>
+    <offer sku="12178364">
+      <model>Сверло корончатое Alteco 22451 18x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8733.39</price>
+        <cityprice cityId="615420100">8733.39</cityprice>
+    </offer>
+    <offer sku="12178365">
+      <model>Сверло корончатое Alteco 22453 22x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17290.35</price>
+        <cityprice cityId="615420100">17290.35</cityprice>
+    </offer>
+    <offer sku="12178373">
+      <model>Сверло корончатое Lenz LZHM-030 30х55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41496.84</price>
+        <cityprice cityId="615420100">41496.84</cityprice>
+    </offer>
+    <offer sku="12178381">
+      <model>Набор сверл по бетону Зубр Эксперт 29140-H8_z01 3-10мм, 8 шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17186.61</price>
+        <cityprice cityId="615420100">17186.61</cityprice>
+    </offer>
+    <offer sku="12178390">
+      <model>Коронка Makita BIM D-17005 19 мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30801.52</price>
+        <cityprice cityId="615420100">30801.52</cityprice>
+    </offer>
+    <offer sku="12178396">
+      <model>Коронка Makita BIM D-17136 92 мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54644.42</price>
+        <cityprice cityId="615420100">54644.42</cityprice>
+    </offer>
+    <offer sku="12178397">
+      <model>Коронка по металлу Hardax 36-7-860 60 мм</model>
+      <brand>Hardax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7705.57</price>
+        <cityprice cityId="615420100">7705.57</cityprice>
+    </offer>
+    <offer sku="12178405">
+      <model>Коронка универсальная Bosch 2608580738 44 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23140.42</price>
+        <cityprice cityId="615420100">23140.42</cityprice>
+    </offer>
+    <offer sku="12178406">
+      <model>Коронка универсальная Bosch 2608580743 60 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24699.51</price>
+        <cityprice cityId="615420100">24699.51</cityprice>
+    </offer>
+    <offer sku="12178407">
+      <model>Коронка универсальная Bosch 2608580750 76 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28071.62</price>
+        <cityprice cityId="615420100">28071.62</cityprice>
+    </offer>
+    <offer sku="12178438">
+      <model>Набор сверл по металлу РемоКолор 36-8-201, 13 предметов</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24690.61</price>
+        <cityprice cityId="615420100">24690.61</cityprice>
+    </offer>
+    <offer sku="12178439">
+      <model>Набор сверл по металлу Bosch 1-10мм 2608577348, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12338.39</price>
+        <cityprice cityId="615420100">12338.39</cityprice>
+    </offer>
+    <offer sku="12178441">
+      <model>Сверло по металлу Bosch HSS-G 2 мм 2608595051, 10 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38986.28</price>
+        <cityprice cityId="615420100">38986.28</cityprice>
+    </offer>
+    <offer sku="12178466">
+      <model>Сверло по металлу РемоКолор HSS 3мм 35-5-130, 10 шт.</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2348.52</price>
+        <cityprice cityId="615420100">2348.52</cityprice>
+    </offer>
+    <offer sku="12178488">
+      <model>Набор сверл по металлу Hobbi 35-0-030 1.5-6.5мм, 13шт.</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4939.11</price>
+        <cityprice cityId="615420100">4939.11</cityprice>
+    </offer>
+    <offer sku="12178492">
+      <model>Набор сверл по металлу Bosch X-Line 2-10мм 2608577347, 7 шт.</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15558.35</price>
+        <cityprice cityId="615420100">15558.35</cityprice>
+    </offer>
+    <offer sku="12178507">
+      <model>Набор сверл по металлу Зубр Профессионал 29623-Н6_z01 2-8мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13832.28</price>
+        <cityprice cityId="615420100">13832.28</cityprice>
+    </offer>
+    <offer sku="12178508">
+      <model>Набор сверл по металлу Зубр Титан 29615-H13 1.5-6.5мм 13шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6875.63</price>
+        <cityprice cityId="615420100">6875.63</cityprice>
+    </offer>
+    <offer sku="12178510">
+      <model>Набор сверл по металлу Patriot 815010104 1.5-6.5мм 13шт.</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13030.01</price>
+        <cityprice cityId="615420100">13030.01</cityprice>
+    </offer>
+    <offer sku="12178521">
+      <model>Столярный угольник Hobbi 300 мм 15-3-300</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2567.86</price>
+        <cityprice cityId="615420100">2567.86</cityprice>
+    </offer>
+    <offer sku="12178598">
+      <model>Сверло корончатое Lenz LZTM-22 22х55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38531.79</price>
+        <cityprice cityId="615420100">38531.79</cityprice>
+    </offer>
+    <offer sku="12178599">
+      <model>Сверло корончатое Lenz LZHM-35 35x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34580.7</price>
+        <cityprice cityId="615420100">34580.7</cityprice>
+    </offer>
+    <offer sku="12178602">
+      <model>Сверло корончатое Alteco 22434 12x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13931.08</price>
+        <cityprice cityId="615420100">13931.08</cityprice>
+    </offer>
+    <offer sku="12178603">
+      <model>Сверло корончатое Alteco 22449 14x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14227.49</price>
+        <cityprice cityId="615420100">14227.49</cityprice>
+    </offer>
+    <offer sku="12178605">
+      <model>Сверло корончатое Alteco 22452 20x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15907.12</price>
+        <cityprice cityId="615420100">15907.12</cityprice>
+    </offer>
+    <offer sku="12178607">
+      <model>Сверло корончатое Alteco 22464 18x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17290.35</price>
+        <cityprice cityId="615420100">17290.35</cityprice>
+    </offer>
+    <offer sku="12178610">
+      <model>Сверло корончатое Alteco 22465 20x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16796.34</price>
+        <cityprice cityId="615420100">16796.34</cityprice>
+    </offer>
+    <offer sku="12178612">
+      <model>Сверло корончатое Alteco 22466 22x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17784.36</price>
+        <cityprice cityId="615420100">17784.36</cityprice>
+    </offer>
+    <offer sku="12178614">
+      <model>Сверло корончатое Alteco 22457 30x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18772.38</price>
+        <cityprice cityId="615420100">18772.38</cityprice>
+    </offer>
+    <offer sku="12178615">
+      <model>Сверло корончатое Alteco 22467 24x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19266.39</price>
+        <cityprice cityId="615420100">19266.39</cityprice>
+    </offer>
+    <offer sku="12178619">
+      <model>Сверло корончатое Alteco 22468 26x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18574.78</price>
+        <cityprice cityId="615420100">18574.78</cityprice>
+    </offer>
+    <offer sku="12178626">
+      <model>Сверло корончатое Alteco 22470 30x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20847.22</price>
+        <cityprice cityId="615420100">20847.22</cityprice>
+    </offer>
+    <offer sku="12178629">
+      <model>Сверло корончатое Alteco 22471 32x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21399.74</price>
+        <cityprice cityId="615420100">21399.74</cityprice>
+    </offer>
+    <offer sku="12178633">
+      <model>Сверло корончатое Lenz LZHM-023 23х55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23712.48</price>
+        <cityprice cityId="615420100">23712.48</cityprice>
+    </offer>
+    <offer sku="12178638">
+      <model>Сверло корончатое Lenz LZHM-026 26x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29146.59</price>
+        <cityprice cityId="615420100">29146.59</cityprice>
+    </offer>
+    <offer sku="12178644">
+      <model>Сверло корончатое Lenz LZHM-40 40x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54341.1</price>
+        <cityprice cityId="615420100">54341.1</cityprice>
+    </offer>
+    <offer sku="12178663">
+      <model>Набор сверл по бетону Зубр Супер-6 2916-H3 5-8мм, 3шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1958.26</price>
+        <cityprice cityId="615420100">1958.26</cityprice>
+    </offer>
+    <offer sku="12178664">
+      <model>Набор сверл по бетону Зубр Мастер 2922-H3 5-8мм, 3шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1679.63</price>
+        <cityprice cityId="615420100">1679.63</cityprice>
+    </offer>
+    <offer sku="12178669">
+      <model>Набор сверл по бетону Зубр Мастер 2922-H8_z01 3-10мм, 8шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14818.32</price>
+        <cityprice cityId="615420100">14818.32</cityprice>
+    </offer>
+    <offer sku="12178678">
+      <model>Сверло левиса по дереву Зубр 2948-450-16_z01 16х450мм HEX</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34580.7</price>
+        <cityprice cityId="615420100">34580.7</cityprice>
+    </offer>
+    <offer sku="12178735">
+      <model>Коронка биметаллическая Bosch 2608584632 44 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8397.18</price>
+        <cityprice cityId="615420100">8397.18</cityprice>
+    </offer>
+    <offer sku="12178751">
+      <model>Коронка биметаллическая Hardax Bimetal 36-7-873 73 мм</model>
+      <brand>Hardax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10374.21</price>
+        <cityprice cityId="615420100">10374.21</cityprice>
+    </offer>
+    <offer sku="12178759">
+      <model>Коронка пильная Bosch 2608584641 60 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19759.41</price>
+        <cityprice cityId="615420100">19759.41</cityprice>
+    </offer>
+    <offer sku="12178761">
+      <model>Коронка по металлу Hardax 36-7-832 32 мм</model>
+      <brand>Hardax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5729.53</price>
+        <cityprice cityId="615420100">5729.53</cityprice>
+    </offer>
+    <offer sku="12178777">
+      <model>Коронка универсальная Bosch Speed for Multi Construction 2608580727 20 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23110.78</price>
+        <cityprice cityId="615420100">23110.78</cityprice>
+    </offer>
+    <offer sku="12178778">
+      <model>Коронка универсальная Bosch 2608580732 30 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13994.32</price>
+        <cityprice cityId="615420100">13994.32</cityprice>
+    </offer>
+    <offer sku="12178783">
+      <model>Коронка универсальная Bosch 2608580739 48 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13337.28</price>
+        <cityprice cityId="615420100">13337.28</cityprice>
+    </offer>
+    <offer sku="12178785">
+      <model>Коронка универсальная Bosch Speed for Multi Construction 2608580742 57 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28051.86</price>
+        <cityprice cityId="615420100">28051.86</cityprice>
+    </offer>
+    <offer sku="12178786">
+      <model>Коронка универсальная Bosch 2608580744 64 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27800.91</price>
+        <cityprice cityId="615420100">27800.91</cityprice>
+    </offer>
+    <offer sku="12178787">
+      <model>Коронка универсальная Bosch 2608580752 79 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28082.49</price>
+        <cityprice cityId="615420100">28082.49</cityprice>
+    </offer>
+    <offer sku="12178788">
+      <model>Коронка универсальная Bosch 2608580745 65 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29573.41</price>
+        <cityprice cityId="615420100">29573.41</cityprice>
+    </offer>
+    <offer sku="12178789">
+      <model>Коронка универсальная Bosch 2608580747 68 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24640.23</price>
+        <cityprice cityId="615420100">24640.23</cityprice>
+    </offer>
+    <offer sku="12178805">
+      <model>Коронка РемоКолор 36-7-825 25 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3841.42</price>
+        <cityprice cityId="615420100">3841.42</cityprice>
+    </offer>
+    <offer sku="12178824">
+      <model>Набор коронок Зубр Эксперт 2955-H11 19-64 мм, 11 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4522.17</price>
+        <cityprice cityId="615420100">4522.17</cityprice>
+    </offer>
+    <offer sku="12178857">
+      <model>Коронка алмазная Alteco ВТ 41364 51х450 мм</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13634.68</price>
+        <cityprice cityId="615420100">13634.68</cityprice>
+    </offer>
+    <offer sku="12178859">
+      <model>Коронка алмазная Makita D-44579 57 мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28157.58</price>
+        <cityprice cityId="615420100">28157.58</cityprice>
+    </offer>
+    <offer sku="12178862">
+      <model>Коронка универсальная Bosch 2608580753 83 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27523.27</price>
+        <cityprice cityId="615420100">27523.27</cityprice>
+    </offer>
+    <offer sku="12178881">
+      <model>Коронка РемоКолор 36-7-765 65 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5038.9</price>
+        <cityprice cityId="615420100">5038.9</cityprice>
+    </offer>
+    <offer sku="12178893">
+      <model>Коронка по бетону Hardax 36-7-780 80 мм</model>
+      <brand>Hardax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8297.39</price>
+        <cityprice cityId="615420100">8297.39</cityprice>
+    </offer>
+    <offer sku="12178896">
+      <model>Коронка по керамике РемоКолор 36-8-043 43 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3940.22</price>
+        <cityprice cityId="615420100">3940.22</cityprice>
+    </offer>
+    <offer sku="12178897">
+      <model>Набор пил кольцевых Kraftool 29580-H7-18 7 шт</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2424.6</price>
+        <cityprice cityId="615420100">2424.6</cityprice>
+    </offer>
+    <offer sku="12178899">
+      <model>Набор пил кольцевых Kraftool 29580-H7-42 7 шт</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2577.74</price>
+        <cityprice cityId="615420100">2577.74</cityprice>
+    </offer>
+    <offer sku="12178901">
+      <model>Набор пил кольцевых Stayer Master 2956-1 7 шт</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1673.71</price>
+        <cityprice cityId="615420100">1673.71</cityprice>
+    </offer>
+    <offer sku="12178906">
+      <model>Набор кольцевых коронок РемоКолор 36-8-120 33-83 мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28623.93</price>
+        <cityprice cityId="615420100">28623.93</cityprice>
+    </offer>
+    <offer sku="12178907">
+      <model>Набор пил кольцевых Stayer Master 2956-2 26-64 мм, 7 шт</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1851.55</price>
+        <cityprice cityId="615420100">1851.55</cityprice>
+    </offer>
+    <offer sku="12178910">
+      <model>Коронка по керамике Hardax 36-8-083 83 мм</model>
+      <brand>Hardax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3753.49</price>
+        <cityprice cityId="615420100">3753.49</cityprice>
+    </offer>
+    <offer sku="12178916">
+      <model>Коронка универсальная Bosch Speed for Multi Construction 2608580748 70 мм</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29544.76</price>
+        <cityprice cityId="615420100">29544.76</cityprice>
+    </offer>
+    <offer sku="12178925">
+      <model>Набор сверл DeWALT DT6952 4-10мм, 5шт.</model>
+      <brand>Dewalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21736.44</price>
+        <cityprice cityId="615420100">21736.44</cityprice>
+    </offer>
+    <offer sku="12178926">
+      <model>Сверло корончатое Lenz LZHM-018 18х55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21736.44</price>
+        <cityprice cityId="615420100">21736.44</cityprice>
+    </offer>
+    <offer sku="12178927">
+      <model>Сверло корончатое Lenz LZHM-12 12х55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17784.36</price>
+        <cityprice cityId="615420100">17784.36</cityprice>
+    </offer>
+    <offer sku="12178928">
+      <model>Сверло корончатое Alteco 22472 35x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23811.28</price>
+        <cityprice cityId="615420100">23811.28</cityprice>
+    </offer>
+    <offer sku="12178929">
+      <model>Сверло корончатое Lenz LZHM-032 32x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38532.78</price>
+        <cityprice cityId="615420100">38532.78</cityprice>
+    </offer>
+    <offer sku="12178930">
+      <model>Сверло корончатое Lenz LZHM-019 19x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23218.47</price>
+        <cityprice cityId="615420100">23218.47</cityprice>
+    </offer>
+    <offer sku="12178931">
+      <model>Набор пилотных сверл с зенкерами DeWALT Flip&amp;Drive DT7612, 10шт.</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16478.2</price>
+        <cityprice cityId="615420100">16478.2</cityprice>
+    </offer>
+    <offer sku="12178934">
+      <model>Набор сверл Hardax 36-8-401</model>
+      <brand>Hardax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22451.77</price>
+        <cityprice cityId="615420100">22451.77</cityprice>
+    </offer>
+    <offer sku="12178936">
+      <model>Сверло корончатое Lenz LZHM-014 14х55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17784.36</price>
+        <cityprice cityId="615420100">17784.36</cityprice>
+    </offer>
+    <offer sku="12178937">
+      <model>Сверло корончатое Lenz LZTM-18 18х55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34580.7</price>
+        <cityprice cityId="615420100">34580.7</cityprice>
+    </offer>
+    <offer sku="12178938">
+      <model>Сверло корончатое Lenz LZHM-020 20x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34580.7</price>
+        <cityprice cityId="615420100">34580.7</cityprice>
+    </offer>
+    <offer sku="12178939">
+      <model>Сверло корончатое Alteco 22473 40x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24347.63</price>
+        <cityprice cityId="615420100">24347.63</cityprice>
+    </offer>
+    <offer sku="12178941">
+      <model>Набор сверл по дереву Hobbi 36-8-520 6-14мм, 6шт.</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14818.32</price>
+        <cityprice cityId="615420100">14818.32</cityprice>
+    </offer>
+    <offer sku="12178950">
+      <model>Сверло Левиса по дереву Makita D-07537 28x400</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="12178971">
+      <model>Набор сверл по дереву Patriot 815010103 3-10мм, 8шт.</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5409.41</price>
+        <cityprice cityId="615420100">5409.41</cityprice>
+    </offer>
+    <offer sku="12178975">
+      <model>Сверло по керамике Вихрь 73/10/6/13 6мм</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>518.71</price>
+        <cityprice cityId="615420100">518.71</cityprice>
+    </offer>
+    <offer sku="12178979">
+      <model>Сверло круговое РемоКолор 35-6-012 94мм</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6915.15</price>
+        <cityprice cityId="615420100">6915.15</cityprice>
+    </offer>
+    <offer sku="12178981">
+      <model>Сверло алмазное Bosch 8х35 мм 2608550608</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18771.39</price>
+        <cityprice cityId="615420100">18771.39</cityprice>
+    </offer>
+    <offer sku="12178983">
+      <model>Сверло по стеклу и керамике Makita D-15964 6x65мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1642.09</price>
+        <cityprice cityId="615420100">1642.09</cityprice>
+    </offer>
+    <offer sku="12179020">
+      <model>Сверло корончатое Alteco 22450 16x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15314.31</price>
+        <cityprice cityId="615420100">15314.31</cityprice>
+    </offer>
+    <offer sku="12179021">
+      <model>Сверло корончатое Alteco 22461 12x50 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14919.1</price>
+        <cityprice cityId="615420100">14919.1</cityprice>
+    </offer>
+    <offer sku="12179022">
+      <model>Сверло корончатое Lenz LZHM-021 21x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26182.53</price>
+        <cityprice cityId="615420100">26182.53</cityprice>
+    </offer>
+    <offer sku="12179023">
+      <model>Сверло корончатое Lenz LZHM-022 22x55мм</model>
+      <brand>LENZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28158.57</price>
+        <cityprice cityId="615420100">28158.57</cityprice>
+    </offer>
+    <offer sku="12179033">
+      <model>Набор сверл Hobbi 35-1-108, 6 шт.</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17775.47</price>
+        <cityprice cityId="615420100">17775.47</cityprice>
+    </offer>
+    <offer sku="12179050">
+      <model>Сверло по керамике РемоКолор 4x65мм 35-4-004</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1975.05</price>
+        <cityprice cityId="615420100">1975.05</cityprice>
+    </offer>
+    <offer sku="12179055">
+      <model>Сверло по стеклу и керамике Makita D-15970 8x70мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12360.13</price>
+        <cityprice cityId="615420100">12360.13</cityprice>
+    </offer>
+    <offer sku="12179064">
+      <model>Коронка алмазная Alteco BT 41367 76х450 мм</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8380.52</price>
+        <cityprice cityId="615420100">8380.52</cityprice>
+    </offer>
+    <offer sku="12179071">
+      <model>Коронка алмазная Alteco ВТ 41361 32х450 мм</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13634.68</price>
+        <cityprice cityId="615420100">13634.68</cityprice>
+    </offer>
+    <offer sku="12179077">
+      <model>Коронка алмазная Alteco ВТ 41365 56х450 мм</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5585.28</price>
+        <cityprice cityId="615420100">5585.28</cityprice>
+    </offer>
+    <offer sku="12179082">
+      <model>Коронка алмазная Makita D-44591 65 мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40013.82</price>
+        <cityprice cityId="615420100">40013.82</cityprice>
+    </offer>
+    <offer sku="12179084">
+      <model>Коронка алмазная Makita D-44644 80 мм</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>220687.11</price>
+        <cityprice cityId="615420100">220687.11</cityprice>
+    </offer>
+    <offer sku="12179117">
+      <model>Диск шлифовальный по металлу Luga Abrasiv 125*6,0*22</model>
+      <brand>Лужский Абразивный Завод</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>534.52</price>
+        <cityprice cityId="615420100">534.52</cityprice>
+    </offer>
+    <offer sku="12179118">
+      <model>Диск отрезной Вихрь 115*1,0*22 73/1/3/23</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131.44</price>
+        <cityprice cityId="615420100">131.44</cityprice>
+    </offer>
+    <offer sku="12179121">
+      <model>Диск отрезной по металлу Luga Abraziv 150*1,4*22</model>
+      <brand>Luga Abrasiv</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193.65</price>
+        <cityprice cityId="615420100">193.65</cityprice>
+    </offer>
+    <offer sku="12179122">
+      <model>Диск Bosch Standard for Inox 150*1,6мм 2608601513</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1640.11</price>
+        <cityprice cityId="615420100">1640.11</cityprice>
+    </offer>
+    <offer sku="12179124">
+      <model>Круг шлифовальный лепестковый Bosch X-Lock 2608619210</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9188.59</price>
+        <cityprice cityId="615420100">9188.59</cityprice>
+    </offer>
+    <offer sku="12179125">
+      <model>Диск отрезной по металлу Rodex 125*1.2*22мм SRM12125</model>
+      <brand>Rodex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>262.81</price>
+        <cityprice cityId="615420100">262.81</cityprice>
+    </offer>
+    <offer sku="12179126">
+      <model>Диск шлифовальный по металлу Greatflex Т27-230*6,0*22,2 40017т</model>
+      <brand>Greatflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9287.39</price>
+        <cityprice cityId="615420100">9287.39</cityprice>
+    </offer>
+    <offer sku="12179131">
+      <model>Уровень магнитный Stabila тип 70М 60см 02874</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38927</price>
+        <cityprice cityId="615420100">38927</cityprice>
+    </offer>
+    <offer sku="12179132">
+      <model>Мини-ролик РемоКолор 06-0-633, 55 мм, 3 шт</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1294.31</price>
+        <cityprice cityId="615420100">1294.31</cityprice>
+    </offer>
+    <offer sku="12179134">
+      <model>Бур Зубр 29314-210-14_z01 14х210мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>900.09</price>
+        <cityprice cityId="615420100">900.09</cityprice>
+    </offer>
+    <offer sku="12179136">
+      <model>Пильный диск РемоКолор 74-1-301</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12435.22</price>
+        <cityprice cityId="615420100">12435.22</cityprice>
+    </offer>
+    <offer sku="12179143">
+      <model>Диск алмазный Husqvarna Elite-Cut GS2 230мм 5798034-80</model>
+      <brand>Husqvarna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69160.41</price>
+        <cityprice cityId="615420100">69160.41</cityprice>
+    </offer>
+    <offer sku="12179145">
+      <model>Диск алмазный Dexx Multi Universal 36701-230_z01</model>
+      <brand>Dexx</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3773</price>
+        <cityprice cityId="615420100">3773</cityprice>
+    </offer>
+    <offer sku="12179148">
+      <model>Алмазный диск Bosch 115*22,23 Best for Universal 2608602671</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29638.62</price>
+        <cityprice cityId="615420100">29638.62</cityprice>
+    </offer>
+    <offer sku="12179150">
+      <model>Диск алмазный универсальный DeWALT DT3743</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.6</price>
+        <cityprice cityId="615420100">29640.6</cityprice>
+    </offer>
+    <offer sku="12179151">
+      <model>Пильный диск Bosch Top Precision 2608642101</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39421.01</price>
+        <cityprice cityId="615420100">39421.01</cityprice>
+    </offer>
+    <offer sku="12179153">
+      <model>Диск отрезной алмазный Stihl D-B10 8350907052</model>
+      <brand>Stihl</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51075.69</price>
+        <cityprice cityId="615420100">51075.69</cityprice>
+    </offer>
+    <offer sku="12179155">
+      <model>Набор инструмента слесарно-монтажный РемоКолор Cr-V, 1/4&quot;, 1/2&quot;, 94 предмета 43-4-194</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39508.94</price>
+        <cityprice cityId="615420100">39508.94</cityprice>
+    </offer>
+    <offer sku="12179157">
+      <model>Набор инструмента Force  F-4161  16 предметов</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56761.75</price>
+        <cityprice cityId="615420100">56761.75</cityprice>
+    </offer>
+    <offer sku="12179159">
+      <model>Набор головок  Force   F-4246-5 , 24 предмета</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136828.91</price>
+        <cityprice cityId="615420100">136828.91</cityprice>
+    </offer>
+    <offer sku="12179161">
+      <model>Набор инструментов Rock Force RF-41082-5, 108 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32861.55</price>
+        <cityprice cityId="615420100">32861.55</cityprice>
+    </offer>
+    <offer sku="12179179">
+      <model>Набор сверл Зубр Профессионал 29865-Н3 6-10мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6439.77</price>
+        <cityprice cityId="615420100">6439.77</cityprice>
+    </offer>
+    <offer sku="12179181">
+      <model>Набор сверл Dexx 2970-H9_z01 4-6-8 мм, 9шт.</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18753.61</price>
+        <cityprice cityId="615420100">18753.61</cityprice>
+    </offer>
+    <offer sku="12179182">
+      <model>Сверло корончатое Alteco 22460 40x30 мм</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23218.47</price>
+        <cityprice cityId="615420100">23218.47</cityprice>
+    </offer>
+    <offer sku="12179183">
+      <model>Сверло корончатое Karnasch 20.1316-18 18x55мм</model>
+      <brand>Karnasch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44460.9</price>
+        <cityprice cityId="615420100">44460.9</cityprice>
+    </offer>
+    <offer sku="12179218">
+      <model>Дизельный генератор Magnetta MDE-12E3</model>
+      <brand>Magnetta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1083856.95</price>
+        <cityprice cityId="615420100">1083856.95</cityprice>
+    </offer>
+    <offer sku="12179219">
+      <model>Плита Kronospan OSB-3, 2500x1250x15 мм</model>
+      <brand>Kronospan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5840.19</price>
+        <cityprice cityId="615420100">5840.19</cityprice>
+    </offer>
+    <offer sku="255336">
+      <model>Стеллаж Промет MS Strong 200х100х60, 6 полок</model>
+      <brand>Промет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46788.68</price>
+        <cityprice cityId="615420100">46788.68</cityprice>
+    </offer>
+    <offer sku="12179375">
+      <model>Кровать медицинская детская Меги МСК-108</model>
+      <brand>Меги</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192700.46</price>
+        <cityprice cityId="615420100">192700.46</cityprice>
+    </offer>
+    <offer sku="106781">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot;, Alvest, черное, регулируемое</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90680.48</price>
+        <cityprice cityId="615420100">90680.48</cityprice>
+    </offer>
+    <offer sku="12179532">
+      <model>Парта школьная одноместная Advan JW-12A, стул в комплекте, бело-синяя</model>
+      <brand>Advan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51473.87</price>
+        <cityprice cityId="615420100">51473.87</cityprice>
+    </offer>
+    <offer sku="12179538">
+      <model>Парта школьная двухместная Advan JW-201A, 2 стула в комплекте, бело-синяя</model>
+      <brand>Advan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62679.99</price>
+        <cityprice cityId="615420100">62679.99</cityprice>
+    </offer>
+    <offer sku="12179666">
+      <model>Скотч упаковочный Bars Tape 18 мм*28 м, канцелярский</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106.71</price>
+        <cityprice cityId="615420100">106.71</cityprice>
+    </offer>
+    <offer sku="12179667">
+      <model>Скотч канцелярский Bars Tape 18 мм*8,5 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117.57</price>
+        <cityprice cityId="615420100">117.57</cityprice>
+    </offer>
+    <offer sku="12179668">
+      <model>Скотч канцелярский Bars Tape, 23 мм*28 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82.01</price>
+        <cityprice cityId="615420100">82.01</cityprice>
+    </offer>
+    <offer sku="12179669">
+      <model>Скотч упаковочный Bars Tape 36 мм*12 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>155.12</price>
+        <cityprice cityId="615420100">155.12</cityprice>
+    </offer>
+    <offer sku="12179671">
+      <model>Скотч упаковочный Bars Tape 36 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>306.29</price>
+        <cityprice cityId="615420100">306.29</cityprice>
+    </offer>
+    <offer sku="12179672">
+      <model>Скотч упаковочный Bars Tape 40 мм*25 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>199.58</price>
+        <cityprice cityId="615420100">199.58</cityprice>
+    </offer>
+    <offer sku="12179673">
+      <model>Скотч упаковочный Bars Tape 40 мм*35 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>157.1</price>
+        <cityprice cityId="615420100">157.1</cityprice>
+    </offer>
+    <offer sku="12179675">
+      <model>Скотч упаковочный Bars Tape 45 мм*60 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>188.71</price>
+        <cityprice cityId="615420100">188.71</cityprice>
+    </offer>
+    <offer sku="12179676">
+      <model>Скотч упаковочный Bars Tape 45 мм* 90 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222.3</price>
+        <cityprice cityId="615420100">222.3</cityprice>
+    </offer>
+    <offer sku="12179677">
+      <model>Скотч упаковочный Bars Tape 45 мм*125 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>238.11</price>
+        <cityprice cityId="615420100">238.11</cityprice>
+    </offer>
+    <offer sku="12179679">
+      <model>Скотч упаковочный Bars Tape 45 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247</price>
+        <cityprice cityId="615420100">247</cityprice>
+    </offer>
+    <offer sku="12179680">
+      <model>Скотч упаковочный Bars Tape 45 мм*150 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>326.05</price>
+        <cityprice cityId="615420100">326.05</cityprice>
+    </offer>
+    <offer sku="12179681">
+      <model>Скотч упаковочный Bars Tape 45 мм*250 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>355.69</price>
+        <cityprice cityId="615420100">355.69</cityprice>
+    </offer>
+    <offer sku="12179687">
+      <model>Скотч упаковочный Bars Tape 45 мм*300 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286.53</price>
+        <cityprice cityId="615420100">286.53</cityprice>
+    </offer>
+    <offer sku="12179689">
+      <model>Скотч упаковочный Bars Tape 45 мм*350 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>340.87</price>
+        <cityprice cityId="615420100">340.87</cityprice>
+    </offer>
+    <offer sku="12179695">
+      <model>Скотч упаковочный Bars Tape 48 мм*35 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204.52</price>
+        <cityprice cityId="615420100">204.52</cityprice>
+    </offer>
+    <offer sku="12179698">
+      <model>Скотч упаковочный Bars Tape 48 мм*50 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>186.74</price>
+        <cityprice cityId="615420100">186.74</cityprice>
+    </offer>
+    <offer sku="12179700">
+      <model>Скотч упаковочный Bars Tape 48 мм*100 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>267.75</price>
+        <cityprice cityId="615420100">267.75</cityprice>
+    </offer>
+    <offer sku="12179705">
+      <model>Скотч упаковочный Bars Tape 54 мм*120 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>311.23</price>
+        <cityprice cityId="615420100">311.23</cityprice>
+    </offer>
+    <offer sku="12179709">
+      <model>Скотч упаковочный Bars Tape 60 мм*25 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185.75</price>
+        <cityprice cityId="615420100">185.75</cityprice>
+    </offer>
+    <offer sku="12179710">
+      <model>Скотч упаковочный Bars Tape 60 мм*35 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>255.9</price>
+        <cityprice cityId="615420100">255.9</cityprice>
+    </offer>
+    <offer sku="12179712">
+      <model>Скотч упаковочный Bars Tape 60 мм*60 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261.83</price>
+        <cityprice cityId="615420100">261.83</cityprice>
+    </offer>
+    <offer sku="12179713">
+      <model>Скотч упаковочный Bars Tape 60 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>308.26</price>
+        <cityprice cityId="615420100">308.26</cityprice>
+    </offer>
+    <offer sku="12179716">
+      <model>Скотч упаковочный Bars Tape 80 мм*90 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>386.32</price>
+        <cityprice cityId="615420100">386.32</cityprice>
+    </offer>
+    <offer sku="12179718">
+      <model>Скотч упаковочный Bars Tape 80 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246.02</price>
+        <cityprice cityId="615420100">246.02</cityprice>
+    </offer>
+    <offer sku="12179774">
+      <model>Смеситель для ванны с душем Aquadeus 39C черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12098.3</price>
+        <cityprice cityId="615420100">12098.3</cityprice>
+    </offer>
+    <offer sku="12179781">
+      <model>Смеситель для кухни Aquadeus 44F черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7893.29</price>
+        <cityprice cityId="615420100">7893.29</cityprice>
+    </offer>
+    <offer sku="12179786">
+      <model>Смеситель для кухни Aquadeus AD05 графит</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50837.58</price>
+        <cityprice cityId="615420100">50837.58</cityprice>
+    </offer>
+    <offer sku="12179793">
+      <model>Смеситель для душа Aquadeus 71K черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37544.76</price>
+        <cityprice cityId="615420100">37544.76</cityprice>
+    </offer>
+    <offer sku="12179796">
+      <model>Смеситель для кухни Aquadeus 44F серый</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7657.15</price>
+        <cityprice cityId="615420100">7657.15</cityprice>
+    </offer>
+    <offer sku="12179799">
+      <model>Смеситель для кухни AquaDeus AD10</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17673.7</price>
+        <cityprice cityId="615420100">17673.7</cityprice>
+    </offer>
+    <offer sku="12179803">
+      <model>Смеситель для кухни Aquadeus AD04</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8862.54</price>
+        <cityprice cityId="615420100">8862.54</cityprice>
+    </offer>
+    <offer sku="12179807">
+      <model>Смеситель для душа Aquadeus 65H</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16119.55</price>
+        <cityprice cityId="615420100">16119.55</cityprice>
+    </offer>
+    <offer sku="12179811">
+      <model>Смеситель для раковины Aquadeus 70KB</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10473.01</price>
+        <cityprice cityId="615420100">10473.01</cityprice>
+    </offer>
+    <offer sku="12179855">
+      <model>Смеситель для кухни Aquadeus AD05 черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19739.65</price>
+        <cityprice cityId="615420100">19739.65</cityprice>
+    </offer>
+    <offer sku="12179856">
+      <model>Смеситель для раковины Aquadeus 10А</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4544.89</price>
+        <cityprice cityId="615420100">4544.89</cityprice>
+    </offer>
+    <offer sku="12179858">
+      <model>Смеситель для ванны с душем Aquadeus 36D</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8645.17</price>
+        <cityprice cityId="615420100">8645.17</cityprice>
+    </offer>
+    <offer sku="12179859">
+      <model>Смеситель для раковины Aquadeus 70K черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12745.46</price>
+        <cityprice cityId="615420100">12745.46</cityprice>
+    </offer>
+    <offer sku="12179871">
+      <model>Смеситель для кухни AquaDeus AD13</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48747.92</price>
+        <cityprice cityId="615420100">48747.92</cityprice>
+    </offer>
+    <offer sku="12179918">
+      <model>Счетчик воды Waviot Аква L110 D15 BE</model>
+      <brand>Waviot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27170.55</price>
+        <cityprice cityId="615420100">27170.55</cityprice>
+    </offer>
+    <offer sku="773463">
+      <model>Виброплита ТСС WP170H 207251</model>
+      <brand>ТСС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1020534.75</price>
+        <cityprice cityId="615420100">1020534.75</cityprice>
+    </offer>
+    <offer sku="970399">
+      <model>Виброплита ТСС WP320H 207257</model>
+      <brand>ТСС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1522853.01</price>
+        <cityprice cityId="615420100">1522853.01</cityprice>
+    </offer>
+    <offer sku="12180233">
+      <model>Нагель-дюбель ТОО &quot;Алматинский метизный завод&quot; 6х60 мм, 100 шт/уп</model>
+      <brand>ТОО &quot;Алматинский метизный завод&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>835.86</price>
+        <cityprice cityId="615420100">835.86</cityprice>
+    </offer>
+    <offer sku="12180303">
+      <model>Бланк Bishep &quot;Сигнальный лист участковому врачу&quot;, А5</model>
+      <brand>Bishep</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4.94</price>
+        <cityprice cityId="615420100">4.94</cityprice>
+    </offer>
+    <offer sku="12180322">
+      <model>IP-АТС Агат CU-7212MT</model>
+      <brand>Агат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2139459.5</price>
+        <cityprice cityId="615420100">2139459.5</cityprice>
+    </offer>
+    <offer sku="12180324">
+      <model>Скотч двухсторонний Bars Tape, 20 мм х 8 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191.68</price>
+        <cityprice cityId="615420100">191.68</cityprice>
+    </offer>
+    <offer sku="12180325">
+      <model>Скотч двухсторонний Bars Tape, 40 мм х 8 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296.41</price>
+        <cityprice cityId="615420100">296.41</cityprice>
+    </offer>
+    <offer sku="12180326">
+      <model>Скотч двухсторонний Bars Tape, 15 мм х 8 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105.72</price>
+        <cityprice cityId="615420100">105.72</cityprice>
+    </offer>
+    <offer sku="12180505">
+      <model>Стойка ресепшн Общественное объединение инвалидов &quot;Sert&quot; Луза, 520х60х120 см, белая</model>
+      <brand>Общественное объединение инвалидов &quot;Sert&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1440533.16</price>
+        <cityprice cityId="615420100">1440533.16</cityprice>
+    </offer>
+    <offer sku="12180531">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; F-1, белое</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54225.5</price>
+        <cityprice cityId="615420100">54225.5</cityprice>
+    </offer>
+    <offer sku="12180559">
+      <model>Стул-табурет армейский Фабрика им.Мебеля 70149-001 на металлическом каркасе</model>
+      <brand>Фабрика им. Мебеля</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4248.49</price>
+        <cityprice cityId="615420100">4248.49</cityprice>
+    </offer>
+    <offer sku="233371">
+      <model>Монтажная пена Kolt 50+ летняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3122.14</price>
+        <cityprice cityId="615420100">3122.14</cityprice>
+    </offer>
+    <offer sku="107039">
+      <model>Монтажная пена Kolt 65+ профессиональная летняя 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3171.54</price>
+        <cityprice cityId="615420100">3171.54</cityprice>
+    </offer>
+    <offer sku="196688">
+      <model>Монтажная пена Kolt 70+ профессиональная летняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3405.7</price>
+        <cityprice cityId="615420100">3405.7</cityprice>
+    </offer>
+    <offer sku="982914">
+      <model>Монтажная пена Kolt 80 профессиональная летняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6912.19</price>
+        <cityprice cityId="615420100">6912.19</cityprice>
+    </offer>
+    <offer sku="246776">
+      <model>Монтажная пена Refit 65 профессиональная зимняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3539.09</price>
+        <cityprice cityId="615420100">3539.09</cityprice>
+    </offer>
+    <offer sku="12252213">
+      <model>Монтажная пена Kolt 65 Tempered Gun профессиональная с пониженным расширением, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3641.84</price>
+        <cityprice cityId="615420100">3641.84</cityprice>
+    </offer>
+    <offer sku="473021">
+      <model>Монтажная пена Kolt 65+ профессиональная всеcезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3437.32</price>
+        <cityprice cityId="615420100">3437.32</cityprice>
+    </offer>
+    <offer sku="778635">
+      <model>Монтажная пена Kolt 65+ профессиональная зимняя 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4939.11</price>
+        <cityprice cityId="615420100">4939.11</cityprice>
+    </offer>
+    <offer sku="928932">
+      <model>Монтажная пена Kolt 70+ профессиональная зимняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3603.31</price>
+        <cityprice cityId="615420100">3603.31</cityprice>
+    </offer>
+    <offer sku="630161">
+      <model>Монтажная пена Kolt 65++ Perfect Gun профессиональная с повышенным расширением, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4010.37</price>
+        <cityprice cityId="615420100">4010.37</cityprice>
+    </offer>
+    <offer sku="386347">
+      <model>Монтажная пена Refit 65 профессиональная всеcезонная 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3644.81</price>
+        <cityprice cityId="615420100">3644.81</cityprice>
+    </offer>
+    <offer sku="610340">
+      <model>Монтажная пена Refit 65 профессиональная для окон и дверей 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3150.8</price>
+        <cityprice cityId="615420100">3150.8</cityprice>
+    </offer>
+    <offer sku="359958">
+      <model>Монтажная пена Refit 65 профессиональная летняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3249.6</price>
+        <cityprice cityId="615420100">3249.6</cityprice>
+    </offer>
+    <offer sku="332054">
+      <model>Монтажная пена Refit 70 профессиональная летняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4152.65</price>
+        <cityprice cityId="615420100">4152.65</cityprice>
+    </offer>
+    <offer sku="633214">
+      <model>Монтажная пена Refit 70 профессиональная зимняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4440.16</price>
+        <cityprice cityId="615420100">4440.16</cityprice>
+    </offer>
+    <offer sku="209447">
+      <model>Монтажная пена Super Монтажник 50 профессиональная всесезонная, 1 л</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4461.9</price>
+        <cityprice cityId="615420100">4461.9</cityprice>
+    </offer>
+    <offer sku="998971">
+      <model>Монтажная пена профессиональная всесезонная Super Монтажник 65 SM78U65, 1000 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2896.87</price>
+        <cityprice cityId="615420100">2896.87</cityprice>
+    </offer>
+    <offer sku="542932">
+      <model>Монтажная пена профессиональная всесезонная Super Монтажник 70 SM85U70, 1000 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3052.98</price>
+        <cityprice cityId="615420100">3052.98</cityprice>
+    </offer>
+    <offer sku="12252240">
+      <model>Женские гигиенические прокладки Preal Classic Maxi ночные 6 капель 10 шт</model>
+      <brand>Preal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>537.48</price>
+        <cityprice cityId="615420100">537.48</cityprice>
+    </offer>
+    <offer sku="743842">
+      <model>Монтажная пена Kolt 30+ бытовая всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4939.11</price>
+        <cityprice cityId="615420100">4939.11</cityprice>
+    </offer>
+    <offer sku="12252387">
+      <model>Матрас ортопедический ТОО &quot;Рапила&quot; 200х90х21 см, белый</model>
+      <brand>ТОО &quot;Рапила&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41494.86</price>
+        <cityprice cityId="615420100">41494.86</cityprice>
+    </offer>
+    <offer sku="959166">
+      <model>Монтажная пена Kolt 50+ бытовая всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3174.51</price>
+        <cityprice cityId="615420100">3174.51</cityprice>
+    </offer>
+    <offer sku="163287">
+      <model>Монтажная пена Refit  50 бытовая всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4936.15</price>
+        <cityprice cityId="615420100">4936.15</cityprice>
+    </offer>
+    <offer sku="181072">
+      <model>Монтажная пена Refit Mini бытовая всесезонная 650 мл</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="933529">
+      <model>Монтажная пена Super Монтажник 50 бытовая всесезонная 1 л</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="160678">
+      <model>Монтажная пена Super Монтажник Mini бытовая всесезонная 650 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="12252489">
+      <model>Ежедневник Staff 127053 синий 3 шт</model>
+      <brand>  Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>620.47</price>
+        <cityprice cityId="615420100">620.47</cityprice>
+    </offer>
+    <offer sku="12252494">
+      <model>Ежедневник Brauberg Кожа 129239 оранжевый 3 шт</model>
+      <brand>Brauberg </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1687.54</price>
+        <cityprice cityId="615420100">1687.54</cityprice>
+    </offer>
+    <offer sku="12252498">
+      <model>Ежедневник Staff 127054 красный 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7550.45</price>
+        <cityprice cityId="615420100">7550.45</cityprice>
+    </offer>
+    <offer sku="12252499">
+      <model>Ежедневник Brauberg 126541 красный 3 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>708.87</price>
+        <cityprice cityId="615420100">708.87</cityprice>
+    </offer>
+    <offer sku="12252510">
+      <model>Вышка-тура ООО &quot;РИЗ&quot; ВС-250/1.2</model>
+      <brand>ООО &quot;РИЗ&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>320414.89</price>
+        <cityprice cityId="615420100">320414.89</cityprice>
+    </offer>
+    <offer sku="12252515">
+      <model>Проф-пресс Венецианские Гондолы 96-4519 96 листов мультиколор 3 шт</model>
+      <brand>Проф-Пресс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60933.17</price>
+        <cityprice cityId="615420100">60933.17</cityprice>
+    </offer>
+    <offer sku="12252516">
+      <model>Блокнот Полином Графо А6 50 листов мультиколор 7 шт</model>
+      <brand>Полином</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45589.22</price>
+        <cityprice cityId="615420100">45589.22</cityprice>
+    </offer>
+    <offer sku="745239">
+      <model>Монтажная пена Kolt огнестойкая профессиональная всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4113.13</price>
+        <cityprice cityId="615420100">4113.13</cityprice>
+    </offer>
+    <offer sku="969514">
+      <model>Монтажная пена Refit B1 огнестойкая профессиональная всесезонная, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3754.48</price>
+        <cityprice cityId="615420100">3754.48</cityprice>
+    </offer>
+    <offer sku="12252528">
+      <model>Блокнот Проф-пресс Мотоцикл на мосту 40 листов мультиколор 10 шт</model>
+      <brand>Проф-Пресс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73939.46</price>
+        <cityprice cityId="615420100">73939.46</cityprice>
+    </offer>
+    <offer sku="12252529">
+      <model>Блокнот Тетрапром Sweet Story 40 листов мультиколор 17 шт</model>
+      <brand>Тетрапром</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43472.88</price>
+        <cityprice cityId="615420100">43472.88</cityprice>
+    </offer>
+    <offer sku="12252553">
+      <model>Бумага для плоттера Lomond L1202025</model>
+      <brand>Lomond</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11732.78</price>
+        <cityprice cityId="615420100">11732.78</cityprice>
+    </offer>
+    <offer sku="12252563">
+      <model>Парта школьная Advan AD-212A двухместная, 2 стула в комплекте</model>
+      <brand>Advan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62923.04</price>
+        <cityprice cityId="615420100">62923.04</cityprice>
+    </offer>
+    <offer sku="12252567">
+      <model>Модуль Cisco CP-8800-V-KEM, 8800 серии Video KEM, 28 кнопок</model>
+      <brand>Cisco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>473922.57</price>
+        <cityprice cityId="615420100">473922.57</cityprice>
+    </offer>
+    <offer sku="12252577">
+      <model>Кабель питания Cisco CP-PWR-CORD-CE</model>
+      <brand>Cisco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3051.99</price>
+        <cityprice cityId="615420100">3051.99</cityprice>
+    </offer>
+    <offer sku="203876">
+      <model>Очиститель Kolt для затвердевшей монтажной пены, 650 мл</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4939.11</price>
+        <cityprice cityId="615420100">4939.11</cityprice>
+    </offer>
+    <offer sku="404152">
+      <model>Очиститель Kolt для незатвердевшей монтажной пены, 650 мл</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4936.15</price>
+        <cityprice cityId="615420100">4936.15</cityprice>
+    </offer>
+    <offer sku="977989">
+      <model>Очиститель Refit для незатвердевшей монтажной пены, 650 мл</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="12252670">
+      <model>Ножницы Dolce Costo D00174, 23.5см., ручки с резиновыми вставками</model>
+      <brand>Dolce Costo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>410.03</price>
+        <cityprice cityId="615420100">410.03</cityprice>
+    </offer>
+    <offer sku="597651">
+      <model>Очиститель Super Монтажник для незатвердевшей монтажной пены, 650 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="12252716">
+      <model>Лоток вертикальный Dolce Costo, серый</model>
+      <brand>Dolce Costo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>902.06</price>
+        <cityprice cityId="615420100">902.06</cityprice>
+    </offer>
+    <offer sku="12252729">
+      <model>Рулетка IVT 0170, 2 м</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3723.85</price>
+        <cityprice cityId="615420100">3723.85</cityprice>
+    </offer>
+    <offer sku="12252735">
+      <model>Блокнот Kroyter Друзья 00089 48 листов мультиколор 6 шт</model>
+      <brand>KROYTER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63805.34</price>
+        <cityprice cityId="615420100">63805.34</cityprice>
+    </offer>
+    <offer sku="12252742">
+      <model>Блокнот Attache 8с5 60 листов мультиколор 5 шт</model>
+      <brand>Attache</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47854.75</price>
+        <cityprice cityId="615420100">47854.75</cityprice>
+    </offer>
+    <offer sku="12252743">
+      <model>Блокнот Альт Города 3-40-081 40 листов мультиколор 9 шт</model>
+      <brand>АЛЬТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48335.91</price>
+        <cityprice cityId="615420100">48335.91</cityprice>
+    </offer>
+    <offer sku="12252747">
+      <model>Ежедневник Miniso Mythical series 2007967410109 розовый</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2657.77</price>
+        <cityprice cityId="615420100">2657.77</cityprice>
+    </offer>
+    <offer sku="12252748">
+      <model>Ежедневник Miniso We Bare Bears 0400029741 голубой 2 шт</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49193.52</price>
+        <cityprice cityId="615420100">49193.52</cityprice>
+    </offer>
+    <offer sku="12252750">
+      <model>Записная книжка Miniso Marvel 2007241710109 черный</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>155783.09</price>
+        <cityprice cityId="615420100">155783.09</cityprice>
+    </offer>
+    <offer sku="12252752">
+      <model>Блокнот Miniso Mickey Mouse Collection 2008400010108 черно-белый</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1954.3</price>
+        <cityprice cityId="615420100">1954.3</cityprice>
+    </offer>
+    <offer sku="12252754">
+      <model>Ежедневник Miniso Matte PP 2007684410109 белый</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1264.67</price>
+        <cityprice cityId="615420100">1264.67</cityprice>
+    </offer>
+    <offer sku="12252787">
+      <model>Рулетка IVT 0171, 3 м</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1677.66</price>
+        <cityprice cityId="615420100">1677.66</cityprice>
+    </offer>
+    <offer sku="12252791">
+      <model>Рулетка Hobbi 15-1-517, 7.5 м</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26735.82</price>
+        <cityprice cityId="615420100">26735.82</cityprice>
+    </offer>
+    <offer sku="12252815">
+      <model>Герметик Tytan Силиконовый Универсальный белый 300 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2140.05</price>
+        <cityprice cityId="615420100">2140.05</cityprice>
+    </offer>
+    <offer sku="12252818">
+      <model>Герметик Tytan КНР Силиконовый универсальный бесцветный 300 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2330.74</price>
+        <cityprice cityId="615420100">2330.74</cityprice>
+    </offer>
+    <offer sku="12252831">
+      <model>Дрель-шуруповерт Uragan YP21024</model>
+      <brand>Ураган</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16796.34</price>
+        <cityprice cityId="615420100">16796.34</cityprice>
+    </offer>
+    <offer sku="12252832">
+      <model>Дрель-шуруповерт Felisatti ДА-14ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16529.57</price>
+        <cityprice cityId="615420100">16529.57</cityprice>
+    </offer>
+    <offer sku="12252834">
+      <model>Дрель-шуруповерт Парма ДША-02-1516/2Li</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28652.58</price>
+        <cityprice cityId="615420100">28652.58</cityprice>
+    </offer>
+    <offer sku="12252837">
+      <model>Дизельная горелка Sirocco JPE 80/2</model>
+      <brand>Sirocco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>589946.74</price>
+        <cityprice cityId="615420100">589946.74</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
