@@ -80661,5 +80661,3110 @@
       <price>118562.4</price>
         <cityprice cityId="615420100">118562.4</cityprice>
     </offer>
+    <offer sku="7146217">
+      <model>Перфоратор Bosch GBH 2-20 D</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67185.36</price>
+        <cityprice cityId="615420100">67185.36</cityprice>
+    </offer>
+    <offer sku="7146241">
+      <model>Перфоратор DeWALT DCH614N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227244.6</price>
+        <cityprice cityId="615420100">227244.6</cityprice>
+    </offer>
+    <offer sku="7145938">
+      <model>Перфоратор DWT SBH-750 DS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78053.58</price>
+        <cityprice cityId="615420100">78053.58</cityprice>
+    </offer>
+    <offer sku="7146279">
+      <model>Перфоратор P.I.T. 24501 PRO</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78873.73</price>
+        <cityprice cityId="615420100">78873.73</cityprice>
+    </offer>
+    <offer sku="7144357">
+      <model>Перфоратор DeWALT D25334K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>214202.74</price>
+        <cityprice cityId="615420100">214202.74</cityprice>
+    </offer>
+    <offer sku="7145031">
+      <model>Перфоратор Makita HR2432</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143153.23</price>
+        <cityprice cityId="615420100">143153.23</cityprice>
+    </offer>
+    <offer sku="7146250">
+      <model>Перфоратор Makita M8700</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41496.84</price>
+        <cityprice cityId="615420100">41496.84</cityprice>
+    </offer>
+    <offer sku="7386242">
+      <model>Перфоратор Sturm! RH25901</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48797.32</price>
+        <cityprice cityId="615420100">48797.32</cityprice>
+    </offer>
+    <offer sku="91723">
+      <model>Перфоратор Crown CT18114 BMC</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37587.24</price>
+        <cityprice cityId="615420100">37587.24</cityprice>
+    </offer>
+    <offer sku="7145785">
+      <model>Перфоратор DeWALT D25481K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>243751.45</price>
+        <cityprice cityId="615420100">243751.45</cityprice>
+    </offer>
+    <offer sku="7386710">
+      <model>Перфоратор DeWALT D25333K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172903.5</price>
+        <cityprice cityId="615420100">172903.5</cityprice>
+    </offer>
+    <offer sku="7146294">
+      <model>Перфоратор P.I.T. 25001 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118422.1</price>
+        <cityprice cityId="615420100">118422.1</cityprice>
+    </offer>
+    <offer sku="12356853">
+      <model>Перфоратор Kedr 52402</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25967.65</price>
+        <cityprice cityId="615420100">25967.65</cityprice>
+    </offer>
+    <offer sku="7146208">
+      <model>Перфоратор Makita HR4013CV</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>382495.96</price>
+        <cityprice cityId="615420100">382495.96</cityprice>
+    </offer>
+    <offer sku="10812510">
+      <model>Перфоратор DWT BH12-28 VB BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34803.99</price>
+        <cityprice cityId="615420100">34803.99</cityprice>
+    </offer>
+    <offer sku="91149">
+      <model>Перфоратор Bosch Professional GBH 240</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55859.69</price>
+        <cityprice cityId="615420100">55859.69</cityprice>
+    </offer>
+    <offer sku="91217">
+      <model>Перфоратор Makita HR4003C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>230208.66</price>
+        <cityprice cityId="615420100">230208.66</cityprice>
+    </offer>
+    <offer sku="91277">
+      <model>Перфоратор Bosch GBH 2-26 DFR</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55092</price>
+        <cityprice cityId="615420100">55092</cityprice>
+    </offer>
+    <offer sku="7386201">
+      <model>Перфоратор Bort BHD-1200 93410143</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136334.9</price>
+        <cityprice cityId="615420100">136334.9</cityprice>
+    </offer>
+    <offer sku="7145922">
+      <model>Перфоратор Milwaukee Kango 750 S</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>712601.52</price>
+        <cityprice cityId="615420100">712601.52</cityprice>
+    </offer>
+    <offer sku="7143928">
+      <model>Перфоратор Вихрь П-850К 72/3/10</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18697.29</price>
+        <cityprice cityId="615420100">18697.29</cityprice>
+    </offer>
+    <offer sku="7146186">
+      <model>Перфоратор Hilti TE 30-AVR</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222304.5</price>
+        <cityprice cityId="615420100">222304.5</cityprice>
+    </offer>
+    <offer sku="7143824">
+      <model>Перфоратор Crown CT18026 BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38715.56</price>
+        <cityprice cityId="615420100">38715.56</cityprice>
+    </offer>
+    <offer sku="7145928">
+      <model>Перфоратор Black &amp; Decker KD975</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55728.28</price>
+        <cityprice cityId="615420100">55728.28</cityprice>
+    </offer>
+    <offer sku="7144778">
+      <model>Перфоратор IVT RHM-1000-3F-RC</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36792.88</price>
+        <cityprice cityId="615420100">36792.88</cityprice>
+    </offer>
+    <offer sku="91724">
+      <model>Перфоратор P.I.T 22001</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5400.52</price>
+        <cityprice cityId="615420100">5400.52</cityprice>
+    </offer>
+    <offer sku="83385">
+      <model>Перфоратор Rodex RDX 210</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36545.87</price>
+        <cityprice cityId="615420100">36545.87</cityprice>
+    </offer>
+    <offer sku="83400">
+      <model>Перфоратор Rodex RDX 228</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41496.84</price>
+        <cityprice cityId="615420100">41496.84</cityprice>
+    </offer>
+    <offer sku="83442">
+      <model>Перфоратор Rodex RDX 238</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64220.31</price>
+        <cityprice cityId="615420100">64220.31</cityprice>
+    </offer>
+    <offer sku="7144123">
+      <model>Перфоратор Metabo KHA 36-18 LTX 32 T0349</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1134349.71</price>
+        <cityprice cityId="615420100">1134349.71</cityprice>
+    </offer>
+    <offer sku="7144385">
+      <model>Перфоратор Einhell TE-RH 38 E</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>699656.48</price>
+        <cityprice cityId="615420100">699656.48</cityprice>
+    </offer>
+    <offer sku="7146251">
+      <model>Перфоратор Dexter Power PDH26G1</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>731287.94</price>
+        <cityprice cityId="615420100">731287.94</cityprice>
+    </offer>
+    <offer sku="12166659">
+      <model>Перфоратор DWT SBH08-26 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232586.82</price>
+        <cityprice cityId="615420100">232586.82</cityprice>
+    </offer>
+    <offer sku="12166713">
+      <model>Аккумуляторный перфоратор Bosch Professional GBH 18V-34 CF 0611914021</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>614486.69</price>
+        <cityprice cityId="615420100">614486.69</cityprice>
+    </offer>
+    <offer sku="7143990">
+      <model>Перфоратор Kolner KRH 1300C</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60048.89</price>
+        <cityprice cityId="615420100">60048.89</cityprice>
+    </offer>
+    <offer sku="7145762">
+      <model>Перфоратор Makita DHR282ZJ</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>271705.5</price>
+        <cityprice cityId="615420100">271705.5</cityprice>
+    </offer>
+    <offer sku="91165">
+      <model>Перфоратор P.I.T. PBH 32-C1</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41924.65</price>
+        <cityprice cityId="615420100">41924.65</cityprice>
+    </offer>
+    <offer sku="7145910">
+      <model>Перфоратор DWT BH-1200 VS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108682.2</price>
+        <cityprice cityId="615420100">108682.2</cityprice>
+    </offer>
+    <offer sku="7143932">
+      <model>Перфоратор Bosch GBH 18V-26 Professional 0611909003</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>186616.23</price>
+        <cityprice cityId="615420100">186616.23</cityprice>
+    </offer>
+    <offer sku="7145900">
+      <model>Перфоратор Вихрь П-800К-В</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36062.73</price>
+        <cityprice cityId="615420100">36062.73</cityprice>
+    </offer>
+    <offer sku="4700894">
+      <model>Перфоратор Hitachi DH24PHNS</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67185.36</price>
+        <cityprice cityId="615420100">67185.36</cityprice>
+    </offer>
+    <offer sku="7145127">
+      <model>Перфоратор Hitachi DH50MRNA</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>879539.36</price>
+        <cityprice cityId="615420100">879539.36</cityprice>
+    </offer>
+    <offer sku="7145943">
+      <model>Перфоратор DWT BH-850 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>480903.91</price>
+        <cityprice cityId="615420100">480903.91</cityprice>
+    </offer>
+    <offer sku="7145988">
+      <model>Перфоратор DWT SBH-500 T</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118562.4</price>
+        <cityprice cityId="615420100">118562.4</cityprice>
+    </offer>
+    <offer sku="7384457">
+      <model>Перфоратор Bort BHD-850X</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50883.03</price>
+        <cityprice cityId="615420100">50883.03</cityprice>
+    </offer>
+    <offer sku="7146304">
+      <model>Перфоратор Bort BHD-1500</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38532.78</price>
+        <cityprice cityId="615420100">38532.78</cityprice>
+    </offer>
+    <offer sku="91121">
+      <model>Перфоратор Bosch PBH 2900 RE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="91261">
+      <model>Перфоратор DeWalt D25604K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>220540.18</price>
+        <cityprice cityId="615420100">220540.18</cityprice>
+    </offer>
+    <offer sku="7146234">
+      <model>Перфоратор Total TH116386</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48412.98</price>
+        <cityprice cityId="615420100">48412.98</cityprice>
+    </offer>
+    <offer sku="7145891">
+      <model>Перфоратор Metabo KHE 3251</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135358.74</price>
+        <cityprice cityId="615420100">135358.74</cityprice>
+    </offer>
+    <offer sku="12353201">
+      <model>Перфоратор Зубр ЗП-22-650 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26676.54</price>
+        <cityprice cityId="615420100">26676.54</cityprice>
+    </offer>
+    <offer sku="691461">
+      <model>Перфоратор Tolsen 88540</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113462.24</price>
+        <cityprice cityId="615420100">113462.24</cityprice>
+    </offer>
+    <offer sku="7367">
+      <model>Перфоратор Makita HR2432</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148184.23</price>
+        <cityprice cityId="615420100">148184.23</cityprice>
+    </offer>
+    <offer sku="12166731">
+      <model>Аккумуляторный перфоратор Makita DHR263Z</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193118.98</price>
+        <cityprice cityId="615420100">193118.98</cityprice>
+    </offer>
+    <offer sku="12166836">
+      <model>Перфоратор Makita HR4511C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395098.33</price>
+        <cityprice cityId="615420100">395098.33</cityprice>
+    </offer>
+    <offer sku="1196723">
+      <model>Перфоратор Crown CT18116 BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29541.8</price>
+        <cityprice cityId="615420100">29541.8</cityprice>
+    </offer>
+    <offer sku="91577">
+      <model>Перфоратор DeWalt D25143K LAKA</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94524.86</price>
+        <cityprice cityId="615420100">94524.86</cityprice>
+    </offer>
+    <offer sku="91630">
+      <model>Перфоратор Вихрь П-750</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17210.32</price>
+        <cityprice cityId="615420100">17210.32</cityprice>
+    </offer>
+    <offer sku="11138518">
+      <model>Перфоратор Rodex RDX278</model>
+      <brand>Rodex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>293837.15</price>
+        <cityprice cityId="615420100">293837.15</cityprice>
+    </offer>
+    <offer sku="7143930">
+      <model>Перфоратор DWT SBH09-30 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34663.69</price>
+        <cityprice cityId="615420100">34663.69</cityprice>
+    </offer>
+    <offer sku="7144560">
+      <model>Перфоратор Metabo KHE 3250</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207482.22</price>
+        <cityprice cityId="615420100">207482.22</cityprice>
+    </offer>
+    <offer sku="7145880">
+      <model>Перфоратор Bosch GBH 180-Li 0611911020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104205.48</price>
+        <cityprice cityId="615420100">104205.48</cityprice>
+    </offer>
+    <offer sku="7143767">
+      <model>Перфоратор DWT BH10-26 VB BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46297.63</price>
+        <cityprice cityId="615420100">46297.63</cityprice>
+    </offer>
+    <offer sku="7145828">
+      <model>Перфоратор Bosch GBH 8-45 DV</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>386232.83</price>
+        <cityprice cityId="615420100">386232.83</cityprice>
+    </offer>
+    <offer sku="7146313">
+      <model>Перфоратор Kolner KRH 680Н</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30630.6</price>
+        <cityprice cityId="615420100">30630.6</cityprice>
+    </offer>
+    <offer sku="7387903">
+      <model>Перфоратор DeWALT DCH333NT Yellow</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>241038.35</price>
+        <cityprice cityId="615420100">241038.35</cityprice>
+    </offer>
+    <offer sku="91132">
+      <model>Перфоратор Вихрь П-1000К 72/3/7</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24148.2</price>
+        <cityprice cityId="615420100">24148.2</cityprice>
+    </offer>
+    <offer sku="7143907">
+      <model>Перфоратор Зубр ЗП-28-800 КМ</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41862.05</price>
+        <cityprice cityId="615420100">41862.05</cityprice>
+    </offer>
+    <offer sku="10812364">
+      <model>Перфоратор DWT SBH07-24 Bmc</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31920.95</price>
+        <cityprice cityId="615420100">31920.95</cityprice>
+    </offer>
+    <offer sku="3927016">
+      <model>Перфоратор Makita HR4501C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204520.14</price>
+        <cityprice cityId="615420100">204520.14</cityprice>
+    </offer>
+    <offer sku="7143926">
+      <model>Перфоратор DeWALT DCH133N-XJ Yellow</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105263.65</price>
+        <cityprice cityId="615420100">105263.65</cityprice>
+    </offer>
+    <offer sku="7143976">
+      <model>Перфоратор Зубр ЗПВ-30-900ВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37218.36</price>
+        <cityprice cityId="615420100">37218.36</cityprice>
+    </offer>
+    <offer sku="7146303">
+      <model>Перфоратор DeWALT DCH263N</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117038.87</price>
+        <cityprice cityId="615420100">117038.87</cityprice>
+    </offer>
+    <offer sku="7383624">
+      <model>Перфоратор DeWALT D25481K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>229220.64</price>
+        <cityprice cityId="615420100">229220.64</cityprice>
+    </offer>
+    <offer sku="91099">
+      <model>Перфоратор DWT BH14-32 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36792.88</price>
+        <cityprice cityId="615420100">36792.88</cityprice>
+    </offer>
+    <offer sku="91653">
+      <model>Перфоратор Зубр П-22-650</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23475.36</price>
+        <cityprice cityId="615420100">23475.36</cityprice>
+    </offer>
+    <offer sku="12343730">
+      <model>Перфоратор Sturm! RH2514</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84969.72</price>
+        <cityprice cityId="615420100">84969.72</cityprice>
+    </offer>
+    <offer sku="7146235">
+      <model>Перфоратор Makute HD019</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35568.72</price>
+        <cityprice cityId="615420100">35568.72</cityprice>
+    </offer>
+    <offer sku="91667">
+      <model>Перфоратор P.I.T. 22604</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25898.97</price>
+        <cityprice cityId="615420100">25898.97</cityprice>
+    </offer>
+    <offer sku="12697287">
+      <model>Перфоратор Makita HR4002</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222304.5</price>
+        <cityprice cityId="615420100">222304.5</cityprice>
+    </offer>
+    <offer sku="7143961">
+      <model>Перфоратор Hilti TE 7-C</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168239.06</price>
+        <cityprice cityId="615420100">168239.06</cityprice>
+    </offer>
+    <offer sku="91190">
+      <model>Перфоратор Crown CT18054 BMC</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32047.12</price>
+        <cityprice cityId="615420100">32047.12</cityprice>
+    </offer>
+    <offer sku="12166691">
+      <model>Перфоратор Вихрь П-5А-1000 72/3/11</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25416.81</price>
+        <cityprice cityId="615420100">25416.81</cityprice>
+    </offer>
+    <offer sku="7144201">
+      <model>Перфоратор Black &amp; Decker KD 975 KA</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67871.05</price>
+        <cityprice cityId="615420100">67871.05</cityprice>
+    </offer>
+    <offer sku="83441">
+      <model>Перфоратор Rodex RDX 271</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123402.71</price>
+        <cityprice cityId="615420100">123402.71</cityprice>
+    </offer>
+    <offer sku="83445">
+      <model>Перфоратор Rodex RDX 276</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48368.03</price>
+        <cityprice cityId="615420100">48368.03</cityprice>
+    </offer>
+    <offer sku="7146230">
+      <model>Перфоратор Dexter Power CDH18LD</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1013100.89</price>
+        <cityprice cityId="615420100">1013100.89</cityprice>
+    </offer>
+    <offer sku="7144060">
+      <model>Перфоратор Metabo KHA 18 LTX BL 24 Quick</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>485107.94</price>
+        <cityprice cityId="615420100">485107.94</cityprice>
+    </offer>
+    <offer sku="7144114">
+      <model>Перфоратор Metabo KHA 36-18 LTX 32 600796840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395208</price>
+        <cityprice cityId="615420100">395208</cityprice>
+    </offer>
+    <offer sku="7144121">
+      <model>Перфоратор Metabo KHA 18 LTX 600210890</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1401595.29</price>
+        <cityprice cityId="615420100">1401595.29</cityprice>
+    </offer>
+    <offer sku="7146242">
+      <model>Перфоратор Dexter Power Z1C-HW-3218SEP</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>677178.04</price>
+        <cityprice cityId="615420100">677178.04</cityprice>
+    </offer>
+    <offer sku="7386626">
+      <model>Перфоратор Stanley SHR263K-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54056.55</price>
+        <cityprice cityId="615420100">54056.55</cityprice>
+    </offer>
+    <offer sku="11138559">
+      <model>Перфоратор DeWalt D25711K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1119211.27</price>
+        <cityprice cityId="615420100">1119211.27</cityprice>
+    </offer>
+    <offer sku="7387239">
+      <model>Перфоратор Sturm! RH2509BZ</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40844.75</price>
+        <cityprice cityId="615420100">40844.75</cityprice>
+    </offer>
+    <offer sku="7144985">
+      <model>Перфоратор Makita HR5001C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>806213.45</price>
+        <cityprice cityId="615420100">806213.45</cityprice>
+    </offer>
+    <offer sku="3924177">
+      <model>Перфоратор аккумуляторный Makita HR166DZ</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77247.36</price>
+        <cityprice cityId="615420100">77247.36</cityprice>
+    </offer>
+    <offer sku="12166676">
+      <model>Перфоратор DWT BH15-32 VB BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>154172.62</price>
+        <cityprice cityId="615420100">154172.62</cityprice>
+    </offer>
+    <offer sku="107137">
+      <model>Перфоратор Makute HD001</model>
+      <brand>Makute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38902.3</price>
+        <cityprice cityId="615420100">38902.3</cityprice>
+    </offer>
+    <offer sku="7385811">
+      <model>Перфоратор PATRIOT RH 350</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>201628.35</price>
+        <cityprice cityId="615420100">201628.35</cityprice>
+    </offer>
+    <offer sku="7144108">
+      <model>Перфоратор Makita HR2811FT</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194648.83</price>
+        <cityprice cityId="615420100">194648.83</cityprice>
+    </offer>
+    <offer sku="7144312">
+      <model>Перфоратор Makita DHR400ZKU</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>573939.83</price>
+        <cityprice cityId="615420100">573939.83</cityprice>
+    </offer>
+    <offer sku="7146252">
+      <model>Перфоратор Protool RHP 18 Plus</model>
+      <brand>Protool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150872.63</price>
+        <cityprice cityId="615420100">150872.63</cityprice>
+    </offer>
+    <offer sku="3734016">
+      <model>Перфоратор Makita DHR283ZJU</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>244216.81</price>
+        <cityprice cityId="615420100">244216.81</cityprice>
+    </offer>
+    <offer sku="91231">
+      <model>Перфоратор Edon RH-20/650</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32900.08</price>
+        <cityprice cityId="615420100">32900.08</cityprice>
+    </offer>
+    <offer sku="7145964">
+      <model>Перфоратор DeWALT D25013K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85957.74</price>
+        <cityprice cityId="615420100">85957.74</cityprice>
+    </offer>
+    <offer sku="7387899">
+      <model>Перфоратор Makita HR2652</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133382.7</price>
+        <cityprice cityId="615420100">133382.7</cityprice>
+    </offer>
+    <offer sku="7146162">
+      <model>Перфоратор IVT RHM-1050 BMC</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32866.49</price>
+        <cityprice cityId="615420100">32866.49</cityprice>
+    </offer>
+    <offer sku="7144297">
+      <model>Перфоратор Bosch GBH 12-52 DV 0611266000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484129.8</price>
+        <cityprice cityId="615420100">484129.8</cityprice>
+    </offer>
+    <offer sku="7144395">
+      <model>Перфоратор Ryobi RSDS800-K</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80856.59</price>
+        <cityprice cityId="615420100">80856.59</cityprice>
+    </offer>
+    <offer sku="7146239">
+      <model>Перфоратор Makita HR2811F</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172855.09</price>
+        <cityprice cityId="615420100">172855.09</cityprice>
+    </offer>
+    <offer sku="10812516">
+      <model>Перфоратор DWT BH10-26 B BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33105.59</price>
+        <cityprice cityId="615420100">33105.59</cityprice>
+    </offer>
+    <offer sku="7145920">
+      <model>Перфоратор Milwaukee Kango 545 S</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>558217.18</price>
+        <cityprice cityId="615420100">558217.18</cityprice>
+    </offer>
+    <offer sku="7144835">
+      <model>Перфоратор DeWALT D25144K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68370.98</price>
+        <cityprice cityId="615420100">68370.98</cityprice>
+    </offer>
+    <offer sku="7144316">
+      <model>Перфоратор Ingco RGH9018</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40102.74</price>
+        <cityprice cityId="615420100">40102.74</cityprice>
+    </offer>
+    <offer sku="7145782">
+      <model>Перфоратор Bosch GBH 5-40 DCE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296406</price>
+        <cityprice cityId="615420100">296406</cityprice>
+    </offer>
+    <offer sku="7387798">
+      <model>Перфоратор Patriot RH 240</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82749.15</price>
+        <cityprice cityId="615420100">82749.15</cityprice>
+    </offer>
+    <offer sku="7144589">
+      <model>Перфоратор Oasis PR-80</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27359.26</price>
+        <cityprice cityId="615420100">27359.26</cityprice>
+    </offer>
+    <offer sku="8420025">
+      <model>Перфоратор Bosch Professional GBH 220 06112A6020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42607.37</price>
+        <cityprice cityId="615420100">42607.37</cityprice>
+    </offer>
+    <offer sku="11138525">
+      <model>Перфоратор Felisatti П-28/1000</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55747.05</price>
+        <cityprice cityId="615420100">55747.05</cityprice>
+    </offer>
+    <offer sku="10687250">
+      <model>Hyundai H 900 Expert</model>
+      <brand>Hyundai</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97616.38</price>
+        <cityprice cityId="615420100">97616.38</cityprice>
+    </offer>
+    <offer sku="1027431">
+      <model>Плиткорез КАЛИБР ЭПЛ-230/920СТ</model>
+      <brand>КАЛИБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3678618.79</price>
+        <cityprice cityId="615420100">3678618.79</cityprice>
+    </offer>
+    <offer sku="1027644">
+      <model>Плиткорез ЗУБР ЭП-250-1200С</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198199.45</price>
+        <cityprice cityId="615420100">198199.45</cityprice>
+    </offer>
+    <offer sku="12167832">
+      <model>Плиткорез электрический Вихрь ЭП-200/620 72/22/2</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123596.36</price>
+        <cityprice cityId="615420100">123596.36</cityprice>
+    </offer>
+    <offer sku="668897">
+      <model>Электроплиткорез Зубр ЭП-250-1200С</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197499.27</price>
+        <cityprice cityId="615420100">197499.27</cityprice>
+    </offer>
+    <offer sku="1027617">
+      <model>Плиткорез ЗУБР ЭП-200-1000Н</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73513.63</price>
+        <cityprice cityId="615420100">73513.63</cityprice>
+    </offer>
+    <offer sku="668888">
+      <model>Электроплиткорез Зубр ЭП-180-600Н</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30813.87</price>
+        <cityprice cityId="615420100">30813.87</cityprice>
+    </offer>
+    <offer sku="1028014">
+      <model>Плиткорез ЗУБР ЭП-300-1500C</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>320480.1</price>
+        <cityprice cityId="615420100">320480.1</cityprice>
+    </offer>
+    <offer sku="643654">
+      <model>Плиткорез ЗУБР ЭП-200-800С</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167270.8</price>
+        <cityprice cityId="615420100">167270.8</cityprice>
+    </offer>
+    <offer sku="668889">
+      <model>Электроплиткорез Зубр ЭП-200-1000Н</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98069.8</price>
+        <cityprice cityId="615420100">98069.8</cityprice>
+    </offer>
+    <offer sku="1027619">
+      <model>Плиткорез ЗУБР ЭП-200-800С</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113198.44</price>
+        <cityprice cityId="615420100">113198.44</cityprice>
+    </offer>
+    <offer sku="1027614">
+      <model>Плиткорез ЗУБР ЭП-180-600Н</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30611.82</price>
+        <cityprice cityId="615420100">30611.82</cityprice>
+    </offer>
+    <offer sku="10692629">
+      <model>Плиткорез Зубр ЭП-200-1000С</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169837.99</price>
+        <cityprice cityId="615420100">169837.99</cityprice>
+    </offer>
+    <offer sku="1027606">
+      <model>Плиткорез Энкор 3668</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24642.21</price>
+        <cityprice cityId="615420100">24642.21</cityprice>
+    </offer>
+    <offer sku="1027615">
+      <model>Плиткорез Энкор Корвет 461М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103544.5</price>
+        <cityprice cityId="615420100">103544.5</cityprice>
+    </offer>
+    <offer sku="1027616">
+      <model>Плиткорез Энкор КОРВЕТ 466М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>387292.97</price>
+        <cityprice cityId="615420100">387292.97</cityprice>
+    </offer>
+    <offer sku="1027609">
+      <model>Плиткорез Энкор Корвет 460М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>554608.23</price>
+        <cityprice cityId="615420100">554608.23</cityprice>
+    </offer>
+    <offer sku="1027605">
+      <model>Плиткорез Энкор 3660</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16576.01</price>
+        <cityprice cityId="615420100">16576.01</cityprice>
+    </offer>
+    <offer sku="5729674">
+      <model>Плиткорез электрический Denzel 96510 TSD-180В l</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4264563.06</price>
+        <cityprice cityId="615420100">4264563.06</cityprice>
+    </offer>
+    <offer sku="12167827">
+      <model>Плиткорез электрический Husqvarna TS350E 965 14 80-01</model>
+      <brand>Husqvarna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>810175.41</price>
+        <cityprice cityId="615420100">810175.41</cityprice>
+    </offer>
+    <offer sku="12167839">
+      <model>Плиткорез электрический Nuova Battipav VIP 290 (KZ855)</model>
+      <brand>Battipav</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>732499.26</price>
+        <cityprice cityId="615420100">732499.26</cityprice>
+    </offer>
+    <offer sku="12167493">
+      <model>Плиткорез электрический Nuova Battipav VIP2110 (KZ856)</model>
+      <brand>Battipav</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11117739.51</price>
+        <cityprice cityId="615420100">11117739.51</cityprice>
+    </offer>
+    <offer sku="12167826">
+      <model>Плиткорез электрический Husqvarna TS300E 965 15 46-01</model>
+      <brand>Husqvarna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11047941.83</price>
+        <cityprice cityId="615420100">11047941.83</cityprice>
+    </offer>
+    <offer sku="5207981">
+      <model>Электрический плиткорез   Battipav Prime 150</model>
+      <brand>Battipav </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1333827</price>
+        <cityprice cityId="615420100">1333827</cityprice>
+    </offer>
+    <offer sku="12167830">
+      <model>Плиткорез электрический Alteco PTC 450-115</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98703.2</price>
+        <cityprice cityId="615420100">98703.2</cityprice>
+    </offer>
+    <offer sku="12167841">
+      <model>Плиткорез электрический Nuova Battipav PRIME 120 (KZ9120)</model>
+      <brand>Battipav</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1679434.42</price>
+        <cityprice cityId="615420100">1679434.42</cityprice>
+    </offer>
+    <offer sku="12167490">
+      <model>Плиткорез электрический Husqvarna TS73R 965 15 38-02</model>
+      <brand>Husqvarna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>449894.91</price>
+        <cityprice cityId="615420100">449894.91</cityprice>
+    </offer>
+    <offer sku="12167836">
+      <model>Плиткорез электрический Einhell RT-SC 920 L 4301432</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12134177.93</price>
+        <cityprice cityId="615420100">12134177.93</cityprice>
+    </offer>
+    <offer sku="1027543">
+      <model>Плиткорез ЗУБР Эксперт 33193-80_z01</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52365.06</price>
+        <cityprice cityId="615420100">52365.06</cityprice>
+    </offer>
+    <offer sku="1027611">
+      <model>Плиткорез ЗУБР Эксперт 33193-50_z01</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47319.24</price>
+        <cityprice cityId="615420100">47319.24</cityprice>
+    </offer>
+    <offer sku="1028013">
+      <model>Плиткорез ЗУБР Эксперт 33193-60_z01</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47040.62</price>
+        <cityprice cityId="615420100">47040.62</cityprice>
+    </offer>
+    <offer sku="1027545">
+      <model>Плиткорез ЗУБР Эксперт 33195-50</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37918.23</price>
+        <cityprice cityId="615420100">37918.23</cityprice>
+    </offer>
+    <offer sku="1027542">
+      <model>Плиткорез ЗУБР Эксперт 33193-70_z01</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54868.7</price>
+        <cityprice cityId="615420100">54868.7</cityprice>
+    </offer>
+    <offer sku="12167813">
+      <model>Плиткорез ручной ЗУБР &quot;ЭКСПЕРТ&quot; 800мм 33193-80</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58285.28</price>
+        <cityprice cityId="615420100">58285.28</cityprice>
+    </offer>
+    <offer sku="12167816">
+      <model>Плиткорез ручной ЗУБР &quot;ЭКСПЕРТ&quot; 600мм 33193-60</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49790.28</price>
+        <cityprice cityId="615420100">49790.28</cityprice>
+    </offer>
+    <offer sku="1027547">
+      <model>Плиткорез ЗУБР Эксперт 33195-60</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34728.9</price>
+        <cityprice cityId="615420100">34728.9</cityprice>
+    </offer>
+    <offer sku="1027479">
+      <model>Плиткорез MTX 87607, 500 х 14 мм, усиленная рукоятка</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25895.02</price>
+        <cityprice cityId="615420100">25895.02</cityprice>
+    </offer>
+    <offer sku="1027454">
+      <model>Плиткорез MTX 87619, 400 х 12 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19074.71</price>
+        <cityprice cityId="615420100">19074.71</cityprice>
+    </offer>
+    <offer sku="1027502">
+      <model>Плиткорез Барс 87592, 750х14 мм</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48729.15</price>
+        <cityprice cityId="615420100">48729.15</cityprice>
+    </offer>
+    <offer sku="4551651">
+      <model>Плиткорез MTX 87616, 350 х 8 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13820.42</price>
+        <cityprice cityId="615420100">13820.42</cityprice>
+    </offer>
+    <offer sku="4551040">
+      <model>Плиткорез MTX 87613, 300 х 12 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6784.73</price>
+        <cityprice cityId="615420100">6784.73</cityprice>
+    </offer>
+    <offer sku="1027500">
+      <model>Плиткорез Барс 87590,600 х 14 мм</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93857.95</price>
+        <cityprice cityId="615420100">93857.95</cityprice>
+    </offer>
+    <offer sku="1027570">
+      <model>Плиткорез MTX 87625 600 х 14 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74090.51</price>
+        <cityprice cityId="615420100">74090.51</cityprice>
+    </offer>
+    <offer sku="1027453">
+      <model>Плиткорез MTX 87653 400 х 16 мм, &quot;Балеринка&quot;</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26669.62</price>
+        <cityprice cityId="615420100">26669.62</cityprice>
+    </offer>
+    <offer sku="1027414">
+      <model>Плиткорез Барс 87580, 600 х 14 мм</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34713.09</price>
+        <cityprice cityId="615420100">34713.09</cityprice>
+    </offer>
+    <offer sku="1027587">
+      <model>Плиткорез ВИХРЬ 600х14</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15456.58</price>
+        <cityprice cityId="615420100">15456.58</cityprice>
+    </offer>
+    <offer sku="1027566">
+      <model>Плиткорез ВИХРЬ 400х12</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8513.77</price>
+        <cityprice cityId="615420100">8513.77</cityprice>
+    </offer>
+    <offer sku="10672807">
+      <model>Плиткорез ручной Барс 87584, 1000 х 14 мм</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70149.42</price>
+        <cityprice cityId="615420100">70149.42</cityprice>
+    </offer>
+    <offer sku="1027498">
+      <model>Плиткорез Барс 87582, 800 х 14 мм</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46123.74</price>
+        <cityprice cityId="615420100">46123.74</cityprice>
+    </offer>
+    <offer sku="1027478">
+      <model>Плиткорез MTX 87658, 600 х 12 мм, &quot;Балеринка&quot;, поворотный металлический угольник</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35816.71</price>
+        <cityprice cityId="615420100">35816.71</cityprice>
+    </offer>
+    <offer sku="4550469">
+      <model>Плиткорез MTX 87605, 400 х 14 мм, усиленная рукоятка</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39773.73</price>
+        <cityprice cityId="615420100">39773.73</cityprice>
+    </offer>
+    <offer sku="4596959">
+      <model>Плиткорез MTX 87622 500 х 14 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9188.59</price>
+        <cityprice cityId="615420100">9188.59</cityprice>
+    </offer>
+    <offer sku="4597441">
+      <model>Плиткорез MTX 87656 500 х 16 мм, &quot;Балеринка&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41990.85</price>
+        <cityprice cityId="615420100">41990.85</cityprice>
+    </offer>
+    <offer sku="1027455">
+      <model>Плиткорез MTX 87609, 600 х 14 мм, усиленная рукоятка</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30641.46</price>
+        <cityprice cityId="615420100">30641.46</cityprice>
+    </offer>
+    <offer sku="12167808">
+      <model>Плиткорез ручной РемоКолор с двумя функциями 400мм 46-0-240</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77053.7</price>
+        <cityprice cityId="615420100">77053.7</cityprice>
+    </offer>
+    <offer sku="4550520">
+      <model>Плиткорез-кусачки Matrix 87830, 200мм, с алюминиевым упором</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2104.48</price>
+        <cityprice cityId="615420100">2104.48</cityprice>
+    </offer>
+    <offer sku="4551384">
+      <model>Плиткорез-кусачки Matrix 87840, 200 мм, с пластмассовым упором</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1939.48</price>
+        <cityprice cityId="615420100">1939.48</cityprice>
+    </offer>
+    <offer sku="1027576">
+      <model>Плиткорез СТАВР ПЭС-180/600</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61453.86</price>
+        <cityprice cityId="615420100">61453.86</cityprice>
+    </offer>
+    <offer sku="1028015">
+      <model>Плиткорез ЗУБР ЗЭП-600С</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1773661.89</price>
+        <cityprice cityId="615420100">1773661.89</cityprice>
+    </offer>
+    <offer sku="12167485">
+      <model>Плиткорез ручной Вихрь 500/14мм 73/3/5/3</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12120.04</price>
+        <cityprice cityId="615420100">12120.04</cityprice>
+    </offer>
+    <offer sku="12167486">
+      <model>Плиткорез ручной РемоКолор с резаком отверстий 600мм 46-0-060</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90984.79</price>
+        <cityprice cityId="615420100">90984.79</cityprice>
+    </offer>
+    <offer sku="12167806">
+      <model>Плиткорез ручной рельсовый Вихрь 700мм 73/3/5/5</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51191.29</price>
+        <cityprice cityId="615420100">51191.29</cityprice>
+    </offer>
+    <offer sku="12167809">
+      <model>Плиткорез ручной рельсовый Вихрь 900мм 73/3/5/6</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55863.64</price>
+        <cityprice cityId="615420100">55863.64</cityprice>
+    </offer>
+    <offer sku="12167807">
+      <model>Плиткорез ручной рельсовый Вихрь 1200мм 73/3/5/7</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55723.34</price>
+        <cityprice cityId="615420100">55723.34</cityprice>
+    </offer>
+    <offer sku="12167818">
+      <model>Плиткорез ручной Nuova Battipav BASIC PLUS 60 2060</model>
+      <brand>Battipav</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142176.08</price>
+        <cityprice cityId="615420100">142176.08</cityprice>
+    </offer>
+    <offer sku="12167805">
+      <model>Плиткорез ручной рельсовый Вихрь 600мм 73/3/5/4</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44393.71</price>
+        <cityprice cityId="615420100">44393.71</cityprice>
+    </offer>
+    <offer sku="1027573">
+      <model>Плиткорез РемоКолор 46-0-660</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53345.18</price>
+        <cityprice cityId="615420100">53345.18</cityprice>
+    </offer>
+    <offer sku="12167810">
+      <model>Плиткорез РемоКолор 46-0-670</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40013.82</price>
+        <cityprice cityId="615420100">40013.82</cityprice>
+    </offer>
+    <offer sku="12169552">
+      <model>Плиткорез-кусачки РемоКолор 46-2-005</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13717.67</price>
+        <cityprice cityId="615420100">13717.67</cityprice>
+    </offer>
+    <offer sku="11259528">
+      <model>Плиткорез РемоКолор 46-0-260</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32894.15</price>
+        <cityprice cityId="615420100">32894.15</cityprice>
+    </offer>
+    <offer sku="12681516">
+      <model>Плиткорез РемоКолор 46-0-133</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9875.26</price>
+        <cityprice cityId="615420100">9875.26</cityprice>
+    </offer>
+    <offer sku="11259949">
+      <model>Плиткорез РемоКолор 46-0-046</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35865.13</price>
+        <cityprice cityId="615420100">35865.13</cityprice>
+    </offer>
+    <offer sku="1027497">
+      <model>Плиткорез РемоКолор 46-0-650</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46546.61</price>
+        <cityprice cityId="615420100">46546.61</cityprice>
+    </offer>
+    <offer sku="4551652">
+      <model>Плиткорез MTX 87688, рельсовый 600 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41106.57</price>
+        <cityprice cityId="615420100">41106.57</cityprice>
+    </offer>
+    <offer sku="12681630">
+      <model>Плиткорез Барс 87590</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>340965.7</price>
+        <cityprice cityId="615420100">340965.7</cityprice>
+    </offer>
+    <offer sku="1027516">
+      <model>Плиткорез RYOBI LTS180M</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67583.53</price>
+        <cityprice cityId="615420100">67583.53</cityprice>
+    </offer>
+    <offer sku="1027439">
+      <model>Плиткорез BOSCH PTC 640</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2698664.98</price>
+        <cityprice cityId="615420100">2698664.98</cityprice>
+    </offer>
+    <offer sku="1027390">
+      <model>Плиткорез Archimedes 90500</model>
+      <brand>Archimedes</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>344441.56</price>
+        <cityprice cityId="615420100">344441.56</cityprice>
+    </offer>
+    <offer sku="1027515">
+      <model>Плиткорез STAYER Master 3305-50</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18148.94</price>
+        <cityprice cityId="615420100">18148.94</cityprice>
+    </offer>
+    <offer sku="1027535">
+      <model>Плиткорез STAYER Profi 3318-40</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17731.01</price>
+        <cityprice cityId="615420100">17731.01</cityprice>
+    </offer>
+    <offer sku="1027419">
+      <model>Плиткорез Makita 5057KB</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1414835.75</price>
+        <cityprice cityId="615420100">1414835.75</cityprice>
+    </offer>
+    <offer sku="1027443">
+      <model>Плиткорез Denzel TSD-180В</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2789360.28</price>
+        <cityprice cityId="615420100">2789360.28</cityprice>
+    </offer>
+    <offer sku="1027629">
+      <model>Плиткорез Fubag FM 180 Plus</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148203</price>
+        <cityprice cityId="615420100">148203</cityprice>
+    </offer>
+    <offer sku="1027538">
+      <model>Плиткорез STAYER Standard 3303-40</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11054.96</price>
+        <cityprice cityId="615420100">11054.96</cityprice>
+    </offer>
+    <offer sku="1027475">
+      <model>Плиткорез MTX 87687, 500 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39636.4</price>
+        <cityprice cityId="615420100">39636.4</cityprice>
+    </offer>
+    <offer sku="1027400">
+      <model>Плиткорез Battipav Super Pro 900</model>
+      <brand>Battipav </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197593.13</price>
+        <cityprice cityId="615420100">197593.13</cityprice>
+    </offer>
+    <offer sku="1027425">
+      <model>Плиткорез Makita CC301DZ</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148191.14</price>
+        <cityprice cityId="615420100">148191.14</cityprice>
+    </offer>
+    <offer sku="1027634">
+      <model>Плиткорез Helmut FS300</model>
+      <brand>Helmut</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6608173.18</price>
+        <cityprice cityId="615420100">6608173.18</cityprice>
+    </offer>
+    <offer sku="1027433">
+      <model>Плиткорез Battipav Super Pro 600</model>
+      <brand>Battipav</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>190344.03</price>
+        <cityprice cityId="615420100">190344.03</cityprice>
+    </offer>
+    <offer sku="1027571">
+      <model>Плиткорез MTX 87693 1200 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76227.72</price>
+        <cityprice cityId="615420100">76227.72</cityprice>
+    </offer>
+    <offer sku="12680952">
+      <model>Плиткорез Stayer Standart 3303-60</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72168.93</price>
+        <cityprice cityId="615420100">72168.93</cityprice>
+    </offer>
+    <offer sku="1027531">
+      <model>Плиткорез STAYER Master 3310-60</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20904.53</price>
+        <cityprice cityId="615420100">20904.53</cityprice>
+    </offer>
+    <offer sku="1027537">
+      <model>Плиткорез STAYER Profi 3318-50</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25687.53</price>
+        <cityprice cityId="615420100">25687.53</cityprice>
+    </offer>
+    <offer sku="1027364">
+      <model>Плиткорез Bort BHK-110-S</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>545660.72</price>
+        <cityprice cityId="615420100">545660.72</cityprice>
+    </offer>
+    <offer sku="1028011">
+      <model>Плиткорез ЗУБР Мастер 33191-40</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23552.42</price>
+        <cityprice cityId="615420100">23552.42</cityprice>
+    </offer>
+    <offer sku="1027422">
+      <model>Плиткорез Kolner KTC 600</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39440.77</price>
+        <cityprice cityId="615420100">39440.77</cityprice>
+    </offer>
+    <offer sku="319138">
+      <model>Плиткорез Tolsen Industrial 41034</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57058.15</price>
+        <cityprice cityId="615420100">57058.15</cityprice>
+    </offer>
+    <offer sku="1027539">
+      <model>Плиткорез Sturm! TC9819L</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51474.85</price>
+        <cityprice cityId="615420100">51474.85</cityprice>
+    </offer>
+    <offer sku="12351441">
+      <model>Плиткорез Зубр Мастер 33191-30</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13672.22</price>
+        <cityprice cityId="615420100">13672.22</cityprice>
+    </offer>
+    <offer sku="1027476">
+      <model>Плиткорез MTX 87691 900 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48526.6</price>
+        <cityprice cityId="615420100">48526.6</cityprice>
+    </offer>
+    <offer sku="12681471">
+      <model>Плиткорез Stayer Master 3310-50</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56316.15</price>
+        <cityprice cityId="615420100">56316.15</cityprice>
+    </offer>
+    <offer sku="12681505">
+      <model>Плиткорез TEH TTC0800</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>496047.3</price>
+        <cityprice cityId="615420100">496047.3</cityprice>
+    </offer>
+    <offer sku="1027530">
+      <model>Плиткорез STAYER Master 3305-60</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19435.34</price>
+        <cityprice cityId="615420100">19435.34</cityprice>
+    </offer>
+    <offer sku="12680906">
+      <model>Плиткорез Stayer 3303-50</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94887.46</price>
+        <cityprice cityId="615420100">94887.46</cityprice>
+    </offer>
+    <offer sku="1027444">
+      <model>Плиткорез DeWALT D24000</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>647371.45</price>
+        <cityprice cityId="615420100">647371.45</cityprice>
+    </offer>
+    <offer sku="1027474">
+      <model>Плиткорез MTX 87689  700 мм</model>
+      <brand>MTX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36257.37</price>
+        <cityprice cityId="615420100">36257.37</cityprice>
+    </offer>
+    <offer sku="1027447">
+      <model>Плиткорез DeWALT DWC410</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113239.94</price>
+        <cityprice cityId="615420100">113239.94</cityprice>
+    </offer>
+    <offer sku="10672784">
+      <model>Кусачки для керамической плитки Sparta 87822, 200 мм</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5947.88</price>
+        <cityprice cityId="615420100">5947.88</cityprice>
+    </offer>
+    <offer sku="3429881">
+      <model>Плоскошлифовальная машина Makita BO6050J, эксцентриковая</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137225.11</price>
+        <cityprice cityId="615420100">137225.11</cityprice>
+    </offer>
+    <offer sku="444085">
+      <model>Плоскошлифовальная машина Makita BO4565</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38532.78</price>
+        <cityprice cityId="615420100">38532.78</cityprice>
+    </offer>
+    <offer sku="997894">
+      <model>Плоскошлифовальная машина BOSCH GSS 23 A</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38656.28</price>
+        <cityprice cityId="615420100">38656.28</cityprice>
+    </offer>
+    <offer sku="998234">
+      <model>Плоскошлифовальная машина Makita BO4565</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36018.61</price>
+        <cityprice cityId="615420100">36018.61</cityprice>
+    </offer>
+    <offer sku="997903">
+      <model>Плоскошлифовальная машина BOSCH PSS 200 AC</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53341.22</price>
+        <cityprice cityId="615420100">53341.22</cityprice>
+    </offer>
+    <offer sku="444048">
+      <model>Плоскошлифовальная машина Makita BO3710</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35114.4</price>
+        <cityprice cityId="615420100">35114.4</cityprice>
+    </offer>
+    <offer sku="998130">
+      <model>Плоскошлифовальная машина Makita BO3710</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.6</price>
+        <cityprice cityId="615420100">29640.6</cityprice>
+    </offer>
+    <offer sku="998190">
+      <model>Плоскошлифовальная машина Makita BO3711</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39165.11</price>
+        <cityprice cityId="615420100">39165.11</cityprice>
+    </offer>
+    <offer sku="998041">
+      <model>Плоскошлифовальная машина Интерскол ПШВ-115/300ЭМ</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42479.92</price>
+        <cityprice cityId="615420100">42479.92</cityprice>
+    </offer>
+    <offer sku="3429323">
+      <model>Плоскошлифовальная машина Makita BO5031, эксцентриковая</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91002.57</price>
+        <cityprice cityId="615420100">91002.57</cityprice>
+    </offer>
+    <offer sku="3428153">
+      <model>Плоскошлифовальная машина Makita BO5030, эксцентриковая</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81412.85</price>
+        <cityprice cityId="615420100">81412.85</cityprice>
+    </offer>
+    <offer sku="3430240">
+      <model>Плоскошлифовальная машина Makita BO6030, эксцентриковая</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91301.94</price>
+        <cityprice cityId="615420100">91301.94</cityprice>
+    </offer>
+    <offer sku="997950">
+      <model>Плоскошлифовальная машина ELITECH МШВ 0423Э</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>814338.93</price>
+        <cityprice cityId="615420100">814338.93</cityprice>
+    </offer>
+    <offer sku="998379">
+      <model>Плоскошлифовальная машина ВИХРЬ ВШМ-115Э</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16171.91</price>
+        <cityprice cityId="615420100">16171.91</cityprice>
+    </offer>
+    <offer sku="998409">
+      <model>Плоскошлифовальная машина Зубр ЗПШМ-300Э-02</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17940.47</price>
+        <cityprice cityId="615420100">17940.47</cityprice>
+    </offer>
+    <offer sku="997929">
+      <model>Плоскошлифовальная машина Фиолент МПШ 4-28Э</model>
+      <brand>Фиолент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30826.22</price>
+        <cityprice cityId="615420100">30826.22</cityprice>
+    </offer>
+    <offer sku="12165263">
+      <model>Вибрационная шлифовальная машина Bosch GSS 140-1 A 06012A2100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75143.86</price>
+        <cityprice cityId="615420100">75143.86</cityprice>
+    </offer>
+    <offer sku="12165110">
+      <model>Шлифовальная машинка Mirka Deos 383CV MID3830201</model>
+      <brand>Mirka</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>389366.83</price>
+        <cityprice cityId="615420100">389366.83</cityprice>
+    </offer>
+    <offer sku="3977127">
+      <model>Вибрационная шлифмашина Makita MT M9204</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45654.43</price>
+        <cityprice cityId="615420100">45654.43</cityprice>
+    </offer>
+    <offer sku="998360">
+      <model>Плоскошлифовальная машина СТАВР МПШ-300</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38333.2</price>
+        <cityprice cityId="615420100">38333.2</cityprice>
+    </offer>
+    <offer sku="998381">
+      <model>Плоскошлифовальная машина Витязь ПШМ-350</model>
+      <brand>Витязь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64616.51</price>
+        <cityprice cityId="615420100">64616.51</cityprice>
+    </offer>
+    <offer sku="10687288">
+      <model>Плоскошлифовальная машина P.I.T. 92251</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26676.54</price>
+        <cityprice cityId="615420100">26676.54</cityprice>
+    </offer>
+    <offer sku="998193">
+      <model>Плоскошлифовальная машина Makita BO4555</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44453</price>
+        <cityprice cityId="615420100">44453</cityprice>
+    </offer>
+    <offer sku="997876">
+      <model>Плоскошлифовальная машина BLACK+DECKER KA330EKA</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92862.02</price>
+        <cityprice cityId="615420100">92862.02</cityprice>
+    </offer>
+    <offer sku="998374">
+      <model>Плоскошлифовальная машина Total TF1302206</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24116.58</price>
+        <cityprice cityId="615420100">24116.58</cityprice>
+    </offer>
+    <offer sku="997904">
+      <model>Плоскошлифовальная машина BOSCH PSS 250 AE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79536.6</price>
+        <cityprice cityId="615420100">79536.6</cityprice>
+    </offer>
+    <offer sku="997849">
+      <model>Плоскошлифовальная машина Bort BS-240</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50765.46</price>
+        <cityprice cityId="615420100">50765.46</cityprice>
+    </offer>
+    <offer sku="997921">
+      <model>Плоскошлифовальная машина Einhell RT-OS 30</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>752254.72</price>
+        <cityprice cityId="615420100">752254.72</cityprice>
+    </offer>
+    <offer sku="997900">
+      <model>Плоскошлифовальная машина BOSCH PSM 200 AES</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68171.4</price>
+        <cityprice cityId="615420100">68171.4</cityprice>
+    </offer>
+    <offer sku="997926">
+      <model>Плоскошлифовальная машина BOSCH GSS 23 AE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>765772.81</price>
+        <cityprice cityId="615420100">765772.81</cityprice>
+    </offer>
+    <offer sku="3741564">
+      <model>Плоскошлифовальная машина Makita DPO600Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204490.5</price>
+        <cityprice cityId="615420100">204490.5</cityprice>
+    </offer>
+    <offer sku="997908">
+      <model>Плоскошлифовальная машина DeWALT D26420</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>220249.42</price>
+        <cityprice cityId="615420100">220249.42</cityprice>
+    </offer>
+    <offer sku="998302">
+      <model>Плоскошлифовальная машина RedVerg RD-SG40-115</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1003825.36</price>
+        <cityprice cityId="615420100">1003825.36</cityprice>
+    </offer>
+    <offer sku="998063">
+      <model>Плоскошлифовальная машина INGCO FS3508</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>393362.38</price>
+        <cityprice cityId="615420100">393362.38</cityprice>
+    </offer>
+    <offer sku="444051">
+      <model>Плоскошлифовальная машина Makita 9046</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105227.09</price>
+        <cityprice cityId="615420100">105227.09</cityprice>
+    </offer>
+    <offer sku="997867">
+      <model>Плоскошлифовальная машина BLACK+DECKER BEW200K-QS</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57175.73</price>
+        <cityprice cityId="615420100">57175.73</cityprice>
+    </offer>
+    <offer sku="444075">
+      <model>Плоскошлифовальная машина Makita BO4510</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72771.63</price>
+        <cityprice cityId="615420100">72771.63</cityprice>
+    </offer>
+    <offer sku="444084">
+      <model>Плоскошлифовальная машина Makita M9203</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46053.59</price>
+        <cityprice cityId="615420100">46053.59</cityprice>
+    </offer>
+    <offer sku="997924">
+      <model>Плоскошлифовальная машина Einhell TH-OS 1520</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>393236.9</price>
+        <cityprice cityId="615420100">393236.9</cityprice>
+    </offer>
+    <offer sku="997916">
+      <model>Плоскошлифовальная машина DWT ESS-200</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>427544.91</price>
+        <cityprice cityId="615420100">427544.91</cityprice>
+    </offer>
+    <offer sku="998375">
+      <model>Плоскошлифовальная машина Total TF2231106</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16597.75</price>
+        <cityprice cityId="615420100">16597.75</cityprice>
+    </offer>
+    <offer sku="998252">
+      <model>Плоскошлифовальная машина Metabo SRE 4351</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183495.07</price>
+        <cityprice cityId="615420100">183495.07</cityprice>
+    </offer>
+    <offer sku="997899">
+      <model>Плоскошлифовальная машина BOSCH PSM 100 A</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45562.54</price>
+        <cityprice cityId="615420100">45562.54</cityprice>
+    </offer>
+    <offer sku="444044">
+      <model>Плоскошлифовальная машина Crown CT13400</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13823.39</price>
+        <cityprice cityId="615420100">13823.39</cityprice>
+    </offer>
+    <offer sku="998099">
+      <model>Плоскошлифовальная машина Kolner KFS 187x90М</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25065.08</price>
+        <cityprice cityId="615420100">25065.08</cityprice>
+    </offer>
+    <offer sku="998329">
+      <model>Плоскошлифовальная машина Sparta 94804</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156447.04</price>
+        <cityprice cityId="615420100">156447.04</cityprice>
+    </offer>
+    <offer sku="997958">
+      <model>Плоскошлифовальная машина Felisatti WP115/300</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>571240.56</price>
+        <cityprice cityId="615420100">571240.56</cityprice>
+    </offer>
+    <offer sku="997920">
+      <model>Плоскошлифовальная машина DWT ESS02-187 T</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15134.49</price>
+        <cityprice cityId="615420100">15134.49</cityprice>
+    </offer>
+    <offer sku="998266">
+      <model>Плоскошлифовальная машина Milwaukee SPS 140</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84641.7</price>
+        <cityprice cityId="615420100">84641.7</cityprice>
+    </offer>
+    <offer sku="10767945">
+      <model>Плоскошлифовальная машина Ryobi R18SS4-0</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>291355.24</price>
+        <cityprice cityId="615420100">291355.24</cityprice>
+    </offer>
+    <offer sku="998373">
+      <model>Плоскошлифовальная машина Total TF1301826</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25895.02</price>
+        <cityprice cityId="615420100">25895.02</cityprice>
+    </offer>
+    <offer sku="997906">
+      <model>Плоскошлифовальная машина CROWN CT13401</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16289.49</price>
+        <cityprice cityId="615420100">16289.49</cityprice>
+    </offer>
+    <offer sku="998332">
+      <model>Плоскошлифовальная машина STANLEY SS28-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36835.36</price>
+        <cityprice cityId="615420100">36835.36</cityprice>
+    </offer>
+    <offer sku="10760193">
+      <model>Плоскошлифовальная машина Denzel VS-90-187 27611</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17277.51</price>
+        <cityprice cityId="615420100">17277.51</cityprice>
+    </offer>
+    <offer sku="997912">
+      <model>Плоскошлифовальная машина DeWALT DWE6411</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51650.28</price>
+        <cityprice cityId="615420100">51650.28</cityprice>
+    </offer>
+    <offer sku="997874">
+      <model>Плоскошлифовальная машина BLACK+DECKER KA310</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>266395.88</price>
+        <cityprice cityId="615420100">266395.88</cityprice>
+    </offer>
+    <offer sku="997886">
+      <model>Плоскошлифовальная машина BOSCH GSS 18V-10 0 коробка</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177026.51</price>
+        <cityprice cityId="615420100">177026.51</cityprice>
+    </offer>
+    <offer sku="998368">
+      <model>Плоскошлифовальная машина Sturm! OS8030</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>158565.35</price>
+        <cityprice cityId="615420100">158565.35</cityprice>
+    </offer>
+    <offer sku="998326">
+      <model>Плоскошлифовальная машина RedVerg RD-SG30-90</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39407.18</price>
+        <cityprice cityId="615420100">39407.18</cityprice>
+    </offer>
+    <offer sku="998331">
+      <model>Плоскошлифовальная машина STANLEY SS24-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>936799.07</price>
+        <cityprice cityId="615420100">936799.07</cityprice>
+    </offer>
+    <offer sku="998216">
+      <model>Плоскошлифовальная машина Makita BO4556</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44853.14</price>
+        <cityprice cityId="615420100">44853.14</cityprice>
+    </offer>
+    <offer sku="998240">
+      <model>Плоскошлифовальная машина Makita M9203</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>184848.66</price>
+        <cityprice cityId="615420100">184848.66</cityprice>
+    </offer>
+    <offer sku="997896">
+      <model>Плоскошлифовальная машина BOSCH GSS 280 AVE коробка</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1237620.53</price>
+        <cityprice cityId="615420100">1237620.53</cityprice>
+    </offer>
+    <offer sku="444089">
+      <model>Плоскошлифовальная машина Makita BO4566</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42565.88</price>
+        <cityprice cityId="615420100">42565.88</cityprice>
+    </offer>
+    <offer sku="10687268">
+      <model>Плоскошлифовальная машина IVT OS-300G</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192299.32</price>
+        <cityprice cityId="615420100">192299.32</cityprice>
+    </offer>
+    <offer sku="997923">
+      <model>Плоскошлифовальная машина Einhell TE-OS 2520 E</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59029.25</price>
+        <cityprice cityId="615420100">59029.25</cityprice>
+    </offer>
+    <offer sku="997955">
+      <model>Плоскошлифовальная машина Felisatti TP115/300</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68912.42</price>
+        <cityprice cityId="615420100">68912.42</cityprice>
+    </offer>
+    <offer sku="998235">
+      <model>Плоскошлифовальная машина Makita BO4566</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45791.76</price>
+        <cityprice cityId="615420100">45791.76</cityprice>
+    </offer>
+    <offer sku="997875">
+      <model>Плоскошлифовальная машина BLACK+DECKER KA330E</model>
+      <brand>BLACK+DECKER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52739.52</price>
+        <cityprice cityId="615420100">52739.52</cityprice>
+    </offer>
+    <offer sku="444042">
+      <model>Плоскошлифовальная машина Crown CT13401</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15949.61</price>
+        <cityprice cityId="615420100">15949.61</cityprice>
+    </offer>
+    <offer sku="642906">
+      <model>Электрический реноватор Alteco MT 2312</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14509.07</price>
+        <cityprice cityId="615420100">14509.07</cityprice>
+    </offer>
+    <offer sku="1028095">
+      <model>Реноватор BOSCH PMF 220 CE кейс комплект</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49132.26</price>
+        <cityprice cityId="615420100">49132.26</cityprice>
+    </offer>
+    <offer sku="1028099">
+      <model>Реноватор BOSCH PMF 250 CES 2016 кейс комплект</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66899.82</price>
+        <cityprice cityId="615420100">66899.82</cityprice>
+    </offer>
+    <offer sku="1028166">
+      <model>Реноватор Энкор МФЭ-260</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077054.43</price>
+        <cityprice cityId="615420100">1077054.43</cityprice>
+    </offer>
+    <offer sku="4437769">
+      <model>Универсальный резак реноватор Энкор МФЭ-400Э</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38631.58</price>
+        <cityprice cityId="615420100">38631.58</cityprice>
+    </offer>
+    <offer sku="1028167">
+      <model>Реноватор Энкор МФЭ-300Э + кейс</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28950.25</price>
+        <cityprice cityId="615420100">28950.25</cityprice>
+    </offer>
+    <offer sku="1028162">
+      <model>Реноватор Энергопром МИ-300</model>
+      <brand>Энергопром</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077108.78</price>
+        <cityprice cityId="615420100">1077108.78</cityprice>
+    </offer>
+    <offer sku="1028158">
+      <model>Реноватор ЭЛПРОМ ЭМ-250</model>
+      <brand>ЭЛПРОМ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077110.75</price>
+        <cityprice cityId="615420100">1077110.75</cityprice>
+    </offer>
+    <offer sku="1028016">
+      <model>Электростамеска ДИОЛД СЭР-2</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>544755.7</price>
+        <cityprice cityId="615420100">544755.7</cityprice>
+    </offer>
+    <offer sku="1028149">
+      <model>Реноватор Электроприбор МШМ-550 ПР</model>
+      <brand>Электроприбор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077046.53</price>
+        <cityprice cityId="615420100">1077046.53</cityprice>
+    </offer>
+    <offer sku="1028147">
+      <model>Реноватор Электроприбор МШМ-300</model>
+      <brand>Электроприбор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077069.25</price>
+        <cityprice cityId="615420100">1077069.25</cityprice>
+    </offer>
+    <offer sku="1028142">
+      <model>Реноватор Электромаш ВМР-570</model>
+      <brand>Электромаш</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077071.23</price>
+        <cityprice cityId="615420100">1077071.23</cityprice>
+    </offer>
+    <offer sku="1028141">
+      <model>Реноватор Электромаш ВМР-520</model>
+      <brand>Электромаш</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1076960.57</price>
+        <cityprice cityId="615420100">1076960.57</cityprice>
+    </offer>
+    <offer sku="642987">
+      <model>Электрический реноватор Bosch PMF 350 CES</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138213.13</price>
+        <cityprice cityId="615420100">138213.13</cityprice>
+    </offer>
+    <offer sku="642911">
+      <model>Электрический реноватор Bosch PMF 250</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>611760.25</price>
+        <cityprice cityId="615420100">611760.25</cityprice>
+    </offer>
+    <offer sku="643561">
+      <model>Электрический реноватор Bosch GOP 300 SCE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>544711.23</price>
+        <cityprice cityId="615420100">544711.23</cityprice>
+    </offer>
+    <offer sku="10932112">
+      <model>Электрический реноватор Rodex RDX137</model>
+      <brand>Rodex Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>447334.95</price>
+        <cityprice cityId="615420100">447334.95</cityprice>
+    </offer>
+    <offer sku="10698742">
+      <model>Электрический реноватор Ferm DSM1009</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32318.13</price>
+        <cityprice cityId="615420100">32318.13</cityprice>
+    </offer>
+    <offer sku="643570">
+      <model>Электрический реноватор GRAPHITE Energy+ 58G013</model>
+      <brand>Graphite</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>932302.59</price>
+        <cityprice cityId="615420100">932302.59</cityprice>
+    </offer>
+    <offer sku="1028052">
+      <model>Реноватор BOSCH GOP 12V-28 2.0Ач х2 кейс</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140409.5</price>
+        <cityprice cityId="615420100">140409.5</cityprice>
+    </offer>
+    <offer sku="1028020">
+      <model>Реноватор AEG OMNI 12C Li-152B 1.5Ач х2 сумка комплект3</model>
+      <brand>AEG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1858892.44</price>
+        <cityprice cityId="615420100">1858892.44</cityprice>
+    </offer>
+    <offer sku="1028022">
+      <model>Реноватор AEG OMNI 18C LI-152B 1.5Ач х2 сумка комплект</model>
+      <brand>AEG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149177.19</price>
+        <cityprice cityId="615420100">149177.19</cityprice>
+    </offer>
+    <offer sku="1028049">
+      <model>Реноватор BOSCH GOP 10,8 V-LI 1.5Ач х2 L-BOXX комплект</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469389.01</price>
+        <cityprice cityId="615420100">2469389.01</cityprice>
+    </offer>
+    <offer sku="1028107">
+      <model>Реноватор DeWALT DCS355M2 4.0Ач х2 кейс</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>342653.4</price>
+        <cityprice cityId="615420100">342653.4</cityprice>
+    </offer>
+    <offer sku="1028060">
+      <model>Реноватор BOSCH GOP 18V-28 5.0Ач х2 L-BOXX</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469608.36</price>
+        <cityprice cityId="615420100">2469608.36</cityprice>
+    </offer>
+    <offer sku="1028047">
+      <model>Реноватор BOSCH GOP 10,8 V-LI 1.3Ач х2 L-BOXX комплект</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469544.13</price>
+        <cityprice cityId="615420100">2469544.13</cityprice>
+    </offer>
+    <offer sku="1028050">
+      <model>Реноватор BOSCH GOP 10,8 V-LI 2.0Ач х2 L-BOXX комплект</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469544.13</price>
+        <cityprice cityId="615420100">2469544.13</cityprice>
+    </offer>
+    <offer sku="1028046">
+      <model>Реноватор BOSCH GOP 10,8 V-LI 1.3Ач х2 L-BOXX</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469450.27</price>
+        <cityprice cityId="615420100">2469450.27</cityprice>
+    </offer>
+    <offer sku="1028048">
+      <model>Реноватор BOSCH GOP 10,8 V-LI 1.5Ач х2 L-BOXX</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469581.68</price>
+        <cityprice cityId="615420100">2469581.68</cityprice>
+    </offer>
+    <offer sku="1028625">
+      <model>Реноватор Worx WX682 2.0Ач х1 сумка</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84957.86</price>
+        <cityprice cityId="615420100">84957.86</cityprice>
+    </offer>
+    <offer sku="1028565">
+      <model>Реноватор Уралэлектро РУ-350-DT</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077069.25</price>
+        <cityprice cityId="615420100">1077069.25</cityprice>
+    </offer>
+    <offer sku="1028589">
+      <model>Реноватор Уралмаш МИР 450</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077108.78</price>
+        <cityprice cityId="615420100">1077108.78</cityprice>
+    </offer>
+    <offer sku="1028591">
+      <model>Реноватор Уралмаш МИР 480</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077118.66</price>
+        <cityprice cityId="615420100">1077118.66</cityprice>
+    </offer>
+    <offer sku="1028554">
+      <model>Реноватор ТИТАН ПАР12</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1016092.61</price>
+        <cityprice cityId="615420100">1016092.61</cityprice>
+    </offer>
+    <offer sku="1028553">
+      <model>Реноватор ТИТАН БР 20</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>832923.58</price>
+        <cityprice cityId="615420100">832923.58</cityprice>
+    </offer>
+    <offer sku="1028558">
+      <model>Реноватор ТИТАН ПР 36</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75202.15</price>
+        <cityprice cityId="615420100">75202.15</cityprice>
+    </offer>
+    <offer sku="1028556">
+      <model>Реноватор ТИТАН ПР 25</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1064921.55</price>
+        <cityprice cityId="615420100">1064921.55</cityprice>
+    </offer>
+    <offer sku="1028027">
+      <model>Реноватор AEG OMNI 330 сумка комплект</model>
+      <brand>AEG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>196615.98</price>
+        <cityprice cityId="615420100">196615.98</cityprice>
+    </offer>
+    <offer sku="1028544">
+      <model>Реноватор СТАРТ СМШ-550</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>942805.24</price>
+        <cityprice cityId="615420100">942805.24</cityprice>
+    </offer>
+    <offer sku="1028541">
+      <model>Реноватор СТАВР МИА-20</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31623.56</price>
+        <cityprice cityId="615420100">31623.56</cityprice>
+    </offer>
+    <offer sku="1028552">
+      <model>Реноватор СПЕЦ БМИ-300К</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>832892.96</price>
+        <cityprice cityId="615420100">832892.96</cityprice>
+    </offer>
+    <offer sku="1028551">
+      <model>Реноватор СПЕЦ БМИ-300К(old)</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>832880.11</price>
+        <cityprice cityId="615420100">832880.11</cityprice>
+    </offer>
+    <offer sku="1028546">
+      <model>Реноватор СОЮЗ МПС-5630</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21783.86</price>
+        <cityprice cityId="615420100">21783.86</cityprice>
+    </offer>
+    <offer sku="1028547">
+      <model>Реноватор СОЮЗ МПС-5630С</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21783.86</price>
+        <cityprice cityId="615420100">21783.86</cityprice>
+    </offer>
+    <offer sku="1028519">
+      <model>Реноватор Ритм ВМР-570</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>968818.82</price>
+        <cityprice cityId="615420100">968818.82</cityprice>
+    </offer>
+    <offer sku="642960">
+      <model>Аккумуляторный реноватор Bosch UniversalMulti 12</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1886273.44</price>
+        <cityprice cityId="615420100">1886273.44</cityprice>
+    </offer>
+    <offer sku="1028080">
+      <model>Реноватор BOSCH GOP 40-30 коробка + пилка</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165982.42</price>
+        <cityprice cityId="615420100">165982.42</cityprice>
+    </offer>
+    <offer sku="1028382">
+      <model>Реноватор Makita DTM51Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106851.4</price>
+        <cityprice cityId="615420100">106851.4</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
