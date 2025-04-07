@@ -19191,5 +19191,3119 @@
       <price>29430.15</price>
         <cityprice cityId="615420100">29430.15</cityprice>
     </offer>
+    <offer sku="12257072">
+      <model>Новогодний подарок Common Market Лайкер Портфель, 250 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1580.83</price>
+        <cityprice cityId="615420100">1580.83</cityprice>
+    </offer>
+    <offer sku="12257077">
+      <model>Новогодний подарок Common market &quot;Lina &amp; Luna&quot; портфель, 250 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1383.23</price>
+        <cityprice cityId="615420100">1383.23</cityprice>
+    </offer>
+    <offer sku="12257081">
+      <model>Новогодний подарок Common market &quot;Морозко и внучка Снегурочка&quot; портфель, 250 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1778.44</price>
+        <cityprice cityId="615420100">1778.44</cityprice>
+    </offer>
+    <offer sku="12257082">
+      <model>Новогодний подарок Common market &quot;Галактикум&quot; портфель, 250 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1422.75</price>
+        <cityprice cityId="615420100">1422.75</cityprice>
+    </offer>
+    <offer sku="12257086">
+      <model>Новогодний подарок Common market &quot;Супер Дракозуб&quot; портфель, 250 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1278.5</price>
+        <cityprice cityId="615420100">1278.5</cityprice>
+    </offer>
+    <offer sku="12257092">
+      <model>Новогодний подарок Common Market Галактикум кейс, 300 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1048.28</price>
+        <cityprice cityId="615420100">1048.28</cityprice>
+    </offer>
+    <offer sku="12257094">
+      <model>Новогодний подарок Common Market Супер Дракозуб кейс, 300 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1935.53</price>
+        <cityprice cityId="615420100">1935.53</cityprice>
+    </offer>
+    <offer sku="12257096">
+      <model>Шампунь Vatika Naturals Hair Growth Garlic 400 мл</model>
+      <brand>Vatika Naturals</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3732.74</price>
+        <cityprice cityId="615420100">3732.74</cityprice>
+    </offer>
+    <offer sku="12257097">
+      <model>Новогодний подарок Common Market Змей Горыныч и Дед Мороз кейс, 300 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5335.31</price>
+        <cityprice cityId="615420100">5335.31</cityprice>
+    </offer>
+    <offer sku="12257100">
+      <model>Сейф ТОО &quot;Темир-ЛБ&quot; СК-4</model>
+      <brand>ТОО &quot;Темир-ЛБ&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53352.09</price>
+        <cityprice cityId="615420100">53352.09</cityprice>
+    </offer>
+    <offer sku="12257113">
+      <model>Новогодний подарок Common Market Томирис и Дракон сумочка, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3359.27</price>
+        <cityprice cityId="615420100">3359.27</cityprice>
+    </offer>
+    <offer sku="12257114">
+      <model>Новогодний подарок Common Market Змей Горыныч и Дед Мороз сумочка, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2977.89</price>
+        <cityprice cityId="615420100">2977.89</cityprice>
+    </offer>
+    <offer sku="12257115">
+      <model>Новогодний подарок Common Market &quot;Лайкер&quot; сумочка, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1782.39</price>
+        <cityprice cityId="615420100">1782.39</cityprice>
+    </offer>
+    <offer sku="12257117">
+      <model>Новогодний подарок Common Market &quot;Супер Дракозуб&quot; сумочка, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2724.96</price>
+        <cityprice cityId="615420100">2724.96</cityprice>
+    </offer>
+    <offer sku="12257120">
+      <model>Новогодний подарок Common Market &quot;В гостях у сказки&quot; сумочка, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1905.89</price>
+        <cityprice cityId="615420100">1905.89</cityprice>
+    </offer>
+    <offer sku="12257123">
+      <model>Новогодний подарок Common Market &quot;Lina&amp;Luna&quot; сумочка, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3398.79</price>
+        <cityprice cityId="615420100">3398.79</cityprice>
+    </offer>
+    <offer sku="12257136">
+      <model>Новогодний подарок Common Market &quot;Леди-Дракон&quot; сити, 400 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1778.44</price>
+        <cityprice cityId="615420100">1778.44</cityprice>
+    </offer>
+    <offer sku="12257140">
+      <model>Новогодний подарок Common Market &quot;Томирис и Дракон Небес&quot; сити, 400 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4648.63</price>
+        <cityprice cityId="615420100">4648.63</cityprice>
+    </offer>
+    <offer sku="12257142">
+      <model>Новогодний подарок Common Market &quot;Морозко и внучка Снегурочка&quot;, 400 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3250.59</price>
+        <cityprice cityId="615420100">3250.59</cityprice>
+    </offer>
+    <offer sku="12257145">
+      <model>Новогодний подарок Common Market &quot;Змей Горыныч и Дед Мороз &quot;, 400 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4602.2</price>
+        <cityprice cityId="615420100">4602.2</cityprice>
+    </offer>
+    <offer sku="12257152">
+      <model>Личный дневник Проф-Пресс Дневник моей беременности розовый</model>
+      <brand>Проф-Пресс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4838.33</price>
+        <cityprice cityId="615420100">4838.33</cityprice>
+    </offer>
+    <offer sku="12257153">
+      <model>Ежедневник Garden of Eden мультиколор</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1159.67</price>
+        <cityprice cityId="615420100">1159.67</cityprice>
+    </offer>
+    <offer sku="12257157">
+      <model>Ежедневник Garden of Eden H18102154 мультиколор</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2793.13</price>
+        <cityprice cityId="615420100">2793.13</cityprice>
+    </offer>
+    <offer sku="12257159">
+      <model>Ежедневник Garden of Eden Cute Cat розовый</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2155.86</price>
+        <cityprice cityId="615420100">2155.86</cityprice>
+    </offer>
+    <offer sku="12257160">
+      <model>Ежедневник Garden of Eden Keep Calm Kiss Me зеленый</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3104.36</price>
+        <cityprice cityId="615420100">3104.36</cityprice>
+    </offer>
+    <offer sku="12257165">
+      <model>Ежедневник Garden of Eden Just believe розовый</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1579.84</price>
+        <cityprice cityId="615420100">1579.84</cityprice>
+    </offer>
+    <offer sku="12257168">
+      <model>Ежедневник Garden of Eden Unicon, I believe! фиолетовый</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1928.62</price>
+        <cityprice cityId="615420100">1928.62</cityprice>
+    </offer>
+    <offer sku="12257178">
+      <model>Блокнот 2x3 Дважды три B01 30 листов белый</model>
+      <brand>2x3</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1751.76</price>
+        <cityprice cityId="615420100">1751.76</cityprice>
+    </offer>
+    <offer sku="12257217">
+      <model>Аппарат сварочный Kaiser KEDE-140 220В</model>
+      <brand>Kaiser</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128432.72</price>
+        <cityprice cityId="615420100">128432.72</cityprice>
+    </offer>
+    <offer sku="12257261">
+      <model>Гидроаккумулятор Лео 50CTT1, 50л, красный</model>
+      <brand>Лео</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28405.58</price>
+        <cityprice cityId="615420100">28405.58</cityprice>
+    </offer>
+    <offer sku="12257265">
+      <model>Гидроаккумулятор Лео 100FTT, 100л, красный</model>
+      <brand>Лео</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38726.85</price>
+        <cityprice cityId="615420100">38726.85</cityprice>
+    </offer>
+    <offer sku="12257266">
+      <model>Новогодний подарок Common Market &quot;Лайкер&quot; вертикаль, 550 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1931.58</price>
+        <cityprice cityId="615420100">1931.58</cityprice>
+    </offer>
+    <offer sku="690193">
+      <model>Огнестойкий архивный шкаф Valberg BM-1993 EL серый</model>
+      <brand>Valberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>947086.86</price>
+        <cityprice cityId="615420100">947086.86</cityprice>
+    </offer>
+    <offer sku="12257341">
+      <model>Новогодний подарок Common Market Желтопузик, с мягкой игрушкой, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6587.13</price>
+        <cityprice cityId="615420100">6587.13</cityprice>
+    </offer>
+    <offer sku="12257354">
+      <model>Новогодний подарок Common Market Кобояши, с мягкой игрушкой, 500 г</model>
+      <brand>Common Market</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7702.6</price>
+        <cityprice cityId="615420100">7702.6</cityprice>
+    </offer>
+    <offer sku="12257390">
+      <model>Ежедневник Garden of Eden Avocado good morning фиолетовый</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60575.51</price>
+        <cityprice cityId="615420100">60575.51</cityprice>
+    </offer>
+    <offer sku="12257412">
+      <model>Еженедельник Moleskine 12M 2019 Monthly Large черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8249.97</price>
+        <cityprice cityId="615420100">8249.97</cityprice>
+    </offer>
+    <offer sku="12257414">
+      <model>Еженедельник Moleskine 12M 2020 Smart Planner Large черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1990.86</price>
+        <cityprice cityId="615420100">1990.86</cityprice>
+    </offer>
+    <offer sku="12257420">
+      <model>Еженедельник Moleskine 18M  2018-19 Weekly Notebook XL черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227881.87</price>
+        <cityprice cityId="615420100">227881.87</cityprice>
+    </offer>
+    <offer sku="12257421">
+      <model>Еженедельник Moleskine 12M 2019 Pro Weekly Large черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32604.66</price>
+        <cityprice cityId="615420100">32604.66</cityprice>
+    </offer>
+    <offer sku="12257425">
+      <model>Еженедельник Moleskine 12m 2019 Weekly XL  144 листа черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78862.77</price>
+        <cityprice cityId="615420100">78862.77</cityprice>
+    </offer>
+    <offer sku="12257427">
+      <model>Блокнот Moleskine Notebook Large 240 листов черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47614.66</price>
+        <cityprice cityId="615420100">47614.66</cityprice>
+    </offer>
+    <offer sku="12257438">
+      <model>Парта школьная ИП Кидирбаев Б.И. двухместная, 2 стула в комплекте, светлое дерево</model>
+      <brand>ИП Кидирбаев Б.И.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50445.34</price>
+        <cityprice cityId="615420100">50445.34</cityprice>
+    </offer>
+    <offer sku="12257445">
+      <model>Bluetooth-трекер Samsung Galaxy SmartTag EI-T5300BBEGRU черный</model>
+      <brand>Samsung</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45311.59</price>
+        <cityprice cityId="615420100">45311.59</cityprice>
+    </offer>
+    <offer sku="12257503">
+      <model>Гидроаккумулятор Келет 8VT, 8 л, красный</model>
+      <brand>Келет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17784.36</price>
+        <cityprice cityId="615420100">17784.36</cityprice>
+    </offer>
+    <offer sku="12257549">
+      <model>Телефонный аппарат Mitel 6730, аналоговый</model>
+      <brand>Mitel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34579.71</price>
+        <cityprice cityId="615420100">34579.71</cityprice>
+    </offer>
+    <offer sku="497907">
+      <model>Кран гидравлический Sillan TL-9120E</model>
+      <brand>Sillan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167963.4</price>
+        <cityprice cityId="615420100">167963.4</cityprice>
+    </offer>
+    <offer sku="683992">
+      <model>Модуль для IP-АТС Yeastar O2</model>
+      <brand>Yeastar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52942.06</price>
+        <cityprice cityId="615420100">52942.06</cityprice>
+    </offer>
+    <offer sku="12257619">
+      <model>Газовый мультиблок Dungs MB-ZRDLE 412 B01 S50</model>
+      <brand>Dungs</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1626962.65</price>
+        <cityprice cityId="615420100">1626962.65</cityprice>
+    </offer>
+    <offer sku="12257643">
+      <model>Газовый мультиблок Dungs MB-ZRDLE 420 B01 S20</model>
+      <brand>Dungs</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2403655.06</price>
+        <cityprice cityId="615420100">2403655.06</cityprice>
+    </offer>
+    <offer sku="12257661">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Батыр, темно-коричневое</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125873.75</price>
+        <cityprice cityId="615420100">125873.75</cityprice>
+    </offer>
+    <offer sku="12257670">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; экокожа, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75879.94</price>
+        <cityprice cityId="615420100">75879.94</cityprice>
+    </offer>
+    <offer sku="251856">
+      <model>Медаль наградная ИП &quot;Nagrady.kz&quot; АВС-009 КРГ, за 3 место</model>
+      <brand>ИП &quot;Nagrady.kz&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2959.12</price>
+        <cityprice cityId="615420100">2959.12</cityprice>
+    </offer>
+    <offer sku="12257676">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Зевс, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60763.23</price>
+        <cityprice cityId="615420100">60763.23</cityprice>
+    </offer>
+    <offer sku="12257680">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Тумар, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52266.26</price>
+        <cityprice cityId="615420100">52266.26</cityprice>
+    </offer>
+    <offer sku="12257684">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Pluton, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63134.48</price>
+        <cityprice cityId="615420100">63134.48</cityprice>
+    </offer>
+    <offer sku="12257690">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Мажор, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106903.76</price>
+        <cityprice cityId="615420100">106903.76</cityprice>
+    </offer>
+    <offer sku="12257730">
+      <model>Ежедневник Moleskine 12M 2021 8053853606464 красный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1778.44</price>
+        <cityprice cityId="615420100">1778.44</cityprice>
+    </offer>
+    <offer sku="12257744">
+      <model>Блокнот Moleskine Notebook XL 192 листа черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14969.49</price>
+        <cityprice cityId="615420100">14969.49</cityprice>
+    </offer>
+    <offer sku="12257765">
+      <model>Блокнот Moleskine Volant Journal Pocket Plain оранжево-голубой 2 шт</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48315.17</price>
+        <cityprice cityId="615420100">48315.17</cityprice>
+    </offer>
+    <offer sku="706968">
+      <model>Диван Вита Азбука Вариант 2 разноцветные кубики</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177580.79</price>
+        <cityprice cityId="615420100">177580.79</cityprice>
+    </offer>
+    <offer sku="449239">
+      <model>Диван Вита Апельсин детский, 125х86х60 см, оранжево-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145905.85</price>
+        <cityprice cityId="615420100">145905.85</cityprice>
+    </offer>
+    <offer sku="841912">
+      <model>Диван Вита &quot;Аппликация&quot; Вишенка, детский, 116х60х74 см, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102990.22</price>
+        <cityprice cityId="615420100">102990.22</cityprice>
+    </offer>
+    <offer sku="874970">
+      <model>Диван Вита &quot;Аппликация&quot; Сафари, детский, 116х60х74 см, сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103017.88</price>
+        <cityprice cityId="615420100">103017.88</cityprice>
+    </offer>
+    <offer sku="109699">
+      <model>Диван Вита Арбуз детский, 125х86х60 см, красно-зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145907.83</price>
+        <cityprice cityId="615420100">145907.83</cityprice>
+    </offer>
+    <offer sku="856381">
+      <model>Диван Вита &quot;Бабочка&quot; круговой для раздевания, 120х90х60 см, малиново-салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150689.85</price>
+        <cityprice cityId="615420100">150689.85</cityprice>
+    </offer>
+    <offer sku="872175">
+      <model>Диван Вита &quot;Бабочка&quot; круговой для раздевания, 120х90х60 см, зелено-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150690.83</price>
+        <cityprice cityId="615420100">150690.83</cityprice>
+    </offer>
+    <offer sku="818104">
+      <model>Диван Вита &quot;Арбуз&quot; игровой, детский, зелено-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86143.49</price>
+        <cityprice cityId="615420100">86143.49</cityprice>
+    </offer>
+    <offer sku="186731">
+      <model>Диван Вита &quot;Ягодка&quot; игровой, детский, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86142.5</price>
+        <cityprice cityId="615420100">86142.5</cityprice>
+    </offer>
+    <offer sku="449227">
+      <model>Диван Вита &quot;Ягодка&quot; игровой, детский, оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86141.51</price>
+        <cityprice cityId="615420100">86141.51</cityprice>
+    </offer>
+    <offer sku="130050">
+      <model>Диван Вита &quot;Лимон&quot; игровой, детский, желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86145.46</price>
+        <cityprice cityId="615420100">86145.46</cityprice>
+    </offer>
+    <offer sku="228145">
+      <model>Диван Вита Царевна-Лягушка</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86152.38</price>
+        <cityprice cityId="615420100">86152.38</cityprice>
+    </offer>
+    <offer sku="511134">
+      <model>Диван Вита Пингвин игровой, детский, 106х66х70 см, сине-белый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86140.52</price>
+        <cityprice cityId="615420100">86140.52</cityprice>
+    </offer>
+    <offer sku="366710">
+      <model>Диван Вита &quot;Облачко&quot; игровой, 130х60х76 см, сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129664.78</price>
+        <cityprice cityId="615420100">129664.78</cityprice>
+    </offer>
+    <offer sku="12257895">
+      <model>Решетка радиаторная Ideal РР6x9, 600x900 мм</model>
+      <brand>Ideal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6175.13</price>
+        <cityprice cityId="615420100">6175.13</cityprice>
+    </offer>
+    <offer sku="999650">
+      <model>Диван Вита Волна с аппликацией бело-голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183356.75</price>
+        <cityprice cityId="615420100">183356.75</cityprice>
+    </offer>
+    <offer sku="616925">
+      <model>Диван Вита Волна-Люкс розовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>202992.66</price>
+        <cityprice cityId="615420100">202992.66</cityprice>
+    </offer>
+    <offer sku="434393">
+      <model>Диван Вита Летающий мальчик, сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125932.04</price>
+        <cityprice cityId="615420100">125932.04</cityprice>
+    </offer>
+    <offer sku="688082">
+      <model>Диван Вита Белочки, 100x60x60 см, коричневый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125809.53</price>
+        <cityprice cityId="615420100">125809.53</cityprice>
+    </offer>
+    <offer sku="793346">
+      <model>Диван Вита &quot;Сказка&quot; детский Ёжик, оранжево-зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107876.96</price>
+        <cityprice cityId="615420100">107876.96</cityprice>
+    </offer>
+    <offer sku="330680">
+      <model>Диван Вита с дидактическими элементами, без подлокотников, 116х60х74 см, сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103017.88</price>
+        <cityprice cityId="615420100">103017.88</cityprice>
+    </offer>
+    <offer sku="597927">
+      <model>Диван Вита с дидактическими элементами без подлокотников, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103022.82</price>
+        <cityprice cityId="615420100">103022.82</cityprice>
+    </offer>
+    <offer sku="12257920">
+      <model>Радиостанция Barys KZTE M5 TIER3, портативная рация</model>
+      <brand>Barys</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1648763.32</price>
+        <cityprice cityId="615420100">1648763.32</cityprice>
+    </offer>
+    <offer sku="770619">
+      <model>Диван Вита &quot;Бегемотик&quot; разборный с аппликацией, салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134338.12</price>
+        <cityprice cityId="615420100">134338.12</cityprice>
+    </offer>
+    <offer sku="267867">
+      <model>Диван Вита &quot;Пуговка&quot; круговой для раздевания, овальный, розово-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127324.16</price>
+        <cityprice cityId="615420100">127324.16</cityprice>
+    </offer>
+    <offer sku="954191">
+      <model>Диван Вита круговой для раздевания, овальный, детский, салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112136.32</price>
+        <cityprice cityId="615420100">112136.32</cityprice>
+    </offer>
+    <offer sku="604504">
+      <model>Диван Вита круговой для раздевания, овальный, детский, зелено-оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112134.34</price>
+        <cityprice cityId="615420100">112134.34</cityprice>
+    </offer>
+    <offer sku="12257936">
+      <model>Отвод 90° ВентСистемс прямоугольный, 600x300 мм, уголком, 0.7 мм</model>
+      <brand>ВентСистемс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181780.86</price>
+        <cityprice cityId="615420100">181780.86</cityprice>
+    </offer>
+    <offer sku="166972">
+      <model>Диван Вита овальный составной, детский, голубо-желтый, 2 шт</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152994.9</price>
+        <cityprice cityId="615420100">152994.9</cityprice>
+    </offer>
+    <offer sku="290527">
+      <model>Диван Вита круговой для раздевания детский голубой, 150х100х80 см</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165372.81</price>
+        <cityprice cityId="615420100">165372.81</cityprice>
+    </offer>
+    <offer sku="812521">
+      <model>Диван Вита &quot;Бабочка&quot; полукруглый с аппликацией на хромированных ножках, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128196.58</price>
+        <cityprice cityId="615420100">128196.58</cityprice>
+    </offer>
+    <offer sku="204959">
+      <model>Диван Вита &quot;Яблоко&quot; полукруглый с аппликацией на хромированных ножках, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128197.57</price>
+        <cityprice cityId="615420100">128197.57</cityprice>
+    </offer>
+    <offer sku="483390">
+      <model>Диван Вита &quot;Калейдоскоп&quot; круглый на опоре, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>153620.31</price>
+        <cityprice cityId="615420100">153620.31</cityprice>
+    </offer>
+    <offer sku="439634">
+      <model>Диван Вита &quot;Калейдоскоп&quot; круглый на опоре, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179617.1</price>
+        <cityprice cityId="615420100">179617.1</cityprice>
+    </offer>
+    <offer sku="899142">
+      <model>Диван Вита Пианино голубо-белый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64476.21</price>
+        <cityprice cityId="615420100">64476.21</cityprice>
+    </offer>
+    <offer sku="788795">
+      <model>Диван Вита &quot;Цветок&quot; 120x58x60 см, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107469.9</price>
+        <cityprice cityId="615420100">107469.9</cityprice>
+    </offer>
+    <offer sku="783168">
+      <model>Комплект детской мягкой угловой мебели Вита «Вита с аппликацией» - (3+1+1), зелено-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>321102.55</price>
+        <cityprice cityId="615420100">321102.55</cityprice>
+    </offer>
+    <offer sku="12257975">
+      <model>Радиостанция Barys М4 LTE, портативная рация</model>
+      <brand>Barys</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5214938.51</price>
+        <cityprice cityId="615420100">5214938.51</cityprice>
+    </offer>
+    <offer sku="805942">
+      <model>Резервуар для воды AirPalace «РДВ– 600В» 600 л</model>
+      <brand>AirPalace</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>314190.36</price>
+        <cityprice cityId="615420100">314190.36</cityprice>
+    </offer>
+    <offer sku="535226">
+      <model>Банкетка Вита с аппликацией &quot;Звездочка&quot;, на хромированных ножках, 70х45х34 см, сине-розовая</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58879.08</price>
+        <cityprice cityId="615420100">58879.08</cityprice>
+    </offer>
+    <offer sku="405436">
+      <model>Банкетка Вита &quot;Полукольцо 180&quot;, 180х90х43 см, желтая</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136500.89</price>
+        <cityprice cityId="615420100">136500.89</cityprice>
+    </offer>
+    <offer sku="491010">
+      <model>Пуфик Вита с аппликацией &quot;Мухомор&quot;, 35х35х40 см, бежево-зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23125.6</price>
+        <cityprice cityId="615420100">23125.6</cityprice>
+    </offer>
+    <offer sku="356018">
+      <model>Пуфик Вита с аппликацией &quot;Вишенка&quot;, 35х35х40 см, розово-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24667.9</price>
+        <cityprice cityId="615420100">24667.9</cityprice>
+    </offer>
+    <offer sku="471553">
+      <model>Пуфик Вита Цветочек на каркасе, круглый, 30х30х26 см, красно-зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20788.93</price>
+        <cityprice cityId="615420100">20788.93</cityprice>
+    </offer>
+    <offer sku="12258012">
+      <model>Профнастил ТОО &quot;Stynergy&quot; ЛКП С8 RAL6005, 0,5 мм, 6 м, 1 шт.</model>
+      <brand>ТОО &quot;Stynergy&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20748.42</price>
+        <cityprice cityId="615420100">20748.42</cityprice>
+    </offer>
+    <offer sku="12258013">
+      <model>Профнастил ТОО &quot;Stynergy&quot; ЛКП С8 RAL3005, 0,45 мм, 6 м, 1 шт.</model>
+      <brand>ТОО &quot;Stynergy&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14676.05</price>
+        <cityprice cityId="615420100">14676.05</cityprice>
+    </offer>
+    <offer sku="12258016">
+      <model>Штангенциркуль нониусный Gross 31670</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21526.98</price>
+        <cityprice cityId="615420100">21526.98</cityprice>
+    </offer>
+    <offer sku="12258018">
+      <model>Штангенциркуль нониусный Gross 31671</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21042.85</price>
+        <cityprice cityId="615420100">21042.85</cityprice>
+    </offer>
+    <offer sku="12258058">
+      <model>Набор елочных шаров House of season Ø 6 см, 30 шт., розовый жемчуг</model>
+      <brand>House of season</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7754.97</price>
+        <cityprice cityId="615420100">7754.97</cityprice>
+    </offer>
+    <offer sku="12258085">
+      <model>Набор ёлочных украшений Серпантин Звездочки 196-352, 5,5 см, 3 шт.</model>
+      <brand>Серпантин</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4544.89</price>
+        <cityprice cityId="615420100">4544.89</cityprice>
+    </offer>
+    <offer sku="879633">
+      <model>Комплект мягконабивной мебели Вита &quot;Умница&quot; желто-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>234337.6</price>
+        <cityprice cityId="615420100">234337.6</cityprice>
+    </offer>
+    <offer sku="12258087">
+      <model>Набор ёлочных шаров Lefard «Ледяная слеза», 3 шт.</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8396.19</price>
+        <cityprice cityId="615420100">8396.19</cityprice>
+    </offer>
+    <offer sku="12258089">
+      <model>Новогоднее украшение Золотая сказка 591136, бусы на елку, 7,5 мм, 2,7 м, золотистые</model>
+      <brand>КНР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1177.72</price>
+        <cityprice cityId="615420100">1177.72</cityprice>
+    </offer>
+    <offer sku="12258091">
+      <model>Набор ёлочных шаров Зимнее Волшебство «Объёмная сеточка» 4941986, D-6 см, 6 шт. золотой</model>
+      <brand>ЗИМНЕЕ ВОЛШЕБСТВО</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2961.1</price>
+        <cityprice cityId="615420100">2961.1</cityprice>
+    </offer>
+    <offer sku="241895">
+      <model>Комплект мягконабивной мебели Вита &quot;Клоун&quot;, 6 предметов, желто-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187051.95</price>
+        <cityprice cityId="615420100">187051.95</cityprice>
+    </offer>
+    <offer sku="12258100">
+      <model>Штангенциркуль Зубр 3445-150 150 мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10076.82</price>
+        <cityprice cityId="615420100">10076.82</cityprice>
+    </offer>
+    <offer sku="595619">
+      <model>Комплект мягконабивной мебели Вита &quot;Дракоша&quot;, 8 предметов, зелено-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>184522.62</price>
+        <cityprice cityId="615420100">184522.62</cityprice>
+    </offer>
+    <offer sku="750781">
+      <model>Комплект мягконабивной мебели Вита &quot;Бублик 2&quot;, 4 предмета, мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>253814.43</price>
+        <cityprice cityId="615420100">253814.43</cityprice>
+    </offer>
+    <offer sku="12258104">
+      <model>Штангенциркуль Tundra 1112958 100 мм</model>
+      <brand>TUNDRA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7779.67</price>
+        <cityprice cityId="615420100">7779.67</cityprice>
+    </offer>
+    <offer sku="12258105">
+      <model>Штангенциркуль Зубр ШЦ-1-300 300 мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21843.18</price>
+        <cityprice cityId="615420100">21843.18</cityprice>
+    </offer>
+    <offer sku="12258110">
+      <model>Штангенциркуль Зубр 3445-250, 250 мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37963.78</price>
+        <cityprice cityId="615420100">37963.78</cityprice>
+    </offer>
+    <offer sku="269134">
+      <model>Комплект мягконабивной мебели Вита &quot;Котик&quot;, 8 предметов, сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172694.04</price>
+        <cityprice cityId="615420100">172694.04</cityprice>
+    </offer>
+    <offer sku="12258115">
+      <model>Штангенциркуль Зубр Эксперт 34463-200, 200 мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2777.92</price>
+        <cityprice cityId="615420100">2777.92</cityprice>
+    </offer>
+    <offer sku="323991">
+      <model>Комплект мягконабивной мебели Вита &quot;Василек&quot;, 10 предметов, зелено-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>495324.07</price>
+        <cityprice cityId="615420100">495324.07</cityprice>
+    </offer>
+    <offer sku="711472">
+      <model>Комплект мягконабивной мебели Вита &quot;Василек&quot;, 10 предметов, голубо-белый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>495349.76</price>
+        <cityprice cityId="615420100">495349.76</cityprice>
+    </offer>
+    <offer sku="795808">
+      <model>Комплект мягконабивной мебели Вита &quot;Бублик 3&quot;, 5 предметов, мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224395.15</price>
+        <cityprice cityId="615420100">224395.15</cityprice>
+    </offer>
+    <offer sku="12258121">
+      <model>Штангенциркуль Stayer 34411-150, 150 мм</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7112.76</price>
+        <cityprice cityId="615420100">7112.76</cityprice>
+    </offer>
+    <offer sku="270384">
+      <model>Комплект мягконабивной мебели Вита &quot;Набор кресел + столик&quot;, 9 предметов, мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>243280.16</price>
+        <cityprice cityId="615420100">243280.16</cityprice>
+    </offer>
+    <offer sku="12258125">
+      <model>Штангенциркуль Квалитет ШЦ-150Э, 150 мм</model>
+      <brand>Квалитет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34350.44</price>
+        <cityprice cityId="615420100">34350.44</cityprice>
+    </offer>
+    <offer sku="12258127">
+      <model>Ежедневник Xiaomi Kaco Noble PU Notebook 00-00000352 черный 2 шт</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5963.69</price>
+        <cityprice cityId="615420100">5963.69</cityprice>
+    </offer>
+    <offer sku="170416">
+      <model>Комплект мягкой игровой мебели Вита Шире круг, 5 предметов, мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212202</price>
+        <cityprice cityId="615420100">212202</cityprice>
+    </offer>
+    <offer sku="12258129">
+      <model>Штангенциркуль Зубр 3445-125, 125 мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9582.81</price>
+        <cityprice cityId="615420100">9582.81</cityprice>
+    </offer>
+    <offer sku="668927">
+      <model>Диван-трансформер Вита тип 2 малый, игровой, 3 предмета, желто-голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145320.95</price>
+        <cityprice cityId="615420100">145320.95</cityprice>
+    </offer>
+    <offer sku="448453">
+      <model>Комплект мягконабивной мебели Вита &quot;Ягодка-клубника&quot;, 7 предметов, мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>170493.72</price>
+        <cityprice cityId="615420100">170493.72</cityprice>
+    </offer>
+    <offer sku="12258132">
+      <model>Штангенциркуль Fixtec FHVC0150, 150 мм</model>
+      <brand>FIXTEC</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16302.33</price>
+        <cityprice cityId="615420100">16302.33</cityprice>
+    </offer>
+    <offer sku="935053">
+      <model>Диван Вита &quot;Автобус&quot; игровой, 80х50х58 см, желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72589.83</price>
+        <cityprice cityId="615420100">72589.83</cityprice>
+    </offer>
+    <offer sku="994314">
+      <model>Кресло-кубик Вита, коричнево-бежевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89383.21</price>
+        <cityprice cityId="615420100">89383.21</cityprice>
+    </offer>
+    <offer sku="12258137">
+      <model>Штангенциркуль Tundra 1112961, 150 мм</model>
+      <brand>TUNDRA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7606.77</price>
+        <cityprice cityId="615420100">7606.77</cityprice>
+    </offer>
+    <offer sku="12258142">
+      <model>Штангенциркуль Tundra 1112959, 150 мм</model>
+      <brand>TUNDRA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5421.83</price>
+        <cityprice cityId="615420100">5421.83</cityprice>
+    </offer>
+    <offer sku="822627">
+      <model>Пуфик Вита с аппликацией &quot;Солнце&quot;, 40х40х30 см, синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25638.13</price>
+        <cityprice cityId="615420100">25638.13</cityprice>
+    </offer>
+    <offer sku="548987">
+      <model>Пуфик Вита с аппликацией &quot;Яблоко&quot;, 40х40х30 см, оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25638.13</price>
+        <cityprice cityId="615420100">25638.13</cityprice>
+    </offer>
+    <offer sku="218368">
+      <model>Пуфик Вита с аппликацией Краски 40х40х30 см, салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25638.13</price>
+        <cityprice cityId="615420100">25638.13</cityprice>
+    </offer>
+    <offer sku="823069">
+      <model>Пуфик Вита с аппликацией &quot;Ромашка&quot;, 40х40х30 см, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25639.12</price>
+        <cityprice cityId="615420100">25639.12</cityprice>
+    </offer>
+    <offer sku="715130">
+      <model>Пуфик Вита с аппликацией Птички 40х40х30 см, желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24328.02</price>
+        <cityprice cityId="615420100">24328.02</cityprice>
+    </offer>
+    <offer sku="443976">
+      <model>Пуфик Вита с аппликацией Кораблик 40х40х30 см, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25638.13</price>
+        <cityprice cityId="615420100">25638.13</cityprice>
+    </offer>
+    <offer sku="488099">
+      <model>Пуфик Вита с аппликацией Земляника 40х40х30 см, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25638.13</price>
+        <cityprice cityId="615420100">25638.13</cityprice>
+    </offer>
+    <offer sku="689787">
+      <model>Пуфик Вита &quot;Улитка&quot; 30х35х35 см, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31012.96</price>
+        <cityprice cityId="615420100">31012.96</cityprice>
+    </offer>
+    <offer sku="318483">
+      <model>Пуфик Вита &quot;Краб&quot; 60х35х35 см, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63844.86</price>
+        <cityprice cityId="615420100">63844.86</cityprice>
+    </offer>
+    <offer sku="822967">
+      <model>Пуфик Вита &quot;Крабик&quot; 30х35х35 см, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31012.96</price>
+        <cityprice cityId="615420100">31012.96</cityprice>
+    </offer>
+    <offer sku="107411">
+      <model>Пуфик Вита &quot;Осьминожек 2&quot; 30х35х35 см, салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31012.96</price>
+        <cityprice cityId="615420100">31012.96</cityprice>
+    </offer>
+    <offer sku="148703">
+      <model>Пуфик Вита &quot;Обезъянка&quot; 30х30х35 см, желтый-оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31012.96</price>
+        <cityprice cityId="615420100">31012.96</cityprice>
+    </offer>
+    <offer sku="686793">
+      <model>Пуфик Вита &quot;Котик&quot; 30х30х35 см, желтый-оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31012.96</price>
+        <cityprice cityId="615420100">31012.96</cityprice>
+    </offer>
+    <offer sku="12258218">
+      <model>Фрезерный станок универсальный Stalex MUF65</model>
+      <brand>Stalex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10363312.14</price>
+        <cityprice cityId="615420100">10363312.14</cityprice>
+    </offer>
+    <offer sku="12258235">
+      <model>Калорифер Келет КАО 3-7</model>
+      <brand>Келет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1235025</price>
+        <cityprice cityId="615420100">1235025</cityprice>
+    </offer>
+    <offer sku="12258238">
+      <model>Калорифер Келет КАО 3-8</model>
+      <brand>Келет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2106048.61</price>
+        <cityprice cityId="615420100">2106048.61</cityprice>
+    </offer>
+    <offer sku="12258249">
+      <model>Калорифер Келет КАО 3-10</model>
+      <brand>Келет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12409052.01</price>
+        <cityprice cityId="615420100">12409052.01</cityprice>
+    </offer>
+    <offer sku="12258315">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Самрук, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108089.39</price>
+        <cityprice cityId="615420100">108089.39</cityprice>
+    </offer>
+    <offer sku="12258321">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Majestic экокожа черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54341.1</price>
+        <cityprice cityId="615420100">54341.1</cityprice>
+    </offer>
+    <offer sku="12258380">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б. &quot;Уркер&quot; черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79733.21</price>
+        <cityprice cityId="615420100">79733.21</cityprice>
+    </offer>
+    <offer sku="243429">
+      <model>Медаль наградная именная ИП &quot;Nagrady.kz&quot; АВС-007КРГ</model>
+      <brand>ИП &quot;Nagrady.kz&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2959.12</price>
+        <cityprice cityId="615420100">2959.12</cityprice>
+    </offer>
+    <offer sku="12258435">
+      <model>Пакет курьерский LEGA Print с карманом, 100 шт/уп</model>
+      <brand>LEGA Print</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8344.82</price>
+        <cityprice cityId="615420100">8344.82</cityprice>
+    </offer>
+    <offer sku="711010">
+      <model>Медаль наградная ИП &quot;Nagrady.kz&quot; АВС-008КРГ</model>
+      <brand>ИП &quot;Nagrady.kz&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2959.12</price>
+        <cityprice cityId="615420100">2959.12</cityprice>
+    </offer>
+    <offer sku="377797">
+      <model>Пуфик для релаксации Вита &quot;Инопланетянин&quot; желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80553.27</price>
+        <cityprice cityId="615420100">80553.27</cityprice>
+    </offer>
+    <offer sku="508392">
+      <model>Пуфик для релаксации Вита &quot;Кошка&quot; серый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80553.27</price>
+        <cityprice cityId="615420100">80553.27</cityprice>
+    </offer>
+    <offer sku="351052">
+      <model>Кресло Вита &quot;Коровка&quot; для релаксации, черно-белый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80553.27</price>
+        <cityprice cityId="615420100">80553.27</cityprice>
+    </offer>
+    <offer sku="125153">
+      <model>Кресло Вита &quot;Пчелка&quot; для релаксации, черно-желтое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80553.27</price>
+        <cityprice cityId="615420100">80553.27</cityprice>
+    </offer>
+    <offer sku="137902">
+      <model>Пуф Вита &quot;Пингвин&quot; для релаксации</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78835.1</price>
+        <cityprice cityId="615420100">78835.1</cityprice>
+    </offer>
+    <offer sku="488166">
+      <model>Кресло Вита &quot;Царевна-лягушка&quot; для релаксации, зеленое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80553.27</price>
+        <cityprice cityId="615420100">80553.27</cityprice>
+    </offer>
+    <offer sku="684846">
+      <model>Кресло Вита &quot;Пуф Полянка&quot; для релаксации, оранжевое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80553.27</price>
+        <cityprice cityId="615420100">80553.27</cityprice>
+    </offer>
+    <offer sku="777388">
+      <model>Кресло Вита &quot;Джордан&quot; для релаксации, 90 см, оранжево-черное</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77397.53</price>
+        <cityprice cityId="615420100">77397.53</cityprice>
+    </offer>
+    <offer sku="472501">
+      <model>Кресло Вита &quot;Мяч&quot; для релаксации, салатовое, 90 см</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64204.5</price>
+        <cityprice cityId="615420100">64204.5</cityprice>
+    </offer>
+    <offer sku="127861">
+      <model>Пуф для релаксации Вита &quot;Мяч&quot; 90 см, синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63203.64</price>
+        <cityprice cityId="615420100">63203.64</cityprice>
+    </offer>
+    <offer sku="937328">
+      <model>Кресло Вита &quot;Шар&quot; для релаксации, 90 см</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63786.57</price>
+        <cityprice cityId="615420100">63786.57</cityprice>
+    </offer>
+    <offer sku="476398">
+      <model>Кресло Вита &quot;Шар&quot; для релаксации, фиолетовый-зеленый, 90 см</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63786.57</price>
+        <cityprice cityId="615420100">63786.57</cityprice>
+    </offer>
+    <offer sku="665574">
+      <model>Пуфик Вита &quot;Пуфик&quot; желто-красный, 90 см</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77340.23</price>
+        <cityprice cityId="615420100">77340.23</cityprice>
+    </offer>
+    <offer sku="650885">
+      <model>Пуфик Вита &quot;Пуфик&quot; зелено-желтый, 90 см</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77340.23</price>
+        <cityprice cityId="615420100">77340.23</cityprice>
+    </offer>
+    <offer sku="669290">
+      <model>Кресло Вита &quot;Капля большая-Фрукты&quot; для релаксации, 65х116 см, красное</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50291.21</price>
+        <cityprice cityId="615420100">50291.21</cityprice>
+    </offer>
+    <offer sku="971570">
+      <model>Кресло Вита &quot;Капля большая-Фрукты&quot; для релаксации, 65х116 см, салатовое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50291.21</price>
+        <cityprice cityId="615420100">50291.21</cityprice>
+    </offer>
+    <offer sku="440688">
+      <model>Пуф Вита &quot;Божья коровка&quot; для релаксации, красно-черный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80553.27</price>
+        <cityprice cityId="615420100">80553.27</cityprice>
+    </offer>
+    <offer sku="172233">
+      <model>Пуф Вита &quot;Китенок&quot; для релаксации, сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61504.25</price>
+        <cityprice cityId="615420100">61504.25</cityprice>
+    </offer>
+    <offer sku="482255">
+      <model>Кресло Вита &quot;Капля Великан&quot; для релаксации, оранжевое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92237.6</price>
+        <cityprice cityId="615420100">92237.6</cityprice>
+    </offer>
+    <offer sku="406588">
+      <model>Кресло Вита &quot;Капля Великан&quot; для релаксации, мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92237.6</price>
+        <cityprice cityId="615420100">92237.6</cityprice>
+    </offer>
+    <offer sku="921384">
+      <model>Кресло Вита &quot;Лисенок&quot; для релаксации, 75х75х80 см, оранжево-белое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47194.75</price>
+        <cityprice cityId="615420100">47194.75</cityprice>
+    </offer>
+    <offer sku="769556">
+      <model>Кресло Вита &quot;Лягушонок&quot; для релаксации, 75х75х80 см, зеленое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47194.75</price>
+        <cityprice cityId="615420100">47194.75</cityprice>
+    </offer>
+    <offer sku="311671">
+      <model>Кресло Вита &quot;Трансформер&quot; для релаксации, 80х65х100 см, зеленое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89163.86</price>
+        <cityprice cityId="615420100">89163.86</cityprice>
+    </offer>
+    <offer sku="933574">
+      <model>Кресло Вита &quot;Трансформер&quot; для релаксации, 80х65х100 см, желтое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93697.89</price>
+        <cityprice cityId="615420100">93697.89</cityprice>
+    </offer>
+    <offer sku="942639">
+      <model>Кресло Вита &quot;Перчатка&quot; для релаксации, 70х66х64 см, фиолетовое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52745.45</price>
+        <cityprice cityId="615420100">52745.45</cityprice>
+    </offer>
+    <offer sku="178501">
+      <model>Кресло Вита &quot;Маленькая королева&quot; для релаксации, 70х70х78 см, бежево-малиновое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63144.36</price>
+        <cityprice cityId="615420100">63144.36</cityprice>
+    </offer>
+    <offer sku="716532">
+      <model>Кресло Вита &quot;Маленькая королева&quot; для релаксации, 70х70х78 см, желтое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63091.99</price>
+        <cityprice cityId="615420100">63091.99</cityprice>
+    </offer>
+    <offer sku="395821">
+      <model>Кресло Вита &quot;Акула&quot; для релаксации, серо-синее</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58061.98</price>
+        <cityprice cityId="615420100">58061.98</cityprice>
+    </offer>
+    <offer sku="840666">
+      <model>Кресло Вита &quot;Облачко&quot; для релаксации, фиолетовое-розовое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58879.08</price>
+        <cityprice cityId="615420100">58879.08</cityprice>
+    </offer>
+    <offer sku="345769">
+      <model>Кресло Вита &quot;Пирамидка&quot; для релаксации, красное</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45383.71</price>
+        <cityprice cityId="615420100">45383.71</cityprice>
+    </offer>
+    <offer sku="749583">
+      <model>Кресло Вита «Домовой» для релаксации, зеленое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101701.84</price>
+        <cityprice cityId="615420100">101701.84</cityprice>
+    </offer>
+    <offer sku="475842">
+      <model>Пуфик-мультик Вита &quot;Пчелка&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19974.8</price>
+        <cityprice cityId="615420100">19974.8</cityprice>
+    </offer>
+    <offer sku="995223">
+      <model>Пуфик-мультик Вита &quot;Арбузная долька&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="909120">
+      <model>Пуфик-мультик Вита &quot;Киска&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="561129">
+      <model>Пуфик-мультик Вита &quot;Лошадка&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="594857">
+      <model>Пуфик-мультик Вита &quot;Поросенок&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="248538">
+      <model>Пуфик-мультик Вита &quot;Ягодка&quot; красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="934666">
+      <model>Пуфик-мультик Вита &quot;Цветочек 06&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="12258545">
+      <model>Поликарбонат Suzhou Byers Board Industry Co., Ltd. 3 мм, 1х2 м, прозрачный</model>
+      <brand>Suzhou Byers Board Industry Co., Ltd.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75699.13</price>
+        <cityprice cityId="615420100">75699.13</cityprice>
+    </offer>
+    <offer sku="335971">
+      <model>Пуфик-мультик Вита &quot;Тигренок&quot;, 35х35х30 см, оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="610831">
+      <model>Пуфик-мультик Вита &quot;Бабочка&quot;, 35х35х30 см, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="143018">
+      <model>Пуфик-мультик Вита &quot;Дракончик&quot; желто-зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="400215">
+      <model>Пуфик-мультик Вита &quot;Ромашка с лепестками&quot;, 35х35х30 см, мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="845119">
+      <model>Пуфик-мультик Вита &quot;Яблоко&quot; салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19969.86</price>
+        <cityprice cityId="615420100">19969.86</cityprice>
+    </offer>
+    <offer sku="797133">
+      <model>Пуфик-мультик Вита &quot;Мартышка&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="359631">
+      <model>Пуфик Вита &quot;Цветочек&quot; голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89990.84</price>
+        <cityprice cityId="615420100">89990.84</cityprice>
+    </offer>
+    <offer sku="848089">
+      <model>Пуфик-мультик Вита &quot;Львенок&quot;</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="437522">
+      <model>Пуфик-мультик Вита &quot;Медвежонок весёлый&quot; желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="226667">
+      <model>Пуфик-мультик Вита &quot;Слоник&quot; голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="235728">
+      <model>Пуфик-мультик Вита &quot;Петушок&quot; мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19974.8</price>
+        <cityprice cityId="615420100">19974.8</cityprice>
+    </offer>
+    <offer sku="385080">
+      <model>Пуфик-мультик Вита &quot;Лисенок&quot; оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="910183">
+      <model>Пуфик-мультик Вита &quot;Панда&quot; черно-белый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19970.85</price>
+        <cityprice cityId="615420100">19970.85</cityprice>
+    </offer>
+    <offer sku="250999">
+      <model>Пуф Вита &quot;Тыковка&quot; оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44916.38</price>
+        <cityprice cityId="615420100">44916.38</cityprice>
+    </offer>
+    <offer sku="490461">
+      <model>Пуф Вита &quot;Клубника&quot; красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42475.97</price>
+        <cityprice cityId="615420100">42475.97</cityprice>
+    </offer>
+    <offer sku="277390">
+      <model>Пуфик для релаксации Вита &quot;Кубик&quot;, 50х50х50 см, синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27916.51</price>
+        <cityprice cityId="615420100">27916.51</cityprice>
+    </offer>
+    <offer sku="609374">
+      <model>Пуфик для релаксации Вита &quot;Кубик&quot; желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27916.51</price>
+        <cityprice cityId="615420100">27916.51</cityprice>
+    </offer>
+    <offer sku="457653">
+      <model>Пуфик для релаксации Вита &quot;Кубик&quot; красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27916.51</price>
+        <cityprice cityId="615420100">27916.51</cityprice>
+    </offer>
+    <offer sku="464389">
+      <model>Пуфик для релаксации Вита &quot;Кубик&quot; голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21314.56</price>
+        <cityprice cityId="615420100">21314.56</cityprice>
+    </offer>
+    <offer sku="138352">
+      <model>Пуфик для релаксации Вита &quot;Кубик&quot; зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27917.49</price>
+        <cityprice cityId="615420100">27917.49</cityprice>
+    </offer>
+    <offer sku="424037">
+      <model>Пуфик для релаксации Вита &quot;Кубик&quot; салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27917.49</price>
+        <cityprice cityId="615420100">27917.49</cityprice>
+    </offer>
+    <offer sku="255613">
+      <model>Пуфик Вита &quot;Кубик-рубик&quot; мультиколор</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69152.51</price>
+        <cityprice cityId="615420100">69152.51</cityprice>
+    </offer>
+    <offer sku="786426">
+      <model>Кресло-мешок Вита &quot;Остров круглый&quot; для релаксации желто-красное</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53456.82</price>
+        <cityprice cityId="615420100">53456.82</cityprice>
+    </offer>
+    <offer sku="636054">
+      <model>Диван Вита 3-х местный для релаксации с аппликацией детский, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163487.67</price>
+        <cityprice cityId="615420100">163487.67</cityprice>
+    </offer>
+    <offer sku="579322">
+      <model>Диван Вита 2-х местный для релаксации детский, серый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109938.96</price>
+        <cityprice cityId="615420100">109938.96</cityprice>
+    </offer>
+    <offer sku="890940">
+      <model>Диван Вита 2-х местный для релаксации детский, фиолетовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109937.97</price>
+        <cityprice cityId="615420100">109937.97</cityprice>
+    </offer>
+    <offer sku="155596">
+      <model>Кресло-мешок Вита для релаксации &quot;Мягкая форма бежевое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80163.99</price>
+        <cityprice cityId="615420100">80163.99</cityprice>
+    </offer>
+    <offer sku="133017">
+      <model>Кресло-мешок Вита для релаксации &quot;Мягкая форма с аппликацией&quot; голубое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91078.65</price>
+        <cityprice cityId="615420100">91078.65</cityprice>
+    </offer>
+    <offer sku="12258647">
+      <model>Еженедельник Moleskine 2018 12M Weekly Notebook Black Hard черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53031.97</price>
+        <cityprice cityId="615420100">53031.97</cityprice>
+    </offer>
+    <offer sku="12258651">
+      <model>Блокнот Эксмо Bullet Journal 80 листов белый</model>
+      <brand>Эксмо</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94449.77</price>
+        <cityprice cityId="615420100">94449.77</cityprice>
+    </offer>
+    <offer sku="381016">
+      <model>Корректирующая жидкость Berlingo Fuze, 20 мл</model>
+      <brand>Berlingo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>412</price>
+        <cityprice cityId="615420100">412</cityprice>
+    </offer>
+    <offer sku="12258811">
+      <model>Терминал спутниковый автомобильный Thuraya IP Voyager</model>
+      <brand>Thuraya</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4115103.3</price>
+        <cityprice cityId="615420100">4115103.3</cityprice>
+    </offer>
+    <offer sku="12258816">
+      <model>Сейф ТОО &quot;Темир-ЛБ&quot; СК-1 для документов</model>
+      <brand>ТОО &quot;Темир-ЛБ&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51375.06</price>
+        <cityprice cityId="615420100">51375.06</cityprice>
+    </offer>
+    <offer sku="421110">
+      <model>Питьевой фонтанчик Fonteco DF12-1L3BR</model>
+      <brand>Fonteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139792.97</price>
+        <cityprice cityId="615420100">139792.97</cityprice>
+    </offer>
+    <offer sku="12259101">
+      <model>Солнцезащитный крем Ersag Gunes kremi SPF50, 100 мл</model>
+      <brand>Ersag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5724.59</price>
+        <cityprice cityId="615420100">5724.59</cityprice>
+    </offer>
+    <offer sku="12259154">
+      <model>Шкаф Горизонт Ненси 3-х створчатый, 46,6x150x200 см, Белый глянец/Венге</model>
+      <brand>Горизонт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187717.87</price>
+        <cityprice cityId="615420100">187717.87</cityprice>
+    </offer>
+    <offer sku="12259167">
+      <model>Парфюм Ersag Хризантема 5001, 100 мл</model>
+      <brand>Ersag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21968.62</price>
+        <cityprice cityId="615420100">21968.62</cityprice>
+    </offer>
+    <offer sku="12259168">
+      <model>Парфюм Ersag Гардения 5014, 100 мл</model>
+      <brand>Ersag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24305.29</price>
+        <cityprice cityId="615420100">24305.29</cityprice>
+    </offer>
+    <offer sku="12259169">
+      <model>Парфюм Ersag Амира 5011, 100 мл</model>
+      <brand>Ersag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24453.49</price>
+        <cityprice cityId="615420100">24453.49</cityprice>
+    </offer>
+    <offer sku="12259170">
+      <model>Парфюм Ersag Лавинья 5007, 100 мл</model>
+      <brand>Ersag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22032.85</price>
+        <cityprice cityId="615420100">22032.85</cityprice>
+    </offer>
+    <offer sku="12259348">
+      <model>Бумага для офисной техники Inkwell paper, А4, 500 листов, белая</model>
+      <brand>Inkwell Paper</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1759.66</price>
+        <cityprice cityId="615420100">1759.66</cityprice>
+    </offer>
+    <offer sku="12259359">
+      <model>IP Телефон Cisco CP-7861-K9, черный</model>
+      <brand>Cisco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>330789.1</price>
+        <cityprice cityId="615420100">330789.1</cityprice>
+    </offer>
+    <offer sku="12259379">
+      <model>Стул Zeta Кантри PTZ-022710 пластиковый, белый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19333.58</price>
+        <cityprice cityId="615420100">19333.58</cityprice>
+    </offer>
+    <offer sku="12259395">
+      <model>Кресло для руководителя ТОО &quot;Имидж Media&quot; Мадлен 115, кремовое</model>
+      <brand>ТОО &quot;Имидж Media&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140185.22</price>
+        <cityprice cityId="615420100">140185.22</cityprice>
+    </offer>
+    <offer sku="389324">
+      <model>Офисный стул Helmi &quot;Изо&quot; HL-F01, 330635, черный</model>
+      <brand>Helmi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19640.85</price>
+        <cityprice cityId="615420100">19640.85</cityprice>
+    </offer>
+    <offer sku="12259429">
+      <model>Новогодний подарок Рахат &quot;Подарок от Рахат&quot; 2024 год, 2.5 кг</model>
+      <brand>Рахат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4919.35</price>
+        <cityprice cityId="615420100">4919.35</cityprice>
+    </offer>
+    <offer sku="12259488">
+      <model>Новогодний подарок Бабаевский Шоколадная фабрика, 1500 г</model>
+      <brand>Бабаевский</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4742.5</price>
+        <cityprice cityId="615420100">4742.5</cityprice>
+    </offer>
+    <offer sku="12259500">
+      <model>Буфет Минский мебельный центр Ольса 200/220 Белый лак</model>
+      <brand>Минский мебельный центр (ММЦ)</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>642212.01</price>
+        <cityprice cityId="615420100">642212.01</cityprice>
+    </offer>
+    <offer sku="12259501">
+      <model>Отвод 90° ВентСистемс прямоугольный, 500x500 мм, уголком, 0.7 мм</model>
+      <brand>ВентСистемс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>178161.74</price>
+        <cityprice cityId="615420100">178161.74</cityprice>
+    </offer>
+    <offer sku="12259503">
+      <model>Отвод 90° ВентСистемс прямоугольный, 250x250 мм, уголком, 0.7 мм</model>
+      <brand>ВентСистемс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167096.91</price>
+        <cityprice cityId="615420100">167096.91</cityprice>
+    </offer>
+    <offer sku="12259508">
+      <model>Отвод 90° ВентСистемс прямоугольный, 200x200 мм, уголком, 0.7 мм</model>
+      <brand>ВентСистемс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169882.13</price>
+        <cityprice cityId="615420100">169882.13</cityprice>
+    </offer>
+    <offer sku="12259565">
+      <model>Электромагнитный теплосчетчик ТБН Энергосервис КМ-5 Ду 25</model>
+      <brand>ТБН Энергосервис</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>850002.5</price>
+        <cityprice cityId="615420100">850002.5</cityprice>
+    </offer>
+    <offer sku="564830">
+      <model>Комплект детской мягкой мебели Вита &quot;Лежебока-2&quot; салатово-серый бежевый коричневый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>421681.01</price>
+        <cityprice cityId="615420100">421681.01</cityprice>
+    </offer>
+    <offer sku="789035">
+      <model>Комплект детской мягкой мебели Вита &quot;Лежебока-2&quot; сине-серый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>421655.32</price>
+        <cityprice cityId="615420100">421655.32</cityprice>
+    </offer>
+    <offer sku="597494">
+      <model>Комплект детской мягкой мебели Вита &quot;Комплект 4-х местный&quot; голубо-бежевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>210328.71</price>
+        <cityprice cityId="615420100">210328.71</cityprice>
+    </offer>
+    <offer sku="916368">
+      <model>Комплект детской мягкой мебели Вита &quot;Комплект 4-х местный&quot; желто-салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>210338.59</price>
+        <cityprice cityId="615420100">210338.59</cityprice>
+    </offer>
+    <offer sku="920422">
+      <model>Комплект детской мягкой мебели Вита &quot;Сатурн&quot; угловой, салатово-бежевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191820.13</price>
+        <cityprice cityId="615420100">191820.13</cityprice>
+    </offer>
+    <offer sku="141447">
+      <model>Комплект детской мягкой мебели Вита &quot;Сатурн&quot; желто-зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179058.86</price>
+        <cityprice cityId="615420100">179058.86</cityprice>
+    </offer>
+    <offer sku="728793">
+      <model>Комплект детской мягкой мебели Вита &quot;Сатурн+стол&quot; желто-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>199760.85</price>
+        <cityprice cityId="615420100">199760.85</cityprice>
+    </offer>
+    <offer sku="395719">
+      <model>Комплект детской мягкой мебели Вита &quot;Модульный мягкий уголок&quot; 1+1+3, сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150103.95</price>
+        <cityprice cityId="615420100">150103.95</cityprice>
+    </offer>
+    <offer sku="921727">
+      <model>Комплект детской мягкой мебели Вита &quot;Теремок&quot; угловой, желто-салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224650.06</price>
+        <cityprice cityId="615420100">224650.06</cityprice>
+    </offer>
+    <offer sku="799183">
+      <model>Комплект детской мягкой мебели Вита &quot;Теремок&quot; угловой, оранжево-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224652.04</price>
+        <cityprice cityId="615420100">224652.04</cityprice>
+    </offer>
+    <offer sku="656091">
+      <model>Комплект детской мягкой мебели Вита &quot;Колобок&quot; угловой 3+1+1, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200176.8</price>
+        <cityprice cityId="615420100">200176.8</cityprice>
+    </offer>
+    <offer sku="365331">
+      <model>Комплект детской мягкой мебели Вита &quot;Малыш&quot; желто-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194832.6</price>
+        <cityprice cityId="615420100">194832.6</cityprice>
+    </offer>
+    <offer sku="100558">
+      <model>Комплект детской мягкой мебели Вита &quot;Малыш с аппликацией&quot; Семицветик желто-салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204263.25</price>
+        <cityprice cityId="615420100">204263.25</cityprice>
+    </offer>
+    <offer sku="352751">
+      <model>Комплект детской мягкой мебели Вита &quot;Клубничка&quot; синий с желтыми подушками</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>178736.77</price>
+        <cityprice cityId="615420100">178736.77</cityprice>
+    </offer>
+    <offer sku="298759">
+      <model>Комплект детской мягкой мебели Вита &quot;Совенок с аппликацией&quot; Бабочки зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200289.44</price>
+        <cityprice cityId="615420100">200289.44</cityprice>
+    </offer>
+    <offer sku="888895">
+      <model>Комплект детской мягкой мебели Вита &quot;Совенок с аппликацией&quot; Мухоморчики салатово-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200285.49</price>
+        <cityprice cityId="615420100">200285.49</cityprice>
+    </offer>
+    <offer sku="114307">
+      <model>Комплект детской мягкой мебели Вита &quot;Ракушка с аппликацией&quot; Анютины глазки сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222777.76</price>
+        <cityprice cityId="615420100">222777.76</cityprice>
+    </offer>
+    <offer sku="525781">
+      <model>Комплект детской мягкой мебели Вита &quot;Ракушка с аппликацией&quot; Красные цветы желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222779.74</price>
+        <cityprice cityId="615420100">222779.74</cityprice>
+    </offer>
+    <offer sku="290434">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка люкс&quot; Кукла желто-салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261516.05</price>
+        <cityprice cityId="615420100">261516.05</cityprice>
+    </offer>
+    <offer sku="842799">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка люкс&quot; Игрушки для мальчиков голубо-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261509.13</price>
+        <cityprice cityId="615420100">261509.13</cityprice>
+    </offer>
+    <offer sku="171970">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка-люкс&quot; Олененок голубо-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261516.05</price>
+        <cityprice cityId="615420100">261516.05</cityprice>
+    </offer>
+    <offer sku="289229">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка&quot; Пазлики цветные</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212378.85</price>
+        <cityprice cityId="615420100">212378.85</cityprice>
+    </offer>
+    <offer sku="985231">
+      <model>Комплект детской мягкой мебели Вита &quot;Радуга&quot; Яблоко оранжево-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187533.11</price>
+        <cityprice cityId="615420100">187533.11</cityprice>
+    </offer>
+    <offer sku="205580">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка&quot; Дорожное движение голубо-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212359.09</price>
+        <cityprice cityId="615420100">212359.09</cityprice>
+    </offer>
+    <offer sku="458759">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка&quot; Пчелки зелено-оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212362.05</price>
+        <cityprice cityId="615420100">212362.05</cityprice>
+    </offer>
+    <offer sku="436887">
+      <model>Комплект детской мягкой мебели Вита &quot;Аппликация&quot; Рыбки желто-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195677.36</price>
+        <cityprice cityId="615420100">195677.36</cityprice>
+    </offer>
+    <offer sku="861587">
+      <model>Комплект детской мягкой мебели Вита &quot;Аппликация&quot; Алфавит голубо-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195708.98</price>
+        <cityprice cityId="615420100">195708.98</cityprice>
+    </offer>
+    <offer sku="594288">
+      <model>Комплект детской мягкой мебели Вита &quot;Аппликация&quot; Игрушки салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195708.98</price>
+        <cityprice cityId="615420100">195708.98</cityprice>
+    </offer>
+    <offer sku="963785">
+      <model>Комплект детской мягкой мебели Вита &quot;Аппликация&quot; Домики голубо-зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195708.98</price>
+        <cityprice cityId="615420100">195708.98</cityprice>
+    </offer>
+    <offer sku="12259790">
+      <model>Кресло для руководителя ТОО &quot;Имидж Media&quot; 019, черное</model>
+      <brand>ТОО &quot;Имидж Media&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51772.25</price>
+        <cityprice cityId="615420100">51772.25</cityprice>
+    </offer>
+    <offer sku="12259825">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; MiniBoss, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47128.55</price>
+        <cityprice cityId="615420100">47128.55</cityprice>
+    </offer>
+    <offer sku="419343">
+      <model>Комплект детской мягконабивной мебели Вита &quot;Грибок с аппликацией&quot; на липе</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>173564.49</price>
+        <cityprice cityId="615420100">173564.49</cityprice>
+    </offer>
+    <offer sku="204744">
+      <model>Комплект детской мягкой мебели Вита &quot;Аппликация&quot; Цветочки зелено-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195653.65</price>
+        <cityprice cityId="615420100">195653.65</cityprice>
+    </offer>
+    <offer sku="105457">
+      <model>Комплект детской мягкой мебели Вита &quot;Аппликация&quot; Рыбки желто-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195705.03</price>
+        <cityprice cityId="615420100">195705.03</cityprice>
+    </offer>
+    <offer sku="107001">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка&quot; День-ночь</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212391.7</price>
+        <cityprice cityId="615420100">212391.7</cityprice>
+    </offer>
+    <offer sku="847649">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказка&quot; Дельфин голубо-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212387.74</price>
+        <cityprice cityId="615420100">212387.74</cityprice>
+    </offer>
+    <offer sku="299528">
+      <model>Комплект детской мягкой мебели Вита &quot;Космос&quot; бежевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236544.83</price>
+        <cityprice cityId="615420100">236544.83</cityprice>
+    </offer>
+    <offer sku="117784">
+      <model>Комплект детской мягкой мебели Вита &quot;Космос&quot; салатовый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236544.83</price>
+        <cityprice cityId="615420100">236544.83</cityprice>
+    </offer>
+    <offer sku="465075">
+      <model>Комплект детской мягкой мебели Вита &quot;Ветерок&quot; сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>188089.37</price>
+        <cityprice cityId="615420100">188089.37</cityprice>
+    </offer>
+    <offer sku="870548">
+      <model>Комплект детской мягкой мебели Вита &quot;Сатурн&quot; желтый с зеленым</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179058.86</price>
+        <cityprice cityId="615420100">179058.86</cityprice>
+    </offer>
+    <offer sku="714316">
+      <model>Комплект детской мягкой мебели Вита &quot;Колибри&quot; фиолетово-серый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192523.6</price>
+        <cityprice cityId="615420100">192523.6</cityprice>
+    </offer>
+    <offer sku="949559">
+      <model>Комплект детской мягкой мебели Вита &quot;Лежебока&quot; оранжевый, голубой, желтый, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>590050.48</price>
+        <cityprice cityId="615420100">590050.48</cityprice>
+    </offer>
+    <offer sku="415311">
+      <model>Комплект детской мягкой мебели Вита &quot;Стрекоза&quot; зелено-голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>363041.03</price>
+        <cityprice cityId="615420100">363041.03</cityprice>
+    </offer>
+    <offer sku="533895">
+      <model>Диван Вита &quot;Танк&quot; детский, составной, зеленый, 2 шт</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>240023.65</price>
+        <cityprice cityId="615420100">240023.65</cityprice>
+    </offer>
+    <offer sku="683700">
+      <model>Диван Вита &quot;Песочница&quot; детский, полукруглый с дидактическими элементами</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139824.59</price>
+        <cityprice cityId="615420100">139824.59</cityprice>
+    </offer>
+    <offer sku="840152">
+      <model>Кресло детское с пуфом Вита &quot;Фея&quot; игровое малиновое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80620.46</price>
+        <cityprice cityId="615420100">80620.46</cityprice>
+    </offer>
+    <offer sku="700387">
+      <model>Кресло детское Вита &quot;Зайчик&quot; розовый перламутр</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57251.81</price>
+        <cityprice cityId="615420100">57251.81</cityprice>
+    </offer>
+    <offer sku="531892">
+      <model>Диван Вита &quot;Листик&quot; детский, составной, на опоре, зеленый, 2 шт</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131999.47</price>
+        <cityprice cityId="615420100">131999.47</cityprice>
+    </offer>
+    <offer sku="12259910">
+      <model>Bluetooth-трекер Amir Bluetooth Dongle серый</model>
+      <brand>Amir</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>494346.91</price>
+        <cityprice cityId="615420100">494346.91</cityprice>
+    </offer>
+    <offer sku="12259911">
+      <model>Радиотелефон Gigaset C530A IP RUS черный</model>
+      <brand>Gigaset </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2346305.44</price>
+        <cityprice cityId="615420100">2346305.44</cityprice>
+    </offer>
+    <offer sku="885192">
+      <model>Кушетка Вита с подлокотниками на хромированных ножках, салатово-желтая</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69862.89</price>
+        <cityprice cityId="615420100">69862.89</cityprice>
+    </offer>
+    <offer sku="751252">
+      <model>Комплект детской мягкой мебели Вита &quot;Бантик с аппликацией&quot; сине-бежевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133753.21</price>
+        <cityprice cityId="615420100">133753.21</cityprice>
+    </offer>
+    <offer sku="403112">
+      <model>Комплект детской мягкой мебели Вита &quot;Умница (мини)&quot; красно-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>211801.85</price>
+        <cityprice cityId="615420100">211801.85</cityprice>
+    </offer>
+    <offer sku="408702">
+      <model>Комплект детской мягкой мебели Вита &quot;Лесная полянка&quot; зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>249923.61</price>
+        <cityprice cityId="615420100">249923.61</cityprice>
+    </offer>
+    <offer sku="231799">
+      <model>Комплект детской мягкой мебели Вита &quot;Улыбка&quot; желто-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>473820.8</price>
+        <cityprice cityId="615420100">473820.8</cityprice>
+    </offer>
+    <offer sku="529278">
+      <model>Диван модульный Вита на липе, желто-голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135978.23</price>
+        <cityprice cityId="615420100">135978.23</cityprice>
+    </offer>
+    <offer sku="12259982">
+      <model>Радиостанция Hytera HM655</model>
+      <brand>Hytera</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>278828.14</price>
+        <cityprice cityId="615420100">278828.14</cityprice>
+    </offer>
+    <offer sku="12260011">
+      <model>Валик малярный Alamn &quot;Фасадный&quot; 230х48</model>
+      <brand>Alamn</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1580.83</price>
+        <cityprice cityId="615420100">1580.83</cityprice>
+    </offer>
+    <offer sku="106139">
+      <model>Пуф угловой Вита Сектор каркасный, на опоре, 35х35х40 см, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28618</price>
+        <cityprice cityId="615420100">28618</cityprice>
+    </offer>
+    <offer sku="573612">
+      <model>Пуф угловой Вита Сектор на хромированных ножках, салатово-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91128.05</price>
+        <cityprice cityId="615420100">91128.05</cityprice>
+    </offer>
+    <offer sku="968467">
+      <model>Пуф угловой Вита Сектор на хромированных ножках сине-голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92114.09</price>
+        <cityprice cityId="615420100">92114.09</cityprice>
+    </offer>
+    <offer sku="128074">
+      <model>Пуфик на колесиках Вита 50х50х40 см, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48529.57</price>
+        <cityprice cityId="615420100">48529.57</cityprice>
+    </offer>
+    <offer sku="347920">
+      <model>Пуфик на колесиках Вита 50х50х40 см, желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48533.52</price>
+        <cityprice cityId="615420100">48533.52</cityprice>
+    </offer>
+    <offer sku="834062">
+      <model>Пуфик на колесиках Вита 50х50х40 см, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48533.52</price>
+        <cityprice cityId="615420100">48533.52</cityprice>
+    </offer>
+    <offer sku="199815">
+      <model>Пуфик на колесиках Вита 50х50х40 см, оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48534.51</price>
+        <cityprice cityId="615420100">48534.51</cityprice>
+    </offer>
+    <offer sku="775580">
+      <model>Пуфик на колесиках Вита 50х50х40 см, белый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47545.5</price>
+        <cityprice cityId="615420100">47545.5</cityprice>
+    </offer>
+    <offer sku="804936">
+      <model>Пуфик на колесиках Вита 50х50х40 см, синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48533.52</price>
+        <cityprice cityId="615420100">48533.52</cityprice>
+    </offer>
+    <offer sku="211891">
+      <model>Пуфик Вита Круг, на ножках, 45х45х38 см, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35511.41</price>
+        <cityprice cityId="615420100">35511.41</cityprice>
+    </offer>
+    <offer sku="874048">
+      <model>Пуфик Вита Квадрат, на ножках, 45х45х38 см, оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35511.41</price>
+        <cityprice cityId="615420100">35511.41</cityprice>
+    </offer>
+    <offer sku="813968">
+      <model>Пуфик Вита Треугольник, на ножках, 45х45х38 см, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35511.41</price>
+        <cityprice cityId="615420100">35511.41</cityprice>
+    </offer>
+    <offer sku="635184">
+      <model>Пуфик Вита Полукруг, на ножках, синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35511.41</price>
+        <cityprice cityId="615420100">35511.41</cityprice>
+    </offer>
+    <offer sku="686880">
+      <model>Пуфик Вита Прямоугольник, на ножках, 45х60х38 см, голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35511.41</price>
+        <cityprice cityId="615420100">35511.41</cityprice>
+    </offer>
+    <offer sku="12260059">
+      <model>Верхний душ Hansen HP46-1 тропический, 150 мм, хром</model>
+      <brand>Hansen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9863.4</price>
+        <cityprice cityId="615420100">9863.4</cityprice>
+    </offer>
+    <offer sku="12260148">
+      <model>Валик малярный Alamn &quot;Микрофибра&quot; 230х48 (для работ по дереву)</model>
+      <brand>Alamn</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1482.03</price>
+        <cityprice cityId="615420100">1482.03</cityprice>
+    </offer>
+    <offer sku="12260155">
+      <model>Валик малярный Alamn &quot;Универсал&quot; 230х48</model>
+      <brand>Alamn</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1383.23</price>
+        <cityprice cityId="615420100">1383.23</cityprice>
+    </offer>
+    <offer sku="12260181">
+      <model>Стул офисный Bazhou Handsome Furniture Co., Ltd BF-029, черный</model>
+      <brand>Bazhou Handsome Furniture Co., Ltd</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242064.9</price>
+        <cityprice cityId="615420100">242064.9</cityprice>
+    </offer>
+    <offer sku="12260222">
+      <model>Рекламный стенд DD-Displey Pop Up Classic, 230*250 см.</model>
+      <brand>DD-Displey</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194073.8</price>
+        <cityprice cityId="615420100">194073.8</cityprice>
+    </offer>
+    <offer sku="12260235">
+      <model>Электромагнитный теплосчетчик ТБН Энергосервис КМ-5 Ду 100</model>
+      <brand>ТБН Энергосервис</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>858589.38</price>
+        <cityprice cityId="615420100">858589.38</cityprice>
+    </offer>
+    <offer sku="12260300">
+      <model>Счетчик воды Эко Ном Универсальный СВ-15-110</model>
+      <brand>Эко Ном</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4031.12</price>
+        <cityprice cityId="615420100">4031.12</cityprice>
+    </offer>
+    <offer sku="292447">
+      <model>Комплект детской мягкой мебели Вита &quot;Бантик&quot; голубо-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133757.16</price>
+        <cityprice cityId="615420100">133757.16</cityprice>
+    </offer>
+    <offer sku="546291">
+      <model>Комплект мягконабивной мебели Вита &quot;Грибок&quot; на липе</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156508.3</price>
+        <cityprice cityId="615420100">156508.3</cityprice>
+    </offer>
+    <offer sku="417400">
+      <model>Комплект детской мягкой мебели Вита &quot;Квартет Люкс&quot; сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>184371.45</price>
+        <cityprice cityId="615420100">184371.45</cityprice>
+    </offer>
+    <offer sku="12260339">
+      <model>Сварочный полуавтомат Telwin Mastermig 500</model>
+      <brand>Telwin</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1976000.48</price>
+        <cityprice cityId="615420100">1976000.48</cityprice>
+    </offer>
+    <offer sku="12260341">
+      <model>Пленка для ламинирования Brauberg 530895 100 мкм 100 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2853.4</price>
+        <cityprice cityId="615420100">2853.4</cityprice>
+    </offer>
+    <offer sku="323569">
+      <model>Комплект мягконабивной мебели Вита &quot;Умница&quot; желто-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>234339.57</price>
+        <cityprice cityId="615420100">234339.57</cityprice>
+    </offer>
+    <offer sku="856092">
+      <model>Комплект детской мягкой мебели Вита &quot;Сказочный&quot; Светлячок оранжево-голубой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>158284.76</price>
+        <cityprice cityId="615420100">158284.76</cityprice>
+    </offer>
+    <offer sku="696269">
+      <model>Комплект мягконабивной мебели Вита &quot;Малютка&quot; голубо-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118662.19</price>
+        <cityprice cityId="615420100">118662.19</cityprice>
+    </offer>
+    <offer sku="792644">
+      <model>Комплект мягконабивной мебели Вита &quot;Умница -2 &quot; сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>144794.33</price>
+        <cityprice cityId="615420100">144794.33</cityprice>
+    </offer>
+    <offer sku="149404">
+      <model>Комплект детской мягкой мебели Вита &quot;Релакс&quot; сине-желтый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195998.47</price>
+        <cityprice cityId="615420100">195998.47</cityprice>
+    </offer>
+    <offer sku="828018">
+      <model>Комплект мягконабивной мебели Вита &quot;Трансформер м/мебель&quot; комплект - 2</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185477.04</price>
+        <cityprice cityId="615420100">185477.04</cityprice>
+    </offer>
+    <offer sku="311867">
+      <model>Диван-пазл Вита 5 элементов</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129500.77</price>
+        <cityprice cityId="615420100">129500.77</cityprice>
+    </offer>
+    <offer sku="814805">
+      <model>Диван-трансформер Вита игровой</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151874.48</price>
+        <cityprice cityId="615420100">151874.48</cityprice>
+    </offer>
+    <offer sku="12260386">
+      <model>Компьютерное кресло Metta SU-BK131-8 Ch, черное</model>
+      <brand>Metta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76571.55</price>
+        <cityprice cityId="615420100">76571.55</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
