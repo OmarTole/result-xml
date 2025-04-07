@@ -2595,5 +2595,2201 @@
       <price>7573.17</price>
         <cityprice cityId="615420100">7573.17</cityprice>
     </offer>
+    <offer sku="4931126">
+      <model>Клей-герметик Aqualink разборный 50 мл.</model>
+      <brand>Aqualink</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9335.8</price>
+        <cityprice cityId="615420100">9335.8</cityprice>
+    </offer>
+    <offer sku="4905800">
+      <model>Герметик Момент Гермент Санитарный прозрачный, 85 мл</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4916.39</price>
+        <cityprice cityId="615420100">4916.39</cityprice>
+    </offer>
+    <offer sku="4928284">
+      <model>Герметик Момент Гермент Высокотемпературный 300 мл.</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2964.06</price>
+        <cityprice cityId="615420100">2964.06</cityprice>
+    </offer>
+    <offer sku="4993796">
+      <model>Клей-герметик U-Seal U-SEAL 501 для автостекол 310 мл.</model>
+      <brand>U-Seal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11856.24</price>
+        <cityprice cityId="615420100">11856.24</cityprice>
+    </offer>
+    <offer sku="4906191">
+      <model>Герметик Penosil All Weather Sealant всесезонный для кровли прозрачный, 310 мл.</model>
+      <brand>Penosil</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1747.81</price>
+        <cityprice cityId="615420100">1747.81</cityprice>
+    </offer>
+    <offer sku="4905941">
+      <model>Герметик Ultima универсальный белый, 280 мл</model>
+      <brand>Ultima</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3356.3</price>
+        <cityprice cityId="615420100">3356.3</cityprice>
+    </offer>
+    <offer sku="4993721">
+      <model>Клей-герметик Aqualink высокопрочный 30 мл.</model>
+      <brand>Aqualink</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8742.99</price>
+        <cityprice cityId="615420100">8742.99</cityprice>
+    </offer>
+    <offer sku="4931602">
+      <model>Герметик KUDO KSK универсальный 280 мл.</model>
+      <brand>KUDO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2858.34</price>
+        <cityprice cityId="615420100">2858.34</cityprice>
+    </offer>
+    <offer sku="5021935">
+      <model>Герметик Profilux Универсальный 260 мл.</model>
+      <brand>Profilux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3355.32</price>
+        <cityprice cityId="615420100">3355.32</cityprice>
+    </offer>
+    <offer sku="12198465">
+      <model>Стирально-отжимная машина Unimac UC30, М9, эл.обогрев, 100G</model>
+      <brand>Unimac</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4344055.69</price>
+        <cityprice cityId="615420100">4344055.69</cityprice>
+    </offer>
+    <offer sku="520342">
+      <model>Электрогенератор Huter DY4000L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94539.68</price>
+        <cityprice cityId="615420100">94539.68</cityprice>
+    </offer>
+    <offer sku="1625799">
+      <model>Электрогенератор Huter DY2500L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79337.02</price>
+        <cityprice cityId="615420100">79337.02</cityprice>
+    </offer>
+    <offer sku="1625502">
+      <model>Электрогенератор Huter DN2700i</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129205.35</price>
+        <cityprice cityId="615420100">129205.35</cityprice>
+    </offer>
+    <offer sku="1625754">
+      <model>Электрогенератор Eurolux G3600A</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78022.95</price>
+        <cityprice cityId="615420100">78022.95</cityprice>
+    </offer>
+    <offer sku="520348">
+      <model>Электрогенератор Huter DY3000L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86004.18</price>
+        <cityprice cityId="615420100">86004.18</cityprice>
+    </offer>
+    <offer sku="1625360">
+      <model>Электрогенератор ЗУБР ЗИГ-2500</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>277907.08</price>
+        <cityprice cityId="615420100">277907.08</cityprice>
+    </offer>
+    <offer sku="12340243">
+      <model>Дизельный генератор KazGenerators KG Power Ricardo KG3-100, в кожухе</model>
+      <brand>KazGenerators</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2989229.81</price>
+        <cityprice cityId="615420100">2989229.81</cityprice>
+    </offer>
+    <offer sku="12697058">
+      <model>Дизельный генератор GSCO GS55YD-S в кожухе</model>
+      <brand>GSCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3070569.54</price>
+        <cityprice cityId="615420100">3070569.54</cityprice>
+    </offer>
+    <offer sku="12711291">
+      <model>Установка алмазного бурения Hilti DD 250-CA 230V BL</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1517221.15</price>
+        <cityprice cityId="615420100">1517221.15</cityprice>
+    </offer>
+    <offer sku="12720709">
+      <model>Станина бурильной установки Hilti DD-HD 30-CA 2159830</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>667234.37</price>
+        <cityprice cityId="615420100">667234.37</cityprice>
+    </offer>
+    <offer sku="12184711">
+      <model>Парта школьная ИП Mebius двухместная, белая</model>
+      <brand>ИП MEBIUS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49201.42</price>
+        <cityprice cityId="615420100">49201.42</cityprice>
+    </offer>
+    <offer sku="1327008">
+      <model>Стул IVICITY.KZ Стул темно коричневый</model>
+      <brand>IVICITY.KZ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15808.32</price>
+        <cityprice cityId="615420100">15808.32</cityprice>
+    </offer>
+    <offer sku="12340244">
+      <model>Дизельный генератор KazGenerators KG Power Ricardo Lambert KG3-200, в кожухе</model>
+      <brand>KazGenerators</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6845803.84</price>
+        <cityprice cityId="615420100">6845803.84</cityprice>
+    </offer>
+    <offer sku="12261043">
+      <model>Набор кистей Stroxx 00000004252 7 шт</model>
+      <brand>Stroxx</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1659.87</price>
+        <cityprice cityId="615420100">1659.87</cityprice>
+    </offer>
+    <offer sku="1625413">
+      <model>Электрогенератор РЕСАНТА БГ 6500 Р</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>170942.28</price>
+        <cityprice cityId="615420100">170942.28</cityprice>
+    </offer>
+    <offer sku="6141401">
+      <model>Генератор бензиновый Tarlan T-11000EA Uni Power</model>
+      <brand>Tarlan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>276950.01</price>
+        <cityprice cityId="615420100">276950.01</cityprice>
+    </offer>
+    <offer sku="1625206">
+      <model>Электрогенератор Сибртех БС-6500Э 94548</model>
+      <brand>СИБРТЕХ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197595.11</price>
+        <cityprice cityId="615420100">197595.11</cityprice>
+    </offer>
+    <offer sku="5778460">
+      <model>Генератор бензиновый Denzel 946834 PS 33, 3,3 кВт, 230В, 15л, ручной стартер</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129083.82</price>
+        <cityprice cityId="615420100">129083.82</cityprice>
+    </offer>
+    <offer sku="1625729">
+      <model>Электрогенератор Huter DY8000LXA</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>344818.98</price>
+        <cityprice cityId="615420100">344818.98</cityprice>
+    </offer>
+    <offer sku="1625704">
+      <model>Электрогенератор Huter DY6500LXG</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>245028.96</price>
+        <cityprice cityId="615420100">245028.96</cityprice>
+    </offer>
+    <offer sku="1577648">
+      <model>Электрогенератор Huter DY6500LXA c АВР</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>277633.62</price>
+        <cityprice cityId="615420100">277633.62</cityprice>
+    </offer>
+    <offer sku="1625196">
+      <model>Электрогенератор DENZEL PS 90 ED-3 946944</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>478157.22</price>
+        <cityprice cityId="615420100">478157.22</cityprice>
+    </offer>
+    <offer sku="1625258">
+      <model>Электрогенератор Сибртех БС-6500 94546</model>
+      <brand>СИБРТЕХ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>210922.51</price>
+        <cityprice cityId="615420100">210922.51</cityprice>
+    </offer>
+    <offer sku="12339922">
+      <model>Дизельный генератор PCA POWER PRD-41</model>
+      <brand>PCA Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3282372.38</price>
+        <cityprice cityId="615420100">3282372.38</cityprice>
+    </offer>
+    <offer sku="1790608">
+      <model>Воздушный компрессор Вихрь КМП-400/100P</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133726.53</price>
+        <cityprice cityId="615420100">133726.53</cityprice>
+    </offer>
+    <offer sku="1625584">
+      <model>Электрогенератор Champion GG3301</model>
+      <brand>Champion</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>223206.56</price>
+        <cityprice cityId="615420100">223206.56</cityprice>
+    </offer>
+    <offer sku="10840378">
+      <model>Дизельный генератор Lider 120 Silent</model>
+      <brand>Lider</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6320260.2</price>
+        <cityprice cityId="615420100">6320260.2</cityprice>
+    </offer>
+    <offer sku="1625774">
+      <model>Электрогенератор Fubag BS 11000 A ES</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1344062.89</price>
+        <cityprice cityId="615420100">1344062.89</cityprice>
+    </offer>
+    <offer sku="4499040">
+      <model>Электрогенератор Denzel GE 8900, 94639</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>264344.75</price>
+        <cityprice cityId="615420100">264344.75</cityprice>
+    </offer>
+    <offer sku="4497357">
+      <model>Генератор инверторный Denzel GT-2200iS 94702</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>220785.02</price>
+        <cityprice cityId="615420100">220785.02</cityprice>
+    </offer>
+    <offer sku="1625557">
+      <model>Электрогенератор РЕСАНТА БГ 8000 Р</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>250631.03</price>
+        <cityprice cityId="615420100">250631.03</cityprice>
+    </offer>
+    <offer sku="1625537">
+      <model>Электрогенератор DENZEL PS 70 EA 946894</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>314708.08</price>
+        <cityprice cityId="615420100">314708.08</cityprice>
+    </offer>
+    <offer sku="10674667">
+      <model>Генератор бензиновый Kronwerk 94689 LK 6500, 25 л.</model>
+      <brand>Kronwerk</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>218438.38</price>
+        <cityprice cityId="615420100">218438.38</cityprice>
+    </offer>
+    <offer sku="1625480">
+      <model>Электрогенератор DENZEL PS 80 E-3 946954</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>264750.53</price>
+        <cityprice cityId="615420100">264750.53</cityprice>
+    </offer>
+    <offer sku="1625199">
+      <model>Электрогенератор СИБРТЕХ БС-8000Э зеленый</model>
+      <brand>СИБРТЕХ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217990.8</price>
+        <cityprice cityId="615420100">217990.8</cityprice>
+    </offer>
+    <offer sku="10728665">
+      <model>Электрогенератор Зубр СБА-5500</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>348412.41</price>
+        <cityprice cityId="615420100">348412.41</cityprice>
+    </offer>
+    <offer sku="5777638">
+      <model>Генератор дизельный Denzel 94670 DD5800Е, 5 кВт, 220В/50Гц, 12.5 л</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>336972.25</price>
+        <cityprice cityId="615420100">336972.25</cityprice>
+    </offer>
+    <offer sku="12340769">
+      <model>Парта школьная Genart RM01, серая</model>
+      <brand>Genart</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168575.97</price>
+        <cityprice cityId="615420100">168575.97</cityprice>
+    </offer>
+    <offer sku="59554">
+      <model>Школьная парта Genart LETme MM01, серая</model>
+      <brand>Genart</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72322.08</price>
+        <cityprice cityId="615420100">72322.08</cityprice>
+    </offer>
+    <offer sku="283018">
+      <model>Парта школьная ТОО &quot;Компания &quot;Жақсылық-2006&quot; со стулом</model>
+      <brand>ТОО &quot;Компания &quot;Жақсылық-2006&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17427.68</price>
+        <cityprice cityId="615420100">17427.68</cityprice>
+    </offer>
+    <offer sku="904894">
+      <model>Детская парта Полесье Набор дошкольника №2 43023</model>
+      <brand>Полесье</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25886.12</price>
+        <cityprice cityId="615420100">25886.12</cityprice>
+    </offer>
+    <offer sku="12226358">
+      <model>Парта школьная ТОО &quot;Компания &quot;Жақсылық-2006&quot; скамья, дуб сонома</model>
+      <brand>ТОО &quot;Компания &quot;Жақсылық-2006&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44460.9</price>
+        <cityprice cityId="615420100">44460.9</cityprice>
+    </offer>
+    <offer sku="12340773">
+      <model>Школьная парта Genart Nudo Bilgisayar Masası BM07, светло-серая</model>
+      <brand>Genart</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77413.34</price>
+        <cityprice cityId="615420100">77413.34</cityprice>
+    </offer>
+    <offer sku="12353678">
+      <model>Школьная парта одноместная Merz MERZ-İÖ-40-Mavi, стул в комплекте, синяя</model>
+      <brand>Merz</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81019.62</price>
+        <cityprice cityId="615420100">81019.62</cityprice>
+    </offer>
+    <offer sku="618728">
+      <model>Электрогенератор Huter DY3000LX</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114610.32</price>
+        <cityprice cityId="615420100">114610.32</cityprice>
+    </offer>
+    <offer sku="1625691">
+      <model>Электрогенератор Huter DY4000L</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120772.6</price>
+        <cityprice cityId="615420100">120772.6</cityprice>
+    </offer>
+    <offer sku="1625210">
+      <model>Электрогенератор DENZEL PS 90 EA 946934</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>366741.17</price>
+        <cityprice cityId="615420100">366741.17</cityprice>
+    </offer>
+    <offer sku="1625500">
+      <model>Электрогенератор DENZEL PS 55 EA 946874</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>254229.4</price>
+        <cityprice cityId="615420100">254229.4</cityprice>
+    </offer>
+    <offer sku="4499072">
+      <model>Генератор инверторный Denzel GT-3500iF 94705</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>141379.73</price>
+        <cityprice cityId="615420100">141379.73</cityprice>
+    </offer>
+    <offer sku="1625715">
+      <model>Электрогенератор DENZEL PS 80 EA 946924</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>399027.69</price>
+        <cityprice cityId="615420100">399027.69</cityprice>
+    </offer>
+    <offer sku="10790495">
+      <model>Электрогенератор Зубр СБ-2800</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130700.23</price>
+        <cityprice cityId="615420100">130700.23</cityprice>
+    </offer>
+    <offer sku="1625801">
+      <model>Электрогенератор Ресанта БГ 9500 Э</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>310439.84</price>
+        <cityprice cityId="615420100">310439.84</cityprice>
+    </offer>
+    <offer sku="1625475">
+      <model>Электрогенератор Senci SC13000/380</model>
+      <brand>SENCI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>965292.58</price>
+        <cityprice cityId="615420100">965292.58</cityprice>
+    </offer>
+    <offer sku="10789883">
+      <model>Электрогенератор Зубр СБ-2800Е</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>154220.04</price>
+        <cityprice cityId="615420100">154220.04</cityprice>
+    </offer>
+    <offer sku="10792586">
+      <model>Электрогенератор Зубр СБ-5500Е</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261206.8</price>
+        <cityprice cityId="615420100">261206.8</cityprice>
+    </offer>
+    <offer sku="10760407">
+      <model>Электрогенератор Huter DY6.5А</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191878.42</price>
+        <cityprice cityId="615420100">191878.42</cityprice>
+    </offer>
+    <offer sku="10790074">
+      <model>Электрогенератор Зубр СБ-2200</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135632.2</price>
+        <cityprice cityId="615420100">135632.2</cityprice>
+    </offer>
+    <offer sku="1625225">
+      <model>Электрогенератор Eurolux G6500A</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168034.54</price>
+        <cityprice cityId="615420100">168034.54</cityprice>
+    </offer>
+    <offer sku="10674675">
+      <model>Генератор бензиновый Kronwerk 94694 LK 7500E, 6,5 кВт, 25 л.</model>
+      <brand>Kronwerk</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242064.9</price>
+        <cityprice cityId="615420100">242064.9</cityprice>
+    </offer>
+    <offer sku="10793223">
+      <model>Электрогенератор Зубр СБ-8000</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>329010.66</price>
+        <cityprice cityId="615420100">329010.66</cityprice>
+    </offer>
+    <offer sku="1625784">
+      <model>Электрогенератор РЕСАНТА БГ 4000 Р</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133922.16</price>
+        <cityprice cityId="615420100">133922.16</cityprice>
+    </offer>
+    <offer sku="1625740">
+      <model>Электрогенератор Magnetta GFE9000</model>
+      <brand>Magnetta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232184.7</price>
+        <cityprice cityId="615420100">232184.7</cityprice>
+    </offer>
+    <offer sku="10792576">
+      <model>Электрогенератор Steher GS-8000Е</model>
+      <brand>Steher</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>264196.55</price>
+        <cityprice cityId="615420100">264196.55</cityprice>
+    </offer>
+    <offer sku="1625723">
+      <model>Электрогенератор Huter DY3000LX</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104085.93</price>
+        <cityprice cityId="615420100">104085.93</cityprice>
+    </offer>
+    <offer sku="1625328">
+      <model>Электрогенератор Mateus MS01111</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>745558.9</price>
+        <cityprice cityId="615420100">745558.9</cityprice>
+    </offer>
+    <offer sku="1625279">
+      <model>Электрогенератор ЗУБР ЗЭСБ-2200</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232915.83</price>
+        <cityprice cityId="615420100">232915.83</cityprice>
+    </offer>
+    <offer sku="4495714">
+      <model>Генератор инверторный Denzel GT-3200iSE 94703</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>289489.86</price>
+        <cityprice cityId="615420100">289489.86</cityprice>
+    </offer>
+    <offer sku="1625343">
+      <model>Электрогенератор СИБРТЕХ БС-8000 94547</model>
+      <brand>СИБРТЕХ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>196556.7</price>
+        <cityprice cityId="615420100">196556.7</cityprice>
+    </offer>
+    <offer sku="814815">
+      <model>Электрогенератор Mateus MS01106</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>190686.87</price>
+        <cityprice cityId="615420100">190686.87</cityprice>
+    </offer>
+    <offer sku="10790056">
+      <model>Электрогенератор Эксперт ГБР-5000</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135545.48</price>
+        <cityprice cityId="615420100">135545.48</cityprice>
+    </offer>
+    <offer sku="10790069">
+      <model>Электрогенератор Зубр СБА-7000</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>379734.01</price>
+        <cityprice cityId="615420100">379734.01</cityprice>
+    </offer>
+    <offer sku="1625821">
+      <model>Электрогенератор Mateus 6.5GFE MS01106</model>
+      <brand>Mateus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222789.62</price>
+        <cityprice cityId="615420100">222789.62</cityprice>
+    </offer>
+    <offer sku="1625687">
+      <model>Электрогенератор Ресанта БГ 4000 Э</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163366.14</price>
+        <cityprice cityId="615420100">163366.14</cityprice>
+    </offer>
+    <offer sku="1625347">
+      <model>Электрогенератор ЗУБР ЗИГ-3500</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>337287.3</price>
+        <cityprice cityId="615420100">337287.3</cityprice>
+    </offer>
+    <offer sku="1625767">
+      <model>Электрогенератор Huter DY6500LXA</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>332961.75</price>
+        <cityprice cityId="615420100">332961.75</cityprice>
+    </offer>
+    <offer sku="1625246">
+      <model>Электрогенератор ЗУБР ЗЭСБ-5500</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>273844.56</price>
+        <cityprice cityId="615420100">273844.56</cityprice>
+    </offer>
+    <offer sku="10793350">
+      <model>Электрогенератор Steher GS-6500Е</model>
+      <brand>Steher</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>275534.96</price>
+        <cityprice cityId="615420100">275534.96</cityprice>
+    </offer>
+    <offer sku="3407046">
+      <model>Болгарка Makita 9565CVR</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41220.19</price>
+        <cityprice cityId="615420100">41220.19</cityprice>
+    </offer>
+    <offer sku="12282418">
+      <model>Валик малярный Alamn &quot;Для лаков&quot;, 230х48 мм</model>
+      <brand>Alamn</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1482.03</price>
+        <cityprice cityId="615420100">1482.03</cityprice>
+    </offer>
+    <offer sku="12167459">
+      <model>Резчик швов Husqvarna FS413 арт.965 15 01-02</model>
+      <brand>Husqvarna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1679634</price>
+        <cityprice cityId="615420100">1679634</cityprice>
+    </offer>
+    <offer sku="889137">
+      <model>Бензиновый генератор Alteco AGG-11000 TЕ</model>
+      <brand>Alteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>526120.65</price>
+        <cityprice cityId="615420100">526120.65</cityprice>
+    </offer>
+    <offer sku="12208618">
+      <model>Лоток для бумаги Brauberg Standard+ 237226 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2040.26</price>
+        <cityprice cityId="615420100">2040.26</cityprice>
+    </offer>
+    <offer sku="12208621">
+      <model>Лоток для бумаги Brauberg Maxi 231051 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2371.25</price>
+        <cityprice cityId="615420100">2371.25</cityprice>
+    </offer>
+    <offer sku="12208626">
+      <model>Лоток для бумаги Brauberg Delta 237264 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106830.65</price>
+        <cityprice cityId="615420100">106830.65</cityprice>
+    </offer>
+    <offer sku="12208628">
+      <model>Лоток для бумаги Brauberg Office style 237287 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86642.44</price>
+        <cityprice cityId="615420100">86642.44</cityprice>
+    </offer>
+    <offer sku="12208631">
+      <model>Лоток для бумаги Brauberg Delta 237242 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2321.85</price>
+        <cityprice cityId="615420100">2321.85</cityprice>
+    </offer>
+    <offer sku="12208649">
+      <model>Лоток для бумаги Brauberg Office 237260 3 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7508.95</price>
+        <cityprice cityId="615420100">7508.95</cityprice>
+    </offer>
+    <offer sku="12208696">
+      <model>Кресло руководителя Nowy Styl Vip Exstra PU01, черно-коричневое</model>
+      <brand>Nowy Styl</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>233178.65</price>
+        <cityprice cityId="615420100">233178.65</cityprice>
+    </offer>
+    <offer sku="12208748">
+      <model>Лоток для бумаги Staff Profit 237272 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5623.81</price>
+        <cityprice cityId="615420100">5623.81</cityprice>
+    </offer>
+    <offer sku="12208752">
+      <model>Лоток для бумаги Staff Profit 237252 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2415.71</price>
+        <cityprice cityId="615420100">2415.71</cityprice>
+    </offer>
+    <offer sku="12208759">
+      <model>Лоток для бумаги Staff Profit 237250 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>867.48</price>
+        <cityprice cityId="615420100">867.48</cityprice>
+    </offer>
+    <offer sku="12208762">
+      <model>Лоток для бумаги Staff Profit 237270 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71428.91</price>
+        <cityprice cityId="615420100">71428.91</cityprice>
+    </offer>
+    <offer sku="12208766">
+      <model>Лоток для бумаги Staff Profit 237269 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1773.5</price>
+        <cityprice cityId="615420100">1773.5</cityprice>
+    </offer>
+    <offer sku="12208768">
+      <model>Лоток для бумаги Staff Profit 237251 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24581.94</price>
+        <cityprice cityId="615420100">24581.94</cityprice>
+    </offer>
+    <offer sku="12208771">
+      <model>Лоток для бумаги Staff Profit 237273 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5565.52</price>
+        <cityprice cityId="615420100">5565.52</cityprice>
+    </offer>
+    <offer sku="12208787">
+      <model>Монтажная пена Tytan STD Эрго всесезонная, 750 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2438.43</price>
+        <cityprice cityId="615420100">2438.43</cityprice>
+    </offer>
+    <offer sku="12208809">
+      <model>Лоток для бумаги Стамм Актив ЛТ510 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49095.7</price>
+        <cityprice cityId="615420100">49095.7</cityprice>
+    </offer>
+    <offer sku="12208818">
+      <model>Лоток для бумаги Стамм Эксперт-эконом ОФ444 3 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2141.04</price>
+        <cityprice cityId="615420100">2141.04</cityprice>
+    </offer>
+    <offer sku="12208821">
+      <model>Лоток для бумаги Стамм Люкс ОФ888 3 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65979.98</price>
+        <cityprice cityId="615420100">65979.98</cityprice>
+    </offer>
+    <offer sku="12208829">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ705 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1551.19</price>
+        <cityprice cityId="615420100">1551.19</cityprice>
+    </offer>
+    <offer sku="12208834">
+      <model>Лоток для бумаги Стамм Филд ЛТ801 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5224.65</price>
+        <cityprice cityId="615420100">5224.65</cityprice>
+    </offer>
+    <offer sku="12208845">
+      <model>Лоток для бумаги Стамм Эксперт ЛТ202 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136079.01</price>
+        <cityprice cityId="615420100">136079.01</cityprice>
+    </offer>
+    <offer sku="12208846">
+      <model>Лоток для бумаги Стамм Эксперт ЛТ204 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4197.11</price>
+        <cityprice cityId="615420100">4197.11</cityprice>
+    </offer>
+    <offer sku="12208848">
+      <model>Лоток для бумаги Стамм Эксперт ЛТ203 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60388.77</price>
+        <cityprice cityId="615420100">60388.77</cityprice>
+    </offer>
+    <offer sku="12208854">
+      <model>Лоток для бумаги Стамм Люкс ЛТ64 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110276.86</price>
+        <cityprice cityId="615420100">110276.86</cityprice>
+    </offer>
+    <offer sku="12208858">
+      <model>Лоток для бумаги Стамм Люкс ЛТ610 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62493.25</price>
+        <cityprice cityId="615420100">62493.25</cityprice>
+    </offer>
+    <offer sku="12208861">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ716 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57560.07</price>
+        <cityprice cityId="615420100">57560.07</cityprice>
+    </offer>
+    <offer sku="12208864">
+      <model>Плита Проммаш ПЭ-0,48 ШУП, 4-х конфорочная</model>
+      <brand>Проммаш</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>363907.53</price>
+        <cityprice cityId="615420100">363907.53</cityprice>
+    </offer>
+    <offer sku="12208869">
+      <model>Лоток для бумаги Стамм Респект ЛТ144 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68478.68</price>
+        <cityprice cityId="615420100">68478.68</cityprice>
+    </offer>
+    <offer sku="12208873">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ709 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57013.69</price>
+        <cityprice cityId="615420100">57013.69</cityprice>
+    </offer>
+    <offer sku="12208880">
+      <model>Лоток для бумаги Стамм Лидер ЛТ121 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108032.08</price>
+        <cityprice cityId="615420100">108032.08</cityprice>
+    </offer>
+    <offer sku="12208884">
+      <model>Лоток для бумаги Стамм Респект-эконом ОФ111 5 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7736.2</price>
+        <cityprice cityId="615420100">7736.2</cityprice>
+    </offer>
+    <offer sku="12208888">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ704 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56216.36</price>
+        <cityprice cityId="615420100">56216.36</cityprice>
+    </offer>
+    <offer sku="12208898">
+      <model>Лоток для бумаги Стамм Strong ЛТ111 3 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5607.01</price>
+        <cityprice cityId="615420100">5607.01</cityprice>
+    </offer>
+    <offer sku="12208901">
+      <model>Лоток для бумаги Стамм Лидер ЛТ125 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4937.14</price>
+        <cityprice cityId="615420100">4937.14</cityprice>
+    </offer>
+    <offer sku="12208908">
+      <model>Плита Проммаш ПЭ-0,48ШБ 4-х конфорочная</model>
+      <brand>Проммаш</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>569801.01</price>
+        <cityprice cityId="615420100">569801.01</cityprice>
+    </offer>
+    <offer sku="12208914">
+      <model>Лоток для бумаги Стамм Актив ЛТ511 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3951.09</price>
+        <cityprice cityId="615420100">3951.09</cityprice>
+    </offer>
+    <offer sku="12208917">
+      <model>Лоток для бумаги Стамм Стандарт ЛТ21 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41734.95</price>
+        <cityprice cityId="615420100">41734.95</cityprice>
+    </offer>
+    <offer sku="12208921">
+      <model>Саморез кровельный Центр крепежа 5.5х19 RAL3005, 1 шт</model>
+      <brand>Центр Крепежа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13.82</price>
+        <cityprice cityId="615420100">13.82</cityprice>
+    </offer>
+    <offer sku="12208928">
+      <model>Саморез кровельный Центр крепежа 5.5х19 RAL9016 Транспортный белый, 1 шт</model>
+      <brand>Центр Крепежа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11.86</price>
+        <cityprice cityId="615420100">11.86</cityprice>
+    </offer>
+    <offer sku="12208932">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ720 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1921.7</price>
+        <cityprice cityId="615420100">1921.7</cityprice>
+    </offer>
+    <offer sku="12208937">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ702 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48395.2</price>
+        <cityprice cityId="615420100">48395.2</cityprice>
+    </offer>
+    <offer sku="12208947">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ707 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2242.81</price>
+        <cityprice cityId="615420100">2242.81</cityprice>
+    </offer>
+    <offer sku="12208950">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ708 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49161.9</price>
+        <cityprice cityId="615420100">49161.9</cityprice>
+    </offer>
+    <offer sku="12208956">
+      <model>Лоток для бумаги Стамм Сити ЛТ561 3 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93614.9</price>
+        <cityprice cityId="615420100">93614.9</cityprice>
+    </offer>
+    <offer sku="12208959">
+      <model>Лоток для бумаги Стамм Фаворит ЛТ703 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56715.31</price>
+        <cityprice cityId="615420100">56715.31</cityprice>
+    </offer>
+    <offer sku="12208966">
+      <model>Лоток для бумаги Стамм XXL ОФ333 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4385.82</price>
+        <cityprice cityId="615420100">4385.82</cityprice>
+    </offer>
+    <offer sku="12208990">
+      <model>Лоток для бумаги Стамм 1 в 1 ЛТ151 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63321.21</price>
+        <cityprice cityId="615420100">63321.21</cityprice>
+    </offer>
+    <offer sku="12209033">
+      <model>Лоток для бумаги Стамм Люкс ЛТ613 2 шт</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80156.09</price>
+        <cityprice cityId="615420100">80156.09</cityprice>
+    </offer>
+    <offer sku="12209043">
+      <model>Лоток для бумаги Han НА955/0/11</model>
+      <brand>HAN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28178.33</price>
+        <cityprice cityId="615420100">28178.33</cityprice>
+    </offer>
+    <offer sku="12209045">
+      <model>Лоток для бумаги Han НА855/0/11</model>
+      <brand>HAN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29705.81</price>
+        <cityprice cityId="615420100">29705.81</cityprice>
+    </offer>
+    <offer sku="12209049">
+      <model>Лоток для бумаги Han НА956/11</model>
+      <brand>HAN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74659.73</price>
+        <cityprice cityId="615420100">74659.73</cityprice>
+    </offer>
+    <offer sku="12209056">
+      <model>Лоток для бумаги Han НА956/0/11</model>
+      <brand>HAN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36329.5</price>
+        <cityprice cityId="615420100">36329.5</cityprice>
+    </offer>
+    <offer sku="12209058">
+      <model>Лоток для бумаги Han НА956/0/1/11</model>
+      <brand>HAN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>215073.18</price>
+        <cityprice cityId="615420100">215073.18</cityprice>
+    </offer>
+    <offer sku="12209059">
+      <model>Лоток для бумаги Esselte Vivida 21440 2 шт</model>
+      <brand>Esselte</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2391.01</price>
+        <cityprice cityId="615420100">2391.01</cityprice>
+    </offer>
+    <offer sku="12209065">
+      <model>Лоток для бумаги Esselte Vivida 623935 2 шт</model>
+      <brand>Esselte</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2522.42</price>
+        <cityprice cityId="615420100">2522.42</cityprice>
+    </offer>
+    <offer sku="12209083">
+      <model>Лоток для бумаги B-White 1С50</model>
+      <brand>B-White</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5959.74</price>
+        <cityprice cityId="615420100">5959.74</cityprice>
+    </offer>
+    <offer sku="12209087">
+      <model>Лоток для бумаги B-White 4С143</model>
+      <brand>B-White</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4031.12</price>
+        <cityprice cityId="615420100">4031.12</cityprice>
+    </offer>
+    <offer sku="12209125">
+      <model>Лоток для бумаги Hatber 222974</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1284.43</price>
+        <cityprice cityId="615420100">1284.43</cityprice>
+    </offer>
+    <offer sku="103050">
+      <model>Турникет ТОО &quot;JB Foods&quot; MS-1 СКУД с тревожной кнопкой</model>
+      <brand>ТОО &quot;JB Foods&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2519451.99</price>
+        <cityprice cityId="615420100">2519451.99</cityprice>
+    </offer>
+    <offer sku="12209148">
+      <model>Автоматические телефонные станции Fortinet FVE-50E6</model>
+      <brand>Fortinet</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2774879.86</price>
+        <cityprice cityId="615420100">2774879.86</cityprice>
+    </offer>
+    <offer sku="12209258">
+      <model>Гладильный пресс Mie Romeo III 380626 белый</model>
+      <brand>Mie</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296494.92</price>
+        <cityprice cityId="615420100">296494.92</cityprice>
+    </offer>
+    <offer sku="12209338">
+      <model>Набор автомобильный TavsMetla TM-S142 142 предмета</model>
+      <brand>TavsMetla</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64873.39</price>
+        <cityprice cityId="615420100">64873.39</cityprice>
+    </offer>
+    <offer sku="12209383">
+      <model>Станция эвакуации фреона Value VRR24L OS</model>
+      <brand>Value</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>574039.62</price>
+        <cityprice cityId="615420100">574039.62</cityprice>
+    </offer>
+    <offer sku="12209444">
+      <model>Вафельница Eko-Kitchen HCB-1 серебристая</model>
+      <brand>Eko-Kitchen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>986235.64</price>
+        <cityprice cityId="615420100">986235.64</cityprice>
+    </offer>
+    <offer sku="12209447">
+      <model>Вафельница Eko-Kitchen HWB-2S серебристая</model>
+      <brand>Eko-Kitchen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246896.32</price>
+        <cityprice cityId="615420100">246896.32</cityprice>
+    </offer>
+    <offer sku="12209456">
+      <model>Вафельница Eko-Kitchen HWB-1 серебристая</model>
+      <brand>Eko-Kitchen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123995.52</price>
+        <cityprice cityId="615420100">123995.52</cityprice>
+    </offer>
+    <offer sku="128266">
+      <model>Вафельница Remta W32 серебристая</model>
+      <brand>Remta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177843.6</price>
+        <cityprice cityId="615420100">177843.6</cityprice>
+    </offer>
+    <offer sku="12209560">
+      <model>Компьютерное кресло IKEA Утеспеларе 30507620, бумстад серый</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>154699.23</price>
+        <cityprice cityId="615420100">154699.23</cityprice>
+    </offer>
+    <offer sku="12209566">
+      <model>Компьютерное кресло IKEA Утеспеларе 30507615, бумстад черный</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140879.8</price>
+        <cityprice cityId="615420100">140879.8</cityprice>
+    </offer>
+    <offer sku="12209606">
+      <model>Клей Супер Еврогарант 12/288, 3 гр</model>
+      <brand>Еврогарант</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290.48</price>
+        <cityprice cityId="615420100">290.48</cityprice>
+    </offer>
+    <offer sku="12209619">
+      <model>Клей ПВА Brauberg 600983, 1 кг 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2202.3</price>
+        <cityprice cityId="615420100">2202.3</cityprice>
+    </offer>
+    <offer sku="12209631">
+      <model>Клей Staff ПВА 220365, 85 гр 10 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>518.71</price>
+        <cityprice cityId="615420100">518.71</cityprice>
+    </offer>
+    <offer sku="12209633">
+      <model>Клей ПВА Brauberg 225209, 45 гр 10 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>311.23</price>
+        <cityprice cityId="615420100">311.23</cityprice>
+    </offer>
+    <offer sku="12209716">
+      <model>Клей канцелярский Звезда КЛ-01, 12 мл 5 шт</model>
+      <brand>Звезда</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2727.92</price>
+        <cityprice cityId="615420100">2727.92</cityprice>
+    </offer>
+    <offer sku="12209732">
+      <model>Клей ПВА Staff 606433, 2.3 кг 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8529.58</price>
+        <cityprice cityId="615420100">8529.58</cityprice>
+    </offer>
+    <offer sku="12209739">
+      <model>Клей ПВА Бизнесменю 227386, 125 гр 10 шт</model>
+      <brand>Бизнесменю</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>301.35</price>
+        <cityprice cityId="615420100">301.35</cityprice>
+    </offer>
+    <offer sku="12209746">
+      <model>Картографическая бумага Гознак марки Б</model>
+      <brand>Гознак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2559.96</price>
+        <cityprice cityId="615420100">2559.96</cityprice>
+    </offer>
+    <offer sku="12209750">
+      <model>Клей канцелярский Dr.Fan 123031, 250 мл</model>
+      <brand>Dr.Fan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484.13</price>
+        <cityprice cityId="615420100">484.13</cityprice>
+    </offer>
+    <offer sku="12209776">
+      <model>Клей ПВА Staff Basic 227387, 125 гр 11 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>196.62</price>
+        <cityprice cityId="615420100">196.62</cityprice>
+    </offer>
+    <offer sku="12209789">
+      <model>Клей канцелярский Brauberg 221020, 50 мл 13 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>401.14</price>
+        <cityprice cityId="615420100">401.14</cityprice>
+    </offer>
+    <offer sku="12209795">
+      <model>Статуэтка ТОО &quot;Адемі Ай plus&quot; Адемі Ай &quot;Кобыз&quot;</model>
+      <brand>Адемі Ай</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13392.61</price>
+        <cityprice cityId="615420100">13392.61</cityprice>
+    </offer>
+    <offer sku="12209796">
+      <model>Клей канцелярский Офисмаг 228410, 50 мл 8 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193.65</price>
+        <cityprice cityId="615420100">193.65</cityprice>
+    </offer>
+    <offer sku="12209801">
+      <model>Клей ПВА Brauberg 222925, 125 гр 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>348.77</price>
+        <cityprice cityId="615420100">348.77</cityprice>
+    </offer>
+    <offer sku="12209813">
+      <model>Клей Bostik Blu Tack, 75 гр</model>
+      <brand>Bostik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>457.45</price>
+        <cityprice cityId="615420100">457.45</cityprice>
+    </offer>
+    <offer sku="12209833">
+      <model>Портативный тактильный дисплей Брайля Freedom Scientific Брайля Freedom Scientific Focus 40 Blue V, с беспроводной технологией Bluetooth</model>
+      <brand>Freedom Scientific</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2396550.2</price>
+        <cityprice cityId="615420100">2396550.2</cityprice>
+    </offer>
+    <offer sku="12209838">
+      <model>Клей ПВА Юнландия 227381, 85 гр 13 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9480.05</price>
+        <cityprice cityId="615420100">9480.05</cityprice>
+    </offer>
+    <offer sku="12209842">
+      <model>Клей ПВА Офисмаг 225760, 40 гр 15 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>446.59</price>
+        <cityprice cityId="615420100">446.59</cityprice>
+    </offer>
+    <offer sku="12209857">
+      <model>Клей канцелярский Erich Krause 2877, 50 мл 5 шт</model>
+      <brand>Erich Krause</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2672.59</price>
+        <cityprice cityId="615420100">2672.59</cityprice>
+    </offer>
+    <offer sku="12209860">
+      <model>Шкаф детский ТОО &quot;Компания &quot;Жақсылық-2006&quot;, 5-ти секционный, мультиколор</model>
+      <brand>ТОО &quot;Компания &quot;Жақсылық-2006&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121526.46</price>
+        <cityprice cityId="615420100">121526.46</cityprice>
+    </offer>
+    <offer sku="12209862">
+      <model>Клей канцелярский Brauberg 228407, 70 мл 10 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95418.03</price>
+        <cityprice cityId="615420100">95418.03</cityprice>
+    </offer>
+    <offer sku="12209868">
+      <model>Клей канцелярский Brauberg 227535, 50 мл 10 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192.66</price>
+        <cityprice cityId="615420100">192.66</cityprice>
+    </offer>
+    <offer sku="12209880">
+      <model>Штангенциркуль ЧИЗ ШЦЦ-1-300 0.01, 300 мм</model>
+      <brand>ЧИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5599.95</price>
+        <cityprice cityId="615420100">5599.95</cityprice>
+    </offer>
+    <offer sku="12209882">
+      <model>Штангенциркуль ЧИЗ ШЦ-3-500 0.1, губки 100 мм, 500 мм</model>
+      <brand>ЧИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127156.21</price>
+        <cityprice cityId="615420100">127156.21</cityprice>
+    </offer>
+    <offer sku="12209886">
+      <model>Клей канцелярский Звезда КЛ-01БА, 12 мл</model>
+      <brand>Звезда</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>432.75</price>
+        <cityprice cityId="615420100">432.75</cityprice>
+    </offer>
+    <offer sku="12209887">
+      <model>Штангенциркуль ЧИЗ ШЦЦ-1-250 0.01, 250 мм</model>
+      <brand>ЧИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123039.22</price>
+        <cityprice cityId="615420100">123039.22</cityprice>
+    </offer>
+    <offer sku="12209893">
+      <model>Штангенциркуль ЧИЗ ШЦ-3-400 0.1, губки 100 мм, 400 мм</model>
+      <brand>ЧИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90966.01</price>
+        <cityprice cityId="615420100">90966.01</cityprice>
+    </offer>
+    <offer sku="12209898">
+      <model>Клей ПВА Юнландия 227382, 125 гр 10 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>423.86</price>
+        <cityprice cityId="615420100">423.86</cityprice>
+    </offer>
+    <offer sku="12209899">
+      <model>Штангенциркуль ЧИЗ ШЦ-II-200-0,05, длина губок 60мм</model>
+      <brand>ЧИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58596.5</price>
+        <cityprice cityId="615420100">58596.5</cityprice>
+    </offer>
+    <offer sku="12209904">
+      <model>Штангенциркуль ЧИЗ ШЦ-I-150-0,05, длина губок 40 мм</model>
+      <brand>ЧИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25934.54</price>
+        <cityprice cityId="615420100">25934.54</cityprice>
+    </offer>
+    <offer sku="12209906">
+      <model>Штангенциркуль ЧИЗ ШЦ-1-200 0,05</model>
+      <brand>ЧИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34230.45</price>
+        <cityprice cityId="615420100">34230.45</cityprice>
+    </offer>
+    <offer sku="12209907">
+      <model>Клей ПВА Brauberg 222875, 20 гр 10 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4111.15</price>
+        <cityprice cityId="615420100">4111.15</cityprice>
+    </offer>
+    <offer sku="12209920">
+      <model>Лоток для бумаги ТоргПром Ажур</model>
+      <brand>ТоргПром</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1919.72</price>
+        <cityprice cityId="615420100">1919.72</cityprice>
+    </offer>
+    <offer sku="12209923">
+      <model>Лоток для бумаги ТоргПром Бухгалтер</model>
+      <brand>ТоргПром</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2223.92</price>
+        <cityprice cityId="615420100">2223.92</cityprice>
+    </offer>
+    <offer sku="12209931">
+      <model>Настольный органайзер ТоргПром Модульный</model>
+      <brand>ТоргПром</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1887.12</price>
+        <cityprice cityId="615420100">1887.12</cityprice>
+    </offer>
+    <offer sku="12209941">
+      <model>Нивелир цифровой Leica LS10</model>
+      <brand>Leica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7539871.79</price>
+        <cityprice cityId="615420100">7539871.79</cityprice>
+    </offer>
+    <offer sku="12209959">
+      <model>Клей канцелярский Сила BL-1, 15 мл</model>
+      <brand>Сила</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>441.64</price>
+        <cityprice cityId="615420100">441.64</cityprice>
+    </offer>
+    <offer sku="12209966">
+      <model>Бумага для заметок Офисмаг 127797 3 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>711.37</price>
+        <cityprice cityId="615420100">711.37</cityprice>
+    </offer>
+    <offer sku="12209969">
+      <model>Клей ПВА Гвардия 227385, 125 гр 10 шт</model>
+      <brand>Гвардия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95467.43</price>
+        <cityprice cityId="615420100">95467.43</cityprice>
+    </offer>
+    <offer sku="12209978">
+      <model>Бумага для заметок Офисмаг 124444 2 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2051.15</price>
+        <cityprice cityId="615420100">2051.15</cityprice>
+    </offer>
+    <offer sku="12209981">
+      <model>Клей канцелярский Офисмаг 225941, 65 гр 10 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9880.2</price>
+        <cityprice cityId="615420100">9880.2</cityprice>
+    </offer>
+    <offer sku="12209989">
+      <model>Бумага для заметок Офисмаг 127801 3 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>488.08</price>
+        <cityprice cityId="615420100">488.08</cityprice>
+    </offer>
+    <offer sku="12209992">
+      <model>Бумага для заметок Офисмаг 123019 2 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>995.92</price>
+        <cityprice cityId="615420100">995.92</cityprice>
+    </offer>
+    <offer sku="12209994">
+      <model>Бумага для заметок Офисмаг 127799 2 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1465.24</price>
+        <cityprice cityId="615420100">1465.24</cityprice>
+    </offer>
+    <offer sku="12209995">
+      <model>Клей ПВА Staff 606431, 1 кг 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>542.42</price>
+        <cityprice cityId="615420100">542.42</cityprice>
+    </offer>
+    <offer sku="12209997">
+      <model>Бумага для заметок Офисмаг 127798 2 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>958.48</price>
+        <cityprice cityId="615420100">958.48</cityprice>
+    </offer>
+    <offer sku="12209999">
+      <model>Бумага для заметок Офисмаг 125908 4 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>666.91</price>
+        <cityprice cityId="615420100">666.91</cityprice>
+    </offer>
+    <offer sku="12210000">
+      <model>Бумага для заметок Офисмаг 127800 4 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>403.11</price>
+        <cityprice cityId="615420100">403.11</cityprice>
+    </offer>
+    <offer sku="12210004">
+      <model>Бумага для заметок Staff 129197 8 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>355.05</price>
+        <cityprice cityId="615420100">355.05</cityprice>
+    </offer>
+    <offer sku="12210007">
+      <model>Бумага для заметок Staff 126574 9 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2020.83</price>
+        <cityprice cityId="615420100">2020.83</cityprice>
+    </offer>
+    <offer sku="12210014">
+      <model>Бумага для заметок Staff Пастельный 129348 4 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>405.92</price>
+        <cityprice cityId="615420100">405.92</cityprice>
+    </offer>
+    <offer sku="12210016">
+      <model>Бумага для заметок Staff 129193 4 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>843.77</price>
+        <cityprice cityId="615420100">843.77</cityprice>
+    </offer>
+    <offer sku="12210019">
+      <model>Бумага для заметок Staff 120383 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>613.56</price>
+        <cityprice cityId="615420100">613.56</cityprice>
+    </offer>
+    <offer sku="12210022">
+      <model>Бумага для заметок Staff 129196 6 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>584.91</price>
+        <cityprice cityId="615420100">584.91</cityprice>
+    </offer>
+    <offer sku="12210024">
+      <model>Бумага для заметок Staff 126496 11 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>371.5</price>
+        <cityprice cityId="615420100">371.5</cityprice>
+    </offer>
+    <offer sku="12210028">
+      <model>Бумага для заметок Staff 129357 8 шт</model>
+      <brand>  Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>307.27</price>
+        <cityprice cityId="615420100">307.27</cityprice>
+    </offer>
+    <offer sku="12210031">
+      <model>Бумага для заметок Staff Неоновые 129354 5 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>282.57</price>
+        <cityprice cityId="615420100">282.57</cityprice>
+    </offer>
+    <offer sku="12210034">
+      <model>Бумага для заметок Staff 129204 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1733.98</price>
+        <cityprice cityId="615420100">1733.98</cityprice>
+    </offer>
+    <offer sku="12210037">
+      <model>Бумага для заметок Staff 129200 4 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>593.8</price>
+        <cityprice cityId="615420100">593.8</cityprice>
+    </offer>
+    <offer sku="12210038">
+      <model>Бумага для заметок Staff 129362 11 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1730.02</price>
+        <cityprice cityId="615420100">1730.02</cityprice>
+    </offer>
+    <offer sku="12210043">
+      <model>Бумага для заметок Staff Пастельный 129344 10 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175.87</price>
+        <cityprice cityId="615420100">175.87</cityprice>
+    </offer>
+    <offer sku="12210045">
+      <model>Бумага для заметок Staff 127147 15 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1543.49</price>
+        <cityprice cityId="615420100">1543.49</cityprice>
+    </offer>
+    <offer sku="12210047">
+      <model>Бумага для заметок Staff 129355 12 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112.63</price>
+        <cityprice cityId="615420100">112.63</cityprice>
+    </offer>
+    <offer sku="12210050">
+      <model>Бумага для заметок Staff 127144 15 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>983.08</price>
+        <cityprice cityId="615420100">983.08</cityprice>
+    </offer>
+    <offer sku="12210053">
+      <model>Бумага для заметок Staff 129361 6 шт</model>
+      <brand>  Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>173.89</price>
+        <cityprice cityId="615420100">173.89</cityprice>
+    </offer>
+    <offer sku="12210054">
+      <model>Бумага для заметок Staff 111980 4 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>813.14</price>
+        <cityprice cityId="615420100">813.14</cityprice>
+    </offer>
+    <offer sku="12210058">
+      <model>Бумага для заметок Staff 111979 11 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>805.24</price>
+        <cityprice cityId="615420100">805.24</cityprice>
+    </offer>
+    <offer sku="325548">
+      <model>Бумага для заметок Staff 126575 5 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>805.24</price>
+        <cityprice cityId="615420100">805.24</cityprice>
+    </offer>
+    <offer sku="12210064">
+      <model>Бумага для заметок Staff Неоновый 129351</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>233.77</price>
+        <cityprice cityId="615420100">233.77</cityprice>
+    </offer>
+    <offer sku="12210065">
+      <model>Бумага для заметок Staff 129208 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>973.24</price>
+        <cityprice cityId="615420100">973.24</cityprice>
+    </offer>
+    <offer sku="12210067">
+      <model>Бумага для заметок Staff Неоновые Стрелки 111355 9 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121.53</price>
+        <cityprice cityId="615420100">121.53</cityprice>
+    </offer>
+    <offer sku="12210069">
+      <model>Клей канцелярский Сила SUTB-30, 30 мл</model>
+      <brand>Сила</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>330.99</price>
+        <cityprice cityId="615420100">330.99</cityprice>
+    </offer>
+    <offer sku="12210070">
+      <model>Бумага для заметок Staff 127145 5 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>594.79</price>
+        <cityprice cityId="615420100">594.79</cityprice>
+    </offer>
+    <offer sku="12210074">
+      <model>Бумага для заметок Staff 126367 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1066.07</price>
+        <cityprice cityId="615420100">1066.07</cityprice>
+    </offer>
+    <offer sku="12210078">
+      <model>Бумага для заметок Staff 120382 4 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>818.08</price>
+        <cityprice cityId="615420100">818.08</cityprice>
+    </offer>
+    <offer sku="12210079">
+      <model>Бумага для заметок Staff Неоновый 129349 2 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>709.14</price>
+        <cityprice cityId="615420100">709.14</cityprice>
+    </offer>
+    <offer sku="12210081">
+      <model>Клей ПВА Лайма 606430, 0.5 кг 2 шт</model>
+      <brand>Лайма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3748.55</price>
+        <cityprice cityId="615420100">3748.55</cityprice>
+    </offer>
+    <offer sku="12210084">
+      <model>Бумага для заметок Staff Неоновые 127148 9 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78.05</price>
+        <cityprice cityId="615420100">78.05</cityprice>
+    </offer>
+    <offer sku="12210086">
+      <model>Бумага для заметок Staff Неоновые Стрелки 129358 6 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55354.81</price>
+        <cityprice cityId="615420100">55354.81</cityprice>
+    </offer>
+    <offer sku="12210089">
+      <model>Бумага для заметок Staff 129198 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>519.38</price>
+        <cityprice cityId="615420100">519.38</cityprice>
+    </offer>
+    <offer sku="12210092">
+      <model>Бумага для заметок Staff 129353 7 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62228.46</price>
+        <cityprice cityId="615420100">62228.46</cityprice>
+    </offer>
+    <offer sku="12210100">
+      <model>Газированный напиток Sunbel Тархун 1 л</model>
+      <brand>Sunbel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1175.74</price>
+        <cityprice cityId="615420100">1175.74</cityprice>
+    </offer>
+    <offer sku="12210134">
+      <model>Бумага для заметок Staff 111982 3 упаковки</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1456.34</price>
+        <cityprice cityId="615420100">1456.34</cityprice>
+    </offer>
+    <offer sku="12210136">
+      <model>Клей канцелярский Юнландия 228409, 50 мл 7 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3151.78</price>
+        <cityprice cityId="615420100">3151.78</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
