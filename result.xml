@@ -4791,5 +4791,2822 @@
       <price>3151.78</price>
         <cityprice cityId="615420100">3151.78</cityprice>
     </offer>
+    <offer sku="12210138">
+      <model>Бумага для заметок Staff 127142 100 л, 15 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>822.61</price>
+        <cityprice cityId="615420100">822.61</cityprice>
+    </offer>
+    <offer sku="12210140">
+      <model>Бумага для заметок Staff 126365 5 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>716.31</price>
+        <cityprice cityId="615420100">716.31</cityprice>
+    </offer>
+    <offer sku="12210143">
+      <model>Бумага для заметок Staff 126364 6 упаковок</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2157.84</price>
+        <cityprice cityId="615420100">2157.84</cityprice>
+    </offer>
+    <offer sku="12210147">
+      <model>Бумага для заметок Staff 127146 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>434.28</price>
+        <cityprice cityId="615420100">434.28</cityprice>
+    </offer>
+    <offer sku="12210151">
+      <model>Бумага для заметок Staff 126366 3 упаковки</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1172.78</price>
+        <cityprice cityId="615420100">1172.78</cityprice>
+    </offer>
+    <offer sku="12210152">
+      <model>Клей канцелярский Сила CB011255, 3 гр 12 шт</model>
+      <brand>Сила</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3381.99</price>
+        <cityprice cityId="615420100">3381.99</cityprice>
+    </offer>
+    <offer sku="12210154">
+      <model>Бумага для заметок Staff 126368 7 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484.13</price>
+        <cityprice cityId="615420100">484.13</cityprice>
+    </offer>
+    <offer sku="12210155">
+      <model>Бумага для заметок Staff 129194 4 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>525.63</price>
+        <cityprice cityId="615420100">525.63</cityprice>
+    </offer>
+    <offer sku="12210157">
+      <model>Бумага для заметок Staff 129350 100 л, 11 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1974.06</price>
+        <cityprice cityId="615420100">1974.06</cityprice>
+    </offer>
+    <offer sku="12210158">
+      <model>Бумага для заметок Staff 126497 11 упаковок по 100 листов</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118.56</price>
+        <cityprice cityId="615420100">118.56</cityprice>
+    </offer>
+    <offer sku="12210162">
+      <model>Бумага для заметок Staff 111981 6 упаковок</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1300.23</price>
+        <cityprice cityId="615420100">1300.23</cityprice>
+    </offer>
+    <offer sku="12210168">
+      <model>Бумага для заметок Staff 120384 6 упаковок</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1383.23</price>
+        <cityprice cityId="615420100">1383.23</cityprice>
+    </offer>
+    <offer sku="561426">
+      <model>Клей ПВА Гамма 330005, 20 гр 12 шт</model>
+      <brand>Гамма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>189.7</price>
+        <cityprice cityId="615420100">189.7</cityprice>
+    </offer>
+    <offer sku="12210175">
+      <model>Бумага для заметок Brauberg 129203 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>467.54</price>
+        <cityprice cityId="615420100">467.54</cityprice>
+    </offer>
+    <offer sku="12210179">
+      <model>Бумага для заметок Brauberg 122704 6 упаковок</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>494.01</price>
+        <cityprice cityId="615420100">494.01</cityprice>
+    </offer>
+    <offer sku="12210181">
+      <model>Бумага для заметок Brauberg 129195 3 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>927.75</price>
+        <cityprice cityId="615420100">927.75</cityprice>
+    </offer>
+    <offer sku="12210184">
+      <model>Бумага для заметок Brauberg 126686</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>479.19</price>
+        <cityprice cityId="615420100">479.19</cityprice>
+    </offer>
+    <offer sku="12210187">
+      <model>Бумага для заметок Brauberg 122703 90 л, 6 блоков</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>907.99</price>
+        <cityprice cityId="615420100">907.99</cityprice>
+    </offer>
+    <offer sku="12210191">
+      <model>Клей ПВА Staff 220366, 45 гр 15 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4741.51</price>
+        <cityprice cityId="615420100">4741.51</cityprice>
+    </offer>
+    <offer sku="12210193">
+      <model>Бумага для заметок Brauberg 122730, 2 упаковки по 20 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>578.07</price>
+        <cityprice cityId="615420100">578.07</cityprice>
+    </offer>
+    <offer sku="12210198">
+      <model>Бумага для заметок Brauberg 122692, 11 упаковок по 100 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>327.03</price>
+        <cityprice cityId="615420100">327.03</cityprice>
+    </offer>
+    <offer sku="12210201">
+      <model>Бумага для заметок Brauberg 122698 5 упаковок</model>
+      <brand>Brauberg </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286.53</price>
+        <cityprice cityId="615420100">286.53</cityprice>
+    </offer>
+    <offer sku="12210207">
+      <model>Клей ПВА Юнландия 227380, 65 гр 15 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>353.71</price>
+        <cityprice cityId="615420100">353.71</cityprice>
+    </offer>
+    <offer sku="12210209">
+      <model>Бумага для заметок Brauberg 111345 2 шт</model>
+      <brand>Brauberg </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>964.31</price>
+        <cityprice cityId="615420100">964.31</cityprice>
+    </offer>
+    <offer sku="12210216">
+      <model>Бумага для заметок Brauberg 122700 7 упаковок по 90 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>601.55</price>
+        <cityprice cityId="615420100">601.55</cityprice>
+    </offer>
+    <offer sku="12210219">
+      <model>Бумага для заметок Brauberg 122697, 10 упаковок по 100 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236.14</price>
+        <cityprice cityId="615420100">236.14</cityprice>
+    </offer>
+    <offer sku="12210220">
+      <model>Бумага для заметок Brauberg 122341 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2492.77</price>
+        <cityprice cityId="615420100">2492.77</cityprice>
+    </offer>
+    <offer sku="12210223">
+      <model>Бумага для заметок Brauberg 122339 3 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>488.08</price>
+        <cityprice cityId="615420100">488.08</cityprice>
+    </offer>
+    <offer sku="12210229">
+      <model>Бумага для заметок Brauberg 122223 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1162.02</price>
+        <cityprice cityId="615420100">1162.02</cityprice>
+    </offer>
+    <offer sku="12210230">
+      <model>Клей канцелярский Brauberg 228418, 65 гр 10 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1651.97</price>
+        <cityprice cityId="615420100">1651.97</cityprice>
+    </offer>
+    <offer sku="12210231">
+      <model>Бумага для заметок Brauberg 126688 2 упаковки по 400 л</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6195.87</price>
+        <cityprice cityId="615420100">6195.87</cityprice>
+    </offer>
+    <offer sku="12210235">
+      <model>Бумага для заметок Brauberg 122691 7 упаковок</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>231.81</price>
+        <cityprice cityId="615420100">231.81</cityprice>
+    </offer>
+    <offer sku="12210237">
+      <model>Бумага для заметок Brauberg 127178</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194.64</price>
+        <cityprice cityId="615420100">194.64</cityprice>
+    </offer>
+    <offer sku="12210244">
+      <model>Бумага для заметок Brauberg Неон 111348 6 упаковок</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>327.03</price>
+        <cityprice cityId="615420100">327.03</cityprice>
+    </offer>
+    <offer sku="12210246">
+      <model>Кресло руководителя Metta L 1m 46/K Infinity Easy Clean MPES, черное</model>
+      <brand>Metta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114402.84</price>
+        <cityprice cityId="615420100">114402.84</cityprice>
+    </offer>
+    <offer sku="12210248">
+      <model>Бумага для заметок Brauberg Неоновые 111349 6 упаковок по 90 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>482.15</price>
+        <cityprice cityId="615420100">482.15</cityprice>
+    </offer>
+    <offer sku="12210250">
+      <model>Клей канцелярский Юнландия 227536, 30 мл 12 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2902.8</price>
+        <cityprice cityId="615420100">2902.8</cityprice>
+    </offer>
+    <offer sku="12210251">
+      <model>Бумага для заметок Brauberg 126687</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>640.24</price>
+        <cityprice cityId="615420100">640.24</cityprice>
+    </offer>
+    <offer sku="12210254">
+      <model>Бумага для заметок Brauberg 123233 3 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40216.37</price>
+        <cityprice cityId="615420100">40216.37</cityprice>
+    </offer>
+    <offer sku="12210257">
+      <model>Бумага для заметок Brauberg Яблоко 126693 2 упаковки по 400 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>633.32</price>
+        <cityprice cityId="615420100">633.32</cityprice>
+    </offer>
+    <offer sku="12210262">
+      <model>Бумага для заметок Brauberg 122340 2 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1106.27</price>
+        <cityprice cityId="615420100">1106.27</cityprice>
+    </offer>
+    <offer sku="12210266">
+      <model>Бумага для заметок Brauberg 111350</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>269.73</price>
+        <cityprice cityId="615420100">269.73</cityprice>
+    </offer>
+    <offer sku="12210270">
+      <model>Бумага для заметок Brauberg 129199 3 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1061.13</price>
+        <cityprice cityId="615420100">1061.13</cityprice>
+    </offer>
+    <offer sku="12210273">
+      <model>Бумага для заметок Brauberg 122226 3 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>716.97</price>
+        <cityprice cityId="615420100">716.97</cityprice>
+    </offer>
+    <offer sku="12210278">
+      <model>Бумага для заметок Brauberg 122696 10 упаковок по 100 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>190.73</price>
+        <cityprice cityId="615420100">190.73</cityprice>
+    </offer>
+    <offer sku="12210281">
+      <model>Бумага для заметок Brauberg 129207, 2 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>776.63</price>
+        <cityprice cityId="615420100">776.63</cityprice>
+    </offer>
+    <offer sku="12210285">
+      <model>Бумага для заметок Brauberg 122695 10 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174.88</price>
+        <cityprice cityId="615420100">174.88</cityprice>
+    </offer>
+    <offer sku="12210287">
+      <model>Клей канцелярский Brauberg 225208, 45 гр 12 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2354.45</price>
+        <cityprice cityId="615420100">2354.45</cityprice>
+    </offer>
+    <offer sku="12210289">
+      <model>Бумага для заметок Brauberg 122338 4 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>760.78</price>
+        <cityprice cityId="615420100">760.78</cityprice>
+    </offer>
+    <offer sku="12210292">
+      <model>Бумага для заметок Brauberg 122225 2 упаковки</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2486.85</price>
+        <cityprice cityId="615420100">2486.85</cityprice>
+    </offer>
+    <offer sku="12210296">
+      <model>Бумага для заметок Brauberg 124809 4 упаковки по 50 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2318.88</price>
+        <cityprice cityId="615420100">2318.88</cityprice>
+    </offer>
+    <offer sku="12210308">
+      <model>Клей канцелярский Erich Krause 13937, 50 мл 6 шт</model>
+      <brand>Erich Krause</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2638.01</price>
+        <cityprice cityId="615420100">2638.01</cityprice>
+    </offer>
+    <offer sku="12210311">
+      <model>Бумага для заметок Brauberg 127176 2 шт</model>
+      <brand>Brauberg </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2084.72</price>
+        <cityprice cityId="615420100">2084.72</cityprice>
+    </offer>
+    <offer sku="12210319">
+      <model>Бумага для заметок Brauberg 122857 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>781.52</price>
+        <cityprice cityId="615420100">781.52</cityprice>
+    </offer>
+    <offer sku="12210327">
+      <model>Бумага для заметок Brauberg 124808 5 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>332.47</price>
+        <cityprice cityId="615420100">332.47</cityprice>
+    </offer>
+    <offer sku="12210328">
+      <model>Клей канцелярский Brauberg 228417, 45 гр 12 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4308.76</price>
+        <cityprice cityId="615420100">4308.76</cityprice>
+    </offer>
+    <offer sku="12210330">
+      <model>Бумага для заметок Brauberg Неоновые 111352 2 упаковки по 400 листов</model>
+      <brand>Brauberg </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2811.9</price>
+        <cityprice cityId="615420100">2811.9</cityprice>
+    </offer>
+    <offer sku="12210335">
+      <model>Офисное кресло Metta Samurai KL-1.04, черное</model>
+      <brand>Metta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78537.71</price>
+        <cityprice cityId="615420100">78537.71</cityprice>
+    </offer>
+    <offer sku="136690">
+      <model>Цифровой мультиметр Tdm Electric &quot;МастерЭлектрик&quot; М-832 SQ1005-0002</model>
+      <brand>Tdm Electric</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5730.52</price>
+        <cityprice cityId="615420100">5730.52</cityprice>
+    </offer>
+    <offer sku="243997">
+      <model>Цифровой мультиметр Tdm Electric &quot;МастерЭлектрик&quot; М-830В SQ1005-0001</model>
+      <brand>Tdm Electric</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8622.23</price>
+        <cityprice cityId="615420100">8622.23</cityprice>
+    </offer>
+    <offer sku="12210343">
+      <model>Бумага для заметок Post-it Basic 653R-BY 100 л, 12 шт</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75395.81</price>
+        <cityprice cityId="615420100">75395.81</cityprice>
+    </offer>
+    <offer sku="868323">
+      <model>Бумага для заметок Post-it Эко Тропик 654-5SSNRP 5 упаковок</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>298.38</price>
+        <cityprice cityId="615420100">298.38</cityprice>
+    </offer>
+    <offer sku="12210354">
+      <model>Бумага для заметок Post-it Осень 2028-OPY</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>336.47</price>
+        <cityprice cityId="615420100">336.47</cityprice>
+    </offer>
+    <offer sku="12210359">
+      <model>Бумага для заметок Post-it Basic 2028-BN</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>273.68</price>
+        <cityprice cityId="615420100">273.68</cityprice>
+    </offer>
+    <offer sku="12210364">
+      <model>Раковина Sanita Самарская 57 ВКС, 57,5x44,5x22 см, белая</model>
+      <brand>Sanita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24196.61</price>
+        <cityprice cityId="615420100">24196.61</cityprice>
+    </offer>
+    <offer sku="12210368">
+      <model>Бумага для заметок Post-it Original Конфетти 654-OCFT 22 шт по 100 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9682.6</price>
+        <cityprice cityId="615420100">9682.6</cityprice>
+    </offer>
+    <offer sku="12210369">
+      <model>Клей канцелярский Brauberg 226757, 65 гр 10 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2578.73</price>
+        <cityprice cityId="615420100">2578.73</cityprice>
+    </offer>
+    <offer sku="12210372">
+      <model>Бумага для заметок Post-it Original R330 3 упаковки по 100 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>453.5</price>
+        <cityprice cityId="615420100">453.5</cityprice>
+    </offer>
+    <offer sku="12210377">
+      <model>Бумага для заметок Post-it Original 636-B</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>944.87</price>
+        <cityprice cityId="615420100">944.87</cityprice>
+    </offer>
+    <offer sku="12210380">
+      <model>Бумага для заметок Post-it Original R335 6 упаковок по 100 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38363.83</price>
+        <cityprice cityId="615420100">38363.83</cityprice>
+    </offer>
+    <offer sku="12210386">
+      <model>Унитаз-компакт Santek Бриз 1WH302138, белый</model>
+      <brand>Santek</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44786.95</price>
+        <cityprice cityId="615420100">44786.95</cityprice>
+    </offer>
+    <offer sku="12210415">
+      <model>Бумага для заметок Post-it Original Неоновая радуга CP654-NP24 24 шт по 100 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7410.15</price>
+        <cityprice cityId="615420100">7410.15</cityprice>
+    </offer>
+    <offer sku="12210417">
+      <model>Бумага для заметок Post-it Original Зима 2051-ONV</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>781.52</price>
+        <cityprice cityId="615420100">781.52</cityprice>
+    </offer>
+    <offer sku="12210419">
+      <model>Бумага для заметок Post-it Радуга Плюс 654-RNBW 6 упаковок по 100 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1478.08</price>
+        <cityprice cityId="615420100">1478.08</cityprice>
+    </offer>
+    <offer sku="12210422">
+      <model>Бумага для заметок Post-it Original Весна 2028-ONG 400 л</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>764.73</price>
+        <cityprice cityId="615420100">764.73</cityprice>
+    </offer>
+    <offer sku="12210428">
+      <model>Бумага для заметок Офисная Планета 125909, 4 упаковки</model>
+      <brand>Офисная планета</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46112.87</price>
+        <cityprice cityId="615420100">46112.87</cityprice>
+    </offer>
+    <offer sku="12210430">
+      <model>Клей ПВА Юнландия 227379, 45 гр 15 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139.31</price>
+        <cityprice cityId="615420100">139.31</cityprice>
+    </offer>
+    <offer sku="12210436">
+      <model>Бумага для заметок Стамм Офис БЗ53 3 упаковки</model>
+      <brand>СТАММ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>686.67</price>
+        <cityprice cityId="615420100">686.67</cityprice>
+    </offer>
+    <offer sku="12210438">
+      <model>Клей ПВА Staff Everyday 225176, 150 гр 7 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>330.99</price>
+        <cityprice cityId="615420100">330.99</cityprice>
+    </offer>
+    <offer sku="12210442">
+      <model>Бумага для заметок Стамм ОФ520</model>
+      <brand>СТАММ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>490.06</price>
+        <cityprice cityId="615420100">490.06</cityprice>
+    </offer>
+    <offer sku="12210450">
+      <model>Бумага для заметок Филькина Грамота 100 долларов NH0000013 4 упаковки</model>
+      <brand>Филькина Грамота</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2960.11</price>
+        <cityprice cityId="615420100">2960.11</cityprice>
+    </offer>
+    <offer sku="12210451">
+      <model>Клей ПВА Офисмаг 225761, 125 гр 10 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>250.96</price>
+        <cityprice cityId="615420100">250.96</cityprice>
+    </offer>
+    <offer sku="12210455">
+      <model>Бумага для заметок Филькина Грамота 100 евро NH0000014 4 упаковки</model>
+      <brand>Филькина Грамота</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152.58</price>
+        <cityprice cityId="615420100">152.58</cityprice>
+    </offer>
+    <offer sku="12210458">
+      <model>Бумага для заметок Филькина Грамота 100 рублей NH0000006 5 упаковок</model>
+      <brand>Филькина Грамота</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37162.4</price>
+        <cityprice cityId="615420100">37162.4</cityprice>
+    </offer>
+    <offer sku="12210463">
+      <model>Бумага для заметок Филькина Грамота 5000 рублей NH0000012 4 упаковки</model>
+      <brand>Филькина Грамота</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37742.36</price>
+        <cityprice cityId="615420100">37742.36</cityprice>
+    </offer>
+    <offer sku="12210474">
+      <model>Офисное кресло Metta SU-BK-130-10 Pl, черное</model>
+      <brand>Metta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44954.91</price>
+        <cityprice cityId="615420100">44954.91</cityprice>
+    </offer>
+    <offer sku="961122">
+      <model>Токоизмерительные клещи Tdm Electric &quot;МастерЭлектрик&quot; М266C, SQ1005-0005</model>
+      <brand>Tdm Electric</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10868.22</price>
+        <cityprice cityId="615420100">10868.22</cityprice>
+    </offer>
+    <offer sku="12210481">
+      <model>Бумага для заметок Hopax 21131 100 л, 12 шт</model>
+      <brand>HOPAX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3035.2</price>
+        <cityprice cityId="615420100">3035.2</cityprice>
+    </offer>
+    <offer sku="12210484">
+      <model>Бумага для заметок ErichKrause 5142 2 упаковки</model>
+      <brand>Erich Krause</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1172.78</price>
+        <cityprice cityId="615420100">1172.78</cityprice>
+    </offer>
+    <offer sku="12210485">
+      <model>Клей ПВА Brauberg 227377, 85 гр 13 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>515.75</price>
+        <cityprice cityId="615420100">515.75</cityprice>
+    </offer>
+    <offer sku="12210489">
+      <model>Бумага для заметок ErichKrause 4454</model>
+      <brand>Erich Krause</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>272.89</price>
+        <cityprice cityId="615420100">272.89</cityprice>
+    </offer>
+    <offer sku="12210495">
+      <model>Бумага для заметок Юнландия 111347 10 упаковок по 100 листов</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151.17</price>
+        <cityprice cityId="615420100">151.17</cityprice>
+    </offer>
+    <offer sku="12210498">
+      <model>Офисное кресло Metta Комплект 31, хром, пластиковые ролики, черное</model>
+      <brand>Metta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79239.2</price>
+        <cityprice cityId="615420100">79239.2</cityprice>
+    </offer>
+    <offer sku="12210505">
+      <model>Органайзер Wood_ kokshe Скамейка OrgS</model>
+      <brand>Wood_ kokshe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142611.79</price>
+        <cityprice cityId="615420100">142611.79</cityprice>
+    </offer>
+    <offer sku="12210506">
+      <model>Бумага для заметок Юнландия Неоновые 111351 400 л</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207.48</price>
+        <cityprice cityId="615420100">207.48</cityprice>
+    </offer>
+    <offer sku="12210508">
+      <model>Клей ПВА Лайма 606432, 1 кг 3 шт</model>
+      <brand>Лайма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2901.81</price>
+        <cityprice cityId="615420100">2901.81</cityprice>
+    </offer>
+    <offer sku="12210509">
+      <model>Бумага для заметок Юнландия 111346 2 упаковки по 400 листов</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484.17</price>
+        <cityprice cityId="615420100">484.17</cityprice>
+    </offer>
+    <offer sku="12210511">
+      <model>Органайзер Muid Storage Island H-B-02DB синий</model>
+      <brand>MUID</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9895.02</price>
+        <cityprice cityId="615420100">9895.02</cityprice>
+    </offer>
+    <offer sku="12210514">
+      <model>Бумага для заметок Юнландия Конфеты 111361 2 упаковки по 20 листов</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64896.12</price>
+        <cityprice cityId="615420100">64896.12</cityprice>
+    </offer>
+    <offer sku="12210518">
+      <model>Бумага для заметок Index I444810 4 упаковки по 150 листов</model>
+      <brand>Index</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37466.71</price>
+        <cityprice cityId="615420100">37466.71</cityprice>
+    </offer>
+    <offer sku="12210520">
+      <model>Лоток для бумаги IKEA Плейа 30364305</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4989.5</price>
+        <cityprice cityId="615420100">4989.5</cityprice>
+    </offer>
+    <offer sku="623257">
+      <model>Бумага для заметок Berlingo Standard HN7676SGe</model>
+      <brand>Berlingo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227.24</price>
+        <cityprice cityId="615420100">227.24</cityprice>
+    </offer>
+    <offer sku="12210522">
+      <model>Органайзер IKEA Документ 10388996 серебристый</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2236.88</price>
+        <cityprice cityId="615420100">2236.88</cityprice>
+    </offer>
+    <offer sku="207858">
+      <model>Бумага для заметок Berlingo Standard HN7676SB</model>
+      <brand>Berlingo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232.18</price>
+        <cityprice cityId="615420100">232.18</cityprice>
+    </offer>
+    <offer sku="193342">
+      <model>Бумага для заметок Berlingo Стрелка LSz_76025</model>
+      <brand>Berlingo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>424.85</price>
+        <cityprice cityId="615420100">424.85</cityprice>
+    </offer>
+    <offer sku="12210533">
+      <model>Бумага для заметок Bestar 123004 4 шт</model>
+      <brand>Bestar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9169.81</price>
+        <cityprice cityId="615420100">9169.81</cityprice>
+    </offer>
+    <offer sku="12210541">
+      <model>Бумага для заметок Hatber PC_059399</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>849.99</price>
+        <cityprice cityId="615420100">849.99</cityprice>
+    </offer>
+    <offer sku="12210545">
+      <model>Бумага для заметок Hatber LS_76043 100 л</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>176.86</price>
+        <cityprice cityId="615420100">176.86</cityprice>
+    </offer>
+    <offer sku="12210551">
+      <model>Клей ПВА Brauberg 222923, 40 гр 15 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1918.73</price>
+        <cityprice cityId="615420100">1918.73</cityprice>
+    </offer>
+    <offer sku="12210553">
+      <model>Клей канцелярский Brauberg 228406, 150 мл 5 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2520.44</price>
+        <cityprice cityId="615420100">2520.44</cityprice>
+    </offer>
+    <offer sku="12210554">
+      <model>Бумага для заметок Pronoti 50646-68 100 л</model>
+      <brand>Pronoti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38968.5</price>
+        <cityprice cityId="615420100">38968.5</cityprice>
+    </offer>
+    <offer sku="12210555">
+      <model>Органайзер Ecococo 3980100023PIN</model>
+      <brand>ECOCOCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3690.25</price>
+        <cityprice cityId="615420100">3690.25</cityprice>
+    </offer>
+    <offer sku="12210559">
+      <model>Органайзер Wood_ kokshe Джентльмен OrgM серый</model>
+      <brand>Wood_ kokshe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12187.23</price>
+        <cityprice cityId="615420100">12187.23</cityprice>
+    </offer>
+    <offer sku="12210561">
+      <model>Клей канцелярский Brauberg 229067, 50 мл 7 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>258.86</price>
+        <cityprice cityId="615420100">258.86</cityprice>
+    </offer>
+    <offer sku="107636">
+      <model>Бумага для заметок OfficeSpace 280502 80 л</model>
+      <brand>OfficeSpace</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>263.7</price>
+        <cityprice cityId="615420100">263.7</cityprice>
+    </offer>
+    <offer sku="12210563">
+      <model>Органайзер Muid Storage Island H-B-02CR красный</model>
+      <brand>MUID</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10326.79</price>
+        <cityprice cityId="615420100">10326.79</cityprice>
+    </offer>
+    <offer sku="12210571">
+      <model>Клей канцелярский Brauberg 228403, 125 мл 5 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>221.32</price>
+        <cityprice cityId="615420100">221.32</cityprice>
+    </offer>
+    <offer sku="12210572">
+      <model>Бумага для заметок Faber-Castell 565301 100 л</model>
+      <brand>Faber-Castell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1227.12</price>
+        <cityprice cityId="615420100">1227.12</cityprice>
+    </offer>
+    <offer sku="12210575">
+      <model>Органайзер Muid Storage Island H-B-02DG зелёный</model>
+      <brand>MUID</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3985.67</price>
+        <cityprice cityId="615420100">3985.67</cityprice>
+    </offer>
+    <offer sku="12210576">
+      <model>Клей ПВА Офисмаг 224604, 85 гр 13 шт</model>
+      <brand>Офисмаг</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>278.62</price>
+        <cityprice cityId="615420100">278.62</cityprice>
+    </offer>
+    <offer sku="12210578">
+      <model>Бумага для заметок Comix D5001 100 л</model>
+      <brand>Comix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207.48</price>
+        <cityprice cityId="615420100">207.48</cityprice>
+    </offer>
+    <offer sku="12210581">
+      <model>Органайзер O-Life S89804-82 9 предметов</model>
+      <brand>O-Life</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3338.52</price>
+        <cityprice cityId="615420100">3338.52</cityprice>
+    </offer>
+    <offer sku="12210583">
+      <model>Клей канцелярский Brauberg 228419, 85 гр 10 штук</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>297.39</price>
+        <cityprice cityId="615420100">297.39</cityprice>
+    </offer>
+    <offer sku="12210585">
+      <model>Бумага для заметок Comix D5003</model>
+      <brand>Comix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165</price>
+        <cityprice cityId="615420100">165</cityprice>
+    </offer>
+    <offer sku="12210587">
+      <model>Органайзер Ecococo 3980100023BLU</model>
+      <brand>ECOCOCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7553.41</price>
+        <cityprice cityId="615420100">7553.41</cityprice>
+    </offer>
+    <offer sku="12210590">
+      <model>Клей канцелярский Звезда Кл-02, 30 мл 2 шт</model>
+      <brand>Звезда</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67321.71</price>
+        <cityprice cityId="615420100">67321.71</cityprice>
+    </offer>
+    <offer sku="12210593">
+      <model>Сейф Bordogna S8700/C</model>
+      <brand>Bordogna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>202544.1</price>
+        <cityprice cityId="615420100">202544.1</cityprice>
+    </offer>
+    <offer sku="12210595">
+      <model>Сейф огнестойкий УХЛ-МАШ ШСН-10/20</model>
+      <brand>УХЛ-МАШ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>348771.06</price>
+        <cityprice cityId="615420100">348771.06</cityprice>
+    </offer>
+    <offer sku="12210788">
+      <model>Клей канцелярский Staff 228408, 50 мл 12 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>0.99</price>
+        <cityprice cityId="615420100">0.99</cityprice>
+    </offer>
+    <offer sku="12210797">
+      <model>Клей канцелярский Dr.Fan 123035, 250 мл</model>
+      <brand>Dr.Fan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290.48</price>
+        <cityprice cityId="615420100">290.48</cityprice>
+    </offer>
+    <offer sku="12210803">
+      <model>Калькулятор Ripoma Овал 111291 синий</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4348.28</price>
+        <cityprice cityId="615420100">4348.28</cityprice>
+    </offer>
+    <offer sku="12210806">
+      <model>Закладка для книг Brauberg Бенгальский тигр 125755 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3703.1</price>
+        <cityprice cityId="615420100">3703.1</cityprice>
+    </offer>
+    <offer sku="12210807">
+      <model>Закладка для книг Brauberg Цветы 128099 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98540.17</price>
+        <cityprice cityId="615420100">98540.17</cityprice>
+    </offer>
+    <offer sku="12210809">
+      <model>Закладка для книг Brauberg Бабочки 125748 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3703.1</price>
+        <cityprice cityId="615420100">3703.1</cityprice>
+    </offer>
+    <offer sku="12210810">
+      <model>Калькулятор Ripoma Машинка 111283 желтый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61191.04</price>
+        <cityprice cityId="615420100">61191.04</cityprice>
+    </offer>
+    <offer sku="12210812">
+      <model>Закладка для книг Brauberg Милые щенки 128098 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115335.53</price>
+        <cityprice cityId="615420100">115335.53</cityprice>
+    </offer>
+    <offer sku="12210814">
+      <model>ЛДСП Nordeco design 2750х1830х32 мм, Дуб Вотан, древесные поры</model>
+      <brand>Nordeco design</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17902.92</price>
+        <cityprice cityId="615420100">17902.92</cityprice>
+    </offer>
+    <offer sku="12210816">
+      <model>Закладка для книг Brauberg Орел 125750 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115366.16</price>
+        <cityprice cityId="615420100">115366.16</cityprice>
+    </offer>
+    <offer sku="12210820">
+      <model>Закладка для книг Brauberg Кролики и цыплята 128097 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110070.37</price>
+        <cityprice cityId="615420100">110070.37</cityprice>
+    </offer>
+    <offer sku="12210821">
+      <model>Закладка для книг Brauberg Белый тигр 125754 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3698.16</price>
+        <cityprice cityId="615420100">3698.16</cityprice>
+    </offer>
+    <offer sku="12210824">
+      <model>Калькулятор Ripoma Овал 111287 зелёный</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3755.46</price>
+        <cityprice cityId="615420100">3755.46</cityprice>
+    </offer>
+    <offer sku="12210825">
+      <model>Закладка для книг Brauberg Вселенная 125757 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3700.13</price>
+        <cityprice cityId="615420100">3700.13</cityprice>
+    </offer>
+    <offer sku="12210826">
+      <model>Закладка для книг Brauberg Леопард 125766 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6258.12</price>
+        <cityprice cityId="615420100">6258.12</cityprice>
+    </offer>
+    <offer sku="12210827">
+      <model>Калькулятор Ripoma KD-518A оранжевый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4302.83</price>
+        <cityprice cityId="615420100">4302.83</cityprice>
+    </offer>
+    <offer sku="12210829">
+      <model>Закладка для книг Brauberg Мотогонки 125769 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3703.1</price>
+        <cityprice cityId="615420100">3703.1</cityprice>
+    </offer>
+    <offer sku="12210831">
+      <model>Клей канцелярский Brauberg 224599, 110 гр 20 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3751.51</price>
+        <cityprice cityId="615420100">3751.51</cityprice>
+    </offer>
+    <offer sku="12210832">
+      <model>Закладка для книг Brauberg Дельфин 125749 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114853.37</price>
+        <cityprice cityId="615420100">114853.37</cityprice>
+    </offer>
+    <offer sku="12210834">
+      <model>Закладка для книг Brauberg Белый конь 125753 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131253.52</price>
+        <cityprice cityId="615420100">131253.52</cityprice>
+    </offer>
+    <offer sku="12210836">
+      <model>Калькулятор Ripoma Овал 111290 розовый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3189.33</price>
+        <cityprice cityId="615420100">3189.33</cityprice>
+    </offer>
+    <offer sku="12210839">
+      <model>Закладка для книг Brauberg Волк 125756 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3710.02</price>
+        <cityprice cityId="615420100">3710.02</cityprice>
+    </offer>
+    <offer sku="12210840">
+      <model>Калькулятор Ripoma 111682 оранжевый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4315.67</price>
+        <cityprice cityId="615420100">4315.67</cityprice>
+    </offer>
+    <offer sku="12210841">
+      <model>Закладка для книг Brauberg Розы 128100 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134145.45</price>
+        <cityprice cityId="615420100">134145.45</cityprice>
+    </offer>
+    <offer sku="12210843">
+      <model>Закладка для книг Brauberg Игрушка 125760 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111342.94</price>
+        <cityprice cityId="615420100">111342.94</cityprice>
+    </offer>
+    <offer sku="12210844">
+      <model>Калькулятор Ripoma Машинка 111281 белый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60676.28</price>
+        <cityprice cityId="615420100">60676.28</cityprice>
+    </offer>
+    <offer sku="12210846">
+      <model>Закладка для книг Brauberg Удивительный цветок 128095 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107526.22</price>
+        <cityprice cityId="615420100">107526.22</cityprice>
+    </offer>
+    <offer sku="12210847">
+      <model>Калькулятор Ripoma KD-518A розовый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4410.52</price>
+        <cityprice cityId="615420100">4410.52</cityprice>
+    </offer>
+    <offer sku="12210848">
+      <model>Пила циркулярная Tolsen 79531</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22585.15</price>
+        <cityprice cityId="615420100">22585.15</cityprice>
+    </offer>
+    <offer sku="12210849">
+      <model>Закладка для книг Brauberg Далматинцы 125758 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3705.07</price>
+        <cityprice cityId="615420100">3705.07</cityprice>
+    </offer>
+    <offer sku="12210853">
+      <model>Калькулятор Ripoma KD-518A синий</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4119.06</price>
+        <cityprice cityId="615420100">4119.06</cityprice>
+    </offer>
+    <offer sku="12210855">
+      <model>Закладка для книг Brauberg Цветы 125777 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123340.46</price>
+        <cityprice cityId="615420100">123340.46</cityprice>
+    </offer>
+    <offer sku="12210857">
+      <model>Калькулятор Ripoma 2404982 розовый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4273.19</price>
+        <cityprice cityId="615420100">4273.19</cityprice>
+    </offer>
+    <offer sku="12210858">
+      <model>Закладка для книг Brauberg Павлины 125770 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>100166.46</price>
+        <cityprice cityId="615420100">100166.46</cityprice>
+    </offer>
+    <offer sku="12210860">
+      <model>Калькулятор Ripoma KD-518A зелёный</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4121.03</price>
+        <cityprice cityId="615420100">4121.03</cityprice>
+    </offer>
+    <offer sku="12210861">
+      <model>Закладка для книг Brauberg Белый волк 125752 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3701.12</price>
+        <cityprice cityId="615420100">3701.12</cityprice>
+    </offer>
+    <offer sku="12210862">
+      <model>Закладка для книг Brauberg Смайлики 128096 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3704.09</price>
+        <cityprice cityId="615420100">3704.09</cityprice>
+    </offer>
+    <offer sku="12210863">
+      <model>Калькулятор Paul Stricker 97742 серый</model>
+      <brand>Paul Stricker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3603.31</price>
+        <cityprice cityId="615420100">3603.31</cityprice>
+    </offer>
+    <offer sku="12210865">
+      <model>Закладка для книг Brauberg Попугаи 125772 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115424.45</price>
+        <cityprice cityId="615420100">115424.45</cityprice>
+    </offer>
+    <offer sku="12210866">
+      <model>Калькулятор Ripoma Овал 111288 желтый</model>
+      <brand>Ripoma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61014.19</price>
+        <cityprice cityId="615420100">61014.19</cityprice>
+    </offer>
+    <offer sku="12210867">
+      <model>Закладка для книг Brauberg Крутой джип 128102 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131309.83</price>
+        <cityprice cityId="615420100">131309.83</cityprice>
+    </offer>
+    <offer sku="12210869">
+      <model>Калькулятор Citizen New Version CT-914C серебристый</model>
+      <brand>Citizen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3739.66</price>
+        <cityprice cityId="615420100">3739.66</cityprice>
+    </offer>
+    <offer sku="12210870">
+      <model>Закладка для книг Brauberg Экзотические рыбки 125779 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115315.77</price>
+        <cityprice cityId="615420100">115315.77</cityprice>
+    </offer>
+    <offer sku="12210873">
+      <model>Закладка для книг Brauberg Красная панда 128103 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115255.5</price>
+        <cityprice cityId="615420100">115255.5</cityprice>
+    </offer>
+    <offer sku="12210875">
+      <model>Закладка для книг Brauberg Дельфины 128094 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3703.1</price>
+        <cityprice cityId="615420100">3703.1</cityprice>
+    </offer>
+    <offer sku="12210876">
+      <model>Плита электрическая Rada ПЭ-726О</model>
+      <brand>Rada</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>393617.29</price>
+        <cityprice cityId="615420100">393617.29</cityprice>
+    </offer>
+    <offer sku="12210877">
+      <model>Закладка для книг Brauberg Собачки 125775 12 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115424.45</price>
+        <cityprice cityId="615420100">115424.45</cityprice>
+    </offer>
+    <offer sku="12210881">
+      <model>Закладка для книг Brauberg Автомобиль мечты 128101 4 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128550.29</price>
+        <cityprice cityId="615420100">128550.29</cityprice>
+    </offer>
+    <offer sku="12210884">
+      <model>Бумага для офисной техники ABG-PRINT Business A4 500 листов</model>
+      <brand>ABG-Print</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2104.48</price>
+        <cityprice cityId="615420100">2104.48</cityprice>
+    </offer>
+    <offer sku="12210886">
+      <model>Плита электрическая Rada ПЭ-804О</model>
+      <brand>Rada</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>421548.61</price>
+        <cityprice cityId="615420100">421548.61</cityprice>
+    </offer>
+    <offer sku="12210891">
+      <model>Закладки Brauberg 126699 4 упаковки по 20 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>414.97</price>
+        <cityprice cityId="615420100">414.97</cityprice>
+    </offer>
+    <offer sku="12210894">
+      <model>Закладки Brauberg 126696 3 шт по 80 л</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>190.69</price>
+        <cityprice cityId="615420100">190.69</cityprice>
+    </offer>
+    <offer sku="12210895">
+      <model>Степлер Brauberg Office 228614, черный 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1284.43</price>
+        <cityprice cityId="615420100">1284.43</cityprice>
+    </offer>
+    <offer sku="12210898">
+      <model>Закладки Brauberg 126697 4 упаковки по 24 листа</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222.3</price>
+        <cityprice cityId="615420100">222.3</cityprice>
+    </offer>
+    <offer sku="12210899">
+      <model>Плита электрическая Rada ПЭ-806О</model>
+      <brand>Rada</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>421449.81</price>
+        <cityprice cityId="615420100">421449.81</cityprice>
+    </offer>
+    <offer sku="12210902">
+      <model>Закладки Brauberg Неоновые 122731 4 упаковки по 250 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164.01</price>
+        <cityprice cityId="615420100">164.01</cityprice>
+    </offer>
+    <offer sku="12210903">
+      <model>Гибридный телефонный аппарат Alcatel-Lucent ALE-20h</model>
+      <brand>Alcatel-Lucent</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>245424.17</price>
+        <cityprice cityId="615420100">245424.17</cityprice>
+    </offer>
+    <offer sku="12210905">
+      <model>Закладки Brauberg Неоновые 111363 5 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>190.69</price>
+        <cityprice cityId="615420100">190.69</cityprice>
+    </offer>
+    <offer sku="12210907">
+      <model>Закладки Brauberg Щенки 124814 5 упаковок по 100 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>298.38</price>
+        <cityprice cityId="615420100">298.38</cityprice>
+    </offer>
+    <offer sku="12210910">
+      <model>Закладки Brauberg Неоновые 126698 5 упаковок по 100 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115.6</price>
+        <cityprice cityId="615420100">115.6</cityprice>
+    </offer>
+    <offer sku="12210912">
+      <model>Закладки Brauberg 122735 2 шт по 100 л</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127.45</price>
+        <cityprice cityId="615420100">127.45</cityprice>
+    </offer>
+    <offer sku="12210916">
+      <model>Скобы для степлера Laco НК24/6, 9 упаковок по 1000 шт</model>
+      <brand>Laco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>126.84</price>
+        <cityprice cityId="615420100">126.84</cityprice>
+    </offer>
+    <offer sku="12210918">
+      <model>Закладки Brauberg Неоновые 122734 7 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>157.1</price>
+        <cityprice cityId="615420100">157.1</cityprice>
+    </offer>
+    <offer sku="12210919">
+      <model>Закладки Brauberg Бабочки 124813 4 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>393.23</price>
+        <cityprice cityId="615420100">393.23</cityprice>
+    </offer>
+    <offer sku="12210923">
+      <model>Бумага для заметок Brauberg 124807 3 блока по 50 листов</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>720.27</price>
+        <cityprice cityId="615420100">720.27</cityprice>
+    </offer>
+    <offer sku="12210924">
+      <model>Закладки Brauberg Пастельные 124812 5 упаковок по 300 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224.28</price>
+        <cityprice cityId="615420100">224.28</cityprice>
+    </offer>
+    <offer sku="12210929">
+      <model>Закладки Brauberg 124811 4 упаковки по 400 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>219.34</price>
+        <cityprice cityId="615420100">219.34</cityprice>
+    </offer>
+    <offer sku="12210930">
+      <model>Скобы для степлера Erich Krause 1189, 6 упаковок по 1000 шт</model>
+      <brand>Erich Krause</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>304.3</price>
+        <cityprice cityId="615420100">304.3</cityprice>
+    </offer>
+    <offer sku="12210934">
+      <model>Пуф фигурный ИП &quot;Амраев Р.Р.&quot; 900х900х450 мм велюр желтый</model>
+      <brand>ИП &quot;Амраев Р.Р.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1588299.46</price>
+        <cityprice cityId="615420100">1588299.46</cityprice>
+    </offer>
+    <offer sku="12210937">
+      <model>Шкаф для одежды Карат-Е Профи+ ШОД-40 Венге Линум</model>
+      <brand>Карат-Е</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>239890.27</price>
+        <cityprice cityId="615420100">239890.27</cityprice>
+    </offer>
+    <offer sku="12210951">
+      <model>Степлер Бизнесменю 227620, черный 3 шт</model>
+      <brand>Бизнесменю</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>928.74</price>
+        <cityprice cityId="615420100">928.74</cityprice>
+    </offer>
+    <offer sku="12210953">
+      <model>Презентер Vztec WP2267 черный</model>
+      <brand>VZTEC</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8918.86</price>
+        <cityprice cityId="615420100">8918.86</cityprice>
+    </offer>
+    <offer sku="12210954">
+      <model>Закладки Brauberg Неоновые Стрелки 111362 4 упаковки по 125 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93.86</price>
+        <cityprice cityId="615420100">93.86</cityprice>
+    </offer>
+    <offer sku="12210959">
+      <model>Скобы для степлера Офисбург 227629, 16 упаковок по 1000 шт</model>
+      <brand>ОФИСБУРГ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118.99</price>
+        <cityprice cityId="615420100">118.99</cityprice>
+    </offer>
+    <offer sku="12210960">
+      <model>Блок-разделитель Brauberg Линованный 126695 2 упаковки по 100 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1714.21</price>
+        <cityprice cityId="615420100">1714.21</cityprice>
+    </offer>
+    <offer sku="12210965">
+      <model>Закладки Brauberg Неоновые 122733 2 упаковки по 100 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>269.73</price>
+        <cityprice cityId="615420100">269.73</cityprice>
+    </offer>
+    <offer sku="12210971">
+      <model>Закладки Brauberg Неоновые 122705 5 упаковок по 100 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>270.72</price>
+        <cityprice cityId="615420100">270.72</cityprice>
+    </offer>
+    <offer sku="12210974">
+      <model>Кресло для руководителя Metta Samurai SL-1.04 коричневое</model>
+      <brand>Metta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131209.06</price>
+        <cityprice cityId="615420100">131209.06</cityprice>
+    </offer>
+    <offer sku="12210976">
+      <model>Закладки Brauberg Неоновые 111356 3 упаковки по 125 листов</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2145.98</price>
+        <cityprice cityId="615420100">2145.98</cityprice>
+    </offer>
+    <offer sku="12210978">
+      <model>Скобы для степлера Maped 324405, 7 упаковок по 1000 шт</model>
+      <brand>MAPED</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>209.58</price>
+        <cityprice cityId="615420100">209.58</cityprice>
+    </offer>
+    <offer sku="12210986">
+      <model>Закладки для книг Юнландия Единороги 111638 5 упаковок по 6 шт</model>
+      <brand>BRAUBERG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4124.98</price>
+        <cityprice cityId="615420100">4124.98</cityprice>
+    </offer>
+    <offer sku="12210991">
+      <model>Закладки для книг Юнландия Бабочки 129616 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3940.22</price>
+        <cityprice cityId="615420100">3940.22</cityprice>
+    </offer>
+    <offer sku="12210994">
+      <model>Кресло для руководителя Metta L1m 50M/K, топган, алюминиевое пятилучье, черное</model>
+      <brand>Metta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118271.92</price>
+        <cityprice cityId="615420100">118271.92</cityprice>
+    </offer>
+    <offer sku="12210997">
+      <model>Закладки для книг Юнландия Машины 129619 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1700.38</price>
+        <cityprice cityId="615420100">1700.38</cityprice>
+    </offer>
+    <offer sku="12211003">
+      <model>Закладки для книг Юнландия Русалочка 111644 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3939.24</price>
+        <cityprice cityId="615420100">3939.24</cityprice>
+    </offer>
+    <offer sku="12211016">
+      <model>Закладки для книг Юнландия Футбол 111645 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90036.29</price>
+        <cityprice cityId="615420100">90036.29</cityprice>
+    </offer>
+    <offer sku="12211021">
+      <model>Закладки для книг Юнландия Краски лета 111643 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91166.58</price>
+        <cityprice cityId="615420100">91166.58</cityprice>
+    </offer>
+    <offer sku="12211023">
+      <model>Закладки для книг Юнландия Гламур 111640 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4282.08</price>
+        <cityprice cityId="615420100">4282.08</cityprice>
+    </offer>
+    <offer sku="12211025">
+      <model>Скобы для степлера Brauberg Extra 229301, 10 упаковок по 1000 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140.52</price>
+        <cityprice cityId="615420100">140.52</cityprice>
+    </offer>
+    <offer sku="12211027">
+      <model>Закладки для книг Юнландия Ламы 111642 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4131.9</price>
+        <cityprice cityId="615420100">4131.9</cityprice>
+    </offer>
+    <offer sku="12211030">
+      <model>Закладки для книг Юнландия Верные друзья 111641 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3939.24</price>
+        <cityprice cityId="615420100">3939.24</cityprice>
+    </offer>
+    <offer sku="12211046">
+      <model>Закладки для книг Юнландия Собачки 129617 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91369.13</price>
+        <cityprice cityId="615420100">91369.13</cityprice>
+    </offer>
+    <offer sku="12211048">
+      <model>Степлер Staff Everyday 228739, черный 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>600.72</price>
+        <cityprice cityId="615420100">600.72</cityprice>
+    </offer>
+    <offer sku="781522">
+      <model>Конвекционная печь Radax GG43M0HX0S</model>
+      <brand>Radax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>513770.4</price>
+        <cityprice cityId="615420100">513770.4</cityprice>
+    </offer>
+    <offer sku="12211055">
+      <model>Закладки для книг Юнландия Лисята 111639 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3941.21</price>
+        <cityprice cityId="615420100">3941.21</cityprice>
+    </offer>
+    <offer sku="12211063">
+      <model>Закладки для книг Юнландия Тропики 111637 5 упаковок по 6 шт</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3939.24</price>
+        <cityprice cityId="615420100">3939.24</cityprice>
+    </offer>
+    <offer sku="12211064">
+      <model>Скобы Leitz Power Performance P2 55770000, 3 упаковки по 1000 шт</model>
+      <brand>Leitz</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>722.55</price>
+        <cityprice cityId="615420100">722.55</cityprice>
+    </offer>
+    <offer sku="12211066">
+      <model>Сварочный полуавтомат RedVerg RDMIG-150K</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>238215.57</price>
+        <cityprice cityId="615420100">238215.57</cityprice>
+    </offer>
+    <offer sku="12211074">
+      <model>Закладки Юнландия Фигурные карандаши 111359 5 шт по 125 листов</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>459.43</price>
+        <cityprice cityId="615420100">459.43</cityprice>
+    </offer>
+    <offer sku="12211076">
+      <model>Скобы для степлера Laco НК10, 8 упаковок по 1000 шт</model>
+      <brand>Laco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175.97</price>
+        <cityprice cityId="615420100">175.97</cityprice>
+    </offer>
+    <offer sku="12211077">
+      <model>Закладки Юнландия Неоновые 111354 4 упаковки по 100 листов</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92.87</price>
+        <cityprice cityId="615420100">92.87</cityprice>
+    </offer>
+    <offer sku="12211083">
+      <model>Закладки Юнландия Полет 111357 5 упаковок по 100 листов</model>
+      <brand>Юнландия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104607.61</price>
+        <cityprice cityId="615420100">104607.61</cityprice>
+    </offer>
+    <offer sku="12211091">
+      <model>Бумага для заметок Hatber LS_10225 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183.88</price>
+        <cityprice cityId="615420100">183.88</cityprice>
+    </offer>
+    <offer sku="12211096">
+      <model>Антистеплер Brauberg Metropolis 228744, черный 5 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236.14</price>
+        <cityprice cityId="615420100">236.14</cityprice>
+    </offer>
+    <offer sku="12211101">
+      <model>Бумага для заметок Hatber LS_76035 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>220.33</price>
+        <cityprice cityId="615420100">220.33</cityprice>
+    </offer>
+    <offer sku="12211102">
+      <model>Презентер Trust Wireless Touchpad Presenter черный</model>
+      <brand>Trust</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>265490.85</price>
+        <cityprice cityId="615420100">265490.85</cityprice>
+    </offer>
+    <offer sku="12211106">
+      <model>Бумага для заметок Hatber LS_76033 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>264</price>
+        <cityprice cityId="615420100">264</cityprice>
+    </offer>
+    <offer sku="12211108">
+      <model>Бумага для заметок Hatber LS_10216 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>294.43</price>
+        <cityprice cityId="615420100">294.43</cityprice>
+    </offer>
+    <offer sku="12211112">
+      <model>Стул медицинский Inmedix СТ2 белый</model>
+      <brand>Inmedix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47874.51</price>
+        <cityprice cityId="615420100">47874.51</cityprice>
+    </offer>
+    <offer sku="12211113">
+      <model>Бумага для заметок Hatber LS_51033 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>268.98</price>
+        <cityprice cityId="615420100">268.98</cityprice>
+    </offer>
+    <offer sku="12211117">
+      <model>Бумага для заметок Hatber LS_51043 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>248.98</price>
+        <cityprice cityId="615420100">248.98</cityprice>
+    </offer>
+    <offer sku="12211118">
+      <model>Презентер Deluxe DP500BK черный</model>
+      <brand>Deluxe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22764.97</price>
+        <cityprice cityId="615420100">22764.97</cityprice>
+    </offer>
+    <offer sku="12211120">
+      <model>Скобы для степлера Brauberg Extra 229298, 16 упаковок по 1000 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174.09</price>
+        <cityprice cityId="615420100">174.09</cityprice>
+    </offer>
+    <offer sku="12211124">
+      <model>Бумага для заметок Hatber LS_51035 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>214.2</price>
+        <cityprice cityId="615420100">214.2</cityprice>
+    </offer>
+    <offer sku="12211134">
+      <model>Пуф ИП &quot;Амраев Р.Р.&quot; 1800х1800х450 мм, велюр темно-синий</model>
+      <brand>ИП &quot;Амраев Р.Р.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2823015.2</price>
+        <cityprice cityId="615420100">2823015.2</cityprice>
+    </offer>
+    <offer sku="12211136">
+      <model>Бумага для заметок Hatber LS_10218 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>319.84</price>
+        <cityprice cityId="615420100">319.84</cityprice>
+    </offer>
+    <offer sku="12211138">
+      <model>Бумага для заметок Hatber LS_10207 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183.88</price>
+        <cityprice cityId="615420100">183.88</cityprice>
+    </offer>
+    <offer sku="12211141">
+      <model>Бумага для заметок Hatber LS_51037 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247.46</price>
+        <cityprice cityId="615420100">247.46</cityprice>
+    </offer>
+    <offer sku="12211144">
+      <model>Презентер Trust Sqube Ultra-slim Wireless черный</model>
+      <brand>Trust</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14498.21</price>
+        <cityprice cityId="615420100">14498.21</cityprice>
+    </offer>
+    <offer sku="12211145">
+      <model>Бумага для заметок Hatber LS_51034 100 листов</model>
+      <brand>Hatber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>240.61</price>
+        <cityprice cityId="615420100">240.61</cityprice>
+    </offer>
+    <offer sku="12211146">
+      <model>Степлер Brauberg Classic 222545, черный 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1333.83</price>
+        <cityprice cityId="615420100">1333.83</cityprice>
+    </offer>
+    <offer sku="12211149">
+      <model>Антистеплер Brauberg ST-100 228578, черный 6 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227.24</price>
+        <cityprice cityId="615420100">227.24</cityprice>
+    </offer>
+    <offer sku="12211156">
+      <model>Степлер KW-trio 5850</model>
+      <brand>Kw-trio</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>513.77</price>
+        <cityprice cityId="615420100">513.77</cityprice>
+    </offer>
+    <offer sku="12211165">
+      <model>Скобы для степлера Kw-trio 0248, 3 упаковки по 1000 шт</model>
+      <brand>Kw-trio</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44212.91</price>
+        <cityprice cityId="615420100">44212.91</cityprice>
+    </offer>
+    <offer sku="169790">
+      <model>Бумага для заметок BG LBZ102p 7127 100 листов</model>
+      <brand>BG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286.53</price>
+        <cityprice cityId="615420100">286.53</cityprice>
+    </offer>
+    <offer sku="12211174">
+      <model>Презентер Vztec WP2268 черный</model>
+      <brand>VZTEC</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14028.9</price>
+        <cityprice cityId="615420100">14028.9</cityprice>
+    </offer>
+    <offer sku="12211176">
+      <model>Бетономешалка RedVerg RD-CM120L</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>482238.73</price>
+        <cityprice cityId="615420100">482238.73</cityprice>
+    </offer>
+    <offer sku="12211187">
+      <model>Скобы для степлера Бизнесменю 227633, 10 упаковок по 1000 шт</model>
+      <brand>Бизнесменю</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2954.18</price>
+        <cityprice cityId="615420100">2954.18</cityprice>
+    </offer>
+    <offer sku="12211191">
+      <model>Скобы для степлера KW-trio 0246, 8 упаковок по 1000 шт</model>
+      <brand>Kw-trio</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183.03</price>
+        <cityprice cityId="615420100">183.03</cityprice>
+    </offer>
+    <offer sku="12211196">
+      <model>Закладки Post-it Professional 70071353570 2 упаковки по 140 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1822.9</price>
+        <cityprice cityId="615420100">1822.9</cityprice>
+    </offer>
+    <offer sku="12211197">
+      <model>Ретранслятор Hytera HR-1065 в комплекте с дуплексером, антенной и мачтой</model>
+      <brand>Hytera</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4685677.93</price>
+        <cityprice cityId="615420100">4685677.93</cityprice>
+    </offer>
+    <offer sku="12211207">
+      <model>Закладки Post-it 670-5AU 500 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>206.5</price>
+        <cityprice cityId="615420100">206.5</cityprice>
+    </offer>
+    <offer sku="12211216">
+      <model>Закладки Post-it 683-5CBP 100 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>447.57</price>
+        <cityprice cityId="615420100">447.57</cityprice>
+    </offer>
+    <offer sku="12211222">
+      <model>Закладки Post-it Поставьте вашу подпись 70071392784 50 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>988.02</price>
+        <cityprice cityId="615420100">988.02</cityprice>
+    </offer>
+    <offer sku="12211233">
+      <model>Закладки Post-it 671-3 300 листов 2 шт</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>214.4</price>
+        <cityprice cityId="615420100">214.4</cityprice>
+    </offer>
+    <offer sku="12211236">
+      <model>Закладки Post-it 670-4N 200 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>226.26</price>
+        <cityprice cityId="615420100">226.26</cityprice>
+    </offer>
+    <offer sku="12211248">
+      <model>Закладки Post-it Professional 680-YW2 100 листов</model>
+      <brand>Post-it</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1877.24</price>
+        <cityprice cityId="615420100">1877.24</cityprice>
+    </offer>
+    <offer sku="12211250">
+      <model>Скобы для степлера Brauberg 220950, 10 упаковок по 1000 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224.1</price>
+        <cityprice cityId="615420100">224.1</cityprice>
+    </offer>
+    <offer sku="12211314">
+      <model>Шпатлевка акриловая по дереву и бетону ТОО &quot;Qazzat&quot; Angel, белая, 0,9 кг</model>
+      <brand>ТОО &quot;Qazzat&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>988.02</price>
+        <cityprice cityId="615420100">988.02</cityprice>
+    </offer>
+    <offer sku="12211392">
+      <model>Закладки Пифагор Неон 111646 7 упаковок по 3 шт</model>
+      <brand>Пифагор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63458.55</price>
+        <cityprice cityId="615420100">63458.55</cityprice>
+    </offer>
+    <offer sku="12211395">
+      <model>Закладки Пифагор Триколор 111647 7 упаковок по 3 шт</model>
+      <brand>Пифагор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2066.94</price>
+        <cityprice cityId="615420100">2066.94</cityprice>
+    </offer>
+    <offer sku="12211403">
+      <model>Скобы для степлера Офисная Планета 222005, 15 упаковок по 1000 шт</model>
+      <brand>Офисная Планета</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163.47</price>
+        <cityprice cityId="615420100">163.47</cityprice>
+    </offer>
+    <offer sku="12211405">
+      <model>Закладки Hopax 21613 3 упаковки по 400 листов</model>
+      <brand>Hopax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>219.34</price>
+        <cityprice cityId="615420100">219.34</cityprice>
+    </offer>
+    <offer sku="12211409">
+      <model>Закладки Hopax Неоновые 21076 3 упаковки по 125 листов</model>
+      <brand>Hopax</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197.6</price>
+        <cityprice cityId="615420100">197.6</cityprice>
+    </offer>
+    <offer sku="12211415">
+      <model>Закладки Centrum Зверушки 88549 4 упаковки по 15 листов</model>
+      <brand>Centrum</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2414.72</price>
+        <cityprice cityId="615420100">2414.72</cityprice>
+    </offer>
+    <offer sku="12211424">
+      <model>Закладки Centrum Unicorns 80454 4 упаковки по 120 листов</model>
+      <brand>Centrum</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77988.37</price>
+        <cityprice cityId="615420100">77988.37</cityprice>
+    </offer>
+    <offer sku="12211426">
+      <model>Скобы для степлера Beifa S211, 20 упаковок по 1000 шт</model>
+      <brand>Beifa Group</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3792.02</price>
+        <cityprice cityId="615420100">3792.02</cityprice>
+    </offer>
+    <offer sku="12211432">
+      <model>Закладки Centrum Flamingo 80453 4 упаковки по 120 листов</model>
+      <brand>Centrum</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4242.56</price>
+        <cityprice cityId="615420100">4242.56</cityprice>
+    </offer>
+    <offer sku="12211436">
+      <model>Закладки Printstick Notes Marker 02075SLO 40 листов</model>
+      <brand>Printstick</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2081.76</price>
+        <cityprice cityId="615420100">2081.76</cityprice>
+    </offer>
+    <offer sku="12211438">
+      <model>Вафельница Gastrorag HWB-2 серебристая</model>
+      <brand>Gastrorag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246995.12</price>
+        <cityprice cityId="615420100">246995.12</cityprice>
+    </offer>
+    <offer sku="12211441">
+      <model>Закладки Index Неоновые I441810 6 упаковок по 160 листов</model>
+      <brand>Index</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116.59</price>
+        <cityprice cityId="615420100">116.59</cityprice>
+    </offer>
+    <offer sku="12211452">
+      <model>Вафельница Gastrorag ZU-HF-1E серебристая</model>
+      <brand>Gastrorag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261386.62</price>
+        <cityprice cityId="615420100">261386.62</cityprice>
+    </offer>
+    <offer sku="12211457">
+      <model>Степлер Brauberg Super 229086, черный 2 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1383.23</price>
+        <cityprice cityId="615420100">1383.23</cityprice>
+    </offer>
+    <offer sku="12211459">
+      <model>Вафельница Viatto VKD-6 черная</model>
+      <brand>Viatto</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>627236.59</price>
+        <cityprice cityId="615420100">627236.59</cityprice>
+    </offer>
+    <offer sku="12211464">
+      <model>Вафельница Hurakan HKN - GES2L черная</model>
+      <brand>Hurakan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>463231.2</price>
+        <cityprice cityId="615420100">463231.2</cityprice>
+    </offer>
+    <offer sku="12211465">
+      <model>Стикеры цветные и блокнот Mid Ocean Brands B.V. Memoff KC7083-03 3 шт</model>
+      <brand>Mid Ocean Brands</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138.22</price>
+        <cityprice cityId="615420100">138.22</cityprice>
+    </offer>
+    <offer sku="12211468">
+      <model>Скобы для степлера Brauberg Extra 229299, 10 упаковок по 1000 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138.32</price>
+        <cityprice cityId="615420100">138.32</cityprice>
+    </offer>
+    <offer sku="930720">
+      <model>Вафельница Remta W10 серебристая</model>
+      <brand>Remta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134370.72</price>
+        <cityprice cityId="615420100">134370.72</cityprice>
+    </offer>
+    <offer sku="12211472">
+      <model>Закладки MS Русалки RSR111 80 листов</model>
+      <brand>MS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43382.97</price>
+        <cityprice cityId="615420100">43382.97</cityprice>
+    </offer>
+    <offer sku="12211479">
+      <model>Вафельница Eko-Kitchen HCB-2 серебристая</model>
+      <brand>Eko-Kitchen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>811395.62</price>
+        <cityprice cityId="615420100">811395.62</cityprice>
+    </offer>
+    <offer sku="12211485">
+      <model>Стикеры Paul Stricker Peter 93718.60 2 шт</model>
+      <brand>Paul Stricker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63.23</price>
+        <cityprice cityId="615420100">63.23</cityprice>
+    </offer>
+    <offer sku="12211489">
+      <model>Закладки MS Лапы J4F1052 30 листов</model>
+      <brand>MS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>985.06</price>
+        <cityprice cityId="615420100">985.06</cityprice>
+    </offer>
+    <offer sku="12211494">
+      <model>Вафельница Eko-Kitchen HWB-2 серебристая</model>
+      <brand>Eko-Kitchen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1840579.49</price>
+        <cityprice cityId="615420100">1840579.49</cityprice>
+    </offer>
+    <offer sku="12211496">
+      <model>Скобы для степлера Brauberg Extra 229302, 15 упаковок по 1000 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50120.28</price>
+        <cityprice cityId="615420100">50120.28</cityprice>
+    </offer>
+    <offer sku="12211499">
+      <model>Бумага для заметок L.O.L. LOGS-UA1-STNT-SET9 9 шт</model>
+      <brand>L.O.L.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65058.15</price>
+        <cityprice cityId="615420100">65058.15</cityprice>
+    </offer>
+    <offer sku="12211518">
+      <model>Бальзам для волос Modum Fresh Восстановление и укрепление Авокадо 500 г</model>
+      <brand>Modum</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2939.36</price>
+        <cityprice cityId="615420100">2939.36</cityprice>
+    </offer>
+    <offer sku="12211523">
+      <model>Бальзам для волос Modum Fresh Питание и блеск Банан 500 г</model>
+      <brand>Modum</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4790.91</price>
+        <cityprice cityId="615420100">4790.91</cityprice>
+    </offer>
+    <offer sku="12211529">
+      <model>Бальзам для волос Modum Fresh Сохранение цвета Гранат 500 г</model>
+      <brand>Modum</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2954.18</price>
+        <cityprice cityId="615420100">2954.18</cityprice>
+    </offer>
+    <offer sku="12211550">
+      <model>Стол рабочий Ramerra с приставным столом 1800х600х750 мм</model>
+      <brand>Ramerra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1080893.88</price>
+        <cityprice cityId="615420100">1080893.88</cityprice>
+    </offer>
+    <offer sku="12211557">
+      <model>Степлер Staff Basic 224626, черный 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>611.58</price>
+        <cityprice cityId="615420100">611.58</cityprice>
+    </offer>
+    <offer sku="12211575">
+      <model>Степлер Brauberg VS-50 226859, сине-серый 3 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1819.93</price>
+        <cityprice cityId="615420100">1819.93</cityprice>
+    </offer>
+    <offer sku="12211583">
+      <model>Овощечистка ОАО &quot;Торгмаш&quot; МОК-150У</model>
+      <brand>ОАО &quot;Торгмаш&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>373185.03</price>
+        <cityprice cityId="615420100">373185.03</cityprice>
+    </offer>
+    <offer sku="12211585">
+      <model>Скобы для степлера Brauberg 221163, 3 упаковки по 1000 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>918.86</price>
+        <cityprice cityId="615420100">918.86</cityprice>
+    </offer>
+    <offer sku="12211592">
+      <model>Скобы для степлера Black &amp; Decker X70208, 1200 шт</model>
+      <brand>Black &amp; Decker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46799.54</price>
+        <cityprice cityId="615420100">46799.54</cityprice>
+    </offer>
+    <offer sku="12211599">
+      <model>Скобы для степлера Black &amp; Decker X70206, 1200 шт</model>
+      <brand>Black &amp; Decker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156.11</price>
+        <cityprice cityId="615420100">156.11</cityprice>
+    </offer>
+    <offer sku="12211604">
+      <model>Овощечистка ОАО &quot;Торгмаш&quot; МОК-300У</model>
+      <brand>ОАО &quot;Торгмаш&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>371406.6</price>
+        <cityprice cityId="615420100">371406.6</cityprice>
+    </offer>
+    <offer sku="12211611">
+      <model>Матрас Апекс Comfort &quot;Эконом-20&quot; 200х160х18 см, белый</model>
+      <brand>Апекс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78247.23</price>
+        <cityprice cityId="615420100">78247.23</cityprice>
+    </offer>
+    <offer sku="12211618">
+      <model>Матрас Апекс Comfort Струтто 200х160х18 см, белый</model>
+      <brand>Апекс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90816.82</price>
+        <cityprice cityId="615420100">90816.82</cityprice>
+    </offer>
+    <offer sku="12211625">
+      <model>Матрас Апекс Comfort Струтто-кокос, 160х200х20 см, белый</model>
+      <brand>Апекс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124113.1</price>
+        <cityprice cityId="615420100">124113.1</cityprice>
+    </offer>
+    <offer sku="12211626">
+      <model>Доска пробковая MarkerB 100х150 см</model>
+      <brand>MarkerB</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21143.63</price>
+        <cityprice cityId="615420100">21143.63</cityprice>
+    </offer>
+    <offer sku="12211640">
+      <model>Скобы для степлера Гвардия 227628, 16 упаковок по 1000 шт</model>
+      <brand>Гвардия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>99.68</price>
+        <cityprice cityId="615420100">99.68</cityprice>
+    </offer>
+    <offer sku="12211643">
+      <model>Флипчарт Whiteboard 010021k 90x60 см</model>
+      <brand>Whiteboard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22991.23</price>
+        <cityprice cityId="615420100">22991.23</cityprice>
+    </offer>
+    <offer sku="12211656">
+      <model>Флипчарт Whiteboard 000012x 45x60 см</model>
+      <brand>Whiteboard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8533.53</price>
+        <cityprice cityId="615420100">8533.53</cityprice>
+    </offer>
+    <offer sku="12211670">
+      <model>Степлер Brauberg Original 222531, серый 3 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1397.06</price>
+        <cityprice cityId="615420100">1397.06</cityprice>
+    </offer>
+    <offer sku="12211673">
+      <model>Скобы для степлера Офисбург 227632, 10 упаковок по 1000 шт</model>
+      <brand>ОФИСБУРГ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>954.42</price>
+        <cityprice cityId="615420100">954.42</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
