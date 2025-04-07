@@ -74541,5 +74541,3101 @@
       <price>34018.52</price>
         <cityprice cityId="615420100">34018.52</cityprice>
     </offer>
+    <offer sku="12610889">
+      <model>Набор инструментов Proxxon 23300, 14 предметов</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187229.79</price>
+        <cityprice cityId="615420100">187229.79</cityprice>
+    </offer>
+    <offer sku="1167196">
+      <model>Набор инструментов Sparta 11347 12 предметов</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28673.33</price>
+        <cityprice cityId="615420100">28673.33</cityprice>
+    </offer>
+    <offer sku="1194017">
+      <model>Набор инструментов STELS 13999 8 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36760.27</price>
+        <cityprice cityId="615420100">36760.27</cityprice>
+    </offer>
+    <offer sku="12512096">
+      <model>Набор инструментов Startul PRO-046 46 предметов</model>
+      <brand>Startul</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25893.51</price>
+        <cityprice cityId="615420100">25893.51</cityprice>
+    </offer>
+    <offer sku="12534306">
+      <model>Набор инструментов Yato YT-1763, 20 предметов</model>
+      <brand>YATO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74135.97</price>
+        <cityprice cityId="615420100">74135.97</cityprice>
+    </offer>
+    <offer sku="12542118">
+      <model>Набор инструментов Bosch 2608522064, 10 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1124054.55</price>
+        <cityprice cityId="615420100">1124054.55</cityprice>
+    </offer>
+    <offer sku="12542426">
+      <model>Набор инструментов Tundra 4803871, 64 предмета</model>
+      <brand>Tundra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65209.32</price>
+        <cityprice cityId="615420100">65209.32</cityprice>
+    </offer>
+    <offer sku="12555871">
+      <model>Набор инструментов Intertool ET-7078, 78 предметов</model>
+      <brand>INTERTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>963087.32</price>
+        <cityprice cityId="615420100">963087.32</cityprice>
+    </offer>
+    <offer sku="12588089">
+      <model>Набор инструментов Irimo IFF1A005, 87 предметов</model>
+      <brand>IRIMO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1996350.73</price>
+        <cityprice cityId="615420100">1996350.73</cityprice>
+    </offer>
+    <offer sku="12602458">
+      <model>Набор инструментов Ермак 736-161, 12 предметов</model>
+      <brand>Ермак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19758.42</price>
+        <cityprice cityId="615420100">19758.42</cityprice>
+    </offer>
+    <offer sku="12604609">
+      <model>Набор инструментов JCB JSD019, 6 предметов</model>
+      <brand>JCB</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124808.66</price>
+        <cityprice cityId="615420100">124808.66</cityprice>
+    </offer>
+    <offer sku="12610723">
+      <model>Набор инструментов Startul PRO-094, 94 предмета</model>
+      <brand>Startul</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236154.56</price>
+        <cityprice cityId="615420100">236154.56</cityprice>
+    </offer>
+    <offer sku="12628707">
+      <model>Набор инструментов Tundra 4193187, 15 предметов</model>
+      <brand>Tundra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24015.8</price>
+        <cityprice cityId="615420100">24015.8</cityprice>
+    </offer>
+    <offer sku="12636521">
+      <model>Набор инструментов КВТ НКК-8, 8 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14774.43</price>
+        <cityprice cityId="615420100">14774.43</cityprice>
+    </offer>
+    <offer sku="1138907">
+      <model>Набор инструментов Partner PA-4082 82 предмета</model>
+      <brand>Partner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21636.65</price>
+        <cityprice cityId="615420100">21636.65</cityprice>
+    </offer>
+    <offer sku="12539861">
+      <model>Набор инструментов Total THT918516, 5 предметов</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60278.11</price>
+        <cityprice cityId="615420100">60278.11</cityprice>
+    </offer>
+    <offer sku="12676996">
+      <model>Набор инструментов Total TACSD13571, 357 предметов</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18965.04</price>
+        <cityprice cityId="615420100">18965.04</cityprice>
+    </offer>
+    <offer sku="1164394">
+      <model>Набор инструментов FORCE 2292-9 29 предметов</model>
+      <brand>FORCE </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15944.33</price>
+        <cityprice cityId="615420100">15944.33</cityprice>
+    </offer>
+    <offer sku="1169097">
+      <model>Набор инструментов FORCE 5115 11 предметов</model>
+      <brand>FORCE </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22649.43</price>
+        <cityprice cityId="615420100">22649.43</cityprice>
+    </offer>
+    <offer sku="12637311">
+      <model>Набор инструментов Sparta 773335, 6 предметов</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29344.67</price>
+        <cityprice cityId="615420100">29344.67</cityprice>
+    </offer>
+    <offer sku="10742051">
+      <model>Набор инструментов КВТ &quot;Диагност&quot; НИЭ-11 81082, 6 предметов</model>
+      <brand>КВТ </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>707734.53</price>
+        <cityprice cityId="615420100">707734.53</cityprice>
+    </offer>
+    <offer sku="1139549">
+      <model>Набор инструментов Bosch HSS PointTeQ 10 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7178.4</price>
+        <cityprice cityId="615420100">7178.4</cityprice>
+    </offer>
+    <offer sku="1139720">
+      <model>Набор инструментов JONNESWAY M63106S 6 предметов</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86914.14</price>
+        <cityprice cityId="615420100">86914.14</cityprice>
+    </offer>
+    <offer sku="1164404">
+      <model>Набор инструментов Aeroforce AE.5131 13 предметов</model>
+      <brand>Aeroforce </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180356.13</price>
+        <cityprice cityId="615420100">180356.13</cityprice>
+    </offer>
+    <offer sku="1164832">
+      <model>Набор инструментов Gedore 2150-2160 PH 6 предметов</model>
+      <brand>Gedore </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152595.74</price>
+        <cityprice cityId="615420100">152595.74</cityprice>
+    </offer>
+    <offer sku="1165318">
+      <model>Набор инструментов JONNESWAY M64105S 5 предметов</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9249.09</price>
+        <cityprice cityId="615420100">9249.09</cityprice>
+    </offer>
+    <offer sku="1165427">
+      <model>Набор инструментов Ombra 921207 7 предметов</model>
+      <brand>Ombra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54577.24</price>
+        <cityprice cityId="615420100">54577.24</cityprice>
+    </offer>
+    <offer sku="1165701">
+      <model>Набор инструментов Black&amp;Decker A7144 71 предмет</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>202511.5</price>
+        <cityprice cityId="615420100">202511.5</cityprice>
+    </offer>
+    <offer sku="1166881">
+      <model>Набор инструментов Partner PA-3107M 7 предметов</model>
+      <brand>Partner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12517.23</price>
+        <cityprice cityId="615420100">12517.23</cityprice>
+    </offer>
+    <offer sku="1167605">
+      <model>Набор инструментов Thorvik CWS0016 16 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13390.48</price>
+        <cityprice cityId="615420100">13390.48</cityprice>
+    </offer>
+    <offer sku="1168935">
+      <model>Набор инструментов Matrix 725632 32 предмета</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4723.15</price>
+        <cityprice cityId="615420100">4723.15</cityprice>
+    </offer>
+    <offer sku="1193314">
+      <model>Набор инструментов Matrix 13343 15 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4232.68</price>
+        <cityprice cityId="615420100">4232.68</cityprice>
+    </offer>
+    <offer sku="12174923">
+      <model>Набор инструментов Force 5071T 7 предметов</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21440.03</price>
+        <cityprice cityId="615420100">21440.03</cityprice>
+    </offer>
+    <offer sku="1165069">
+      <model>Набор инструментов STANLEY 0-65-009 7 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11023.97</price>
+        <cityprice cityId="615420100">11023.97</cityprice>
+    </offer>
+    <offer sku="1166919">
+      <model>Набор инструментов BOSCH V-Line 83 2607017193 83 предмета</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24325.7</price>
+        <cityprice cityId="615420100">24325.7</cityprice>
+    </offer>
+    <offer sku="1167187">
+      <model>Набор инструментов BAHCO 7818 MHR 18 предметов</model>
+      <brand>BAHCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192565.1</price>
+        <cityprice cityId="615420100">192565.1</cityprice>
+    </offer>
+    <offer sku="1139546">
+      <model>Набор инструментов Gedore R21650072 31 предметов</model>
+      <brand>Gedore </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>483042.98</price>
+        <cityprice cityId="615420100">483042.98</cityprice>
+    </offer>
+    <offer sku="12637156">
+      <model>Набор инструментов КВТ КШ-9, 9 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112596.74</price>
+        <cityprice cityId="615420100">112596.74</cityprice>
+    </offer>
+    <offer sku="1168303">
+      <model>Набор инструментов Pro&apos;sKit 1PK-818B 26 предметов</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82005.66</price>
+        <cityprice cityId="615420100">82005.66</cityprice>
+    </offer>
+    <offer sku="10919697">
+      <model>Набор инструментов WMC Tools WMC-4060C, 60 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42172.65</price>
+        <cityprice cityId="615420100">42172.65</cityprice>
+    </offer>
+    <offer sku="12475268">
+      <model>Набор инструментов Волат 13380-16, 16 предметов</model>
+      <brand>Волат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54341.1</price>
+        <cityprice cityId="615420100">54341.1</cityprice>
+    </offer>
+    <offer sku="12168484">
+      <model>Набор инструментов КВТ НИИ-06 61253 5 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54656.42</price>
+        <cityprice cityId="615420100">54656.42</cityprice>
+    </offer>
+    <offer sku="10919219">
+      <model>Набор инструментов ForceKraft FK-4088MPB 8 предметов</model>
+      <brand>ForceKraft</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24699.51</price>
+        <cityprice cityId="615420100">24699.51</cityprice>
+    </offer>
+    <offer sku="10919774">
+      <model>Набор инструментов WMC Tools 201200A, 1200 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33642.08</price>
+        <cityprice cityId="615420100">33642.08</cityprice>
+    </offer>
+    <offer sku="12446992">
+      <model>Набор инструментов Stanley FMMT98101-0 48 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>285650.41</price>
+        <cityprice cityId="615420100">285650.41</cityprice>
+    </offer>
+    <offer sku="12476889">
+      <model>Набор инструментов Isma 20180, 180 предметов</model>
+      <brand>Isma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150178.05</price>
+        <cityprice cityId="615420100">150178.05</cityprice>
+    </offer>
+    <offer sku="230011">
+      <model>Набор инструментов Partner PA-NA1012, 8 предметов</model>
+      <brand>Partner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>260764.17</price>
+        <cityprice cityId="615420100">260764.17</cityprice>
+    </offer>
+    <offer sku="12542826">
+      <model>Набор инструментов Gedore Red R78004014, 14 предметов</model>
+      <brand>Gedore</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1678549.15</price>
+        <cityprice cityId="615420100">1678549.15</cityprice>
+    </offer>
+    <offer sku="12600275">
+      <model>Набор инструментов Stayer 27754-H12, 12 предметов</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6109.92</price>
+        <cityprice cityId="615420100">6109.92</cityprice>
+    </offer>
+    <offer sku="12606426">
+      <model>Набор инструментов Stanley 0-22-500, 6 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102582.16</price>
+        <cityprice cityId="615420100">102582.16</cityprice>
+    </offer>
+    <offer sku="12637130">
+      <model>Набор инструментов КВТ НАИ-03/11, 11 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.48</price>
+        <cityprice cityId="615420100">29640.48</cityprice>
+    </offer>
+    <offer sku="1169531">
+      <model>Набор инструментов KingTul KT-3030 14 предметов</model>
+      <brand>KingTul</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46928.97</price>
+        <cityprice cityId="615420100">46928.97</cityprice>
+    </offer>
+    <offer sku="12611966">
+      <model>Набор инструментов Vorel 56393, 10 предметов</model>
+      <brand>VOREL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90962.06</price>
+        <cityprice cityId="615420100">90962.06</cityprice>
+    </offer>
+    <offer sku="12616001">
+      <model>Набор инструментов Tundra 4822376, 23 предмета</model>
+      <brand>Tundra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41595.64</price>
+        <cityprice cityId="615420100">41595.64</cityprice>
+    </offer>
+    <offer sku="12611466">
+      <model>Набор инструментов Кобальт 010101-56, 56 предметов</model>
+      <brand>КОБАЛЬТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44460.9</price>
+        <cityprice cityId="615420100">44460.9</cityprice>
+    </offer>
+    <offer sku="1169493">
+      <model>Набор инструментов Rock FORCE RF-41421-5 New 142 предмета</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98604.4</price>
+        <cityprice cityId="615420100">98604.4</cityprice>
+    </offer>
+    <offer sku="1169265">
+      <model>Набор инструментов BAHCO S138 138 предметов</model>
+      <brand>BAHCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>294923.97</price>
+        <cityprice cityId="615420100">294923.97</cityprice>
+    </offer>
+    <offer sku="1164711">
+      <model>Набор инструментов Thorvik W3S12PR 12 предметов</model>
+      <brand>Thorvik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92977.62</price>
+        <cityprice cityId="615420100">92977.62</cityprice>
+    </offer>
+    <offer sku="1166175">
+      <model>Набор инструментов Thorvik TDBS19 HSS TiN 19 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9051.88</price>
+        <cityprice cityId="615420100">9051.88</cityprice>
+    </offer>
+    <offer sku="842476">
+      <model>Набор инструментов Tolsen 15138 46 предметов</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12844.26</price>
+        <cityprice cityId="615420100">12844.26</cityprice>
+    </offer>
+    <offer sku="1165884">
+      <model>Набор инструментов KING TONY 20409 9 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7842.9</price>
+        <cityprice cityId="615420100">7842.9</cityprice>
+    </offer>
+    <offer sku="1139577">
+      <model>Набор инструментов FORCE 6201 20 предметов</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120053.54</price>
+        <cityprice cityId="615420100">120053.54</cityprice>
+    </offer>
+    <offer sku="12556876">
+      <model>Набор инструментов Airline AT-94-05, 94 предмета</model>
+      <brand>AIRLINE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>518551.43</price>
+        <cityprice cityId="615420100">518551.43</cityprice>
+    </offer>
+    <offer sku="12602076">
+      <model>Набор инструментов WMC Tools 10120, 120 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18661.72</price>
+        <cityprice cityId="615420100">18661.72</cityprice>
+    </offer>
+    <offer sku="1164880">
+      <model>Набор инструментов Wera Набор Kraftform Kompakt 100 52 предмета</model>
+      <brand>Wera </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113945.38</price>
+        <cityprice cityId="615420100">113945.38</cityprice>
+    </offer>
+    <offer sku="1165621">
+      <model>Набор инструментов Proxxon 23650 43 предмета</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16027.66</price>
+        <cityprice cityId="615420100">16027.66</cityprice>
+    </offer>
+    <offer sku="1139127">
+      <model>Набор инструментов Bovidix 3660548 8 предметов</model>
+      <brand>Bovidix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78544.63</price>
+        <cityprice cityId="615420100">78544.63</cityprice>
+    </offer>
+    <offer sku="1168750">
+      <model>Набор инструментов Dexter 18147617 6 предметов</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110967.49</price>
+        <cityprice cityId="615420100">110967.49</cityprice>
+    </offer>
+    <offer sku="1166333">
+      <model>Набор инструментов Proxxon 23040 56 предметов</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80156.87</price>
+        <cityprice cityId="615420100">80156.87</cityprice>
+    </offer>
+    <offer sku="1193333">
+      <model>Набор инструментов Metabo 626707000 55 предметов</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59270.33</price>
+        <cityprice cityId="615420100">59270.33</cityprice>
+    </offer>
+    <offer sku="12475323">
+      <model>Набор инструментов Волат 86000-13, 13 предметов</model>
+      <brand>Волат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14820.3</price>
+        <cityprice cityId="615420100">14820.3</cityprice>
+    </offer>
+    <offer sku="12601341">
+      <model>Набор инструментов Кобальт 247-736, 5 предметов</model>
+      <brand>КОБАЛЬТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="12455301">
+      <model>Набор инструментов Кобальт 010103-69 69 предметов</model>
+      <brand>КОБАЛЬТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>845484.28</price>
+        <cityprice cityId="615420100">845484.28</cityprice>
+    </offer>
+    <offer sku="1168579">
+      <model>Набор инструментов FORCE 5098LT 9 предметов</model>
+      <brand>FORCE </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46930.95</price>
+        <cityprice cityId="615420100">46930.95</cityprice>
+    </offer>
+    <offer sku="1137370">
+      <model>Набор инструментов Thorvik UTS0108/12 108 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81341.31</price>
+        <cityprice cityId="615420100">81341.31</cityprice>
+    </offer>
+    <offer sku="1166708">
+      <model>Набор инструментов Pro’sKit PK-2801 8 предметов</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35443.24</price>
+        <cityprice cityId="615420100">35443.24</cityprice>
+    </offer>
+    <offer sku="12554861">
+      <model>Набор инструментов АвтоDело 31121, 12 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95997.01</price>
+        <cityprice cityId="615420100">95997.01</cityprice>
+    </offer>
+    <offer sku="12616345">
+      <model>Набор инструментов АвтоDело 39941, 41 предмет</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59054.12</price>
+        <cityprice cityId="615420100">59054.12</cityprice>
+    </offer>
+    <offer sku="12613398">
+      <model>Набор инструментов АвтоDело 39860, 64 предмета</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74101.5</price>
+        <cityprice cityId="615420100">74101.5</cityprice>
+    </offer>
+    <offer sku="1165333">
+      <model>Набор инструментов Makita P-16782 10 предметов</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18792.14</price>
+        <cityprice cityId="615420100">18792.14</cityprice>
+    </offer>
+    <offer sku="10750045">
+      <model>Набор инструментов Kraftool Cr-V 26060-H10, 9 предметов</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2336.67</price>
+        <cityprice cityId="615420100">2336.67</cityprice>
+    </offer>
+    <offer sku="1193244">
+      <model>Набор инструментов STAYER 2915-H4 4 предмета</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2964.06</price>
+        <cityprice cityId="615420100">2964.06</cityprice>
+    </offer>
+    <offer sku="1193602">
+      <model>Набор инструментов ЗУБР 2745-3-1 9 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7175</price>
+        <cityprice cityId="615420100">7175</cityprice>
+    </offer>
+    <offer sku="1193609">
+      <model>Набор инструментов Forsage F-5161S 16 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23908.11</price>
+        <cityprice cityId="615420100">23908.11</cityprice>
+    </offer>
+    <offer sku="229978">
+      <model>Набор инструментов WMC 2462-5 New, 46 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7813.37</price>
+        <cityprice cityId="615420100">7813.37</cityprice>
+    </offer>
+    <offer sku="229984">
+      <model>Набор инструментов WMC Tools 2072 72 предмета</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8386.31</price>
+        <cityprice cityId="615420100">8386.31</cityprice>
+    </offer>
+    <offer sku="230006">
+      <model>Набор инструментов Rockforce RF-5098, 9 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5630.73</price>
+        <cityprice cityId="615420100">5630.73</cityprice>
+    </offer>
+    <offer sku="230040">
+      <model>Набор инструментов Partner PA-AX23031, 31 предмет</model>
+      <brand>Partner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12347.29</price>
+        <cityprice cityId="615420100">12347.29</cityprice>
+    </offer>
+    <offer sku="230042">
+      <model>Набор инструментов Partner PA-AX23031B, 31 предмет</model>
+      <brand>Partner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2925.53</price>
+        <cityprice cityId="615420100">2925.53</cityprice>
+    </offer>
+    <offer sku="229966">
+      <model>Набор инструментов WMC Tools WMC-2025 50496, 24 предмета</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13820.42</price>
+        <cityprice cityId="615420100">13820.42</cityprice>
+    </offer>
+    <offer sku="1166821">
+      <model>Набор инструментов JONNESWAY S68H4127S 27 предметов</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>859330.4</price>
+        <cityprice cityId="615420100">859330.4</cityprice>
+    </offer>
+    <offer sku="10918546">
+      <model>Набор инструментов WMC Tools 48312 8 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19759.41</price>
+        <cityprice cityId="615420100">19759.41</cityprice>
+    </offer>
+    <offer sku="10919169">
+      <model>Набор бит Forsage F-4401C, 40 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12841.3</price>
+        <cityprice cityId="615420100">12841.3</cityprice>
+    </offer>
+    <offer sku="10919957">
+      <model>Набор инструментов WMC Tools 2068,  68 предметов</model>
+      <brand>WMC TOOLS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33225.14</price>
+        <cityprice cityId="615420100">33225.14</cityprice>
+    </offer>
+    <offer sku="1136721">
+      <model>Набор инструментов Rock FORCE RF-41013-5 101 предмет</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79041.6</price>
+        <cityprice cityId="615420100">79041.6</cityprice>
+    </offer>
+    <offer sku="1138635">
+      <model>Набор инструментов ЗУБР 29730-H6 6 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12084.47</price>
+        <cityprice cityId="615420100">12084.47</cityprice>
+    </offer>
+    <offer sku="1165349">
+      <model>Набор инструментов WMC TOOLS 2073 73 предмета</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89822.87</price>
+        <cityprice cityId="615420100">89822.87</cityprice>
+    </offer>
+    <offer sku="1166151">
+      <model>Набор инструментов Forsage F-4722-5 72 предмета</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>208345.75</price>
+        <cityprice cityId="615420100">208345.75</cityprice>
+    </offer>
+    <offer sku="1166974">
+      <model>Набор инструментов STAYER 28020-H24 24 предмета</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18272.44</price>
+        <cityprice cityId="615420100">18272.44</cityprice>
+    </offer>
+    <offer sku="1166995">
+      <model>Набор инструментов STAYER 27585-H19 19 предметов</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59281.2</price>
+        <cityprice cityId="615420100">59281.2</cityprice>
+    </offer>
+    <offer sku="10921576">
+      <model>Набор имбусовых ключей Pro’sKit HW-129, 9 предметов</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7653.2</price>
+        <cityprice cityId="615420100">7653.2</cityprice>
+    </offer>
+    <offer sku="1168724">
+      <model>Набор инструментов STAYER 27750-H12 12 предметов</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10555.02</price>
+        <cityprice cityId="615420100">10555.02</cityprice>
+    </offer>
+    <offer sku="1168932">
+      <model>Набор инструментов STAYER 2930-H7 7 предметов</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6879.58</price>
+        <cityprice cityId="615420100">6879.58</cityprice>
+    </offer>
+    <offer sku="1168956">
+      <model>Набор инструментов Kraftool 29170-H4 4 предмета</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3348.4</price>
+        <cityprice cityId="615420100">3348.4</cityprice>
+    </offer>
+    <offer sku="1169211">
+      <model>Набор инструментов KingTul Profi KT-27 27 предметов</model>
+      <brand>KingTul </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84712.83</price>
+        <cityprice cityId="615420100">84712.83</cityprice>
+    </offer>
+    <offer sku="1169471">
+      <model>Набор инструментов Forsage F-4401 40 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39780.65</price>
+        <cityprice cityId="615420100">39780.65</cityprice>
+    </offer>
+    <offer sku="12350447">
+      <model>Набор инструментов Зубр 27103-H5 5 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12722.73</price>
+        <cityprice cityId="615420100">12722.73</cityprice>
+    </offer>
+    <offer sku="12350726">
+      <model>Набор инструментов Зубр 2214-H7_z01 7 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13693.96</price>
+        <cityprice cityId="615420100">13693.96</cityprice>
+    </offer>
+    <offer sku="12350749">
+      <model>Набор инструментов Зубр Мастер 28115-H18_z01 18 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18660.73</price>
+        <cityprice cityId="615420100">18660.73</cityprice>
+    </offer>
+    <offer sku="12351116">
+      <model>Набор инструментов Зубр 25164-H37 37 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6456.71</price>
+        <cityprice cityId="615420100">6456.71</cityprice>
+    </offer>
+    <offer sku="12351150">
+      <model>Набор инструментов Зубр 27011-H8 8 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7991.11</price>
+        <cityprice cityId="615420100">7991.11</cityprice>
+    </offer>
+    <offer sku="1167714">
+      <model>Набор инструментов Thorvik UTS0128 128 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1113030.22</price>
+        <cityprice cityId="615420100">1113030.22</cityprice>
+    </offer>
+    <offer sku="1165848">
+      <model>Набор инструментов JONNESWAY S04H52483S 83 предмета</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136525.47</price>
+        <cityprice cityId="615420100">136525.47</cityprice>
+    </offer>
+    <offer sku="12340895">
+      <model>Набор метчиков и плашек Forsage F-M032-1, 32 предмета</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103464.47</price>
+        <cityprice cityId="615420100">103464.47</cityprice>
+    </offer>
+    <offer sku="12600948">
+      <model>Набор инструментов АвтоDело 39909, 119 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98495.92</price>
+        <cityprice cityId="615420100">98495.92</cityprice>
+    </offer>
+    <offer sku="12599225">
+      <model>Набор инструментов АвтоDело 39872, 72 предмета</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74496.71</price>
+        <cityprice cityId="615420100">74496.71</cityprice>
+    </offer>
+    <offer sku="12612823">
+      <model>Набор инструментов АвтоDело 39818, 108 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75998.5</price>
+        <cityprice cityId="615420100">75998.5</cityprice>
+    </offer>
+    <offer sku="1136614">
+      <model>Набор инструментов STELS 753271 94 предмета</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50981.83</price>
+        <cityprice cityId="615420100">50981.83</cityprice>
+    </offer>
+    <offer sku="1136577">
+      <model>Набор инструментов Sparta 773155 40 предметов</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12709.89</price>
+        <cityprice cityId="615420100">12709.89</cityprice>
+    </offer>
+    <offer sku="233953">
+      <model>Набор инструментов WMC Tools WMC-41082-5EURO, 108 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19794.79</price>
+        <cityprice cityId="615420100">19794.79</cityprice>
+    </offer>
+    <offer sku="10919625">
+      <model>Набор инструментов WMC Tools 1050, 50 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10412.74</price>
+        <cityprice cityId="615420100">10412.74</cityprice>
+    </offer>
+    <offer sku="1167757">
+      <model>Набор инструментов Sparta 723705 19 предметов</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4617.02</price>
+        <cityprice cityId="615420100">4617.02</cityprice>
+    </offer>
+    <offer sku="1138782">
+      <model>Набор инструментов НИЗ 13451 19 предметов</model>
+      <brand>НИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13931.08</price>
+        <cityprice cityId="615420100">13931.08</cityprice>
+    </offer>
+    <offer sku="1138854">
+      <model>Набор инструментов STELS 13573 18 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26049.15</price>
+        <cityprice cityId="615420100">26049.15</cityprice>
+    </offer>
+    <offer sku="1139428">
+      <model>Набор инструментов Matrix 13558 10 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5935.04</price>
+        <cityprice cityId="615420100">5935.04</cityprice>
+    </offer>
+    <offer sku="1165202">
+      <model>Набор инструментов JONNESWAY S04H524128S 128 предметов</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171322.67</price>
+        <cityprice cityId="615420100">171322.67</cityprice>
+    </offer>
+    <offer sku="1167556">
+      <model>Набор инструментов Thorvik CWS0025 25 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47763.97</price>
+        <cityprice cityId="615420100">47763.97</cityprice>
+    </offer>
+    <offer sku="1168267">
+      <model>Набор инструментов Thorvik UTS0094/12 94 предмета</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50426.29</price>
+        <cityprice cityId="615420100">50426.29</cityprice>
+    </offer>
+    <offer sku="1165473">
+      <model>Набор инструментов Ombra OMT131S18 131 предмет</model>
+      <brand>Ombra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167504.16</price>
+        <cityprice cityId="615420100">167504.16</cityprice>
+    </offer>
+    <offer sku="1165374">
+      <model>Набор инструментов БАРС 13358 41 предметов</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4606.15</price>
+        <cityprice cityId="615420100">4606.15</cityprice>
+    </offer>
+    <offer sku="1165683">
+      <model>Набор инструментов STELS 13604 10 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10361.37</price>
+        <cityprice cityId="615420100">10361.37</cityprice>
+    </offer>
+    <offer sku="1165485">
+      <model>Набор инструментов Proxxon 22650 8 предметов</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38209.2</price>
+        <cityprice cityId="615420100">38209.2</cityprice>
+    </offer>
+    <offer sku="1165923">
+      <model>Набор инструментов Thorvik UTS0056 56 предметов</model>
+      <brand>Thorvik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43928.26</price>
+        <cityprice cityId="615420100">43928.26</cityprice>
+    </offer>
+    <offer sku="12515138">
+      <model>Набор инструментов AVS ATS-108 108 предметов</model>
+      <brand>AVS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89128.99</price>
+        <cityprice cityId="615420100">89128.99</cityprice>
+    </offer>
+    <offer sku="12613763">
+      <model>Набор инструментов АвтоDело 30026, 6 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38432.99</price>
+        <cityprice cityId="615420100">38432.99</cityprice>
+    </offer>
+    <offer sku="1193963">
+      <model>Набор инструментов STELS 14127 11 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11267.38</price>
+        <cityprice cityId="615420100">11267.38</cityprice>
+    </offer>
+    <offer sku="1169367">
+      <model>Набор инструментов Sparta 702105 5 предметов</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>951.46</price>
+        <cityprice cityId="615420100">951.46</cityprice>
+    </offer>
+    <offer sku="1193366">
+      <model>Набор инструментов Gross 11627 4 предмета</model>
+      <brand>Gross </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11500.55</price>
+        <cityprice cityId="615420100">11500.55</cityprice>
+    </offer>
+    <offer sku="12439308">
+      <model>Набор инструментов Bosch 2.607.017.326 35 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105718.14</price>
+        <cityprice cityId="615420100">105718.14</cityprice>
+    </offer>
+    <offer sku="12475698">
+      <model>Набор инструментов Волат 18520-108, 108 предметов</model>
+      <brand>Волат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55149.44</price>
+        <cityprice cityId="615420100">55149.44</cityprice>
+    </offer>
+    <offer sku="1168402">
+      <model>Набор инструментов STANLEY STMT74393-8 125 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132888.69</price>
+        <cityprice cityId="615420100">132888.69</cityprice>
+    </offer>
+    <offer sku="1168410">
+      <model>Набор инструментов Pferd 531 WR 200 мм 5 предметов</model>
+      <brand>Pferd</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18803.86</price>
+        <cityprice cityId="615420100">18803.86</cityprice>
+    </offer>
+    <offer sku="1169468">
+      <model>Набор инструментов ForceKraft FK-6212-5MPB 21 предмет</model>
+      <brand>ForceKraft</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80522.64</price>
+        <cityprice cityId="615420100">80522.64</cityprice>
+    </offer>
+    <offer sku="10919700">
+      <model>Набор инструментов Isma 5123, 12 предметов</model>
+      <brand>Isma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14819.31</price>
+        <cityprice cityId="615420100">14819.31</cityprice>
+    </offer>
+    <offer sku="1168738">
+      <model>Набор инструментов DeWalt DT4941 10 предметов</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51947.13</price>
+        <cityprice cityId="615420100">51947.13</cityprice>
+    </offer>
+    <offer sku="1168821">
+      <model>Набор инструментов WMC 5123 12 предметов</model>
+      <brand>WMC</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4205.01</price>
+        <cityprice cityId="615420100">4205.01</cityprice>
+    </offer>
+    <offer sku="1136350">
+      <model>Набор инструментов STELS 14105 82 предмета</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17571.94</price>
+        <cityprice cityId="615420100">17571.94</cityprice>
+    </offer>
+    <offer sku="1139393">
+      <model>Набор инструментов FORCE 4911 91 предмет</model>
+      <brand>FORCE </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121526.46</price>
+        <cityprice cityId="615420100">121526.46</cityprice>
+    </offer>
+    <offer sku="12647818">
+      <model>Насос ручной испытательный Super-Ego R6020000, RP 50-s</model>
+      <brand>Super-Ego</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>988019.01</price>
+        <cityprice cityId="615420100">988019.01</cityprice>
+    </offer>
+    <offer sku="972099">
+      <model>Отбойный молоток Bosch GSH 11 E Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>334765.88</price>
+        <cityprice cityId="615420100">334765.88</cityprice>
+    </offer>
+    <offer sku="443864">
+      <model>Отбойный молоток Makita HM1111C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375447.6</price>
+        <cityprice cityId="615420100">375447.6</cityprice>
+    </offer>
+    <offer sku="972239">
+      <model>Отбойный молоток Makita HM1307CB</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>419785</price>
+        <cityprice cityId="615420100">419785</cityprice>
+    </offer>
+    <offer sku="443940">
+      <model>Отбойный молоток Makita HM1812</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>744665.73</price>
+        <cityprice cityId="615420100">744665.73</cityprice>
+    </offer>
+    <offer sku="972190">
+      <model>Отбойный молоток Makita HM1307C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>412469.7</price>
+        <cityprice cityId="615420100">412469.7</cityprice>
+    </offer>
+    <offer sku="972237">
+      <model>Отбойный молоток Makita HM1812</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>770655.6</price>
+        <cityprice cityId="615420100">770655.6</cityprice>
+    </offer>
+    <offer sku="748381">
+      <model>Отбойный молоток Alteco DH 1600-60</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67485.29</price>
+        <cityprice cityId="615420100">67485.29</cityprice>
+    </offer>
+    <offer sku="972242">
+      <model>Отбойный молоток Энкор МЭ-1500ЭМ</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156877.82</price>
+        <cityprice cityId="615420100">156877.82</cityprice>
+    </offer>
+    <offer sku="972220">
+      <model>Отбойный молоток Энкор МЭ-1700/30М</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1065257.48</price>
+        <cityprice cityId="615420100">1065257.48</cityprice>
+    </offer>
+    <offer sku="972241">
+      <model>Отбойный молоток Энкор МЭ-1200</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1808681.27</price>
+        <cityprice cityId="615420100">1808681.27</cityprice>
+    </offer>
+    <offer sku="972216">
+      <model>Отбойный молоток ЗУБР ЗМ-1500ЭК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98143.98</price>
+        <cityprice cityId="615420100">98143.98</cityprice>
+    </offer>
+    <offer sku="972223">
+      <model>Отбойный молоток Эврика ER-83502R</model>
+      <brand>Эврика</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1844369.54</price>
+        <cityprice cityId="615420100">1844369.54</cityprice>
+    </offer>
+    <offer sku="103431">
+      <model>Отбойный молоток Зубр ЗММ-25-1500 ЭВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>99790.02</price>
+        <cityprice cityId="615420100">99790.02</cityprice>
+    </offer>
+    <offer sku="972211">
+      <model>Отбойный молоток ЗУБР ЗММ-25-1500 ЭВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103731.23</price>
+        <cityprice cityId="615420100">103731.23</cityprice>
+    </offer>
+    <offer sku="972116">
+      <model>Отбойный молоток Интерскол М-20/1500ЭВ</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>198582.14</price>
+        <cityprice cityId="615420100">198582.14</cityprice>
+    </offer>
+    <offer sku="12360428">
+      <model>Отбойный молоток Felisatti М-20/1500ЭВ</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137908.01</price>
+        <cityprice cityId="615420100">137908.01</cityprice>
+    </offer>
+    <offer sku="12360096">
+      <model>Отбойный молоток Интерскол М-10.5/1200ЭВ</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116103.44</price>
+        <cityprice cityId="615420100">116103.44</cityprice>
+    </offer>
+    <offer sku="972132">
+      <model>Отбойный молоток Интерскол М-10/1100Э</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177842.61</price>
+        <cityprice cityId="615420100">177842.61</cityprice>
+    </offer>
+    <offer sku="10763792">
+      <model>Отбойный молоток Вихрь ОМ-1750Э</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69160.41</price>
+        <cityprice cityId="615420100">69160.41</cityprice>
+    </offer>
+    <offer sku="972219">
+      <model>Отбойный молоток ЗСО Углич МО-4Б</model>
+      <brand>ЗСО Углич</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52753.2</price>
+        <cityprice cityId="615420100">52753.2</cityprice>
+    </offer>
+    <offer sku="12167348">
+      <model>Отбойный молоток Профмаш ИП-4613МО-1У</model>
+      <brand>Профмаш</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8224880.18</price>
+        <cityprice cityId="615420100">8224880.18</cityprice>
+    </offer>
+    <offer sku="12360426">
+      <model>Отбойный молоток TCH ТСН6607</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1292609.77</price>
+        <cityprice cityId="615420100">1292609.77</cityprice>
+    </offer>
+    <offer sku="972166">
+      <model>Отбойный молоток Томский завод им.Кузнецова МОП-4П</model>
+      <brand>Томский завод им.Кузнецова</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175668.97</price>
+        <cityprice cityId="615420100">175668.97</cityprice>
+    </offer>
+    <offer sku="972160">
+      <model>Отбойный молоток Томский завод им.Кузнецова БК-3</model>
+      <brand>Томский завод им.Кузнецова</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3069348.35</price>
+        <cityprice cityId="615420100">3069348.35</cityprice>
+    </offer>
+    <offer sku="972161">
+      <model>Отбойный молоток Томский завод им.Кузнецова МОП-3П</model>
+      <brand>Томский завод им.Кузнецова</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>699480.62</price>
+        <cityprice cityId="615420100">699480.62</cityprice>
+    </offer>
+    <offer sku="12360422">
+      <model>Отбойный молоток TCH ТН8515</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172903.5</price>
+        <cityprice cityId="615420100">172903.5</cityprice>
+    </offer>
+    <offer sku="972169">
+      <model>Отбойный молоток СТАВР МОЭ-1300</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95650.22</price>
+        <cityprice cityId="615420100">95650.22</cityprice>
+    </offer>
+    <offer sku="972234">
+      <model>Отбойный молоток СТАВР МОЭ-1800</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5358381.23</price>
+        <cityprice cityId="615420100">5358381.23</cityprice>
+    </offer>
+    <offer sku="12360484">
+      <model>Отбойный молоток Спец МОЭ-1650</model>
+      <brand>СПЕЦ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>239298.44</price>
+        <cityprice cityId="615420100">239298.44</cityprice>
+    </offer>
+    <offer sku="972151">
+      <model>Отбойный молоток P.I.T. GSH 90-С1 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>256885.2</price>
+        <cityprice cityId="615420100">256885.2</cityprice>
+    </offer>
+    <offer sku="10763696">
+      <model>Отбойный молоток Победа MT-45/1690</model>
+      <brand>Победа</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68184.25</price>
+        <cityprice cityId="615420100">68184.25</cityprice>
+    </offer>
+    <offer sku="972129">
+      <model>Отбойный молоток КАЛИБР ПНЗ-19/800</model>
+      <brand>КАЛИБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1796735.12</price>
+        <cityprice cityId="615420100">1796735.12</cityprice>
+    </offer>
+    <offer sku="12167103">
+      <model>Бетонолом пневматический Chicago Pneumatic CP 1260 S</model>
+      <brand>Chicago Pneumatic</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7961954.23</price>
+        <cityprice cityId="615420100">7961954.23</cityprice>
+    </offer>
+    <offer sku="972205">
+      <model>Отбойный молоток ELITECH 0704.013200</model>
+      <brand>ELITECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38422.12</price>
+        <cityprice cityId="615420100">38422.12</cityprice>
+    </offer>
+    <offer sku="972118">
+      <model>Отбойный молоток JONNESWAY JAH-303HK</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>160087.89</price>
+        <cityprice cityId="615420100">160087.89</cityprice>
+    </offer>
+    <offer sku="972121">
+      <model>Отбойный молоток Hitachi H45MEY</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>310029.81</price>
+        <cityprice cityId="615420100">310029.81</cityprice>
+    </offer>
+    <offer sku="972122">
+      <model>Отбойный молоток Hitachi H45MR</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>361615.32</price>
+        <cityprice cityId="615420100">361615.32</cityprice>
+    </offer>
+    <offer sku="12360401">
+      <model>Отбойный молоток Stanley STHM10K-RU</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180750.35</price>
+        <cityprice cityId="615420100">180750.35</cityprice>
+    </offer>
+    <offer sku="972170">
+      <model>Отбойный молоток Total TH215002</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108662.44</price>
+        <cityprice cityId="615420100">108662.44</cityprice>
+    </offer>
+    <offer sku="972108">
+      <model>Отбойный молоток DeWALT D25330K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>256568.05</price>
+        <cityprice cityId="615420100">256568.05</cityprice>
+    </offer>
+    <offer sku="972173">
+      <model>Отбойный молоток Metabo MHEV 5 BL</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>481165.74</price>
+        <cityprice cityId="615420100">481165.74</cityprice>
+    </offer>
+    <offer sku="972147">
+      <model>Отбойный молоток RedVerg RD-DH1300</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>463381.38</price>
+        <cityprice cityId="615420100">463381.38</cityprice>
+    </offer>
+    <offer sku="12360086">
+      <model>Отбойный молоток Tolsen 88551</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106830.56</price>
+        <cityprice cityId="615420100">106830.56</cityprice>
+    </offer>
+    <offer sku="972243">
+      <model>Отбойный молоток DeWALT D25960K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>767691.54</price>
+        <cityprice cityId="615420100">767691.54</cityprice>
+    </offer>
+    <offer sku="12359777">
+      <model>Отбойный молоток MS Tools ОМ-50</model>
+      <brand>MS Tools</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72520.67</price>
+        <cityprice cityId="615420100">72520.67</cityprice>
+    </offer>
+    <offer sku="10687312">
+      <model>Отбойный молоток Bosch GSH 500 Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101349.12</price>
+        <cityprice cityId="615420100">101349.12</cityprice>
+    </offer>
+    <offer sku="972133">
+      <model>Отбойный молоток Интерскол М-10/1100</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180035.87</price>
+        <cityprice cityId="615420100">180035.87</cityprice>
+    </offer>
+    <offer sku="12352178">
+      <model>Отбойный молоток Зубр ЗМ-1250К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2433041.73</price>
+        <cityprice cityId="615420100">2433041.73</cityprice>
+    </offer>
+    <offer sku="443968">
+      <model>Отбойный молоток Makita HM1317CB</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>469307.52</price>
+        <cityprice cityId="615420100">469307.52</cityprice>
+    </offer>
+    <offer sku="4757844">
+      <model>Отбойный молоток Hitachi H60ME</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>448026.56</price>
+        <cityprice cityId="615420100">448026.56</cityprice>
+    </offer>
+    <offer sku="12359776">
+      <model>Отбойный молоток P.I.T. Pro 28502</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105198.44</price>
+        <cityprice cityId="615420100">105198.44</cityprice>
+    </offer>
+    <offer sku="12360038">
+      <model>Отбойный молоток Fixtec FDH20002</model>
+      <brand>Fixtec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7109853.18</price>
+        <cityprice cityId="615420100">7109853.18</cityprice>
+    </offer>
+    <offer sku="12360080">
+      <model>Отбойный молоток DeWalt D25901K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7326438.03</price>
+        <cityprice cityId="615420100">7326438.03</cityprice>
+    </offer>
+    <offer sku="12360390">
+      <model>Отбойный молоток Worcraft DB13-15</model>
+      <brand>WORCRAFT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4666393.76</price>
+        <cityprice cityId="615420100">4666393.76</cityprice>
+    </offer>
+    <offer sku="972159">
+      <model>Отбойный молоток Status MH1200</model>
+      <brand>Status</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140411.47</price>
+        <cityprice cityId="615420100">140411.47</cityprice>
+    </offer>
+    <offer sku="972103">
+      <model>Отбойный молоток Bosch GSH 16-28 Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>692503.22</price>
+        <cityprice cityId="615420100">692503.22</cityprice>
+    </offer>
+    <offer sku="12360482">
+      <model>Отбойный молоток Crown CT18124BMC</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171189.29</price>
+        <cityprice cityId="615420100">171189.29</cityprice>
+    </offer>
+    <offer sku="12360092">
+      <model>Отбойный молоток Makita HM1304</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>419315.69</price>
+        <cityprice cityId="615420100">419315.69</cityprice>
+    </offer>
+    <offer sku="12360447">
+      <model>Отбойный молоток Crown CT18021</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81017.64</price>
+        <cityprice cityId="615420100">81017.64</cityprice>
+    </offer>
+    <offer sku="12359778">
+      <model>Отбойный молоток P.I.T. 26502</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76601.19</price>
+        <cityprice cityId="615420100">76601.19</cityprice>
+    </offer>
+    <offer sku="12360068">
+      <model>Отбойный молоток Hilti TE 800-AVR 2064824</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>765100.95</price>
+        <cityprice cityId="615420100">765100.95</cityprice>
+    </offer>
+    <offer sku="12360459">
+      <model>Отбойный молоток DeWalt D25701K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>330904.21</price>
+        <cityprice cityId="615420100">330904.21</cityprice>
+    </offer>
+    <offer sku="12360488">
+      <model>Отбойный молоток Haina 1053</model>
+      <brand>Haina</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121929.84</price>
+        <cityprice cityId="615420100">121929.84</cityprice>
+    </offer>
+    <offer sku="12226987">
+      <model>Отбойный молоток Grandfar GSH 20-1300 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>316166.4</price>
+        <cityprice cityId="615420100">316166.4</cityprice>
+    </offer>
+    <offer sku="12227002">
+      <model>Отбойный молоток Grandfar GSH 65-1700 G2</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395208</price>
+        <cityprice cityId="615420100">395208</cityprice>
+    </offer>
+    <offer sku="10688720">
+      <model>Отбойный молоток Bosch GSH 5 CE Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>356181.21</price>
+        <cityprice cityId="615420100">356181.21</cityprice>
+    </offer>
+    <offer sku="443873">
+      <model>Отбойный молоток  Makita HM1203C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>362165.65</price>
+        <cityprice cityId="615420100">362165.65</cityprice>
+    </offer>
+    <offer sku="443939">
+      <model>Отбойный молоток Makita HM1202C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484129.8</price>
+        <cityprice cityId="615420100">484129.8</cityprice>
+    </offer>
+    <offer sku="12165612">
+      <model>Отбойный молоток Patriot DB 460 140301375</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>170927.46</price>
+        <cityprice cityId="615420100">170927.46</cityprice>
+    </offer>
+    <offer sku="972104">
+      <model>Отбойный молоток Bosch GSH 16-30 Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>517722.48</price>
+        <cityprice cityId="615420100">517722.48</cityprice>
+    </offer>
+    <offer sku="972107">
+      <model>Отбойный молоток Bosch GSH 7 VC Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>416555.16</price>
+        <cityprice cityId="615420100">416555.16</cityprice>
+    </offer>
+    <offer sku="972165">
+      <model>Отбойный молоток SUMAKE ST-2200A/H</model>
+      <brand>SUMAKE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4301152.41</price>
+        <cityprice cityId="615420100">4301152.41</cityprice>
+    </offer>
+    <offer sku="972168">
+      <model>Отбойный молоток Sturm! RH2521P</model>
+      <brand>Sturm!</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4484168.29</price>
+        <cityprice cityId="615420100">4484168.29</cityprice>
+    </offer>
+    <offer sku="972184">
+      <model>Отбойный молоток Makita HM1400</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11918475.38</price>
+        <cityprice cityId="615420100">11918475.38</cityprice>
+    </offer>
+    <offer sku="972208">
+      <model>Отбойный молоток Makita HM0870C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187810.75</price>
+        <cityprice cityId="615420100">187810.75</cityprice>
+    </offer>
+    <offer sku="972209">
+      <model>Отбойный молоток Makita HM0860C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4643072.54</price>
+        <cityprice cityId="615420100">4643072.54</cityprice>
+    </offer>
+    <offer sku="972210">
+      <model>Отбойный молоток Зубр ЗМ-60-2200 ВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>329850.48</price>
+        <cityprice cityId="615420100">329850.48</cityprice>
+    </offer>
+    <offer sku="972228">
+      <model>Отбойный молоток PATRIOT DB 550</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164612.04</price>
+        <cityprice cityId="615420100">164612.04</cityprice>
+    </offer>
+    <offer sku="972229">
+      <model>Отбойный молоток Milwaukee Kango 900 S</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>609330.71</price>
+        <cityprice cityId="615420100">609330.71</cityprice>
+    </offer>
+    <offer sku="972233">
+      <model>Отбойный молоток SUMAKE ST-2210/H</model>
+      <brand>SUMAKE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1248108.36</price>
+        <cityprice cityId="615420100">1248108.36</cityprice>
+    </offer>
+    <offer sku="972153">
+      <model>Отбойный молоток Milwaukee PCE 3/K</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>389537.33</price>
+        <cityprice cityId="615420100">389537.33</cityprice>
+    </offer>
+    <offer sku="12360458">
+      <model>Отбойный молоток Crown CT18185</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>205780.67</price>
+        <cityprice cityId="615420100">205780.67</cityprice>
+    </offer>
+    <offer sku="12709973">
+      <model>Отбойный молоток Вихрь ОМ-65А 72/23/2</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111866.94</price>
+        <cityprice cityId="615420100">111866.94</cityprice>
+    </offer>
+    <offer sku="12226986">
+      <model>Отбойный молоток Grandfar GSH 18-1500 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>262813.32</price>
+        <cityprice cityId="615420100">262813.32</cityprice>
+    </offer>
+    <offer sku="12227005">
+      <model>Отбойный молоток Grandfar GSH 65-2000 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>366902.22</price>
+        <cityprice cityId="615420100">366902.22</cityprice>
+    </offer>
+    <offer sku="972125">
+      <model>Отбойный молоток Ingersoll Rand 122MAX</model>
+      <brand>Ingersoll Rand</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1077142.37</price>
+        <cityprice cityId="615420100">1077142.37</cityprice>
+    </offer>
+    <offer sku="12166749">
+      <model>Отбойный молоток DWT DBR14-30 BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142325.27</price>
+        <cityprice cityId="615420100">142325.27</cityprice>
+    </offer>
+    <offer sku="12359782">
+      <model>Отбойный молоток Crown CT 18024 ВМС</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118562.4</price>
+        <cityprice cityId="615420100">118562.4</cityprice>
+    </offer>
+    <offer sku="12360011">
+      <model>Отбойный молоток DWT AH15-30 B BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104730.12</price>
+        <cityprice cityId="615420100">104730.12</cityprice>
+    </offer>
+    <offer sku="12360440">
+      <model>Отбойный молоток TEH TH6514</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78427.05</price>
+        <cityprice cityId="615420100">78427.05</cityprice>
+    </offer>
+    <offer sku="443950">
+      <model>Отбойный молоток Makita HM1101C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>238145.42</price>
+        <cityprice cityId="615420100">238145.42</cityprice>
+    </offer>
+    <offer sku="972115">
+      <model>Отбойный молоток AEG МH 5 G</model>
+      <brand>AEG</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3933764.09</price>
+        <cityprice cityId="615420100">3933764.09</cityprice>
+    </offer>
+    <offer sku="972117">
+      <model>Отбойный молоток Интерскол М-12,5/1050</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2761408.21</price>
+        <cityprice cityId="615420100">2761408.21</cityprice>
+    </offer>
+    <offer sku="972156">
+      <model>Отбойный молоток Milwaukee Kango 900 K</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11530393.97</price>
+        <cityprice cityId="615420100">11530393.97</cityprice>
+    </offer>
+    <offer sku="972226">
+      <model>Отбойный молоток HIKOKI H 60ME</model>
+      <brand>HIKOKI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3080172.11</price>
+        <cityprice cityId="615420100">3080172.11</cityprice>
+    </offer>
+    <offer sku="972112">
+      <model>Отбойный молоток DeWALT D25872K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>492864.01</price>
+        <cityprice cityId="615420100">492864.01</cityprice>
+    </offer>
+    <offer sku="972114">
+      <model>Отбойный молоток DeWALT D25902K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>548351.1</price>
+        <cityprice cityId="615420100">548351.1</cityprice>
+    </offer>
+    <offer sku="12226989">
+      <model>Отбойный молоток Grandfar GSH 20-1400 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6131582.96</price>
+        <cityprice cityId="615420100">6131582.96</cityprice>
+    </offer>
+    <offer sku="12226991">
+      <model>Отбойный молоток Grandfar GSH 25-1400 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6131582.96</price>
+        <cityprice cityId="615420100">6131582.96</cityprice>
+    </offer>
+    <offer sku="12360044">
+      <model>Отбойный молоток Makita HM1802</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>732078.36</price>
+        <cityprice cityId="615420100">732078.36</cityprice>
+    </offer>
+    <offer sku="12360082">
+      <model>Отбойный молоток Stanley STHM5KS-RU</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180825.89</price>
+        <cityprice cityId="615420100">180825.89</cityprice>
+    </offer>
+    <offer sku="12359784">
+      <model>Отбойный молоток Stalker МО-2А</model>
+      <brand>Stalker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64878.33</price>
+        <cityprice cityId="615420100">64878.33</cityprice>
+    </offer>
+    <offer sku="972130">
+      <model>Отбойный молоток Кратон DHE-1700</model>
+      <brand>Кратон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>993112.26</price>
+        <cityprice cityId="615420100">993112.26</cityprice>
+    </offer>
+    <offer sku="972181">
+      <model>Отбойный молоток Makita HM1810</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1001259.47</price>
+        <cityprice cityId="615420100">1001259.47</cityprice>
+    </offer>
+    <offer sku="972212">
+      <model>Отбойный молоток ЗУБР ЗМ-50-2000 ВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>196114.07</price>
+        <cityprice cityId="615420100">196114.07</cityprice>
+    </offer>
+    <offer sku="10767149">
+      <model>Отбойный молоток Milwaukee Kango 500 ST</model>
+      <brand>Milwaukee </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236956.87</price>
+        <cityprice cityId="615420100">236956.87</cityprice>
+    </offer>
+    <offer sku="972185">
+      <model>Отбойный молоток Makita HM1317CB</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>483683.21</price>
+        <cityprice cityId="615420100">483683.21</cityprice>
+    </offer>
+    <offer sku="972195">
+      <model>Отбойный молоток Makita HM1203C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247389.34</price>
+        <cityprice cityId="615420100">247389.34</cityprice>
+    </offer>
+    <offer sku="972109">
+      <model>Отбойный молоток DeWALT D25810K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>256784.42</price>
+        <cityprice cityId="615420100">256784.42</cityprice>
+    </offer>
+    <offer sku="972230">
+      <model>Отбойный молоток Metabo MHE 96</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>642213</price>
+        <cityprice cityId="615420100">642213</cityprice>
+    </offer>
+    <offer sku="12360430">
+      <model>Отбойный молоток TEH TH9517</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98841.48</price>
+        <cityprice cityId="615420100">98841.48</cityprice>
+    </offer>
+    <offer sku="12360477">
+      <model>Отбойный молоток Bosch GSH 388 0611388003</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>178930.42</price>
+        <cityprice cityId="615420100">178930.42</cityprice>
+    </offer>
+    <offer sku="12360480">
+      <model>Отбойный молоток Makita HM0810T</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>382424.3</price>
+        <cityprice cityId="615420100">382424.3</cityprice>
+    </offer>
+    <offer sku="12360028">
+      <model>Отбойный молоток Felisatti H10.5/1200EV</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6103892.71</price>
+        <cityprice cityId="615420100">6103892.71</cityprice>
+    </offer>
+    <offer sku="12165869">
+      <model>Отбойный молоток DeWalt D25941K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>648007.15</price>
+        <cityprice cityId="615420100">648007.15</cityprice>
+    </offer>
+    <offer sku="972128">
+      <model>Отбойный молоток КАЛИБР ОМП-815</model>
+      <brand>КАЛИБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>657251.65</price>
+        <cityprice cityId="615420100">657251.65</cityprice>
+    </offer>
+    <offer sku="972192">
+      <model>Отбойный молоток Wester VM-10</model>
+      <brand>Wester</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>263087.99</price>
+        <cityprice cityId="615420100">263087.99</cityprice>
+    </offer>
+    <offer sku="972206">
+      <model>Отбойный молоток Elmos EJH-112</model>
+      <brand>Elmos</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>765977.33</price>
+        <cityprice cityId="615420100">765977.33</cityprice>
+    </offer>
+    <offer sku="12360022">
+      <model>Отбойный молоток Makita HM1306</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>987222.67</price>
+        <cityprice cityId="615420100">987222.67</cityprice>
+    </offer>
+    <offer sku="12360031">
+      <model>Отбойный молоток DeWalt D25830K</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>229757.8</price>
+        <cityprice cityId="615420100">229757.8</cityprice>
+    </offer>
+    <offer sku="12360396">
+      <model>Отбойный молоток Felisatti М-40/2000В</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1135205.34</price>
+        <cityprice cityId="615420100">1135205.34</cityprice>
+    </offer>
+    <offer sku="12226850">
+      <model>Отбойный молоток Grandfar GSH 45-1700 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>326045.61</price>
+        <cityprice cityId="615420100">326045.61</cityprice>
+    </offer>
+    <offer sku="12227000">
+      <model>Отбойный молоток Grandfar GSH GSH 65-1700 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375447.6</price>
+        <cityprice cityId="615420100">375447.6</cityprice>
+    </offer>
+    <offer sku="443840">
+      <model>Отбойный молоток Einhell BT-DH 1600/1</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>462499.08</price>
+        <cityprice cityId="615420100">462499.08</cityprice>
+    </offer>
+    <offer sku="12226990">
+      <model>Отбойный молоток Grandfar GSH 20-1500 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2553435.92</price>
+        <cityprice cityId="615420100">2553435.92</cityprice>
+    </offer>
+    <offer sku="972176">
+      <model>Отбойный молоток Metabo DMH 30 SET</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>524445.96</price>
+        <cityprice cityId="615420100">524445.96</cityprice>
+    </offer>
+    <offer sku="972154">
+      <model>Отбойный молоток SPARKY K 615CE</model>
+      <brand>SPARKY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>153043.31</price>
+        <cityprice cityId="615420100">153043.31</cityprice>
+    </offer>
+    <offer sku="972120">
+      <model>Отбойный молоток Hitachi H41MB</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>434690.27</price>
+        <cityprice cityId="615420100">434690.27</cityprice>
+    </offer>
+    <offer sku="972106">
+      <model>Отбойный молоток Bosch GSH 501 Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183017.86</price>
+        <cityprice cityId="615420100">183017.86</cityprice>
+    </offer>
+    <offer sku="972113">
+      <model>Отбойный молоток DeWALT D25899K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>509342.53</price>
+        <cityprice cityId="615420100">509342.53</cityprice>
+    </offer>
+    <offer sku="12360405">
+      <model>Отбойный молоток Crown CT18095</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>343638.51</price>
+        <cityprice cityId="615420100">343638.51</cityprice>
+    </offer>
+    <offer sku="972110">
+      <model>Отбойный молоток DeWALT D25831K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>478730.27</price>
+        <cityprice cityId="615420100">478730.27</cityprice>
+    </offer>
+    <offer sku="972111">
+      <model>Отбойный молоток DeWALT D25871K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>577887.96</price>
+        <cityprice cityId="615420100">577887.96</cityprice>
+    </offer>
+    <offer sku="972202">
+      <model>Отбойный молоток Einhell TC-DH 43</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139656.63</price>
+        <cityprice cityId="615420100">139656.63</cityprice>
+    </offer>
+    <offer sku="443957">
+      <model>Отбойный молоток Makita HM1213C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>393683.49</price>
+        <cityprice cityId="615420100">393683.49</cityprice>
+    </offer>
+    <offer sku="972163">
+      <model>Отбойный молоток Sumake ST-2310/H</model>
+      <brand>SUMAKE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>568919.7</price>
+        <cityprice cityId="615420100">568919.7</cityprice>
+    </offer>
+    <offer sku="12360042">
+      <model>Отбойный молоток Fixtec FDH15002</model>
+      <brand>Fixtec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1290688.07</price>
+        <cityprice cityId="615420100">1290688.07</cityprice>
+    </offer>
+    <offer sku="12360384">
+      <model>Отбойный молоток Ingco PDB17018</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3233339.91</price>
+        <cityprice cityId="615420100">3233339.91</cityprice>
+    </offer>
+    <offer sku="12226998">
+      <model>Отбойный молоток Grandfar GSH 65-1500 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2858653.09</price>
+        <cityprice cityId="615420100">2858653.09</cityprice>
+    </offer>
+    <offer sku="972102">
+      <model>Отбойный молоток Bosch GSH 11 VC Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>416887.13</price>
+        <cityprice cityId="615420100">416887.13</cityprice>
+    </offer>
+    <offer sku="972238">
+      <model>Отбойный молоток Makita HM1801</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>734418.98</price>
+        <cityprice cityId="615420100">734418.98</cityprice>
+    </offer>
+    <offer sku="972150">
+      <model>Отбойный молоток PATRIOT DB 400</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61798.67</price>
+        <cityprice cityId="615420100">61798.67</cityprice>
+    </offer>
+    <offer sku="972197">
+      <model>Отбойный молоток Makita HM1213C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>311507.6</price>
+        <cityprice cityId="615420100">311507.6</cityprice>
+    </offer>
+    <offer sku="972207">
+      <model>Отбойный молоток Makita HM0871C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195627.96</price>
+        <cityprice cityId="615420100">195627.96</cityprice>
+    </offer>
+    <offer sku="12359779">
+      <model>Отбойный молоток P.I.T. 26501</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78231.42</price>
+        <cityprice cityId="615420100">78231.42</cityprice>
+    </offer>
+    <offer sku="972178">
+      <model>Отбойный молоток Maxpro MPDH1500</model>
+      <brand>Maxpro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1951171.54</price>
+        <cityprice cityId="615420100">1951171.54</cityprice>
+    </offer>
+    <offer sku="12360013">
+      <model>Отбойный молоток DWT H17-11 B BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127454.58</price>
+        <cityprice cityId="615420100">127454.58</cityprice>
+    </offer>
+    <offer sku="10921653">
+      <model>Отбойный молоток Kedr K59001</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114227.14</price>
+        <cityprice cityId="615420100">114227.14</cityprice>
+    </offer>
+    <offer sku="12360464">
+      <model>Отбойный молоток Felisatti H18/1500ЕV</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>229856.55</price>
+        <cityprice cityId="615420100">229856.55</cityprice>
+    </offer>
+    <offer sku="12360481">
+      <model>Отбойный молоток Milwaukee K 900 S 4933375720</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1049893.5</price>
+        <cityprice cityId="615420100">1049893.5</cityprice>
+    </offer>
+    <offer sku="972171">
+      <model>Отбойный молоток Metabo MHE 5</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3065744.05</price>
+        <cityprice cityId="615420100">3065744.05</cityprice>
+    </offer>
+    <offer sku="12226995">
+      <model>Отбойный молоток Grandfar GSH 45-1700 G2</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2233689.93</price>
+        <cityprice cityId="615420100">2233689.93</cityprice>
+    </offer>
+    <offer sku="12360098">
+      <model>Отбойный молоток Tolsen 79517</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167852.74</price>
+        <cityprice cityId="615420100">167852.74</cityprice>
+    </offer>
+    <offer sku="12227003">
+      <model>Отбойный молоток Grandfar GSH 65-1900 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105718.14</price>
+        <cityprice cityId="615420100">105718.14</cityprice>
+    </offer>
+    <offer sku="12360434">
+      <model>Отбойный молоток Makita HK0500</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133273.03</price>
+        <cityprice cityId="615420100">133273.03</cityprice>
+    </offer>
+    <offer sku="12360444">
+      <model>Отбойный молоток P.I.T. Pro 28501</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171598.33</price>
+        <cityprice cityId="615420100">171598.33</cityprice>
+    </offer>
+    <offer sku="3831492">
+      <model>Отбойный молоток Makita HM1317C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>532527.96</price>
+        <cityprice cityId="615420100">532527.96</cityprice>
+    </offer>
+    <offer sku="419064">
+      <model>Отбойный молоток P.I.T. &quot;26503&quot;</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70939.84</price>
+        <cityprice cityId="615420100">70939.84</cityprice>
+    </offer>
+    <offer sku="972148">
+      <model>Отбойный молоток PATRIOT DB 560</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113296.25</price>
+        <cityprice cityId="615420100">113296.25</cityprice>
+    </offer>
+    <offer sku="972155">
+      <model>Отбойный молоток STANLEY STHM10K</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1251777.87</price>
+        <cityprice cityId="615420100">1251777.87</cityprice>
+    </offer>
+    <offer sku="972188">
+      <model>Отбойный молоток Wester MH-10</model>
+      <brand>Wester</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>446747.08</price>
+        <cityprice cityId="615420100">446747.08</cityprice>
+    </offer>
+    <offer sku="972200">
+      <model>Отбойный молоток DeWALT D25981</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1172467.53</price>
+        <cityprice cityId="615420100">1172467.53</cityprice>
+    </offer>
+    <offer sku="972227">
+      <model>Отбойный молоток RedVerg RD-DH1350</model>
+      <brand>RedVerg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>723810.61</price>
+        <cityprice cityId="615420100">723810.61</cityprice>
+    </offer>
+    <offer sku="972236">
+      <model>Отбойный молоток Total TH220502</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>262807.39</price>
+        <cityprice cityId="615420100">262807.39</cityprice>
+    </offer>
+    <offer sku="12359789">
+      <model>Отбойный молоток Ferm HDM1049P</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67850.3</price>
+        <cityprice cityId="615420100">67850.3</cityprice>
+    </offer>
+    <offer sku="12165873">
+      <model>Отбойный молоток Ferm HDM1040P</model>
+      <brand>Ferm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59844.37</price>
+        <cityprice cityId="615420100">59844.37</cityprice>
+    </offer>
+    <offer sku="972180">
+      <model>Отбойный молоток Max-Pro 85105</model>
+      <brand>Max-Pro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4454505.95</price>
+        <cityprice cityId="615420100">4454505.95</cityprice>
+    </offer>
+    <offer sku="12226996">
+      <model>Отбойный молоток Grandfar GSH 46-1500 G1</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>385327.8</price>
+        <cityprice cityId="615420100">385327.8</cityprice>
+    </offer>
+    <offer sku="12359780">
+      <model>Отбойный молоток Kedr К56505</model>
+      <brand>Kedr</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16302.33</price>
+        <cityprice cityId="615420100">16302.33</cityprice>
+    </offer>
+    <offer sku="12360071">
+      <model>Отбойный молоток Hilti TE 700-AVR 230V 2319072</model>
+      <brand>Hilti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>951397.75</price>
+        <cityprice cityId="615420100">951397.75</cityprice>
+    </offer>
+    <offer sku="12360093">
+      <model>Отбойный молоток Tolsen 88552</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149254.68</price>
+        <cityprice cityId="615420100">149254.68</cityprice>
+    </offer>
+    <offer sku="12360463">
+      <model>Отбойный молоток DWT H-1200 VS BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1068051.6</price>
+        <cityprice cityId="615420100">1068051.6</cityprice>
+    </offer>
+    <offer sku="12360475">
+      <model>Отбойный молоток Ingco Induatrial PDB15006</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182889.81</price>
+        <cityprice cityId="615420100">182889.81</cityprice>
+    </offer>
+    <offer sku="972127">
+      <model>Отбойный молоток КАЛИБР Мастер ОМ-1500М</model>
+      <brand>КАЛИБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1533775.57</price>
+        <cityprice cityId="615420100">1533775.57</cityprice>
+    </offer>
+    <offer sku="972193">
+      <model>Отбойный молоток Makita HM1214C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>575177.6</price>
+        <cityprice cityId="615420100">575177.6</cityprice>
+    </offer>
+    <offer sku="972201">
+      <model>Отбойный молоток ДИОЛД МЭО-1</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>281792.2</price>
+        <cityprice cityId="615420100">281792.2</cityprice>
+    </offer>
+    <offer sku="12360083">
+      <model>Отбойный молоток Einhell TE-DH 32 4139099</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>223710.45</price>
+        <cityprice cityId="615420100">223710.45</cityprice>
+    </offer>
+    <offer sku="12360466">
+      <model>Отбойный молоток Интерскол М-25/1500</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>199075.37</price>
+        <cityprice cityId="615420100">199075.37</cityprice>
+    </offer>
+    <offer sku="10812512">
+      <model>Отбойный молоток DWT AH19-30 B BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156550.78</price>
+        <cityprice cityId="615420100">156550.78</cityprice>
+    </offer>
+    <offer sku="10812536">
+      <model>Отбойный молоток DWT AH16-30 B BMC</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119806.32</price>
+        <cityprice cityId="615420100">119806.32</cityprice>
+    </offer>
+    <offer sku="443978">
+      <model>Отбойный молоток Makita HM1214C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>424848.6</price>
+        <cityprice cityId="615420100">424848.6</cityprice>
+    </offer>
+    <offer sku="12165872">
+      <model>Отбойный молоток Ingho GDB80551</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>344324.97</price>
+        <cityprice cityId="615420100">344324.97</cityprice>
+    </offer>
+    <offer sku="972174">
+      <model>Отбойный молоток Total TH215456</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130630.08</price>
+        <cityprice cityId="615420100">130630.08</cityprice>
+    </offer>
+    <offer sku="972199">
+      <model>Отбойный молоток DeWALT D25961K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>934217.81</price>
+        <cityprice cityId="615420100">934217.81</cityprice>
+    </offer>
+    <offer sku="972204">
+      <model>Отбойный молоток Einhell TE-DH 12</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165879.67</price>
+        <cityprice cityId="615420100">165879.67</cityprice>
+    </offer>
+    <offer sku="972213">
+      <model>Отбойный молоток ЗУБР ЗМ-40-1700 К</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117574.38</price>
+        <cityprice cityId="615420100">117574.38</cityprice>
+    </offer>
+    <offer sku="972215">
+      <model>Отбойный молоток ЗУБР ЗМ-35-1600 ВК</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128442.6</price>
+        <cityprice cityId="615420100">128442.6</cityprice>
+    </offer>
+    <offer sku="11138591">
+      <model>Отбойный молоток IVT DBRK-1500</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1775205.17</price>
+        <cityprice cityId="615420100">1775205.17</cityprice>
+    </offer>
+    <offer sku="243854">
+      <model>Перфоратор Alteco RH 850-26</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24982.09</price>
+        <cityprice cityId="615420100">24982.09</cityprice>
+    </offer>
+    <offer sku="8554">
+      <model>Перфоратор Bosch GBH 2-26 DRE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64221.3</price>
+        <cityprice cityId="615420100">64221.3</cityprice>
+    </offer>
+    <offer sku="7144159">
+      <model>Перфоратор Makita HR5202C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375447.6</price>
+        <cityprice cityId="615420100">375447.6</cityprice>
+    </offer>
+    <offer sku="3926947">
+      <model>Перфоратор Makita HR2800</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116197.13</price>
+        <cityprice cityId="615420100">116197.13</cityprice>
+    </offer>
+    <offer sku="7145966">
+      <model>Перфоратор Вихрь П-650К</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15827.09</price>
+        <cityprice cityId="615420100">15827.09</cityprice>
+    </offer>
+    <offer sku="7146300">
+      <model>Перфоратор Bosch GBH 180-LI 0611911121</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>123447.17</price>
+        <cityprice cityId="615420100">123447.17</cityprice>
+    </offer>
+    <offer sku="7143801">
+      <model>Перфоратор Bosch GBH 2-28</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41080.88</price>
+        <cityprice cityId="615420100">41080.88</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
