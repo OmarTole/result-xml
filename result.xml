@@ -93108,5 +93108,2975 @@
       <price>16497.96</price>
         <cityprice cityId="615420100">16497.96</cityprice>
     </offer>
+    <offer sku="10760768">
+      <model>Электрорубанок Denzel EP-82 27801</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39212.54</price>
+        <cityprice cityId="615420100">39212.54</cityprice>
+    </offer>
+    <offer sku="443393">
+      <model>Электрорубанок Hyundai HY-880</model>
+      <brand>Hyundai</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64255.88</price>
+        <cityprice cityId="615420100">64255.88</cityprice>
+    </offer>
+    <offer sku="3927143">
+      <model>Электрорубанок Makita N1923BK</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143793.47</price>
+        <cityprice cityId="615420100">143793.47</cityprice>
+    </offer>
+    <offer sku="7529114">
+      <model>Электрорубанок P.I.T. 48201</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18194.39</price>
+        <cityprice cityId="615420100">18194.39</cityprice>
+    </offer>
+    <offer sku="12281208">
+      <model>Электрорубанок Rodex RDX391</model>
+      <brand>Rodex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70229.45</price>
+        <cityprice cityId="615420100">70229.45</cityprice>
+    </offer>
+    <offer sku="7529772">
+      <model>Электрорубанок DWT HB03-82</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33556.12</price>
+        <cityprice cityId="615420100">33556.12</cityprice>
+    </offer>
+    <offer sku="7541952">
+      <model>Электрорубанок Kolner KEP 900M</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26324.8</price>
+        <cityprice cityId="615420100">26324.8</cityprice>
+    </offer>
+    <offer sku="7537834">
+      <model>Электрорубанок Sparta 94805</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>266436.39</price>
+        <cityprice cityId="615420100">266436.39</cityprice>
+    </offer>
+    <offer sku="12166062">
+      <model>Электрорубанок RTRMAX RTM391</model>
+      <brand>RTRMAX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39838.94</price>
+        <cityprice cityId="615420100">39838.94</cityprice>
+    </offer>
+    <offer sku="12281103">
+      <model>Электрорубанок Bosch GHO 26-82 Professional 0601594303</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113888.08</price>
+        <cityprice cityId="615420100">113888.08</cityprice>
+    </offer>
+    <offer sku="7535247">
+      <model>Электрорубанок Einhell BT-PL 750 4345261</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35053.86</price>
+        <cityprice cityId="615420100">35053.86</cityprice>
+    </offer>
+    <offer sku="12281114">
+      <model>Электрорубанок Makita DKP181Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>166869.44</price>
+        <cityprice cityId="615420100">166869.44</cityprice>
+    </offer>
+    <offer sku="12281119">
+      <model>Электрорубанок MS Tools Р-750</model>
+      <brand>MS Tools</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45448.92</price>
+        <cityprice cityId="615420100">45448.92</cityprice>
+    </offer>
+    <offer sku="12281130">
+      <model>Электрорубанок Диолд РЭ-1100-01 + подставка</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64533.51</price>
+        <cityprice cityId="615420100">64533.51</cityprice>
+    </offer>
+    <offer sku="12281612">
+      <model>Электрорубанок TEH TEP8258</model>
+      <brand>TEH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29420.27</price>
+        <cityprice cityId="615420100">29420.27</cityprice>
+    </offer>
+    <offer sku="7532904">
+      <model>Электрорубанок P.I.T. 41001 Pro</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44519.3</price>
+        <cityprice cityId="615420100">44519.3</cityprice>
+    </offer>
+    <offer sku="7538085">
+      <model>Электрорубанок Einhell RT-PL 82 4345270</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53976.05</price>
+        <cityprice cityId="615420100">53976.05</cityprice>
+    </offer>
+    <offer sku="7529775">
+      <model>Электрорубанок ВИХРЬ Р-110СТ</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34860.8</price>
+        <cityprice cityId="615420100">34860.8</cityprice>
+    </offer>
+    <offer sku="7541932">
+      <model>Электрорубанок Makita KP0810C</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138698.84</price>
+        <cityprice cityId="615420100">138698.84</cityprice>
+    </offer>
+    <offer sku="3927220">
+      <model>Электрорубанок Makita KP0810K</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>221356</price>
+        <cityprice cityId="615420100">221356</cityprice>
+    </offer>
+    <offer sku="7529777">
+      <model>Электрорубанок Total TL1108236</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38152.34</price>
+        <cityprice cityId="615420100">38152.34</cityprice>
+    </offer>
+    <offer sku="7532528">
+      <model>Электрорубанок Wortex PL 2009</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31469.7</price>
+        <cityprice cityId="615420100">31469.7</cityprice>
+    </offer>
+    <offer sku="7541945">
+      <model>Электрорубанок Hammer RNK600</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68075.57</price>
+        <cityprice cityId="615420100">68075.57</cityprice>
+    </offer>
+    <offer sku="3735252">
+      <model>Электрорубанок Makita DKP181ZU</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181842.12</price>
+        <cityprice cityId="615420100">181842.12</cityprice>
+    </offer>
+    <offer sku="12281198">
+      <model>Электрорубанок Диолд РЭ-900-01</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60739.52</price>
+        <cityprice cityId="615420100">60739.52</cityprice>
+    </offer>
+    <offer sku="443432">
+      <model>Электрорубанок Stanley STPP7502-RU</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62932.64</price>
+        <cityprice cityId="615420100">62932.64</cityprice>
+    </offer>
+    <offer sku="7539733">
+      <model>Электрорубанок ЗУБР ЗР-1100-110</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37377.66</price>
+        <cityprice cityId="615420100">37377.66</cityprice>
+    </offer>
+    <offer sku="12281201">
+      <model>Электрорубанок ТСН 8306</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85879.69</price>
+        <cityprice cityId="615420100">85879.69</cityprice>
+    </offer>
+    <offer sku="7535461">
+      <model>Электрорубанок DeWALT DW677</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>140276.21</price>
+        <cityprice cityId="615420100">140276.21</cityprice>
+    </offer>
+    <offer sku="7529699">
+      <model>Электрорубанок DWT HB02-82</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31390.36</price>
+        <cityprice cityId="615420100">31390.36</cityprice>
+    </offer>
+    <offer sku="7541946">
+      <model>Электрорубанок Kolner KEP 600</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13953.81</price>
+        <cityprice cityId="615420100">13953.81</cityprice>
+    </offer>
+    <offer sku="7529266">
+      <model>Электрорубанок РЕСАНТА Р-82СТ</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29629.16</price>
+        <cityprice cityId="615420100">29629.16</cityprice>
+    </offer>
+    <offer sku="7541860">
+      <model>Электрорубанок Metabo HO 26-82 MetaLoc</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>928443.38</price>
+        <cityprice cityId="615420100">928443.38</cityprice>
+    </offer>
+    <offer sku="7529774">
+      <model>Электрорубанок Bosch GHO 26-82 D Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>122324.85</price>
+        <cityprice cityId="615420100">122324.85</cityprice>
+    </offer>
+    <offer sku="7532366">
+      <model>Электрорубанок Bosch GHO 40-82 C Professional</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>710029.7</price>
+        <cityprice cityId="615420100">710029.7</cityprice>
+    </offer>
+    <offer sku="7541951">
+      <model>Электрорубанок Kolner KEP 480</model>
+      <brand>Kolner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12504.38</price>
+        <cityprice cityId="615420100">12504.38</cityprice>
+    </offer>
+    <offer sku="12166738">
+      <model>Рубанок электрический Вихрь Р-110/1300 72/5/2</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44755.43</price>
+        <cityprice cityId="615420100">44755.43</cityprice>
+    </offer>
+    <offer sku="12282154">
+      <model>Шланг для душа Lemark LE8025P-Black 150 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9199.39</price>
+        <cityprice cityId="615420100">9199.39</cityprice>
+    </offer>
+    <offer sku="12277611">
+      <model>Шланг для душа Lemark LE8044Р 150 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2952.2</price>
+        <cityprice cityId="615420100">2952.2</cityprice>
+    </offer>
+    <offer sku="12278329">
+      <model>Шланг для душа Grohe Vitalio Trend 28742001 175 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13332.34</price>
+        <cityprice cityId="615420100">13332.34</cityprice>
+    </offer>
+    <offer sku="12281495">
+      <model>Шланг для душа Lemark LM8053P 150 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7964.74</price>
+        <cityprice cityId="615420100">7964.74</cityprice>
+    </offer>
+    <offer sku="12281610">
+      <model>Шланг для душа Grohe Silverflex Longlife 26334000 100 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14525.28</price>
+        <cityprice cityId="615420100">14525.28</cityprice>
+    </offer>
+    <offer sku="12280315">
+      <model>Шланг для душа Аквалиния 4-008 150 см</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1011.83</price>
+        <cityprice cityId="615420100">1011.83</cityprice>
+    </offer>
+    <offer sku="12280891">
+      <model>Шланг для душа Центр Сантехники 4654978 200 см</model>
+      <brand>Центр Сантехники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4260.77</price>
+        <cityprice cityId="615420100">4260.77</cityprice>
+    </offer>
+    <offer sku="12280906">
+      <model>Шланг для душа Центр Сантехники 4298170 150 см</model>
+      <brand>Центр Сантехники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3882.92</price>
+        <cityprice cityId="615420100">3882.92</cityprice>
+    </offer>
+    <offer sku="12280811">
+      <model>Шланг для душа IKEA Лилльревет 003.905.65 150 см</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7069.01</price>
+        <cityprice cityId="615420100">7069.01</cityprice>
+    </offer>
+    <offer sku="12280814">
+      <model>Шланг для душа SonWelle 569-036 150 см</model>
+      <brand>SonWelle</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7014.94</price>
+        <cityprice cityId="615420100">7014.94</cityprice>
+    </offer>
+    <offer sku="12281776">
+      <model>Шланг для душа AquaKratos 4298171 150 см</model>
+      <brand>AquaKratos</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3021.27</price>
+        <cityprice cityId="615420100">3021.27</cityprice>
+    </offer>
+    <offer sku="12277847">
+      <model>Шланг для душа Iddis 04P15BLi19 150 см</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12336.87</price>
+        <cityprice cityId="615420100">12336.87</cityprice>
+    </offer>
+    <offer sku="12281398">
+      <model>Шланг для душа Lemark LE8045Р 200 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3701.05</price>
+        <cityprice cityId="615420100">3701.05</cityprice>
+    </offer>
+    <offer sku="12281650">
+      <model>Шланг для душа Oute ТР33-15 150 см</model>
+      <brand>Oute</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4696.52</price>
+        <cityprice cityId="615420100">4696.52</cityprice>
+    </offer>
+    <offer sku="12280819">
+      <model>Шланг для душа Rain 569-035 150 см</model>
+      <brand>Rain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1451.4</price>
+        <cityprice cityId="615420100">1451.4</cityprice>
+    </offer>
+    <offer sku="12280838">
+      <model>Шланг для душа LLC Tabys partner Brunos S-5/1584-SH42 120 см</model>
+      <brand>LLC Tabys partner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4693.1</price>
+        <cityprice cityId="615420100">4693.1</cityprice>
+    </offer>
+    <offer sku="12281909">
+      <model>Шланг для душа Lemark LE8024S-Black 200 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11471.16</price>
+        <cityprice cityId="615420100">11471.16</cityprice>
+    </offer>
+    <offer sku="12282107">
+      <model>Шланг для душа Lemark LE8066S 400 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5100.34</price>
+        <cityprice cityId="615420100">5100.34</cityprice>
+    </offer>
+    <offer sku="12278209">
+      <model>Шланг для душа Grohe Silverflex 27137000 200 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20999.38</price>
+        <cityprice cityId="615420100">20999.38</cityprice>
+    </offer>
+    <offer sku="12278745">
+      <model>Шланг для душа Esko BRSH15 150 см</model>
+      <brand>Esko</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11230.04</price>
+        <cityprice cityId="615420100">11230.04</cityprice>
+    </offer>
+    <offer sku="12280797">
+      <model>Шланг для душа Accoona А388 150 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2821.79</price>
+        <cityprice cityId="615420100">2821.79</cityprice>
+    </offer>
+    <offer sku="12280965">
+      <model>Шланг для душа Grohe Vitalio Comfort 27173001 200 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21155.71</price>
+        <cityprice cityId="615420100">21155.71</cityprice>
+    </offer>
+    <offer sku="12281352">
+      <model>Шланг для душа Lemark LE8051S 200 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7006.05</price>
+        <cityprice cityId="615420100">7006.05</cityprice>
+    </offer>
+    <offer sku="12280876">
+      <model>Шланг для душа Lemark LE8037B-Bronze 150 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15345.56</price>
+        <cityprice cityId="615420100">15345.56</cityprice>
+    </offer>
+    <offer sku="12281945">
+      <model>Шланг для душа Bravat P7233CP-1-RUS 200 см</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9957.62</price>
+        <cityprice cityId="615420100">9957.62</cityprice>
+    </offer>
+    <offer sku="12280803">
+      <model>Шланг для душа Accoona А387 150 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2272.45</price>
+        <cityprice cityId="615420100">2272.45</cityprice>
+    </offer>
+    <offer sku="12280848">
+      <model>Шланг для душа Accoona А383 150 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4266.27</price>
+        <cityprice cityId="615420100">4266.27</cityprice>
+    </offer>
+    <offer sku="12278883">
+      <model>Шланг для душа Rubineta Biflex 600039 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>880.33</price>
+        <cityprice cityId="615420100">880.33</cityprice>
+    </offer>
+    <offer sku="12280138">
+      <model>Шланг для душа Esko ASH16 160 см</model>
+      <brand>Esko</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11578.66</price>
+        <cityprice cityId="615420100">11578.66</cityprice>
+    </offer>
+    <offer sku="12280807">
+      <model>Шланг для душа AquaKratos 4298173 150 см</model>
+      <brand>AquaKratos</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7162.85</price>
+        <cityprice cityId="615420100">7162.85</cityprice>
+    </offer>
+    <offer sku="12280815">
+      <model>Шланг для душа WasserKraft A085 150 см</model>
+      <brand>WasserKRAFT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32015.8</price>
+        <cityprice cityId="615420100">32015.8</cityprice>
+    </offer>
+    <offer sku="12282187">
+      <model>Шланг для душа Grohe Relexaflex 45992001 175 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19256.51</price>
+        <cityprice cityId="615420100">19256.51</cityprice>
+    </offer>
+    <offer sku="12277594">
+      <model>Шланг для душа Iddis A5021115</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>861.83</price>
+        <cityprice cityId="615420100">861.83</cityprice>
+    </offer>
+    <offer sku="12278708">
+      <model>Шланг для душа AM.PM F0400164 175 см</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12558.63</price>
+        <cityprice cityId="615420100">12558.63</cityprice>
+    </offer>
+    <offer sku="12280836">
+      <model>Шланг для душа AM.PM F0400100 175 см</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14519.56</price>
+        <cityprice cityId="615420100">14519.56</cityprice>
+    </offer>
+    <offer sku="12277714">
+      <model>Шланг для душа Lemark LE8022S-Black 120 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7152.29</price>
+        <cityprice cityId="615420100">7152.29</cityprice>
+    </offer>
+    <offer sku="12278131">
+      <model>Шланг для душа Grohe Silverflex Longlife 26335000 125 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21300.72</price>
+        <cityprice cityId="615420100">21300.72</cityprice>
+    </offer>
+    <offer sku="12280655">
+      <model>Шланг для душа Esko MSH16 160 см</model>
+      <brand>Esko</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8618.38</price>
+        <cityprice cityId="615420100">8618.38</cityprice>
+    </offer>
+    <offer sku="12280793">
+      <model>Шланг для душа Lemark LE8035S 180 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8018.97</price>
+        <cityprice cityId="615420100">8018.97</cityprice>
+    </offer>
+    <offer sku="12280941">
+      <model>Шланг для душа Grohe Relexaflex Metal Longlife 28142000 125 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29049.76</price>
+        <cityprice cityId="615420100">29049.76</cityprice>
+    </offer>
+    <offer sku="12281555">
+      <model>Шланг для душа Grohe Silverflex Longlife 26346000 150 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25165.69</price>
+        <cityprice cityId="615420100">25165.69</cityprice>
+    </offer>
+    <offer sku="12281701">
+      <model>Шланг для душа Timon Gold SH100 150 см</model>
+      <brand>Timon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7524.15</price>
+        <cityprice cityId="615420100">7524.15</cityprice>
+    </offer>
+    <offer sku="12280809">
+      <model>Шланг для душа Esko ASH12 120 см</model>
+      <brand>Esko</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8875</price>
+        <cityprice cityId="615420100">8875</cityprice>
+    </offer>
+    <offer sku="12280845">
+      <model>Шланг для душа Accoona А386 150 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8279.61</price>
+        <cityprice cityId="615420100">8279.61</cityprice>
+    </offer>
+    <offer sku="12280904">
+      <model>Шланг для душа AM.PM F0400664 150 см</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12869.47</price>
+        <cityprice cityId="615420100">12869.47</cityprice>
+    </offer>
+    <offer sku="12280982">
+      <model>Шланг для душа Accoona A387-20 200 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2411.2</price>
+        <cityprice cityId="615420100">2411.2</cityprice>
+    </offer>
+    <offer sku="12281476">
+      <model>Шланг для душа Lemark LE8057S 400 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6184.81</price>
+        <cityprice cityId="615420100">6184.81</cityprice>
+    </offer>
+    <offer sku="12281798">
+      <model>Шланг для душа Grohe Ondus 28143LS0 150 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8150.57</price>
+        <cityprice cityId="615420100">8150.57</cityprice>
+    </offer>
+    <offer sku="12280821">
+      <model>Шланг для душа Rain 569-033 150 см</model>
+      <brand>Rain</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>917.02</price>
+        <cityprice cityId="615420100">917.02</cityprice>
+    </offer>
+    <offer sku="12277618">
+      <model>Шланг для душа Rubineta 600014 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>857.96</price>
+        <cityprice cityId="615420100">857.96</cityprice>
+    </offer>
+    <offer sku="12280004">
+      <model>Шланг для душа Esko RSH16 160 см</model>
+      <brand>Esko</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3292.41</price>
+        <cityprice cityId="615420100">3292.41</cityprice>
+    </offer>
+    <offer sku="12281577">
+      <model>Шланг для душа Grohe Movario 28025000 175 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9832.78</price>
+        <cityprice cityId="615420100">9832.78</cityprice>
+    </offer>
+    <offer sku="12281743">
+      <model>Шланг для душа Lemark LE8056S 350 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5601.94</price>
+        <cityprice cityId="615420100">5601.94</cityprice>
+    </offer>
+    <offer sku="12282029">
+      <model>Шланг для душа Bravat P7231N-RUS 150 см</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19300.34</price>
+        <cityprice cityId="615420100">19300.34</cityprice>
+    </offer>
+    <offer sku="12280929">
+      <model>Шланг для душа Rubineta Biflex Con/lmp (Bk) 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6294.32</price>
+        <cityprice cityId="615420100">6294.32</cityprice>
+    </offer>
+    <offer sku="12281522">
+      <model>Шланг для душа Lemark LE8043Р 150 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5314.34</price>
+        <cityprice cityId="615420100">5314.34</cityprice>
+    </offer>
+    <offer sku="12278859">
+      <model>Шланг для душа Lemark LE8042Р 150 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4141.66</price>
+        <cityprice cityId="615420100">4141.66</cityprice>
+    </offer>
+    <offer sku="12279825">
+      <model>Шланг для душа Trigor GR-31 150 см</model>
+      <brand>Trigor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4730.64</price>
+        <cityprice cityId="615420100">4730.64</cityprice>
+    </offer>
+    <offer sku="12277713">
+      <model>Шланг для душа Rubineta 600037B 80 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>799.85</price>
+        <cityprice cityId="615420100">799.85</cityprice>
+    </offer>
+    <offer sku="12278818">
+      <model>Шланг для душа Rubineta 600002B 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2953.39</price>
+        <cityprice cityId="615420100">2953.39</cityprice>
+    </offer>
+    <offer sku="12280823">
+      <model>Шланг для душа Lemark LE8040P 150 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13257.79</price>
+        <cityprice cityId="615420100">13257.79</cityprice>
+    </offer>
+    <offer sku="12280839">
+      <model>Шланг для душа Esko ASH20 200 см</model>
+      <brand>Esko</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13665.46</price>
+        <cityprice cityId="615420100">13665.46</cityprice>
+    </offer>
+    <offer sku="12280980">
+      <model>Шланг для душа Accoona А382 150 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5157.46</price>
+        <cityprice cityId="615420100">5157.46</cityprice>
+    </offer>
+    <offer sku="12278855">
+      <model>Шланг для душа Rubineta 600032 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2372.46</price>
+        <cityprice cityId="615420100">2372.46</cityprice>
+    </offer>
+    <offer sku="12279513">
+      <model>Шланг для душа Rubineta 600025 175 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1451.56</price>
+        <cityprice cityId="615420100">1451.56</cityprice>
+    </offer>
+    <offer sku="12280858">
+      <model>Шланг для душа Rubineta Con/lmp 600059B 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5304.66</price>
+        <cityprice cityId="615420100">5304.66</cityprice>
+    </offer>
+    <offer sku="12280962">
+      <model>Шланг для душа Grohe Vitalio Comfort 28745001 175 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21237.06</price>
+        <cityprice cityId="615420100">21237.06</cityprice>
+    </offer>
+    <offer sku="12281719">
+      <model>Шланг для душа Iddis A5071115 150 см</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9979</price>
+        <cityprice cityId="615420100">9979</cityprice>
+    </offer>
+    <offer sku="12279080">
+      <model>Шланг для душа Accoona A381-20 200 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1898.94</price>
+        <cityprice cityId="615420100">1898.94</cityprice>
+    </offer>
+    <offer sku="12277574">
+      <model>Шланг для душа Rubineta 600026 200 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1413.8</price>
+        <cityprice cityId="615420100">1413.8</cityprice>
+    </offer>
+    <offer sku="12280806">
+      <model>Шланг для душа Esko SSH2 200 см</model>
+      <brand>Esko</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5448.93</price>
+        <cityprice cityId="615420100">5448.93</cityprice>
+    </offer>
+    <offer sku="12280928">
+      <model>Шланг для душа Rubineta 600058B 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7704.25</price>
+        <cityprice cityId="615420100">7704.25</cityprice>
+    </offer>
+    <offer sku="12281664">
+      <model>Шланг для душа Potato P40 150 см</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1268.54</price>
+        <cityprice cityId="615420100">1268.54</cityprice>
+    </offer>
+    <offer sku="12278010">
+      <model>Шланг для душа Grohe Vitalio Trend 28741001 150 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11103.19</price>
+        <cityprice cityId="615420100">11103.19</cityprice>
+    </offer>
+    <offer sku="12281436">
+      <model>Шланг для душа Lemark LE8055S 300 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6599.97</price>
+        <cityprice cityId="615420100">6599.97</cityprice>
+    </offer>
+    <offer sku="12277604">
+      <model>Шланг для душа Lemark LE8032S 200 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4554.77</price>
+        <cityprice cityId="615420100">4554.77</cityprice>
+    </offer>
+    <offer sku="12280861">
+      <model>Шланг для душа Rubineta Superflex Con/Imp 600045 150 см</model>
+      <brand>Rubineta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2982.83</price>
+        <cityprice cityId="615420100">2982.83</cityprice>
+    </offer>
+    <offer sku="12280987">
+      <model>Шланг для душа Центр Сантехники 4654976 150 см</model>
+      <brand>Центр Сантехники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2798.55</price>
+        <cityprice cityId="615420100">2798.55</cityprice>
+    </offer>
+    <offer sku="12279263">
+      <model>Шланг для душа AquaKratos 4298172 150 см</model>
+      <brand>AquaKratos</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7020.59</price>
+        <cityprice cityId="615420100">7020.59</cityprice>
+    </offer>
+    <offer sku="12280955">
+      <model>Шланг для душа Grohe 28362000 125 см</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8388.29</price>
+        <cityprice cityId="615420100">8388.29</cityprice>
+    </offer>
+    <offer sku="12280991">
+      <model>Шланг для душа Accoona G63 150 см</model>
+      <brand>Accoona</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9074.48</price>
+        <cityprice cityId="615420100">9074.48</cityprice>
+    </offer>
+    <offer sku="12280974">
+      <model>Шланг для душа Lemark LE8028S 120 см</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3486.08</price>
+        <cityprice cityId="615420100">3486.08</cityprice>
+    </offer>
+    <offer sku="9870868">
+      <model>Бачок пластмассовый ООО &quot;ТП Системы&quot;, устанавливаемый на унитаз, тип 4 в комплекте с арматурой шток, без полки.</model>
+      <brand>ООО &quot;ТП Системы&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14093.93</price>
+        <cityprice cityId="615420100">14093.93</cityprice>
+    </offer>
+    <offer sku="9906410">
+      <model>Бачок пластмассовый ООО &quot;ТП Системы&quot;  устанавливаемый на унитаз, тип 4 в комплекте с арматурой шток, с полкой.</model>
+      <brand>ООО &quot;ТП Системы&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14331.69</price>
+        <cityprice cityId="615420100">14331.69</cityprice>
+    </offer>
+    <offer sku="12358264">
+      <model>Бачок для унитаза Creo Archi HDS520 AR1003, белый</model>
+      <brand>Creo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57703.33</price>
+        <cityprice cityId="615420100">57703.33</cityprice>
+    </offer>
+    <offer sku="12360065">
+      <model>Бачок для унитаза Villeroy&amp;Boch Subway 7723 11 01</model>
+      <brand>Villeroy&amp;Boch Subway</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192565.1</price>
+        <cityprice cityId="615420100">192565.1</cityprice>
+    </offer>
+    <offer sku="12358276">
+      <model>Бачок для унитаза Jika Tigo 8282130007421, белый</model>
+      <brand>Jika</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182186.94</price>
+        <cityprice cityId="615420100">182186.94</cityprice>
+    </offer>
+    <offer sku="12404139">
+      <model>Бачок для унитаза Creo RE1003</model>
+      <brand>Creo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11846.36</price>
+        <cityprice cityId="615420100">11846.36</cityprice>
+    </offer>
+    <offer sku="12358156">
+      <model>Бачок для унитаза Creo LM1003, белый</model>
+      <brand>Creo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90161.77</price>
+        <cityprice cityId="615420100">90161.77</cityprice>
+    </offer>
+    <offer sku="12358308">
+      <model>Бачок для унитаза Bravat New Moon CY01019W-S-RUS, белый</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106518.44</price>
+        <cityprice cityId="615420100">106518.44</cityprice>
+    </offer>
+    <offer sku="12360051">
+      <model>Бачок для унитаза Jacob Delafon Presqu&apos;ile E1425-00, белый</model>
+      <brand>Jacob Delafon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232386.55</price>
+        <cityprice cityId="615420100">232386.55</cityprice>
+    </offer>
+    <offer sku="12358916">
+      <model>Бачок для унитаза Roca Victoria 734139Z000, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50799.05</price>
+        <cityprice cityId="615420100">50799.05</cityprice>
+    </offer>
+    <offer sku="12359375">
+      <model>Бачок для унитаза Roca Khroma 7341650000, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>479773.16</price>
+        <cityprice cityId="615420100">479773.16</cityprice>
+    </offer>
+    <offer sku="12360054">
+      <model>Бачок для унитаза Laufen LB3</model>
+      <brand>Laufen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224649.37</price>
+        <cityprice cityId="615420100">224649.37</cityprice>
+    </offer>
+    <offer sku="12359127">
+      <model>Бачок для унитаза Roca Debba 734199100Y, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68738.82</price>
+        <cityprice cityId="615420100">68738.82</cityprice>
+    </offer>
+    <offer sku="12404040">
+      <model>Бачок для унитаза Roca Giralda 7341469000, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148185.22</price>
+        <cityprice cityId="615420100">148185.22</cityprice>
+    </offer>
+    <offer sku="12358182">
+      <model>Бачок для унитаза Jacob Delafon Escale, белый</model>
+      <brand>Jacob Delafon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>218275.35</price>
+        <cityprice cityId="615420100">218275.35</cityprice>
+    </offer>
+    <offer sku="234421">
+      <model>Бачок для унитаза Roca Victoria Nord 7341ND0000 с крышкой и набором механизмов</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19347.7</price>
+        <cityprice cityId="615420100">19347.7</cityprice>
+    </offer>
+    <offer sku="12357144">
+      <model>Бачок для унитаза Villeroy&amp;Boch O.Novo</model>
+      <brand>Villeroy &amp; Boch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179131.68</price>
+        <cityprice cityId="615420100">179131.68</cityprice>
+    </offer>
+    <offer sku="12359243">
+      <model>Бачок для унитаза Grohe Cube Ceramic 39490000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>141367.73</price>
+        <cityprice cityId="615420100">141367.73</cityprice>
+    </offer>
+    <offer sku="12359276">
+      <model>Бачок для унитаза Roca Inspira Round 7341520000</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247674.88</price>
+        <cityprice cityId="615420100">247674.88</cityprice>
+    </offer>
+    <offer sku="12404013">
+      <model>Бачок для унитаза Roca Dama Senso 7341517000, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86267.98</price>
+        <cityprice cityId="615420100">86267.98</cityprice>
+    </offer>
+    <offer sku="12358142">
+      <model>Бачок для унитаза Villeroy&amp;Boch O.Novo 5760 11 01, белый</model>
+      <brand>Villeroy &amp; Boch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>155523.24</price>
+        <cityprice cityId="615420100">155523.24</cityprice>
+    </offer>
+    <offer sku="12359122">
+      <model>Бачок для унитаза Creo TO1003N HDS201D, белый</model>
+      <brand>Creo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41759.78</price>
+        <cityprice cityId="615420100">41759.78</cityprice>
+    </offer>
+    <offer sku="12360079">
+      <model>Бачок для унитаза Villeroy&amp;Boch Hommage 7721 11 R1</model>
+      <brand>Villeroy &amp; Boch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>664429.42</price>
+        <cityprice cityId="615420100">664429.42</cityprice>
+    </offer>
+    <offer sku="12358247">
+      <model>Бачок для унитаза Creo CR1003 HDS423, белый</model>
+      <brand>Creo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52728.65</price>
+        <cityprice cityId="615420100">52728.65</cityprice>
+    </offer>
+    <offer sku="12359130">
+      <model>Бачок для унитаза Roca The Gap 7341730000, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>280804.47</price>
+        <cityprice cityId="615420100">280804.47</cityprice>
+    </offer>
+    <offer sku="12359204">
+      <model>Бачок для унитаза Alcaplast Basicмodul AM112</model>
+      <brand>Alcaplast</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113282.42</price>
+        <cityprice cityId="615420100">113282.42</cityprice>
+    </offer>
+    <offer sku="12358321">
+      <model>Бачок для унитаза Bravat New Moon CY01014W-RUS, белый</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145252.77</price>
+        <cityprice cityId="615420100">145252.77</cityprice>
+    </offer>
+    <offer sku="12359391">
+      <model>Бачок для унитаза Grohe GD2 38661000, белый</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118176.08</price>
+        <cityprice cityId="615420100">118176.08</cityprice>
+    </offer>
+    <offer sku="10882626">
+      <model>Бачок для унитаза ИнкоЭр 491200БС, среднерасположенный с трубой</model>
+      <brand>ИнкоЭр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9484.99</price>
+        <cityprice cityId="615420100">9484.99</cityprice>
+    </offer>
+    <offer sku="12358168">
+      <model>Бачок для унитаза Laufen Pro 8299530008731, белый</model>
+      <brand>Laufen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>256503.61</price>
+        <cityprice cityId="615420100">256503.61</cityprice>
+    </offer>
+    <offer sku="12359133">
+      <model>Бачок для унитаза Laufen Palomba 8288000002781, белый</model>
+      <brand>Laufen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193889.04</price>
+        <cityprice cityId="615420100">193889.04</cityprice>
+    </offer>
+    <offer sku="12359365">
+      <model>Бачок для унитаза Roca The Gap 734147000Y, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86836.09</price>
+        <cityprice cityId="615420100">86836.09</cityprice>
+    </offer>
+    <offer sku="12359369">
+      <model>Бачок для унитаза Roca Hall 7341620000, белый</model>
+      <brand>Roca</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>232391.39</price>
+        <cityprice cityId="615420100">232391.39</cityprice>
+    </offer>
+    <offer sku="9871271">
+      <model>Бачок пластмассовый ООО &quot;ТП Системы&quot;, верхнего расположения в комплекте с арматурой</model>
+      <brand>ООО &quot;ТП Системы&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13978.24</price>
+        <cityprice cityId="615420100">13978.24</cityprice>
+    </offer>
+    <offer sku="10777479">
+      <model>Бачок пластмассовый Frados, верхнего расположения</model>
+      <brand>Frados</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5713.36</price>
+        <cityprice cityId="615420100">5713.36</cityprice>
+    </offer>
+    <offer sku="8336522">
+      <model>Манжета эксцентрическая АНИ Пласт W0410, 110 мм</model>
+      <brand>АНИ Пласт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>868.61</price>
+        <cityprice cityId="615420100">868.61</cityprice>
+    </offer>
+    <offer sku="8406332">
+      <model>Эксцентрик  для унитаза Ани Пласт W0220, белая</model>
+      <brand>АНИ Пласт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>823.1</price>
+        <cityprice cityId="615420100">823.1</cityprice>
+    </offer>
+    <offer sku="12215473">
+      <model>Труба гофрированная Orio AC-10131 с гайкой 1 1/2&quot; х 40/50, 850 мм</model>
+      <brand>ORIO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>724.32</price>
+        <cityprice cityId="615420100">724.32</cityprice>
+    </offer>
+    <offer sku="10754662">
+      <model>Гофра для унитаза AlcaPlast A97, 280х550 мм, белая</model>
+      <brand>AlcaPLAST</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2470.05</price>
+        <cityprice cityId="615420100">2470.05</cityprice>
+    </offer>
+    <offer sku="10675319">
+      <model>Труба фановая смещенная АНИ Пласт W1225, 250*15</model>
+      <brand>АНИ Пласт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>958.58</price>
+        <cityprice cityId="615420100">958.58</cityprice>
+    </offer>
+    <offer sku="12708834">
+      <model>Гофра для унитаза Aquant T712-21-MR, 290 мм</model>
+      <brand>Aquant</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>942.57</price>
+        <cityprice cityId="615420100">942.57</cityprice>
+    </offer>
+    <offer sku="485293">
+      <model>Слив раздвижной для унитаза ORIO С-990</model>
+      <brand>ORIO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>864.52</price>
+        <cityprice cityId="615420100">864.52</cityprice>
+    </offer>
+    <offer sku="10768358">
+      <model>Гофра для унитаза Ани Пласт К 828 гибкая, 110мм</model>
+      <brand>АНИ Пласт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>861.83</price>
+        <cityprice cityId="615420100">861.83</cityprice>
+    </offer>
+    <offer sku="7713750">
+      <model>Гофра для унитаза Casela AR2002, d-100, 500 мм</model>
+      <brand>Casela</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>820.06</price>
+        <cityprice cityId="615420100">820.06</cityprice>
+    </offer>
+    <offer sku="10832496">
+      <model>Гофра для унитаза Alcaplast A770, 840 мм</model>
+      <brand>AlcaPLAST</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1146.1</price>
+        <cityprice cityId="615420100">1146.1</cityprice>
+    </offer>
+    <offer sku="239937">
+      <model>Гофра для унитаза Aquant T828-22-MR, 120 мм</model>
+      <brand>Aquant</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>800.3</price>
+        <cityprice cityId="615420100">800.3</cityprice>
+    </offer>
+    <offer sku="10778005">
+      <model>Гофра для унитаза Акватер D110 мм, 50 см</model>
+      <brand>Акватер</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>795.98</price>
+        <cityprice cityId="615420100">795.98</cityprice>
+    </offer>
+    <offer sku="10851451">
+      <model>Гофра для унитаза Ани Пласт К-821</model>
+      <brand>АНИ Пласт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>850.21</price>
+        <cityprice cityId="615420100">850.21</cityprice>
+    </offer>
+    <offer sku="7902816">
+      <model>Душевая кабина Domani-Spa Delight 110, 100х100 см, DS01D110LWCl00, белые стенки, прозрачные стекла</model>
+      <brand>Domani-Spa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>349454.2</price>
+        <cityprice cityId="615420100">349454.2</cityprice>
+    </offer>
+    <offer sku="7919546">
+      <model>Душевая кабина Domani-Spa Delight 88 (80х80 см), DS01D88LWM00, белые стенки, сатин-матированные стекла</model>
+      <brand>Domani-Spa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>270005.07</price>
+        <cityprice cityId="615420100">270005.07</cityprice>
+    </offer>
+    <offer sku="7922884">
+      <model>Душевая кабина Domani-Spa Simple 99 high (90х90 см) DS01S99HWM00, белые стенки, сатин-матированные стекла</model>
+      <brand>Domani-Spa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>294800.47</price>
+        <cityprice cityId="615420100">294800.47</cityprice>
+    </offer>
+    <offer sku="7902938">
+      <model>Душевая кабина Domani-Spa Delight 110, 100х100 см, DS01D110LWM00,  белые стенки, сатин-матированные стекла, с гидромассажем и блоком управления</model>
+      <brand>Domani-Spa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>988019.01</price>
+        <cityprice cityId="615420100">988019.01</cityprice>
+    </offer>
+    <offer sku="8224544">
+      <model>Душевая кабина Erlit ER3509TP-C4, 900x900x2150, высокий поддон, тонированное стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227564.13</price>
+        <cityprice cityId="615420100">227564.13</cityprice>
+    </offer>
+    <offer sku="8244465">
+      <model>Душевая кабина Erlit ER3509P-C4, 900x900x2150, низкий поддон, тонированное стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>213037.86</price>
+        <cityprice cityId="615420100">213037.86</cityprice>
+    </offer>
+    <offer sku="7783245">
+      <model>Душевая кабина Домани-Spa Delight 99, 90x90, DS01D99LWCl00, белые стенки, прозрачные стекла</model>
+      <brand>Domani-Spa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>259988.73</price>
+        <cityprice cityId="615420100">259988.73</cityprice>
+    </offer>
+    <offer sku="8244147">
+      <model>Душевая кабина Erlit ER3509TP-C3, 900x900x2150, высокий поддон, светлое стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>213037.86</price>
+        <cityprice cityId="615420100">213037.86</cityprice>
+    </offer>
+    <offer sku="10779554">
+      <model>Душевая кабина Erlit  ER3510TP-C3, 1000x1000x2150, высокий поддон, светлое стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>220474.45</price>
+        <cityprice cityId="615420100">220474.45</cityprice>
+    </offer>
+    <offer sku="8218571">
+      <model>Душевая кабина Erlit ER3512PL-C3, 1200x800x2150, низкий поддон, светлое стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261449.98</price>
+        <cityprice cityId="615420100">261449.98</cityprice>
+    </offer>
+    <offer sku="8218729">
+      <model>Душевая кабина Erlit ER3512PR-C3, 1200x800x2150, низкий поддон, светлое стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>275982.05</price>
+        <cityprice cityId="615420100">275982.05</cityprice>
+    </offer>
+    <offer sku="8217938">
+      <model>Душевая кабина Erlit ER3510P-C3, 1000x1000x2150, низкий поддон, светлое стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>235310.99</price>
+        <cityprice cityId="615420100">235310.99</cityprice>
+    </offer>
+    <offer sku="8243745">
+      <model>Душевая кабина Erlit ER3509P-C3, 900x900x2150, низкий поддон, светлое стекло</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183891.25</price>
+        <cityprice cityId="615420100">183891.25</cityprice>
+    </offer>
+    <offer sku="7790195">
+      <model>Душевая кабина Erlit ER5709TP-C33 90x90 белая</model>
+      <brand>Erlit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>376687.54</price>
+        <cityprice cityId="615420100">376687.54</cityprice>
+    </offer>
+    <offer sku="10887385">
+      <model>Душевое ограждение Фабрика перегородок 180х100 см, 1 перегородка, оранжевое</model>
+      <brand>Фабрика перегородок</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290475.9</price>
+        <cityprice cityId="615420100">290475.9</cityprice>
+    </offer>
+    <offer sku="12712542">
+      <model>Душевой поддон Donatony 0202.323, 900х900 мм, белый</model>
+      <brand>Donatony</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17132.27</price>
+        <cityprice cityId="615420100">17132.27</cityprice>
+    </offer>
+    <offer sku="12342203">
+      <model>Душевой поддон Сантехпром Стандарт 80x80 см</model>
+      <brand>Сантехпром</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18475.97</price>
+        <cityprice cityId="615420100">18475.97</cityprice>
+    </offer>
+    <offer sku="11639203">
+      <model>Душевая стойка Ясина Люкс Я-104</model>
+      <brand>Ясина Люкс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24995.92</price>
+        <cityprice cityId="615420100">24995.92</cityprice>
+    </offer>
+    <offer sku="10678739">
+      <model>Набор душевой лейки со шлангом Potato T036</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1777.45</price>
+        <cityprice cityId="615420100">1777.45</cityprice>
+    </offer>
+    <offer sku="12019841">
+      <model>Верхний душ Iddis RAYMS3Fi76 черный</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>159067.27</price>
+        <cityprice cityId="615420100">159067.27</cityprice>
+    </offer>
+    <offer sku="11648654">
+      <model>Лейка для душа Gross Aqua Corsa Ц0788474</model>
+      <brand>Gross Aqua</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>847.31</price>
+        <cityprice cityId="615420100">847.31</cityprice>
+    </offer>
+    <offer sku="8300939">
+      <model>Душевая стойка Potato P3561, хром</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21417.31</price>
+        <cityprice cityId="615420100">21417.31</cityprice>
+    </offer>
+    <offer sku="8304294">
+      <model>Душевая система Potato P3564 хром</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20219.83</price>
+        <cityprice cityId="615420100">20219.83</cityprice>
+    </offer>
+    <offer sku="8298869">
+      <model>Душевая гарнитура Potato P3565 хром</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15351.85</price>
+        <cityprice cityId="615420100">15351.85</cityprice>
+    </offer>
+    <offer sku="1790965">
+      <model>Душевая гарнитура Teorema XS хром 1525111-002</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>203877.93</price>
+        <cityprice cityId="615420100">203877.93</cityprice>
+    </offer>
+    <offer sku="1790797">
+      <model>Душевая гарнитура Grohe Eurosmart 124410 хром</model>
+      <brand>Grohe </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>189487.42</price>
+        <cityprice cityId="615420100">189487.42</cityprice>
+    </offer>
+    <offer sku="1790690">
+      <model>Душевая гарнитура Lemark LM7001C Тропик</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>196209.9</price>
+        <cityprice cityId="615420100">196209.9</cityprice>
+    </offer>
+    <offer sku="11724923">
+      <model>Душевая стойка HansGrohe Crometta Showerpipe S 240 27320000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>736074.9</price>
+        <cityprice cityId="615420100">736074.9</cityprice>
+    </offer>
+    <offer sku="11749970">
+      <model>Душевая стойка Shevanik S9436</model>
+      <brand>Shevanik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167762.83</price>
+        <cityprice cityId="615420100">167762.83</cityprice>
+    </offer>
+    <offer sku="11750028">
+      <model>Душевая стойка Shevanik S9636</model>
+      <brand>Shevanik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138223.01</price>
+        <cityprice cityId="615420100">138223.01</cityprice>
+    </offer>
+    <offer sku="11779674">
+      <model>Душевая стойка Gappo G2402</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167861.63</price>
+        <cityprice cityId="615420100">167861.63</cityprice>
+    </offer>
+    <offer sku="11849935">
+      <model>Душевая стойка Jacob Delafon E24329-CP</model>
+      <brand>Jacob Delafon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>443324.57</price>
+        <cityprice cityId="615420100">443324.57</cityprice>
+    </offer>
+    <offer sku="11850416">
+      <model>Душевая стойка Jacob Delafon E24322-CP</model>
+      <brand>Jacob Delafon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>562174.49</price>
+        <cityprice cityId="615420100">562174.49</cityprice>
+    </offer>
+    <offer sku="11851469">
+      <model>Душевая стойка Gappo G2495-79</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197491.37</price>
+        <cityprice cityId="615420100">197491.37</cityprice>
+    </offer>
+    <offer sku="11853516">
+      <model>Душевой стойка Genebre 1639 45</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>392102.65</price>
+        <cityprice cityId="615420100">392102.65</cityprice>
+    </offer>
+    <offer sku="11854476">
+      <model>Душевая стойка Gross Aqua Space GA9014SMD05</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>245914.23</price>
+        <cityprice cityId="615420100">245914.23</cityprice>
+    </offer>
+    <offer sku="11855573">
+      <model>Душевая стойка Gappo G7117001-8</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>226154.81</price>
+        <cityprice cityId="615420100">226154.81</cityprice>
+    </offer>
+    <offer sku="11742833">
+      <model>Душевая стойка Grohe Euphoria SmartControl 26507LS0</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>988020</price>
+        <cityprice cityId="615420100">988020</cityprice>
+    </offer>
+    <offer sku="11538032">
+      <model>Душевая стойка Grohe 26698000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>280723.22</price>
+        <cityprice cityId="615420100">280723.22</cityprice>
+    </offer>
+    <offer sku="11602652">
+      <model>Душевая стойка Jacob Delafon E45716-CP</model>
+      <brand>Jacob Delafon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>481223.76</price>
+        <cityprice cityId="615420100">481223.76</cityprice>
+    </offer>
+    <offer sku="11651780">
+      <model>Душевая стойка Gappo G2490-6</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145242.13</price>
+        <cityprice cityId="615420100">145242.13</cityprice>
+    </offer>
+    <offer sku="11833647">
+      <model>Душевая стойка Frap F2449</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17669.62</price>
+        <cityprice cityId="615420100">17669.62</cityprice>
+    </offer>
+    <offer sku="11702526">
+      <model>Душевая стойка Pirani  8804-1</model>
+      <brand>PIRANI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45219.42</price>
+        <cityprice cityId="615420100">45219.42</cityprice>
+    </offer>
+    <offer sku="11883952">
+      <model>Душевая стойка Iddis Oldie OLDSB3Fi06</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>230106.89</price>
+        <cityprice cityId="615420100">230106.89</cityprice>
+    </offer>
+    <offer sku="11816079">
+      <model>Душевая стойка Lemark LM8069C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108296.87</price>
+        <cityprice cityId="615420100">108296.87</cityprice>
+    </offer>
+    <offer sku="11602643">
+      <model>Душевая стойка Rose R3996T</model>
+      <brand>Rose</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>425792.16</price>
+        <cityprice cityId="615420100">425792.16</cityprice>
+    </offer>
+    <offer sku="11849661">
+      <model>Душевая стойка Grohe Vitalio Start 26696000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>461368.78</price>
+        <cityprice cityId="615420100">461368.78</cityprice>
+    </offer>
+    <offer sku="11622704">
+      <model>Душевая стойка Frap F2457</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>134408.14</price>
+        <cityprice cityId="615420100">134408.14</cityprice>
+    </offer>
+    <offer sku="11609530">
+      <model>Душевая стойка Cersanit Brasko Black 63112</model>
+      <brand>Cersanit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193659.08</price>
+        <cityprice cityId="615420100">193659.08</cityprice>
+    </offer>
+    <offer sku="11638038">
+      <model>Душевая стойка Lemark LM8811C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>145242.13</price>
+        <cityprice cityId="615420100">145242.13</cityprice>
+    </offer>
+    <offer sku="11745947">
+      <model>Душевая стойка Lemark LM8062C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86631.57</price>
+        <cityprice cityId="615420100">86631.57</cityprice>
+    </offer>
+    <offer sku="11668894">
+      <model>Душевая стойка Аквалиния DW8044C</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13573.47</price>
+        <cityprice cityId="615420100">13573.47</cityprice>
+    </offer>
+    <offer sku="11833651">
+      <model>Душевая стойка Gappo G2407-40</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>178728.87</price>
+        <cityprice cityId="615420100">178728.87</cityprice>
+    </offer>
+    <offer sku="11850402">
+      <model>Душевая стойка Rose Водопад R3736H</model>
+      <brand>Rose</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74041.23</price>
+        <cityprice cityId="615420100">74041.23</cityprice>
+    </offer>
+    <offer sku="11855980">
+      <model>Душевая стойка Frap F2449-6</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>939803.64</price>
+        <cityprice cityId="615420100">939803.64</cityprice>
+    </offer>
+    <offer sku="11860113">
+      <model>Душевая стойка Trigor SBC10-XR-533</model>
+      <brand>Trigor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73989.85</price>
+        <cityprice cityId="615420100">73989.85</cityprice>
+    </offer>
+    <offer sku="11652731">
+      <model>Душевая стойка Gappo G2491-6</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177793.21</price>
+        <cityprice cityId="615420100">177793.21</cityprice>
+    </offer>
+    <offer sku="12027419">
+      <model>Душевая стойка Аквалиния 4630072045331</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44359.13</price>
+        <cityprice cityId="615420100">44359.13</cityprice>
+    </offer>
+    <offer sku="11753499">
+      <model>Душевая стойка Lemark LM7004С</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>233763.56</price>
+        <cityprice cityId="615420100">233763.56</cityprice>
+    </offer>
+    <offer sku="11802349">
+      <model>Душевая стойка AM.PM Like F0780964</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>439668.9</price>
+        <cityprice cityId="615420100">439668.9</cityprice>
+    </offer>
+    <offer sku="11857865">
+      <model>Душевая стойка Genebre TAU CT67110 18</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>632230.05</price>
+        <cityprice cityId="615420100">632230.05</cityprice>
+    </offer>
+    <offer sku="11532277">
+      <model>Душевая стойка Lemark Allegro LM5962CW</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>462393.36</price>
+        <cityprice cityId="615420100">462393.36</cityprice>
+    </offer>
+    <offer sku="11543922">
+      <model>Душевая стойка Lemark Tropic LM7007C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>271106.87</price>
+        <cityprice cityId="615420100">271106.87</cityprice>
+    </offer>
+    <offer sku="11686710">
+      <model>Душевая стойка Shevanik S6036F</model>
+      <brand>Shevanik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>153139.15</price>
+        <cityprice cityId="615420100">153139.15</cityprice>
+    </offer>
+    <offer sku="11823846">
+      <model>Душевая стойка Lemark LM5362C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3223146.51</price>
+        <cityprice cityId="615420100">3223146.51</cityprice>
+    </offer>
+    <offer sku="11823859">
+      <model>Душевая стойка Gappo G2403-48</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236922.26</price>
+        <cityprice cityId="615420100">236922.26</cityprice>
+    </offer>
+    <offer sku="11547033">
+      <model>Душевая стойка Grohe Tempesta Cosmopolitan 210 26224001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>362588.52</price>
+        <cityprice cityId="615420100">362588.52</cityprice>
+    </offer>
+    <offer sku="11641670">
+      <model>Душевая стойка Grohe New Tempesta Rustic 27399002</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242051.07</price>
+        <cityprice cityId="615420100">242051.07</cityprice>
+    </offer>
+    <offer sku="11849754">
+      <model>Душевая стойка Grohe NTempesta Cosmo III 27576002</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89699.37</price>
+        <cityprice cityId="615420100">89699.37</cityprice>
+    </offer>
+    <offer sku="11547040">
+      <model>Душевая стойка Hansgrohe Vernis Blend 26899670</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>612556.59</price>
+        <cityprice cityId="615420100">612556.59</cityprice>
+    </offer>
+    <offer sku="11683575">
+      <model>Душевая стойка Ideal Standard A7540AA</model>
+      <brand>Ideal Standard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5933169.77</price>
+        <cityprice cityId="615420100">5933169.77</cityprice>
+    </offer>
+    <offer sku="11597185">
+      <model>Душевая стойка Frap F2460</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>221135.67</price>
+        <cityprice cityId="615420100">221135.67</cityprice>
+    </offer>
+    <offer sku="11713960">
+      <model>Душевая стойка Ledeme  2408L</model>
+      <brand>Ledeme</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21294.1</price>
+        <cityprice cityId="615420100">21294.1</cityprice>
+    </offer>
+    <offer sku="11573618">
+      <model>Душевая стойка Esko SRB700</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89797.19</price>
+        <cityprice cityId="615420100">89797.19</cityprice>
+    </offer>
+    <offer sku="11573625">
+      <model>Душевая стойка RedBlu by Damixa Palace Evo 974230000</model>
+      <brand>RedBlu</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197600.05</price>
+        <cityprice cityId="615420100">197600.05</cityprice>
+    </offer>
+    <offer sku="11641666">
+      <model>Душевая стойка Gross Aqua Basic GA90051</model>
+      <brand>Gross Aqua</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66192.4</price>
+        <cityprice cityId="615420100">66192.4</cityprice>
+    </offer>
+    <offer sku="11731350">
+      <model>Душевая стойка HansGrohe Raindance 27113400</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2022862.27</price>
+        <cityprice cityId="615420100">2022862.27</cityprice>
+    </offer>
+    <offer sku="11749969">
+      <model>Душевая стойка Gappo G2497</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286178.02</price>
+        <cityprice cityId="615420100">286178.02</cityprice>
+    </offer>
+    <offer sku="11823848">
+      <model>Душевая стойка Gappo G2417-8</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>256575.95</price>
+        <cityprice cityId="615420100">256575.95</cityprice>
+    </offer>
+    <offer sku="11850405">
+      <model>Душевая стойка Gappo G2417-60</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>233763.56</price>
+        <cityprice cityId="615420100">233763.56</cityprice>
+    </offer>
+    <offer sku="11852598">
+      <model>Душевая стойка Gappo G2495-76</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177640.07</price>
+        <cityprice cityId="615420100">177640.07</cityprice>
+    </offer>
+    <offer sku="11622637">
+      <model>Душевая стойка Lemark LM8065C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31612.69</price>
+        <cityprice cityId="615420100">31612.69</cityprice>
+    </offer>
+    <offer sku="11857991">
+      <model>Душевая стойка AM.PM Like F0780464</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217359.46</price>
+        <cityprice cityId="615420100">217359.46</cityprice>
+    </offer>
+    <offer sku="11535950">
+      <model>Душевая стойка Hansgrohe 27133000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1274545.8</price>
+        <cityprice cityId="615420100">1274545.8</cityprice>
+    </offer>
+    <offer sku="11852601">
+      <model>Душевая стойка Valtemo VS-4390</model>
+      <brand>VALTEMO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>201546.2</price>
+        <cityprice cityId="615420100">201546.2</cityprice>
+    </offer>
+    <offer sku="11713956">
+      <model>Душевая стойка Ledeme 2411L</model>
+      <brand>Ledeme</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192563.12</price>
+        <cityprice cityId="615420100">192563.12</cityprice>
+    </offer>
+    <offer sku="11749967">
+      <model>Душевая стойка HansGrohe 27267000</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26144.7</price>
+        <cityprice cityId="615420100">26144.7</cityprice>
+    </offer>
+    <offer sku="12009158">
+      <model>Душевая стойка Профсан ПСМ-110-К89</model>
+      <brand>Профсан</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17236.77</price>
+        <cityprice cityId="615420100">17236.77</cityprice>
+    </offer>
+    <offer sku="11668899">
+      <model>Душевая стойка Bravat Opal C2 F6125183CP-A3-RUS</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>227238.67</price>
+        <cityprice cityId="615420100">227238.67</cityprice>
+    </offer>
+    <offer sku="11702515">
+      <model>Душевая стойка Casela  CL52422</model>
+      <brand>Casela</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207484.2</price>
+        <cityprice cityId="615420100">207484.2</cityprice>
+    </offer>
+    <offer sku="11645149">
+      <model>Душевая стойка Pirani PNA6775G</model>
+      <brand>PIRANI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88915.87</price>
+        <cityprice cityId="615420100">88915.87</cityprice>
+    </offer>
+    <offer sku="11749957">
+      <model>Душевая стойка Gappo G2488</model>
+      <brand>Gappo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>208165.93</price>
+        <cityprice cityId="615420100">208165.93</cityprice>
+    </offer>
+    <offer sku="11534665">
+      <model>Душевая стойка Frap F2429</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2531375.41</price>
+        <cityprice cityId="615420100">2531375.41</cityprice>
+    </offer>
+    <offer sku="11854241">
+      <model>Душевая стойка Rose R2736</model>
+      <brand>Rose</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1778436</price>
+        <cityprice cityId="615420100">1778436</cityprice>
+    </offer>
+    <offer sku="12019836">
+      <model>Душевая стойка Grohe  26677000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53259.61</price>
+        <cityprice cityId="615420100">53259.61</cityprice>
+    </offer>
+    <offer sku="11538031">
+      <model>Душевая стойка Frap F2416</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143062.33</price>
+        <cityprice cityId="615420100">143062.33</cityprice>
+    </offer>
+    <offer sku="11682763">
+      <model>Душевая стойка GFmark 5775</model>
+      <brand>GFmark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169073.93</price>
+        <cityprice cityId="615420100">169073.93</cityprice>
+    </offer>
+    <offer sku="11558644">
+      <model>Душевая стойка Grohe Euphoria SmartControl 26507000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>741013.02</price>
+        <cityprice cityId="615420100">741013.02</cityprice>
+    </offer>
+    <offer sku="11854573">
+      <model>Душевая стойка Trigor SBC10-NS-533</model>
+      <brand>Trigor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53255.83</price>
+        <cityprice cityId="615420100">53255.83</cityprice>
+    </offer>
+    <offer sku="11855577">
+      <model>Душевая стойка Нептун 058</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120335.9</price>
+        <cityprice cityId="615420100">120335.9</cityprice>
+    </offer>
+    <offer sku="11914921">
+      <model>Душевая стойка Нептун 17410330</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>161421.72</price>
+        <cityprice cityId="615420100">161421.72</cityprice>
+    </offer>
+    <offer sku="11712078">
+      <model>Душевая стойка Casela CL52433B</model>
+      <brand>Casela</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83975.77</price>
+        <cityprice cityId="615420100">83975.77</cityprice>
+    </offer>
+    <offer sku="11591229">
+      <model>Душевая стойка Lemark LM8803C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89147.07</price>
+        <cityprice cityId="615420100">89147.07</cityprice>
+    </offer>
+    <offer sku="11914912">
+      <model>Душевая стойка Haiba HB 2424</model>
+      <brand>Haiba</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>155018.36</price>
+        <cityprice cityId="615420100">155018.36</cityprice>
+    </offer>
+    <offer sku="11914919">
+      <model>Душевая стойка Haiba HB2422</model>
+      <brand>Haiba</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>241020.56</price>
+        <cityprice cityId="615420100">241020.56</cityprice>
+    </offer>
+    <offer sku="11833654">
+      <model>Душевая стойка Hansgrohe 26890670</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1185624</price>
+        <cityprice cityId="615420100">1185624</cityprice>
+    </offer>
+    <offer sku="11631084">
+      <model>Душевая стойка Teorema 1528011-T01</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69148.56</price>
+        <cityprice cityId="615420100">69148.56</cityprice>
+    </offer>
+    <offer sku="11668900">
+      <model>Душевая стойка Frap F24003</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38137.57</price>
+        <cityprice cityId="615420100">38137.57</cityprice>
+    </offer>
+    <offer sku="11546028">
+      <model>Душевая стойка Atlant A5019</model>
+      <brand>Atlant</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63229.33</price>
+        <cityprice cityId="615420100">63229.33</cityprice>
+    </offer>
+    <offer sku="11849660">
+      <model>Душевая стойка Grohe 26305001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86183.8</price>
+        <cityprice cityId="615420100">86183.8</cityprice>
+    </offer>
+    <offer sku="11555357">
+      <model>Душевая стойка Skyriver 8006</model>
+      <brand>Skyriver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181773.94</price>
+        <cityprice cityId="615420100">181773.94</cityprice>
+    </offer>
+    <offer sku="11745950">
+      <model>Душевая стойка GFmark 5075</model>
+      <brand>GFmark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290021.41</price>
+        <cityprice cityId="615420100">290021.41</cityprice>
+    </offer>
+    <offer sku="11855984">
+      <model>Душевая стойка Skyriver 8009</model>
+      <brand>Skyriver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96521.65</price>
+        <cityprice cityId="615420100">96521.65</cityprice>
+    </offer>
+    <offer sku="10827310">
+      <model>Душевая стойка Zegor PUD-16</model>
+      <brand>Zegor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35351.36</price>
+        <cityprice cityId="615420100">35351.36</cityprice>
+    </offer>
+    <offer sku="11534659">
+      <model>Душевая стойка Frap F2420</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118557.46</price>
+        <cityprice cityId="615420100">118557.46</cityprice>
+    </offer>
+    <offer sku="11767662">
+      <model>Душевая стойка Bravat Real F6333367CP-A-RUS</model>
+      <brand>Bravat</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247989.8</price>
+        <cityprice cityId="615420100">247989.8</cityprice>
+    </offer>
+    <offer sku="11782926">
+      <model>Душевая стойка Frap F2415-2</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>199133.45</price>
+        <cityprice cityId="615420100">199133.45</cityprice>
+    </offer>
+    <offer sku="11850404">
+      <model>Душевая стойка Faop A2480-8</model>
+      <brand>Faop</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152441.61</price>
+        <cityprice cityId="615420100">152441.61</cityprice>
+    </offer>
+    <offer sku="11855985">
+      <model>Душевая стойка Нептун 338 ВДС</model>
+      <brand>Нептун</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128432.72</price>
+        <cityprice cityId="615420100">128432.72</cityprice>
+    </offer>
+    <offer sku="11630663">
+      <model>Душевая стойка AM.PM F4088934</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130112.35</price>
+        <cityprice cityId="615420100">130112.35</cityprice>
+    </offer>
+    <offer sku="11738859">
+      <model>Душевая стойка Frap F2442</model>
+      <brand>Frap</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91860.17</price>
+        <cityprice cityId="615420100">91860.17</cityprice>
+    </offer>
+    <offer sku="11790137">
+      <model>Лейка для душа Санакс 6060</model>
+      <brand>САНАКС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4162.96</price>
+        <cityprice cityId="615420100">4162.96</cityprice>
+    </offer>
+    <offer sku="11849259">
+      <model>Лейка для душа Санакс 6031</model>
+      <brand>САНАКС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1129.31</price>
+        <cityprice cityId="615420100">1129.31</cityprice>
+    </offer>
+    <offer sku="11823843">
+      <model>Лейка для душа Санакс 6008</model>
+      <brand>САНАКС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2904.98</price>
+        <cityprice cityId="615420100">2904.98</cityprice>
+    </offer>
+    <offer sku="1791430">
+      <model>Душевая гарнитура Greenlight Сl138l1</model>
+      <brand>Greenlight</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>829936.8</price>
+        <cityprice cityId="615420100">829936.8</cityprice>
+    </offer>
+    <offer sku="11779673">
+      <model>Лейка для душа Lemark LM1013С</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12197.43</price>
+        <cityprice cityId="615420100">12197.43</cityprice>
+    </offer>
+    <offer sku="11633558">
+      <model>Ручной душ Bisk 08277</model>
+      <brand>BISK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15300.05</price>
+        <cityprice cityId="615420100">15300.05</cityprice>
+    </offer>
+    <offer sku="11833655">
+      <model>Ручной душ Grohe New Tempesta 26406001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87464.47</price>
+        <cityprice cityId="615420100">87464.47</cityprice>
+    </offer>
+    <offer sku="11602654">
+      <model>Ручной душ Grohe Cube Stick 26405000</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76393.79</price>
+        <cityprice cityId="615420100">76393.79</cityprice>
+    </offer>
+    <offer sku="11546029">
+      <model>Ручной душ Bath republic 647292947</model>
+      <brand>Bath republic</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4584.41</price>
+        <cityprice cityId="615420100">4584.41</cityprice>
+    </offer>
+    <offer sku="11633553">
+      <model>Ручной душ Esko SSP751</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3102.38</price>
+        <cityprice cityId="615420100">3102.38</cityprice>
+    </offer>
+    <offer sku="11609533">
+      <model>Ручной душ Damixa Origin One 2.0 918110000</model>
+      <brand>Damixa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27114.04</price>
+        <cityprice cityId="615420100">27114.04</cityprice>
+    </offer>
+    <offer sku="11546041">
+      <model>Ручной душ Ferro U28B</model>
+      <brand>Ferro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3115.2</price>
+        <cityprice cityId="615420100">3115.2</cityprice>
+    </offer>
+    <offer sku="11587898">
+      <model>Ручной душ AM.PM Spirit F0170000</model>
+      <brand>AM.PM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59247.06</price>
+        <cityprice cityId="615420100">59247.06</cityprice>
+    </offer>
+    <offer sku="11625524">
+      <model>Ручной душ Iddis А11011</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6708.66</price>
+        <cityprice cityId="615420100">6708.66</cityprice>
+    </offer>
+    <offer sku="11693048">
+      <model>Ручной душ Grohe Tempesta New 27852001</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7603.8</price>
+        <cityprice cityId="615420100">7603.8</cityprice>
+    </offer>
+    <offer sku="11708414">
+      <model>Ручной душ Lemark LM0801C</model>
+      <brand>Lemark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7603.8</price>
+        <cityprice cityId="615420100">7603.8</cityprice>
+    </offer>
+    <offer sku="11629638">
+      <model>Ручной душ Damixa 918100200</model>
+      <brand>Damixa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9381.25</price>
+        <cityprice cityId="615420100">9381.25</cityprice>
+    </offer>
+    <offer sku="11551429">
+      <model>Ручной душ Voda VSP851</model>
+      <brand>VODA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3833.52</price>
+        <cityprice cityId="615420100">3833.52</cityprice>
+    </offer>
+    <offer sku="11547062">
+      <model>Ручной душ Grohe 132</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80818.06</price>
+        <cityprice cityId="615420100">80818.06</cityprice>
+    </offer>
+    <offer sku="11708188">
+      <model>Ручной душ Grohe Tempesta New 100 2780310E</model>
+      <brand>Grohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6597.01</price>
+        <cityprice cityId="615420100">6597.01</cityprice>
+    </offer>
+    <offer sku="11767659">
+      <model>Ручной душ Esko SSP755</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7868.59</price>
+        <cityprice cityId="615420100">7868.59</cityprice>
+    </offer>
+    <offer sku="11538026">
+      <model>Душ ручной Tammuz 5061212415445</model>
+      <brand>Tammuz</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14520.93</price>
+        <cityprice cityId="615420100">14520.93</cityprice>
+    </offer>
+    <offer sku="11532286">
+      <model>Ручной душ Teorema 0320511-001</model>
+      <brand>Teorema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38431.01</price>
+        <cityprice cityId="615420100">38431.01</cityprice>
+    </offer>
+    <offer sku="11573623">
+      <model>Ручной душ Simple 18689011</model>
+      <brand>Simple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6322.34</price>
+        <cityprice cityId="615420100">6322.34</cityprice>
+    </offer>
+    <offer sku="11638041">
+      <model>Ручной душ Voda VSSP751</model>
+      <brand>VODA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5131.78</price>
+        <cityprice cityId="615420100">5131.78</cityprice>
+    </offer>
+    <offer sku="11857413">
+      <model>Ручной душ Hansgrohe 26657400</model>
+      <brand>HansGrohe</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>109423.21</price>
+        <cityprice cityId="615420100">109423.21</cityprice>
+    </offer>
+    <offer sku="11652740">
+      <model>Ручной душ Аквалиния DW1066</model>
+      <brand>Аквалиния</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>883.29</price>
+        <cityprice cityId="615420100">883.29</cityprice>
+    </offer>
+    <offer sku="11792588">
+      <model>Ручной душ Genebre 100697 45</model>
+      <brand>GENEBRE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19171.54</price>
+        <cityprice cityId="615420100">19171.54</cityprice>
+    </offer>
+    <offer sku="11621640">
+      <model>Ручной душ Voda VSP653</model>
+      <brand>VODA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7703.59</price>
+        <cityprice cityId="615420100">7703.59</cityprice>
+    </offer>
+    <offer sku="11659207">
+      <model>Ручной душ Trigor 1098</model>
+      <brand>Trigor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6716.56</price>
+        <cityprice cityId="615420100">6716.56</cityprice>
+    </offer>
+    <offer sku="11851327">
+      <model>Ручной душ Zein Z0305</model>
+      <brand>Zein</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3853.28</price>
+        <cityprice cityId="615420100">3853.28</cityprice>
+    </offer>
+    <offer sku="11849966">
+      <model>Ручной душ Tammuz 5061212415551</model>
+      <brand>Tammuz</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6259.11</price>
+        <cityprice cityId="615420100">6259.11</cityprice>
+    </offer>
+    <offer sku="11633548">
+      <model>Ручной душ Voda VSPL853</model>
+      <brand>VODA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4380.88</price>
+        <cityprice cityId="615420100">4380.88</cityprice>
+    </offer>
+    <offer sku="11849470">
+      <model>Ручной душ Esko SCI1055A</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14699.76</price>
+        <cityprice cityId="615420100">14699.76</cityprice>
+    </offer>
+    <offer sku="11621648">
+      <model>Ручной душ Iddis A11631</model>
+      <brand>IDDIS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8892.18</price>
+        <cityprice cityId="615420100">8892.18</cityprice>
+    </offer>
+    <offer sku="11670093">
+      <model>Ручной душ Fixsen FX2230-2CP</model>
+      <brand>FIXSEN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30628.62</price>
+        <cityprice cityId="615420100">30628.62</cityprice>
+    </offer>
+    <offer sku="11767656">
+      <model>Ручной душ Esko SSP753</model>
+      <brand>ESKO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8269.73</price>
+        <cityprice cityId="615420100">8269.73</cityprice>
+    </offer>
+    <offer sku="11802360">
+      <model>Ручной душ Voda VSP1205</model>
+      <brand>VODA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5728.54</price>
+        <cityprice cityId="615420100">5728.54</cityprice>
+    </offer>
+    <offer sku="10392699">
+      <model>Лейка POTATO Р38-1 гигиеническая</model>
+      <brand>Potato</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3455.11</price>
+        <cityprice cityId="615420100">3455.11</cityprice>
+    </offer>
+    <offer sku="11552428">
+      <model>Душевая панель Cerutti Tanaro CT8992</model>
+      <brand>Cerutti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2398303.94</price>
+        <cityprice cityId="615420100">2398303.94</cityprice>
+    </offer>
+    <offer sku="11645157">
+      <model>Гигиенический душ Haiba НВ 55556</model>
+      <brand>Haiba</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39504</price>
+        <cityprice cityId="615420100">39504</cityprice>
+    </offer>
+    <offer sku="11682784">
+      <model>Душевой набор Ferro  N375BL-B</model>
+      <brand>Ferro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38725.61</price>
+        <cityprice cityId="615420100">38725.61</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
