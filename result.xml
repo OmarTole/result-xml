@@ -71472,5 +71472,3074 @@
       <price>83221.91</price>
         <cityprice cityId="615420100">83221.91</cityprice>
     </offer>
+    <offer sku="12542255">
+      <model>Набор инструментов Дело техники 620851, 151 предмет</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84475.71</price>
+        <cityprice cityId="615420100">84475.71</cityprice>
+    </offer>
+    <offer sku="12556161">
+      <model>Набор инструментов Дело Техники 620309, 9 предметов</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24659</price>
+        <cityprice cityId="615420100">24659</cityprice>
+    </offer>
+    <offer sku="12639548">
+      <model>Набор инструментов Дело Техники 620412, 12 предметов</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>147031.21</price>
+        <cityprice cityId="615420100">147031.21</cityprice>
+    </offer>
+    <offer sku="12639568">
+      <model>Набор инструментов Дело Техники 620512, 12 предметов</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29739.09</price>
+        <cityprice cityId="615420100">29739.09</cityprice>
+    </offer>
+    <offer sku="1168839">
+      <model>Набор инструментов Зубр Техник 4-29605-H370-M 370 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61691.97</price>
+        <cityprice cityId="615420100">61691.97</cityprice>
+    </offer>
+    <offer sku="12639514">
+      <model>Набор инструментов Дело Техники 511128, 12 предметов</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26879.56</price>
+        <cityprice cityId="615420100">26879.56</cityprice>
+    </offer>
+    <offer sku="12610806">
+      <model>Набор инструментов Дело Техники 510580, 8 предметов</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15314.31</price>
+        <cityprice cityId="615420100">15314.31</cityprice>
+    </offer>
+    <offer sku="12542106">
+      <model>Набор инструментов Дело Техники 622789, 89 предметов</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71447.68</price>
+        <cityprice cityId="615420100">71447.68</cityprice>
+    </offer>
+    <offer sku="12639464">
+      <model>Набор инструментов Дело Техники 511061, 6 предметов</model>
+      <brand>Дело Техники</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11361.24</price>
+        <cityprice cityId="615420100">11361.24</cityprice>
+    </offer>
+    <offer sku="2255885">
+      <model>Набор инструментов Pro`sKit  для телекоммуникационных сетей PK-2628</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195627.96</price>
+        <cityprice cityId="615420100">195627.96</cityprice>
+    </offer>
+    <offer sku="2255882">
+      <model>Набор инструментов Pro`skit  для телекоммуникационных сетей PK-2629</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98802</price>
+        <cityprice cityId="615420100">98802</cityprice>
+    </offer>
+    <offer sku="2255921">
+      <model>Набор инструментов для телекоммуникационных сетей Pro`sKit PK-4013</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57492.88</price>
+        <cityprice cityId="615420100">57492.88</cityprice>
+    </offer>
+    <offer sku="12557260">
+      <model>Набор инструментов DeWalt DT70734Т, 29 предметов</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172142.72</price>
+        <cityprice cityId="615420100">172142.72</cityprice>
+    </offer>
+    <offer sku="12686885">
+      <model>Набор инструментов Dewalt DT70739Т, 31 предмета</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191454.56</price>
+        <cityprice cityId="615420100">191454.56</cityprice>
+    </offer>
+    <offer sku="1137115">
+      <model>Набор инструментов DeWALT DT70737Т 31 предмет</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22087.73</price>
+        <cityprice cityId="615420100">22087.73</cityprice>
+    </offer>
+    <offer sku="12467152">
+      <model>Набор инструментов DeWalt DT70742Т 33 предмета</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169230.04</price>
+        <cityprice cityId="615420100">169230.04</cityprice>
+    </offer>
+    <offer sku="12533908">
+      <model>Набор инструментов Dewalt DT70741Т, 31 предмет</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39960.47</price>
+        <cityprice cityId="615420100">39960.47</cityprice>
+    </offer>
+    <offer sku="12637092">
+      <model>Набор инструментов КВТ НТК-Т-08, 8 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19740.64</price>
+        <cityprice cityId="615420100">19740.64</cityprice>
+    </offer>
+    <offer sku="350769">
+      <model>Набор строительный 8 в 1 DeWALT DT70750-QZ</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21162.4</price>
+        <cityprice cityId="615420100">21162.4</cityprice>
+    </offer>
+    <offer sku="1168970">
+      <model>Набор инструментов СПЕЦ 3383 4 предмета</model>
+      <brand>СПЕЦ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13669.26</price>
+        <cityprice cityId="615420100">13669.26</cityprice>
+    </offer>
+    <offer sku="12348844">
+      <model>Набор для снятия подшипников MHRTools MHR04014 с крючками, 14 предметов</model>
+      <brand>MHRTools</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45547.72</price>
+        <cityprice cityId="615420100">45547.72</cityprice>
+    </offer>
+    <offer sku="10742052">
+      <model>Набор слесарного инструмента КВТ 82074 &quot;Домовой-08 Сантехник&quot;</model>
+      <brand>КВТ </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38341.11</price>
+        <cityprice cityId="615420100">38341.11</cityprice>
+    </offer>
+    <offer sku="10758999">
+      <model>Набор слесарного инструмента Union EF-3001, 186 предметов</model>
+      <brand>Union</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44954.91</price>
+        <cityprice cityId="615420100">44954.91</cityprice>
+    </offer>
+    <offer sku="10742909">
+      <model>Профессиональный набор для монтажа КВТ СИП НИС-2 57740</model>
+      <brand>КВТ </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>395208</price>
+        <cityprice cityId="615420100">395208</cityprice>
+    </offer>
+    <offer sku="10742036">
+      <model>Набор для монтажа КВТ СИП НИС-1 58744</model>
+      <brand>КВТ </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>289488.87</price>
+        <cityprice cityId="615420100">289488.87</cityprice>
+    </offer>
+    <offer sku="10742042">
+      <model>Набор для монтажа КВТ СИП НИС-3 74295</model>
+      <brand>КВТ </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1396744.11</price>
+        <cityprice cityId="615420100">1396744.11</cityprice>
+    </offer>
+    <offer sku="12355328">
+      <model>Набор инструментов Сибртех 13386 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13931.08</price>
+        <cityprice cityId="615420100">13931.08</cityprice>
+    </offer>
+    <offer sku="12355492">
+      <model>Набор инструментов Сибртех 77309 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85439.03</price>
+        <cityprice cityId="615420100">85439.03</cityprice>
+    </offer>
+    <offer sku="1168944">
+      <model>Набор инструментов СИБРТЕХ 13337 35 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6389.56</price>
+        <cityprice cityId="615420100">6389.56</cityprice>
+    </offer>
+    <offer sku="12355073">
+      <model>Набор инструментов Сибртех 723877 13 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3611.21</price>
+        <cityprice cityId="615420100">3611.21</cityprice>
+    </offer>
+    <offer sku="12355331">
+      <model>Набор инструментов Сибртех 11239 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>984.07</price>
+        <cityprice cityId="615420100">984.07</cityprice>
+    </offer>
+    <offer sku="12355299">
+      <model>Набор инструментов Сибртех 11260 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2039.27</price>
+        <cityprice cityId="615420100">2039.27</cityprice>
+    </offer>
+    <offer sku="1137060">
+      <model>Набор инструментов Сибртех 15439 12 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4420.4</price>
+        <cityprice cityId="615420100">4420.4</cityprice>
+    </offer>
+    <offer sku="1169338">
+      <model>Набор инструментов СИБРТЕХ 13383 34 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9404.96</price>
+        <cityprice cityId="615420100">9404.96</cityprice>
+    </offer>
+    <offer sku="1166112">
+      <model>Набор инструментов СИБРТЕХ 12322 9 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1688.53</price>
+        <cityprice cityId="615420100">1688.53</cityprice>
+    </offer>
+    <offer sku="1168403">
+      <model>Набор инструментов СИБРТЕХ 12318 9 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2309</price>
+        <cityprice cityId="615420100">2309</cityprice>
+    </offer>
+    <offer sku="10761483">
+      <model>Набор инструментов Сибртех 13511, 108 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23192.78</price>
+        <cityprice cityId="615420100">23192.78</cityprice>
+    </offer>
+    <offer sku="4022801">
+      <model>Набор инструментов Сибртех 15220, 6 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3411.63</price>
+        <cityprice cityId="615420100">3411.63</cityprice>
+    </offer>
+    <offer sku="1168605">
+      <model>Набор инструментов СИБРТЕХ ГОСТ 16983 6 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3328.64</price>
+        <cityprice cityId="615420100">3328.64</cityprice>
+    </offer>
+    <offer sku="12355506">
+      <model>Набор инструментов Сибртех 11242 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2459.18</price>
+        <cityprice cityId="615420100">2459.18</cityprice>
+    </offer>
+    <offer sku="1165330">
+      <model>Набор инструментов СИБРТЕХ 13374 6 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5351.12</price>
+        <cityprice cityId="615420100">5351.12</cityprice>
+    </offer>
+    <offer sku="1168274">
+      <model>Набор инструментов СИБРТЕХ 13363 61 предмет</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12285.04</price>
+        <cityprice cityId="615420100">12285.04</cityprice>
+    </offer>
+    <offer sku="12355393">
+      <model>Набор инструментов Сибртех 77305 15 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9876.25</price>
+        <cityprice cityId="615420100">9876.25</cityprice>
+    </offer>
+    <offer sku="12355421">
+      <model>Набор инструментов Сибртех 72346 13 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84774.09</price>
+        <cityprice cityId="615420100">84774.09</cityprice>
+    </offer>
+    <offer sku="10761437">
+      <model>Набор инструментов Сибртех 13514 82 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23892.3</price>
+        <cityprice cityId="615420100">23892.3</cityprice>
+    </offer>
+    <offer sku="10761488">
+      <model>Набор инструментов Сибртех 13529, 89 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25583.79</price>
+        <cityprice cityId="615420100">25583.79</cityprice>
+    </offer>
+    <offer sku="1169152">
+      <model>Набор инструментов СИБРТЕХ 12316 9 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2314.93</price>
+        <cityprice cityId="615420100">2314.93</cityprice>
+    </offer>
+    <offer sku="1169348">
+      <model>Набор инструментов СИБРТЕХ 12321 9 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1505.74</price>
+        <cityprice cityId="615420100">1505.74</cityprice>
+    </offer>
+    <offer sku="12355149">
+      <model>Набор инструментов Сибртех 13500 83 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27317.76</price>
+        <cityprice cityId="615420100">27317.76</cityprice>
+    </offer>
+    <offer sku="12355312">
+      <model>Набор инструментов Сибртех 13523 29 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17769.54</price>
+        <cityprice cityId="615420100">17769.54</cityprice>
+    </offer>
+    <offer sku="1168523">
+      <model>Набор инструментов Сибртех 13376 26 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8037.54</price>
+        <cityprice cityId="615420100">8037.54</cityprice>
+    </offer>
+    <offer sku="1168536">
+      <model>Набор инструментов Сибртех 11244 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17743.85</price>
+        <cityprice cityId="615420100">17743.85</cityprice>
+    </offer>
+    <offer sku="12355370">
+      <model>Набор инструментов Сибртех 13525 56 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18772.38</price>
+        <cityprice cityId="615420100">18772.38</cityprice>
+    </offer>
+    <offer sku="12355264">
+      <model>Набор инструментов Сибртех 704155 6 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="10762054">
+      <model>Набор инструментов Сибртех 13528 76 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52562.66</price>
+        <cityprice cityId="615420100">52562.66</cityprice>
+    </offer>
+    <offer sku="1169109">
+      <model>Набор инструментов Сибртех 723867 13 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1845.62</price>
+        <cityprice cityId="615420100">1845.62</cityprice>
+    </offer>
+    <offer sku="1165167">
+      <model>Набор инструментов Сибртех 15475 10 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7806.35</price>
+        <cityprice cityId="615420100">7806.35</cityprice>
+    </offer>
+    <offer sku="1167533">
+      <model>Набор инструментов СИБРТЕХ 77307 21 предмет</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11772.26</price>
+        <cityprice cityId="615420100">11772.26</cityprice>
+    </offer>
+    <offer sku="12355090">
+      <model>Набор инструментов Сибртех 13713 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59545.99</price>
+        <cityprice cityId="615420100">59545.99</cityprice>
+    </offer>
+    <offer sku="12355407">
+      <model>Набор инструментов Сибртех 72348 6 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35896.74</price>
+        <cityprice cityId="615420100">35896.74</cityprice>
+    </offer>
+    <offer sku="1137513">
+      <model>Набор инструментов СИБРТЕХ 2839 6 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8793.38</price>
+        <cityprice cityId="615420100">8793.38</cityprice>
+    </offer>
+    <offer sku="12355359">
+      <model>Набор инструментов Сибртех 11257 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1347.66</price>
+        <cityprice cityId="615420100">1347.66</cityprice>
+    </offer>
+    <offer sku="12515877">
+      <model>Набор инструментов Сибртех 13499ABT, 94 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47422.98</price>
+        <cityprice cityId="615420100">47422.98</cityprice>
+    </offer>
+    <offer sku="10762058">
+      <model>Набор инструментов Сибртех 13527 32 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98703.2</price>
+        <cityprice cityId="615420100">98703.2</cityprice>
+    </offer>
+    <offer sku="12355160">
+      <model>Набор инструментов Сибртех 11247 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1814.99</price>
+        <cityprice cityId="615420100">1814.99</cityprice>
+    </offer>
+    <offer sku="12355164">
+      <model>Набор инструментов Сибртех 18840 9 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2698.28</price>
+        <cityprice cityId="615420100">2698.28</cityprice>
+    </offer>
+    <offer sku="1169402">
+      <model>Набор инструментов СИБРТЕХ 11256 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>699.52</price>
+        <cityprice cityId="615420100">699.52</cityprice>
+    </offer>
+    <offer sku="1166377">
+      <model>Набор инструментов СИБРТЕХ 15437 6 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2597.5</price>
+        <cityprice cityId="615420100">2597.5</cityprice>
+    </offer>
+    <offer sku="1168597">
+      <model>Набор инструментов СИБРТЕХ 13711 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7902.18</price>
+        <cityprice cityId="615420100">7902.18</cityprice>
+    </offer>
+    <offer sku="12355275">
+      <model>Набор инструментов Сибртех 11259 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4909.47</price>
+        <cityprice cityId="615420100">4909.47</cityprice>
+    </offer>
+    <offer sku="12355290">
+      <model>Набор инструментов Сибртех 11241 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69345.17</price>
+        <cityprice cityId="615420100">69345.17</cityprice>
+    </offer>
+    <offer sku="1168764">
+      <model>Набор инструментов Сибртех 11237 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>500.93</price>
+        <cityprice cityId="615420100">500.93</cityprice>
+    </offer>
+    <offer sku="1165329">
+      <model>Набор инструментов СИБРТЕХ 12936 7 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4992.47</price>
+        <cityprice cityId="615420100">4992.47</cityprice>
+    </offer>
+    <offer sku="1165641">
+      <model>Набор инструментов СИБРТЕХ 77308 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4741.51</price>
+        <cityprice cityId="615420100">4741.51</cityprice>
+    </offer>
+    <offer sku="12355154">
+      <model>Набор инструментов Сибртех 13378 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41885.13</price>
+        <cityprice cityId="615420100">41885.13</cityprice>
+    </offer>
+    <offer sku="12355319">
+      <model>Набор инструментов Сибртех 72347 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57019.62</price>
+        <cityprice cityId="615420100">57019.62</cityprice>
+    </offer>
+    <offer sku="12355455">
+      <model>Набор инструментов Сибртех 13377 4 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41671.72</price>
+        <cityprice cityId="615420100">41671.72</cityprice>
+    </offer>
+    <offer sku="12355169">
+      <model>Набор инструментов Сибртех 18312 12 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13831.29</price>
+        <cityprice cityId="615420100">13831.29</cityprice>
+    </offer>
+    <offer sku="12355286">
+      <model>Набор инструментов Сибртех 13384 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6319.38</price>
+        <cityprice cityId="615420100">6319.38</cityprice>
+    </offer>
+    <offer sku="12355292">
+      <model>Набор инструментов Сибртех 13338 41 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10408.79</price>
+        <cityprice cityId="615420100">10408.79</cityprice>
+    </offer>
+    <offer sku="12355402">
+      <model>Набор инструментов Сибртех 702225 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>120941.55</price>
+        <cityprice cityId="615420100">120941.55</cityprice>
+    </offer>
+    <offer sku="12355171">
+      <model>Набор инструментов Сибртех 11248 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>976.16</price>
+        <cityprice cityId="615420100">976.16</cityprice>
+    </offer>
+    <offer sku="1167101">
+      <model>Набор инструментов СИБРТЕХ 13373 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7394.34</price>
+        <cityprice cityId="615420100">7394.34</cityprice>
+    </offer>
+    <offer sku="1169306">
+      <model>Набор инструментов Сибртех 11238 5 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>518.71</price>
+        <cityprice cityId="615420100">518.71</cityprice>
+    </offer>
+    <offer sku="1164895">
+      <model>Набор инструментов Сибртех 15224 10 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7180.93</price>
+        <cityprice cityId="615420100">7180.93</cityprice>
+    </offer>
+    <offer sku="1193981">
+      <model>Набор инструментов Сибртех 13508 94 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19003.58</price>
+        <cityprice cityId="615420100">19003.58</cityprice>
+    </offer>
+    <offer sku="10761476">
+      <model>Набор инструментов Сибртех 13509, 94 предмета</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22288.74</price>
+        <cityprice cityId="615420100">22288.74</cityprice>
+    </offer>
+    <offer sku="4136190">
+      <model>Набор ключей комбинированных Сибртех 15446, 8 - 17 мм</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2427.57</price>
+        <cityprice cityId="615420100">2427.57</cityprice>
+    </offer>
+    <offer sku="1165821">
+      <model>Набор инструментов Сибртех 15222 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6638.51</price>
+        <cityprice cityId="615420100">6638.51</cityprice>
+    </offer>
+    <offer sku="12355302">
+      <model>Набор инструментов Сибртех 723887 19 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113207.33</price>
+        <cityprice cityId="615420100">113207.33</cityprice>
+    </offer>
+    <offer sku="12355386">
+      <model>Набор инструментов Сибртех 72349 8 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>208404.05</price>
+        <cityprice cityId="615420100">208404.05</cityprice>
+    </offer>
+    <offer sku="12355266">
+      <model>Набор инструментов Сибртех 13498ABT 108 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29639.61</price>
+        <cityprice cityId="615420100">29639.61</cityprice>
+    </offer>
+    <offer sku="1166002">
+      <model>Набор инструментов СИБРТЕХ 12938 9 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6933.92</price>
+        <cityprice cityId="615420100">6933.92</cityprice>
+    </offer>
+    <offer sku="1168604">
+      <model>Набор инструментов СИБРТЕХ 12317 9 предметов</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1892.06</price>
+        <cityprice cityId="615420100">1892.06</cityprice>
+    </offer>
+    <offer sku="12637029">
+      <model>Набор инструментов Сибин 29240-H4, 4 предмета</model>
+      <brand>СИБИН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14861.8</price>
+        <cityprice cityId="615420100">14861.8</cityprice>
+    </offer>
+    <offer sku="1168643">
+      <model>Набор инструментов СИБИН 27765-H56 56 предмета</model>
+      <brand>СИБИН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27596.39</price>
+        <cityprice cityId="615420100">27596.39</cityprice>
+    </offer>
+    <offer sku="1168834">
+      <model>Набор инструментов СИБИН 27765-H94 94 предмета</model>
+      <brand>СИБИН </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28265.28</price>
+        <cityprice cityId="615420100">28265.28</cityprice>
+    </offer>
+    <offer sku="12344433">
+      <model>Набор инструментов Pro`sKit  PK-4020B для обслуживания сетей</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1678037.36</price>
+        <cityprice cityId="615420100">1678037.36</cityprice>
+    </offer>
+    <offer sku="2255884">
+      <model>Набор инструментов Pro`sKit для обслуживания сетей сетей PK-2633</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52760.27</price>
+        <cityprice cityId="615420100">52760.27</cityprice>
+    </offer>
+    <offer sku="12599105">
+      <model>Набор инструментов Сервис ключ 71082, 82 предмета</model>
+      <brand>СЕРВИС КЛЮЧ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15742.12</price>
+        <cityprice cityId="615420100">15742.12</cityprice>
+    </offer>
+    <offer sku="12599183">
+      <model>Набор инструментов Сервис ключ 71108, 108 предметов</model>
+      <brand>СЕРВИС КЛЮЧ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16600.98</price>
+        <cityprice cityId="615420100">16600.98</cityprice>
+    </offer>
+    <offer sku="12599270">
+      <model>Набор инструментов Сервис Ключ 11056, 56 предметов</model>
+      <brand>СЕРВИС КЛЮЧ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34242.8</price>
+        <cityprice cityId="615420100">34242.8</cityprice>
+    </offer>
+    <offer sku="12684606">
+      <model>Набор инструментов Сервис Ключ 11094, 94 предмета</model>
+      <brand>СЕРВИС КЛЮЧ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37168.32</price>
+        <cityprice cityId="615420100">37168.32</cityprice>
+    </offer>
+    <offer sku="12684603">
+      <model>Набор ключей комбинированных Сервис Ключ 70040, 6-24мм</model>
+      <brand>СЕРВИС КЛЮЧ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27743.6</price>
+        <cityprice cityId="615420100">27743.6</cityprice>
+    </offer>
+    <offer sku="1193647">
+      <model>Набор инструментов Россия 13451 19 предметов</model>
+      <brand>Россия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21409.41</price>
+        <cityprice cityId="615420100">21409.41</cityprice>
+    </offer>
+    <offer sku="1137493">
+      <model>Набор инструментов Россия 13454 26 предметов</model>
+      <brand>Россия</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23659.13</price>
+        <cityprice cityId="615420100">23659.13</cityprice>
+    </offer>
+    <offer sku="12611040">
+      <model>Набор инструментов Рокот 736-187, 26 предметов</model>
+      <brand>Рокот</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19562.8</price>
+        <cityprice cityId="615420100">19562.8</cityprice>
+    </offer>
+    <offer sku="12627784">
+      <model>Набор инструментов РемоКолор 43-2-512 Р, 12 предметов</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12172.41</price>
+        <cityprice cityId="615420100">12172.41</cityprice>
+    </offer>
+    <offer sku="229907">
+      <model>Набор головок разрезных Rockforce RF-443S 6 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79084.08</price>
+        <cityprice cityId="615420100">79084.08</cityprice>
+    </offer>
+    <offer sku="12351234">
+      <model>Набор инструментов Зубр Р6М5 3 предмета</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121225.11</price>
+        <cityprice cityId="615420100">121225.11</cityprice>
+    </offer>
+    <offer sku="1165319">
+      <model>Набор инструментов Барс Р6М5 72372 19 предметов</model>
+      <brand>БАРС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12404.43</price>
+        <cityprice cityId="615420100">12404.43</cityprice>
+    </offer>
+    <offer sku="12686933">
+      <model>Набор инструментов Makita Р-52065 79 предметов</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70149.42</price>
+        <cityprice cityId="615420100">70149.42</cityprice>
+    </offer>
+    <offer sku="12350614">
+      <model>Набор инструментов Зубр Профессионал 25353-H24 24 предмета</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113678.62</price>
+        <cityprice cityId="615420100">113678.62</cityprice>
+    </offer>
+    <offer sku="12350618">
+      <model>Набор инструментов Зубр Профессионал НР №9 15576 НР9 9 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7916.02</price>
+        <cityprice cityId="615420100">7916.02</cityprice>
+    </offer>
+    <offer sku="12350492">
+      <model>Набор инструментов Зубр Профессионал 27011-H6 6 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6042.73</price>
+        <cityprice cityId="615420100">6042.73</cityprice>
+    </offer>
+    <offer sku="12350642">
+      <model>Набор инструментов Зубр Профессионал 28109-H31 31 предмет</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69802.9</price>
+        <cityprice cityId="615420100">69802.9</cityprice>
+    </offer>
+    <offer sku="1168983">
+      <model>Набор инструментов ЗУБР Профессионал 29626-H19 19 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22762</price>
+        <cityprice cityId="615420100">22762</cityprice>
+    </offer>
+    <offer sku="12350508">
+      <model>Набор инструментов Зубр Профессионал 27011-H12_z01 12 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15597.87</price>
+        <cityprice cityId="615420100">15597.87</cityprice>
+    </offer>
+    <offer sku="12351029">
+      <model>Набор инструментов Зубр Профессионал 28110-H65 65 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167763.82</price>
+        <cityprice cityId="615420100">167763.82</cityprice>
+    </offer>
+    <offer sku="1168836">
+      <model>Набор инструментов ЗУБР ПРОФ-А 29625-H25 25 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31945.65</price>
+        <cityprice cityId="615420100">31945.65</cityprice>
+    </offer>
+    <offer sku="1138964">
+      <model>Набор инструментов НИЗ Прогресс 2143630 15 предметов</model>
+      <brand>НИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46434.96</price>
+        <cityprice cityId="615420100">46434.96</cityprice>
+    </offer>
+    <offer sku="1168580">
+      <model>Набор инструментов Matrix 15414 6 преметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2529.33</price>
+        <cityprice cityId="615420100">2529.33</cityprice>
+    </offer>
+    <offer sku="10843025">
+      <model>Набор инструментов Rockforce RF-41251-5 Premium, 131 предмет</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102457.67</price>
+        <cityprice cityId="615420100">102457.67</cityprice>
+    </offer>
+    <offer sku="1136982">
+      <model>Набор инструментов Marshal MT-494 94 предмета</model>
+      <brand>Marshal </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32498.94</price>
+        <cityprice cityId="615420100">32498.94</cityprice>
+    </offer>
+    <offer sku="1169405">
+      <model>Набор инструментов Total TACSD30256 25 предметов</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7893.29</price>
+        <cityprice cityId="615420100">7893.29</cityprice>
+    </offer>
+    <offer sku="10917814">
+      <model>Набор инструментов Rockforce RF-4032TH, 3 предмета</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9869.33</price>
+        <cityprice cityId="615420100">9869.33</cityprice>
+    </offer>
+    <offer sku="1164502">
+      <model>Набор инструментов STANLEY 0-69-257 12 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71543.52</price>
+        <cityprice cityId="615420100">71543.52</cityprice>
+    </offer>
+    <offer sku="1164535">
+      <model>Набор инструментов Gross 12165 3 предмета</model>
+      <brand>Gross </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4860.07</price>
+        <cityprice cityId="615420100">4860.07</cityprice>
+    </offer>
+    <offer sku="1164878">
+      <model>Набор инструментов Bosch PointTeQ 2.608.577.347 7 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4624.55</price>
+        <cityprice cityId="615420100">4624.55</cityprice>
+    </offer>
+    <offer sku="1165109">
+      <model>Набор инструментов STANLEY 2-99-055 70 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>147708.99</price>
+        <cityprice cityId="615420100">147708.99</cityprice>
+    </offer>
+    <offer sku="1165324">
+      <model>Набор инструментов BAKU BK-3032 32 предмета</model>
+      <brand>Baku</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5182.16</price>
+        <cityprice cityId="615420100">5182.16</cityprice>
+    </offer>
+    <offer sku="1165403">
+      <model>Набор инструментов Thorvik W2S6PR 6 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7578.11</price>
+        <cityprice cityId="615420100">7578.11</cityprice>
+    </offer>
+    <offer sku="1165772">
+      <model>Набор инструментов YATO YT-7752 18 предметов</model>
+      <brand>YATO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22846.64</price>
+        <cityprice cityId="615420100">22846.64</cityprice>
+    </offer>
+    <offer sku="1166292">
+      <model>Набор инструментов STANLEY STHT0-62574, 22 предмета</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9810.05</price>
+        <cityprice cityId="615420100">9810.05</cityprice>
+    </offer>
+    <offer sku="1166763">
+      <model>Набор инструментов Thorvik OEWS007 7 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65986.89</price>
+        <cityprice cityId="615420100">65986.89</cityprice>
+    </offer>
+    <offer sku="1167080">
+      <model>Набор инструментов Thorvik UTS0077MP 77 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98241.79</price>
+        <cityprice cityId="615420100">98241.79</cityprice>
+    </offer>
+    <offer sku="1168806">
+      <model>Набор инструментов Pferd 265 B 100 mm H2 6 предметов</model>
+      <brand>Pferd</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98560.92</price>
+        <cityprice cityId="615420100">98560.92</cityprice>
+    </offer>
+    <offer sku="1168914">
+      <model>Набор инструментов Rock FORCE RF-6161-9 16 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>940871.69</price>
+        <cityprice cityId="615420100">940871.69</cityprice>
+    </offer>
+    <offer sku="1169300">
+      <model>Набор инструментов ОРМИС 33-2-123 20 предметов</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3244.08</price>
+        <cityprice cityId="615420100">3244.08</cityprice>
+    </offer>
+    <offer sku="1169323">
+      <model>Набор инструментов ОРМИС 33-4-310 7 предметов</model>
+      <brand>ОРМИС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46928.97</price>
+        <cityprice cityId="615420100">46928.97</cityprice>
+    </offer>
+    <offer sku="1169454">
+      <model>Набор инструментов GROSS S2 12164 6 предметов</model>
+      <brand>Gross </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9770.53</price>
+        <cityprice cityId="615420100">9770.53</cityprice>
+    </offer>
+    <offer sku="1169464">
+      <model>Набор инструментов IRIMO 10-12-H 12 предметов</model>
+      <brand>IRIMO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>265466.15</price>
+        <cityprice cityId="615420100">265466.15</cityprice>
+    </offer>
+    <offer sku="1169509">
+      <model>Набор инструментов Gedore C 2150-60 PH-06 6 предметов</model>
+      <brand>Gedore </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14958.29</price>
+        <cityprice cityId="615420100">14958.29</cityprice>
+    </offer>
+    <offer sku="1193318">
+      <model>Набор инструментов Dremel 2615S723JA 100 предметов</model>
+      <brand>Dremel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37063.59</price>
+        <cityprice cityId="615420100">37063.59</cityprice>
+    </offer>
+    <offer sku="1193429">
+      <model>Набор инструментов Dremel SC690 10 предметов</model>
+      <brand>Dremel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19592.69</price>
+        <cityprice cityId="615420100">19592.69</cityprice>
+    </offer>
+    <offer sku="1193641">
+      <model>Набор инструментов Gedore S 8000 4 предмета</model>
+      <brand>Gedore </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>277920.15</price>
+        <cityprice cityId="615420100">277920.15</cityprice>
+    </offer>
+    <offer sku="12638807">
+      <model>Набор инструментов Topex 1854001, 11 предметов</model>
+      <brand>TOPEX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90935.38</price>
+        <cityprice cityId="615420100">90935.38</cityprice>
+    </offer>
+    <offer sku="12649737">
+      <model>Набор инструментов Sturm 1310-01-TS3, 173 предмета</model>
+      <brand>Sturm</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>291311.77</price>
+        <cityprice cityId="615420100">291311.77</cityprice>
+    </offer>
+    <offer sku="12466826">
+      <model>Набор инструментов Stanley 4-84-485, 3 предмета</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17766.58</price>
+        <cityprice cityId="615420100">17766.58</cityprice>
+    </offer>
+    <offer sku="12483865">
+      <model>Набор инструментов Forsage 15177, 15 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24551.31</price>
+        <cityprice cityId="615420100">24551.31</cityprice>
+    </offer>
+    <offer sku="12543001">
+      <model>Набор инструментов Stanley FMMT82684-1, 49 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>446779.68</price>
+        <cityprice cityId="615420100">446779.68</cityprice>
+    </offer>
+    <offer sku="12555839">
+      <model>Набор инструментов Intertool ET-6039sp, 39 предметов</model>
+      <brand>INTERTOOL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>562225.86</price>
+        <cityprice cityId="615420100">562225.86</cityprice>
+    </offer>
+    <offer sku="12601589">
+      <model>Набор инструментов Forsage F-01A0118 5722, 3 предмета</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59281.2</price>
+        <cityprice cityId="615420100">59281.2</cityprice>
+    </offer>
+    <offer sku="12610434">
+      <model>Набор инструментов Rock Force RF-2108, 10 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>313459.23</price>
+        <cityprice cityId="615420100">313459.23</cityprice>
+    </offer>
+    <offer sku="12624111">
+      <model>Набор инструментов Stanley 4-91-444, 6 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72110.64</price>
+        <cityprice cityId="615420100">72110.64</cityprice>
+    </offer>
+    <offer sku="12624578">
+      <model>Набор инструментов АвтоDело 40414, 7 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12835.37</price>
+        <cityprice cityId="615420100">12835.37</cityprice>
+    </offer>
+    <offer sku="12624680">
+      <model>Набор инструментов АвтоDело 40329, 11 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>107037.15</price>
+        <cityprice cityId="615420100">107037.15</cityprice>
+    </offer>
+    <offer sku="12636743">
+      <model>Набор инструментов КВТ НТКШ-5, 5 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19255.52</price>
+        <cityprice cityId="615420100">19255.52</cityprice>
+    </offer>
+    <offer sku="12348853">
+      <model>Набор инструментов Forsage F-903U5, 3 предмета</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90255.63</price>
+        <cityprice cityId="615420100">90255.63</cityprice>
+    </offer>
+    <offer sku="1136369">
+      <model>Набор инструментов Xiaomi MiJia Wiha JXLSD01XH 25 предметов</model>
+      <brand>Xiaomi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16042.94</price>
+        <cityprice cityId="615420100">16042.94</cityprice>
+    </offer>
+    <offer sku="1136939">
+      <model>Набор инструментов Total THT1061826 8 предметов</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2455.25</price>
+        <cityprice cityId="615420100">2455.25</cityprice>
+    </offer>
+    <offer sku="1137142">
+      <model>Набор инструментов Bosch PointTeQ 2.608.577.345 5 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17173.76</price>
+        <cityprice cityId="615420100">17173.76</cityprice>
+    </offer>
+    <offer sku="1137503">
+      <model>Набор инструментов KING TONY 5169PR 69 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58094.59</price>
+        <cityprice cityId="615420100">58094.59</cityprice>
+    </offer>
+    <offer sku="1168495">
+      <model>Набор инструментов Matrix 725650 50 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18524.39</price>
+        <cityprice cityId="615420100">18524.39</cityprice>
+    </offer>
+    <offer sku="12638512">
+      <model>Набор инструментов Matrix 13381, 3 предмета</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151453.59</price>
+        <cityprice cityId="615420100">151453.59</cityprice>
+    </offer>
+    <offer sku="10919756">
+      <model>Набор инструментов BaumAuto 508712P, 12 предметов</model>
+      <brand>BaumAuto</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169115.43</price>
+        <cityprice cityId="615420100">169115.43</cityprice>
+    </offer>
+    <offer sku="1193340">
+      <model>Набор инструментов Dremel 687 52 предмета</model>
+      <brand>Dremel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12010.02</price>
+        <cityprice cityId="615420100">12010.02</cityprice>
+    </offer>
+    <offer sku="12556680">
+      <model>Набор инструментов Makita B-36170-10, 47 предметов</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34572.8</price>
+        <cityprice cityId="615420100">34572.8</cityprice>
+    </offer>
+    <offer sku="12651979">
+      <model>Набор инструментов DeWalt DT70578T, 10 предметов</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21201.92</price>
+        <cityprice cityId="615420100">21201.92</cityprice>
+    </offer>
+    <offer sku="1165950">
+      <model>Набор инструментов Proxxon 23104 54 предмета</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53353.08</price>
+        <cityprice cityId="615420100">53353.08</cityprice>
+    </offer>
+    <offer sku="12602449">
+      <model>Набор инструментов Мастак 01-058C, 58 предметов</model>
+      <brand>Мастак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116092.35</price>
+        <cityprice cityId="615420100">116092.35</cityprice>
+    </offer>
+    <offer sku="1168934">
+      <model>Набор инструментов STANLEY 0-68-010 11 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36559.7</price>
+        <cityprice cityId="615420100">36559.7</cityprice>
+    </offer>
+    <offer sku="1165940">
+      <model>Набор инструментов Gedore R49003033 33 предмета</model>
+      <brand>Gedore </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21959.2</price>
+        <cityprice cityId="615420100">21959.2</cityprice>
+    </offer>
+    <offer sku="1136599">
+      <model>Набор инструментов Force 4941-5 94 предмета</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55242.17</price>
+        <cityprice cityId="615420100">55242.17</cityprice>
+    </offer>
+    <offer sku="229906">
+      <model>Набор инструментов Rockforce RF-T4322, 32 предмета</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49400.01</price>
+        <cityprice cityId="615420100">49400.01</cityprice>
+    </offer>
+    <offer sku="12560428">
+      <model>Набор инструментов Proxxon 23000, 29 предметов</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54917.12</price>
+        <cityprice cityId="615420100">54917.12</cityprice>
+    </offer>
+    <offer sku="12598579">
+      <model>Набор инструментов Forsage F-5176W, 7 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>321349.55</price>
+        <cityprice cityId="615420100">321349.55</cityprice>
+    </offer>
+    <offer sku="12599227">
+      <model>Набор инструментов Forsage 18184, 9 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131173.49</price>
+        <cityprice cityId="615420100">131173.49</cityprice>
+    </offer>
+    <offer sku="12610926">
+      <model>Набор инструментов Milwaukee 4932464067, 7 предметов</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>346245.68</price>
+        <cityprice cityId="615420100">346245.68</cityprice>
+    </offer>
+    <offer sku="12615624">
+      <model>Набор инструментов Kroft 203052, 52 предмета</model>
+      <brand>KROFT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59281.2</price>
+        <cityprice cityId="615420100">59281.2</cityprice>
+    </offer>
+    <offer sku="12636433">
+      <model>Набор инструментов Rockforce 206, 5 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96837.82</price>
+        <cityprice cityId="615420100">96837.82</cityprice>
+    </offer>
+    <offer sku="12686913">
+      <model>Набор инструментов DeWalt DT70567T-QZ, 2 предмета</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3942.2</price>
+        <cityprice cityId="615420100">3942.2</cityprice>
+    </offer>
+    <offer sku="12350527">
+      <model>Набор инструментов Зубр Мастер 27655-H10 10 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124793.84</price>
+        <cityprice cityId="615420100">124793.84</cityprice>
+    </offer>
+    <offer sku="12456220">
+      <model>Набор инструментов Jonnesway RD02040S 40 предметов</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63529.69</price>
+        <cityprice cityId="615420100">63529.69</cityprice>
+    </offer>
+    <offer sku="1166921">
+      <model>Набор инструментов BAHCO 808050P 7 предметов</model>
+      <brand>BAHCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174104.93</price>
+        <cityprice cityId="615420100">174104.93</cityprice>
+    </offer>
+    <offer sku="1168316">
+      <model>Набор инструментов RYOBI RAK86MIX 5132002686 46 предметов</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136896.1</price>
+        <cityprice cityId="615420100">136896.1</cityprice>
+    </offer>
+    <offer sku="1136622">
+      <model>Набор инструментов KING TONY 9CI016 6 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13063.6</price>
+        <cityprice cityId="615420100">13063.6</cityprice>
+    </offer>
+    <offer sku="229997">
+      <model>Набор инструментов Rockforce RF-5151 15 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22158.32</price>
+        <cityprice cityId="615420100">22158.32</cityprice>
+    </offer>
+    <offer sku="12513955">
+      <model>Набор инструментов Force 3361, 36 предметов</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76077.54</price>
+        <cityprice cityId="615420100">76077.54</cityprice>
+    </offer>
+    <offer sku="12497181">
+      <model>Набор инструментов Tundra 881879 44 предмета</model>
+      <brand>Tundra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37544.76</price>
+        <cityprice cityId="615420100">37544.76</cityprice>
+    </offer>
+    <offer sku="12599257">
+      <model>Набор инструментов Stels 1085861, 57 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53502.27</price>
+        <cityprice cityId="615420100">53502.27</cityprice>
+    </offer>
+    <offer sku="12602042">
+      <model>Набор инструментов JCB-27, 27 предметов</model>
+      <brand>JCB</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51574.64</price>
+        <cityprice cityId="615420100">51574.64</cityprice>
+    </offer>
+    <offer sku="12610745">
+      <model>Набор инструментов Proxxon 23946, 9 предметов</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14808.44</price>
+        <cityprice cityId="615420100">14808.44</cityprice>
+    </offer>
+    <offer sku="1138979">
+      <model>Набор инструментов Wera 8790 HMC HF 1 10 предметов</model>
+      <brand>Wera </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180289.94</price>
+        <cityprice cityId="615420100">180289.94</cityprice>
+    </offer>
+    <offer sku="229921">
+      <model>Набор головок Rockforce RF-906U2 5 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22230.45</price>
+        <cityprice cityId="615420100">22230.45</cityprice>
+    </offer>
+    <offer sku="1165390">
+      <model>Набор инструментов Thorvik ARC W1S10TB 10 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11319.78</price>
+        <cityprice cityId="615420100">11319.78</cityprice>
+    </offer>
+    <offer sku="1168987">
+      <model>Набор инструментов YATO YT-1054 11 предметов</model>
+      <brand>YATO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27664.56</price>
+        <cityprice cityId="615420100">27664.56</cityprice>
+    </offer>
+    <offer sku="1165080">
+      <model>Набор инструментов STANLEY 1-94-652 30 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>278539.63</price>
+        <cityprice cityId="615420100">278539.63</cityprice>
+    </offer>
+    <offer sku="334622">
+      <model>Набор инструментов Tolsen 15229 7 предметов</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16104.73</price>
+        <cityprice cityId="615420100">16104.73</cityprice>
+    </offer>
+    <offer sku="1193309">
+      <model>Набор инструментов Bosch Drill&amp;Drive 2607002786 20 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16535.96</price>
+        <cityprice cityId="615420100">16535.96</cityprice>
+    </offer>
+    <offer sku="1165402">
+      <model>Набор инструментов BRAUMAUTO BR-108 108 предметов</model>
+      <brand>BRAUMAUTO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>291302.88</price>
+        <cityprice cityId="615420100">291302.88</cityprice>
+    </offer>
+    <offer sku="1166701">
+      <model>Набор инструментов ЗУБР 25285-H29 29 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24677.78</price>
+        <cityprice cityId="615420100">24677.78</cityprice>
+    </offer>
+    <offer sku="1166728">
+      <model>Набор инструментов BRAUMAUTO BR-94 94 предмета</model>
+      <brand>BRAUMAUTO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46284.9</price>
+        <cityprice cityId="615420100">46284.9</cityprice>
+    </offer>
+    <offer sku="1164483">
+      <model>Набор инструментов Proxxon 23286 65 предметов</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101271.06</price>
+        <cityprice cityId="615420100">101271.06</cityprice>
+    </offer>
+    <offer sku="1137181">
+      <model>Набор инструментов Ombra 910614 14 предметов</model>
+      <brand>Ombra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11557.86</price>
+        <cityprice cityId="615420100">11557.86</cityprice>
+    </offer>
+    <offer sku="1165228">
+      <model>Набор инструментов STANLEY 2-85-582 17 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>224728.11</price>
+        <cityprice cityId="615420100">224728.11</cityprice>
+    </offer>
+    <offer sku="12610582">
+      <model>Набор инструментов Ingco HKSPA2142, 12 предметов</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32427.8</price>
+        <cityprice cityId="615420100">32427.8</cityprice>
+    </offer>
+    <offer sku="12611936">
+      <model>Набор инструментов Yato YT38681, 19 предметов</model>
+      <brand>YATO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41496.84</price>
+        <cityprice cityId="615420100">41496.84</cityprice>
+    </offer>
+    <offer sku="12612138">
+      <model>Набор инструментов КВТ НКР-8, 8 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14774.43</price>
+        <cityprice cityId="615420100">14774.43</cityprice>
+    </offer>
+    <offer sku="1169412">
+      <model>Набор инструментов Pro&apos;sKit PK-2015 14 предметов</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46040.74</price>
+        <cityprice cityId="615420100">46040.74</cityprice>
+    </offer>
+    <offer sku="12340880">
+      <model>Набор инструментов КВТ НИИ-09 63995, 7 предметов</model>
+      <brand>КВТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15709.52</price>
+        <cityprice cityId="615420100">15709.52</cityprice>
+    </offer>
+    <offer sku="1165354">
+      <model>Набор инструментов Thorvik MDS8 8 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12369.02</price>
+        <cityprice cityId="615420100">12369.02</cityprice>
+    </offer>
+    <offer sku="1165829">
+      <model>Набор инструментов KING TONY 42114 4 предмета</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28457.23</price>
+        <cityprice cityId="615420100">28457.23</cityprice>
+    </offer>
+    <offer sku="12636623">
+      <model>Набор инструментов Bosch 2.607.017.164, 43 предмета</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34470.04</price>
+        <cityprice cityId="615420100">34470.04</cityprice>
+    </offer>
+    <offer sku="1168946">
+      <model>Набор инструментов Dexter 18147289 31 предмет</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16785.47</price>
+        <cityprice cityId="615420100">16785.47</cityprice>
+    </offer>
+    <offer sku="12560304">
+      <model>Набор инструментов Proxxon 23070, 39 предметов</model>
+      <brand>Proxxon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52365.06</price>
+        <cityprice cityId="615420100">52365.06</cityprice>
+    </offer>
+    <offer sku="12612922">
+      <model>Набор инструментов АвтоDело 39877, 77 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50784.23</price>
+        <cityprice cityId="615420100">50784.23</cityprice>
+    </offer>
+    <offer sku="1168572">
+      <model>Набор инструментов Gross 16414 8 предметов</model>
+      <brand>Gross </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7954.55</price>
+        <cityprice cityId="615420100">7954.55</cityprice>
+    </offer>
+    <offer sku="12624894">
+      <model>Набор инструментов АвтоDело 31200, 20 предметов</model>
+      <brand>АвтоDело</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40805.23</price>
+        <cityprice cityId="615420100">40805.23</cityprice>
+    </offer>
+    <offer sku="1165413">
+      <model>Набор инструментов Makita P-46311 20 предметов</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14087.19</price>
+        <cityprice cityId="615420100">14087.19</cityprice>
+    </offer>
+    <offer sku="12601947">
+      <model>Набор инструментов Sparta 912305, 2 предмета</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9095.71</price>
+        <cityprice cityId="615420100">9095.71</cityprice>
+    </offer>
+    <offer sku="1166613">
+      <model>Набор инструментов STANLEY 1-89-093 29 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44449.04</price>
+        <cityprice cityId="615420100">44449.04</cityprice>
+    </offer>
+    <offer sku="1165279">
+      <model>Набор инструментов STELS 13778 6 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7841.91</price>
+        <cityprice cityId="615420100">7841.91</cityprice>
+    </offer>
+    <offer sku="1167232">
+      <model>Набор инструментов Dexter Basic 5 предметов</model>
+      <brand>Dexter </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38840.05</price>
+        <cityprice cityId="615420100">38840.05</cityprice>
+    </offer>
+    <offer sku="12541301">
+      <model>Набор инструментов Forsage F-014-5 MSA, 15 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163430.36</price>
+        <cityprice cityId="615420100">163430.36</cityprice>
+    </offer>
+    <offer sku="1165011">
+      <model>Набор инструментов STANLEY 1-94-650 20 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28950.25</price>
+        <cityprice cityId="615420100">28950.25</cityprice>
+    </offer>
+    <offer sku="12637763">
+      <model>Набор инструментов Matrix 11398, 10 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2124.24</price>
+        <cityprice cityId="615420100">2124.24</cityprice>
+    </offer>
+    <offer sku="1165894">
+      <model>Набор инструментов НИЗ 13454 26 предметов</model>
+      <brand>НИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21120.9</price>
+        <cityprice cityId="615420100">21120.9</cityprice>
+    </offer>
+    <offer sku="1165676">
+      <model>Набор инструментов STANLEY STHT0-62143 57 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16338.75</price>
+        <cityprice cityId="615420100">16338.75</cityprice>
+    </offer>
+    <offer sku="12615401">
+      <model>Набор инструментов Tundra 881860, 16 предметов</model>
+      <brand>Tundra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28535.01</price>
+        <cityprice cityId="615420100">28535.01</cityprice>
+    </offer>
+    <offer sku="12610850">
+      <model>Набор инструментов Trek TR15094, 94 предмета</model>
+      <brand>TREK</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47381.49</price>
+        <cityprice cityId="615420100">47381.49</cityprice>
+    </offer>
+    <offer sku="12446565">
+      <model>Набор инструментов Total TACSD30186 18 предметов</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14820.3</price>
+        <cityprice cityId="615420100">14820.3</cityprice>
+    </offer>
+    <offer sku="1193377">
+      <model>Набор инструментов КВТ НИИ-03 3 предмета</model>
+      <brand>КВТ </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13291.87</price>
+        <cityprice cityId="615420100">13291.87</cityprice>
+    </offer>
+    <offer sku="1193667">
+      <model>Набор инструментов Roch FORCE RF-5114P 11 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138153.85</price>
+        <cityprice cityId="615420100">138153.85</cityprice>
+    </offer>
+    <offer sku="1193760">
+      <model>Набор инструментов ЗУБР 27460-1_z02 9 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1762.63</price>
+        <cityprice cityId="615420100">1762.63</cityprice>
+    </offer>
+    <offer sku="12168496">
+      <model>Набор комбинированных ключей Stayer 27085-Н8 8 предметов</model>
+      <brand>Stayer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6322.34</price>
+        <cityprice cityId="615420100">6322.34</cityprice>
+    </offer>
+    <offer sku="1169475">
+      <model>Набор инструментов Forsage F-M024-1 24 предмета</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12914.41</price>
+        <cityprice cityId="615420100">12914.41</cityprice>
+    </offer>
+    <offer sku="1169528">
+      <model>Набор инструментов Forsage 6161-9 16 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>161837.68</price>
+        <cityprice cityId="615420100">161837.68</cityprice>
+    </offer>
+    <offer sku="10919727">
+      <model>Набор инструментов KingTul Kraft KT-3008k, 8 предметов</model>
+      <brand>KingTul</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8704.46</price>
+        <cityprice cityId="615420100">8704.46</cityprice>
+    </offer>
+    <offer sku="10919766">
+      <model>Набор инструментов WMC Tools WMC-20650, 650 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24700.5</price>
+        <cityprice cityId="615420100">24700.5</cityprice>
+    </offer>
+    <offer sku="12614176">
+      <model>Набор инструментов Stanley STMT82672-0, 37 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26411.75</price>
+        <cityprice cityId="615420100">26411.75</cityprice>
+    </offer>
+    <offer sku="1137464">
+      <model>Набор инструментов WMC TOOLS 30108 108 предметов</model>
+      <brand>WMC TOOLS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>130188.43</price>
+        <cityprice cityId="615420100">130188.43</cityprice>
+    </offer>
+    <offer sku="1137511">
+      <model>Набор инструментов ЗУБР 18096-H6 6 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11285.16</price>
+        <cityprice cityId="615420100">11285.16</cityprice>
+    </offer>
+    <offer sku="1138636">
+      <model>Набор инструментов ЗУБР 29665-4-30-H3 3 предмета</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20802.76</price>
+        <cityprice cityId="615420100">20802.76</cityprice>
+    </offer>
+    <offer sku="1139126">
+      <model>Набор инструментов KingTul KT108 108 предметов</model>
+      <brand>KingTul </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27792.01</price>
+        <cityprice cityId="615420100">27792.01</cityprice>
+    </offer>
+    <offer sku="1139265">
+      <model>Набор инструментов Kraftool 27888-H108 108 предметов</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58983.81</price>
+        <cityprice cityId="615420100">58983.81</cityprice>
+    </offer>
+    <offer sku="1164915">
+      <model>Набор инструментов WMC 10120 120 предметов</model>
+      <brand>WMC </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39354.81</price>
+        <cityprice cityId="615420100">39354.81</cityprice>
+    </offer>
+    <offer sku="1165161">
+      <model>Набор инструментов Kraftool 27977-H59 59 предметов</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72618.48</price>
+        <cityprice cityId="615420100">72618.48</cityprice>
+    </offer>
+    <offer sku="1165828">
+      <model>Набор инструментов Rock FORCE RF-41421-5 142 предмета</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69062.6</price>
+        <cityprice cityId="615420100">69062.6</cityprice>
+    </offer>
+    <offer sku="1167031">
+      <model>Набор инструментов STAYER 2740-H9 9 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1588.74</price>
+        <cityprice cityId="615420100">1588.74</cityprice>
+    </offer>
+    <offer sku="1167093">
+      <model>Набор инструментов STAYER 29250-H3 3 предмета</model>
+      <brand>Stayer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2325.8</price>
+        <cityprice cityId="615420100">2325.8</cityprice>
+    </offer>
+    <offer sku="1168382">
+      <model>Набор инструментов ЗУБР 27647-H20 20 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24526.61</price>
+        <cityprice cityId="615420100">24526.61</cityprice>
+    </offer>
+    <offer sku="1168501">
+      <model>Набор инструментов KingTul Profi KT-24 24 предмета</model>
+      <brand>KingTul </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16240.14</price>
+        <cityprice cityId="615420100">16240.14</cityprice>
+    </offer>
+    <offer sku="1136589">
+      <model>Набор инструментов Forsage F-41421-5 Premium 148 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105250.52</price>
+        <cityprice cityId="615420100">105250.52</cityprice>
+    </offer>
+    <offer sku="12338291">
+      <model>Набор инструмента Зубр 27637-H150, 150 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80905.99</price>
+        <cityprice cityId="615420100">80905.99</cityprice>
+    </offer>
+    <offer sku="229938">
+      <model>Набор инструментов WMC TOOLS 10130 130 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29630.72</price>
+        <cityprice cityId="615420100">29630.72</cityprice>
+    </offer>
+    <offer sku="229975">
+      <model>Набор инструментов WMC Tools WMC-10321, 321 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14326.29</price>
+        <cityprice cityId="615420100">14326.29</cityprice>
+    </offer>
+    <offer sku="230047">
+      <model>Набор инструментов Rockforce RF-62833, 3 предмета</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92702.95</price>
+        <cityprice cityId="615420100">92702.95</cityprice>
+    </offer>
+    <offer sku="12637024">
+      <model>Набор инструментов King Tony 1006PRN, 6 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34006.66</price>
+        <cityprice cityId="615420100">34006.66</cityprice>
+    </offer>
+    <offer sku="12639503">
+      <model>Набор инструментов Yato YT38671, 12 предметов</model>
+      <brand>YATO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204238.55</price>
+        <cityprice cityId="615420100">204238.55</cityprice>
+    </offer>
+    <offer sku="12599307">
+      <model>Набор инструментов Gross 11329, 10 предметов</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2595.53</price>
+        <cityprice cityId="615420100">2595.53</cityprice>
+    </offer>
+    <offer sku="1164948">
+      <model>Набор инструментов Forsage F-41082-5 108 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32055.32</price>
+        <cityprice cityId="615420100">32055.32</cityprice>
+    </offer>
+    <offer sku="1168291">
+      <model>Набор инструментов STELS 13602 10 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4430.28</price>
+        <cityprice cityId="615420100">4430.28</cityprice>
+    </offer>
+    <offer sku="1168416">
+      <model>Набор инструментов Sparta 115455 10 предметов</model>
+      <brand>Sparta </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4940.1</price>
+        <cityprice cityId="615420100">4940.1</cityprice>
+    </offer>
+    <offer sku="1168496">
+      <model>Набор инструментов Gross 11326 10 предметов</model>
+      <brand>Gross </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2561.94</price>
+        <cityprice cityId="615420100">2561.94</cityprice>
+    </offer>
+    <offer sku="1169017">
+      <model>Набор инструментов WMC TOOLS 2060 60 предметов</model>
+      <brand>WMC TOOLS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15998.02</price>
+        <cityprice cityId="615420100">15998.02</cityprice>
+    </offer>
+    <offer sku="1165043">
+      <model>Набор инструментов Matrix 11222 9 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1667.78</price>
+        <cityprice cityId="615420100">1667.78</cityprice>
+    </offer>
+    <offer sku="1165053">
+      <model>Набор инструментов STANLEY 1-95-772 8 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30392.48</price>
+        <cityprice cityId="615420100">30392.48</cityprice>
+    </offer>
+    <offer sku="1165713">
+      <model>Набор инструментов Matrix 13725 9 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5630.73</price>
+        <cityprice cityId="615420100">5630.73</cityprice>
+    </offer>
+    <offer sku="12512398">
+      <model>Набор инструментов Airline AT-82-41, 82 предмета</model>
+      <brand>AIRLINE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89415.81</price>
+        <cityprice cityId="615420100">89415.81</cityprice>
+    </offer>
+    <offer sku="230049">
+      <model>Набор инструментов Isma 51011, 101 предмет</model>
+      <brand>Isma</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9617.39</price>
+        <cityprice cityId="615420100">9617.39</cityprice>
+    </offer>
+    <offer sku="12515278">
+      <model>Набор инструментов Airline AT-137-10, 137 предметов</model>
+      <brand>AIRLINE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133269.08</price>
+        <cityprice cityId="615420100">133269.08</cityprice>
+    </offer>
+    <offer sku="1136703">
+      <model>Набор инструментов Bosch X-Line 33 предмета</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10782.26</price>
+        <cityprice cityId="615420100">10782.26</cityprice>
+    </offer>
+    <offer sku="1164402">
+      <model>Набор инструментов KING TONY 20203MR 13 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35074.71</price>
+        <cityprice cityId="615420100">35074.71</cityprice>
+    </offer>
+    <offer sku="1165386">
+      <model>Набор инструментов Ombra OMT33S 33 предметов</model>
+      <brand>Ombra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65011.72</price>
+        <cityprice cityId="615420100">65011.72</cityprice>
+    </offer>
+    <offer sku="1165700">
+      <model>Набор инструментов FORCE 41391 139 предметов</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101766.06</price>
+        <cityprice cityId="615420100">101766.06</cityprice>
+    </offer>
+    <offer sku="1193330">
+      <model>Набор инструментов Kraftool 27977-H84 84 предмета</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85161.4</price>
+        <cityprice cityId="615420100">85161.4</cityprice>
+    </offer>
+    <offer sku="1136530">
+      <model>Набор инструментов Волат 19020-108 108 предметов</model>
+      <brand>Волат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31415.36</price>
+        <cityprice cityId="615420100">31415.36</cityprice>
+    </offer>
+    <offer sku="1136663">
+      <model>Набор инструментов Rock FORCE 41082-5 108 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32302.8</price>
+        <cityprice cityId="615420100">32302.8</cityprice>
+    </offer>
+    <offer sku="1164488">
+      <model>Набор инструментов Gross 12950 8 предметов</model>
+      <brand>Gross </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13406.44</price>
+        <cityprice cityId="615420100">13406.44</cityprice>
+    </offer>
+    <offer sku="1164545">
+      <model>Набор инструментов Gross 14890 7 предметов</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25489.93</price>
+        <cityprice cityId="615420100">25489.93</cityprice>
+    </offer>
+    <offer sku="1164659">
+      <model>Набор инструментов Aeroforce AE.5515 15 предметов</model>
+      <brand>Aeroforce </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29541.88</price>
+        <cityprice cityId="615420100">29541.88</cityprice>
+    </offer>
+    <offer sku="1165638">
+      <model>Набор инструментов ЗУБР 27670-H58 58 предметов</model>
+      <brand>Aeroforce </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29397.55</price>
+        <cityprice cityId="615420100">29397.55</cityprice>
+    </offer>
+    <offer sku="1137089">
+      <model>Набор инструментов FORCE 4641 64 предмета</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86193.88</price>
+        <cityprice cityId="615420100">86193.88</cityprice>
+    </offer>
+    <offer sku="1165341">
+      <model>Набор инструментов Gross 15147 6 предметов</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6446.83</price>
+        <cityprice cityId="615420100">6446.83</cityprice>
+    </offer>
+    <offer sku="1165625">
+      <model>Набор инструментов STELS 13607 10 предметов</model>
+      <brand>Stels</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6193.9</price>
+        <cityprice cityId="615420100">6193.9</cityprice>
+    </offer>
+    <offer sku="1193622">
+      <model>Набор инструментов Matrix 11387 61 предмет</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5030.01</price>
+        <cityprice cityId="615420100">5030.01</cityprice>
+    </offer>
+    <offer sku="1165651">
+      <model>Набор инструментов Ombra OMT88S 88 предметов</model>
+      <brand>Ombra</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111152.25</price>
+        <cityprice cityId="615420100">111152.25</cityprice>
+    </offer>
+    <offer sku="1168559">
+      <model>Набор инструментов Matrix 14897 6 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11115.23</price>
+        <cityprice cityId="615420100">11115.23</cityprice>
+    </offer>
+    <offer sku="10919174">
+      <model>Набор инструментов Rockforce RF-4421, 42 предмета</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16597.75</price>
+        <cityprice cityId="615420100">16597.75</cityprice>
+    </offer>
+    <offer sku="10919331">
+      <model>Набор инструментов Rockforce RF-911G2 11 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18788.19</price>
+        <cityprice cityId="615420100">18788.19</cityprice>
+    </offer>
+    <offer sku="1164375">
+      <model>Набор инструментов STANLEY 4-87-054 8 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25054.21</price>
+        <cityprice cityId="615420100">25054.21</cityprice>
+    </offer>
+    <offer sku="1164978">
+      <model>Набор инструментов STANLEY STHT0-62114 39 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22945.24</price>
+        <cityprice cityId="615420100">22945.24</cityprice>
+    </offer>
+    <offer sku="1165029">
+      <model>Набор инструментов STANLEY 4-94-648 13 предметов</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32477.21</price>
+        <cityprice cityId="615420100">32477.21</cityprice>
+    </offer>
+    <offer sku="1136726">
+      <model>Набор инструментов Aeroforce AE-131-1 131 предмет</model>
+      <brand>Aeroforce </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47763.97</price>
+        <cityprice cityId="615420100">47763.97</cityprice>
+    </offer>
+    <offer sku="230004">
+      <model>Набор инструментов Rockforce RF-5102XLB, 10 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43761.38</price>
+        <cityprice cityId="615420100">43761.38</cityprice>
+    </offer>
+    <offer sku="10673132">
+      <model>Набор инструментов Sparta 773345 13 предметов</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42291.21</price>
+        <cityprice cityId="615420100">42291.21</cityprice>
+    </offer>
+    <offer sku="1165766">
+      <model>Набор инструментов STANLEY 4-95-597 4 предмета</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26970.97</price>
+        <cityprice cityId="615420100">26970.97</cityprice>
+    </offer>
+    <offer sku="1166910">
+      <model>Набор инструментов RYOBI RAK46MIX 46 предметов</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15283.68</price>
+        <cityprice cityId="615420100">15283.68</cityprice>
+    </offer>
+    <offer sku="1169529">
+      <model>Набор инструментов Rock FORCE RF-5079 7 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23217.48</price>
+        <cityprice cityId="615420100">23217.48</cityprice>
+    </offer>
+    <offer sku="1136815">
+      <model>Набор инструментов WMC TOOLS 20110 110 предметов</model>
+      <brand>WMC TOOLS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25104.68</price>
+        <cityprice cityId="615420100">25104.68</cityprice>
+    </offer>
+    <offer sku="1137085">
+      <model>Набор инструментов Matrix 14795 11 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17229.09</price>
+        <cityprice cityId="615420100">17229.09</cityprice>
+    </offer>
+    <offer sku="1138654">
+      <model>Набор инструментов НИЗ Автомобилист 13452 26 предметов</model>
+      <brand>НИЗ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21650.48</price>
+        <cityprice cityId="615420100">21650.48</cityprice>
+    </offer>
+    <offer sku="1139344">
+      <model>Набор инструментов ЗУБР 27087-H8 8 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5028.31</price>
+        <cityprice cityId="615420100">5028.31</cityprice>
+    </offer>
+    <offer sku="1166453">
+      <model>Набор инструментов KING ROY 072-MDA 72 предметов</model>
+      <brand>KING ROY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62047.66</price>
+        <cityprice cityId="615420100">62047.66</cityprice>
+    </offer>
+    <offer sku="1167084">
+      <model>Набор инструментов JONNESWAY S29H4142SM 42 предметов</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32500.01</price>
+        <cityprice cityId="615420100">32500.01</cityprice>
+    </offer>
+    <offer sku="1169278">
+      <model>Набор инструментов Forsage F-41391-5 139 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>147214.98</price>
+        <cityprice cityId="615420100">147214.98</cityprice>
+    </offer>
+    <offer sku="1169052">
+      <model>Набор инструментов WMC TOOLS 40400 400 предметов</model>
+      <brand>WMC TOOLS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33804.12</price>
+        <cityprice cityId="615420100">33804.12</cityprice>
+    </offer>
+    <offer sku="12613054">
+      <model>Набор инструментов Force 5151, 15 предметов</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11162.65</price>
+        <cityprice cityId="615420100">11162.65</cityprice>
+    </offer>
+    <offer sku="1164894">
+      <model>Набор инструментов Matrix 10845 7 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26078.79</price>
+        <cityprice cityId="615420100">26078.79</cityprice>
+    </offer>
+    <offer sku="229940">
+      <model>Набор инструментов Forsage F-6141-9 14 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65208.33</price>
+        <cityprice cityId="615420100">65208.33</cityprice>
+    </offer>
+    <offer sku="1169360">
+      <model>Набор инструментов Cablexpert TK-SD-371 79 предметов</model>
+      <brand>Cablexpert</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4686.18</price>
+        <cityprice cityId="615420100">4686.18</cityprice>
+    </offer>
+    <offer sku="1165405">
+      <model>Набор инструментов Matrix 13594 10 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4788.93</price>
+        <cityprice cityId="615420100">4788.93</cityprice>
+    </offer>
+    <offer sku="1166210">
+      <model>Набор инструментов Gross 11625 37 предметов</model>
+      <brand>Gross </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30962.57</price>
+        <cityprice cityId="615420100">30962.57</cityprice>
+    </offer>
+    <offer sku="1166369">
+      <model>Набор инструментов Xiaomi MIIW MWTK01 16 предметов</model>
+      <brand>Aeroforce </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17319.99</price>
+        <cityprice cityId="615420100">17319.99</cityprice>
+    </offer>
+    <offer sku="1169147">
+      <model>Набор инструментов Matrix 12312 9 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3875.01</price>
+        <cityprice cityId="615420100">3875.01</cityprice>
+    </offer>
+    <offer sku="1193298">
+      <model>Набор инструментов Matrix 15236 6 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3820.67</price>
+        <cityprice cityId="615420100">3820.67</cityprice>
+    </offer>
+    <offer sku="1194007">
+      <model>Набор инструментов Gross 14142 36 предметов</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17127.58</price>
+        <cityprice cityId="615420100">17127.58</cityprice>
+    </offer>
+    <offer sku="1194020">
+      <model>Набор инструментов Matrix 14798 13 предметов</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38730.38</price>
+        <cityprice cityId="615420100">38730.38</cityprice>
+    </offer>
+    <offer sku="1164395">
+      <model>Набор инструментов KING TONY 2529MR 29 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15056.89</price>
+        <cityprice cityId="615420100">15056.89</cityprice>
+    </offer>
+    <offer sku="1168385">
+      <model>Набор инструментов ЗУБР 27471-H7 7 предметов</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1348.65</price>
+        <cityprice cityId="615420100">1348.65</cityprice>
+    </offer>
+    <offer sku="12514225">
+      <model>Набор инструментов King Tony 7587MR01 87 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180806.67</price>
+        <cityprice cityId="615420100">180806.67</cityprice>
+    </offer>
+    <offer sku="291267">
+      <model>Набор инструментов Info 61421, 142 предмета</model>
+      <brand>Info</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110658.24</price>
+        <cityprice cityId="615420100">110658.24</cityprice>
+    </offer>
+    <offer sku="1166664">
+      <model>Набор инструментов FORCE 41421R 142 предмета</model>
+      <brand>FORCE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105224.13</price>
+        <cityprice cityId="615420100">105224.13</cityprice>
+    </offer>
+    <offer sku="1166460">
+      <model>Набор инструментов Bosch Mini-X-Line 2607017161 14 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10136.53</price>
+        <cityprice cityId="615420100">10136.53</cityprice>
+    </offer>
+    <offer sku="10918531">
+      <model>Набор инструментов WMC Tools 48310, 6 предметов</model>
+      <brand>WMC TOOLS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7903.17</price>
+        <cityprice cityId="615420100">7903.17</cityprice>
+    </offer>
+    <offer sku="10919647">
+      <model>Набор инструментов Forsage F-2571-5, 57 предметов</model>
+      <brand>FORSAGE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40508.82</price>
+        <cityprice cityId="615420100">40508.82</cityprice>
+    </offer>
+    <offer sku="1168229">
+      <model>Набор инструментов JONNESWAY S04H52478S 78 предметов</model>
+      <brand>JONNESWAY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>500077.43</price>
+        <cityprice cityId="615420100">500077.43</cityprice>
+    </offer>
+    <offer sku="10751139">
+      <model>Набор инструментов Pro’sKit 1PK-2009B, 48 предметов</model>
+      <brand>Pro&apos;sKit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>266271.39</price>
+        <cityprice cityId="615420100">266271.39</cityprice>
+    </offer>
+    <offer sku="230001">
+      <model>Набор инструментов Rockforce RF-5137L 25573, 13 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>178528.3</price>
+        <cityprice cityId="615420100">178528.3</cityprice>
+    </offer>
+    <offer sku="1137340">
+      <model>Набор инструментов Bovidix 5490315 15 предметов</model>
+      <brand>Bovidix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>285798.62</price>
+        <cityprice cityId="615420100">285798.62</cityprice>
+    </offer>
+    <offer sku="1137499">
+      <model>Набор инструментов Bosch Promoline 2607017063 32 предметов</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78889.44</price>
+        <cityprice cityId="615420100">78889.44</cityprice>
+    </offer>
+    <offer sku="1137402">
+      <model>Набор инструментов Thorvik W3S20TB 20 предметов</model>
+      <brand>Thorvik </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33479.06</price>
+        <cityprice cityId="615420100">33479.06</cityprice>
+    </offer>
+    <offer sku="1164598">
+      <model>Набор инструментов Aeroforce AE-S94 94 предмета</model>
+      <brand>Aeroforce </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40181.29</price>
+        <cityprice cityId="615420100">40181.29</cityprice>
+    </offer>
+    <offer sku="1165630">
+      <model>Набор инструментов KING ROY 077-MDA 77 предметов</model>
+      <brand>KING ROY </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57205.37</price>
+        <cityprice cityId="615420100">57205.37</cityprice>
+    </offer>
+    <offer sku="1165871">
+      <model>Набор инструментов KING TONY 1015 gq 15 предметов</model>
+      <brand>KING TONY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84773.1</price>
+        <cityprice cityId="615420100">84773.1</cityprice>
+    </offer>
+    <offer sku="1193295">
+      <model>Набор инструментов Rock FORCE RF-6161-5 16 предметов</model>
+      <brand>Rockforce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>506668.51</price>
+        <cityprice cityId="615420100">506668.51</cityprice>
+    </offer>
+    <offer sku="1193635">
+      <model>Набор инструментов YATO YT-1334 15 предметов</model>
+      <brand>YATO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119658.53</price>
+        <cityprice cityId="615420100">119658.53</cityprice>
+    </offer>
+    <offer sku="12639472">
+      <model>Набор инструментов Yato YT0680, 8 предметов</model>
+      <brand>YATO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>346833.55</price>
+        <cityprice cityId="615420100">346833.55</cityprice>
+    </offer>
+    <offer sku="12539322">
+      <model>Набор инструментов Partner PA-ZX0201C(PA-0010), 13 предметов</model>
+      <brand>Partner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>785463.06</price>
+        <cityprice cityId="615420100">785463.06</cityprice>
+    </offer>
+    <offer sku="12571849">
+      <model>Набор инструментов Stanley 0-62-509, 7 предметов</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34018.52</price>
+        <cityprice cityId="615420100">34018.52</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
