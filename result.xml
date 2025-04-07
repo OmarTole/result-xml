@@ -22305,5 +22305,3092 @@
       <price>76571.55</price>
         <cityprice cityId="615420100">76571.55</cityprice>
     </offer>
+    <offer sku="399130">
+      <model>Кресло-куб Вита с подставкой оранжевое</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>170412.7</price>
+        <cityprice cityId="615420100">170412.7</cityprice>
+    </offer>
+    <offer sku="12260423">
+      <model>Матрас ОО &quot;Астанинский учебно-производственный центр &quot;Парасат&quot; 63546, 90х200 см, мультиколор</model>
+      <brand>ОО &quot;Астанинский учебно-производственный центр &quot;Парасат&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118998.12</price>
+        <cityprice cityId="615420100">118998.12</cityprice>
+    </offer>
+    <offer sku="12260451">
+      <model>Парта школьная ИП &quot;Тассай&quot; TAS087, 50х60х76 см, ясень шимо светлый</model>
+      <brand>ИП &quot;Тассай&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74101.5</price>
+        <cityprice cityId="615420100">74101.5</cityprice>
+    </offer>
+    <offer sku="12260456">
+      <model>Шибер Nevatom 300*300-оц.-0.7-т2.т2</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>389461.68</price>
+        <cityprice cityId="615420100">389461.68</cityprice>
+    </offer>
+    <offer sku="12260457">
+      <model>Шибер Nevatom 400*400-оц.-0.7-т2.т2</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51710.99</price>
+        <cityprice cityId="615420100">51710.99</cityprice>
+    </offer>
+    <offer sku="12260458">
+      <model>Шибер Nevatom 250*250-оц.-0.7-т2.т2</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27410.64</price>
+        <cityprice cityId="615420100">27410.64</cityprice>
+    </offer>
+    <offer sku="12260459">
+      <model>Шибер Nevatom 500*500-оц.-0.7-т2.т2</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61200.92</price>
+        <cityprice cityId="615420100">61200.92</cityprice>
+    </offer>
+    <offer sku="12260461">
+      <model>Шибер Nevatom 315-оц.-0.7-н.н</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32727.17</price>
+        <cityprice cityId="615420100">32727.17</cityprice>
+    </offer>
+    <offer sku="12260462">
+      <model>Бак расширительный Wester WRV 1000</model>
+      <brand>Wester</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>973195.75</price>
+        <cityprice cityId="615420100">973195.75</cityprice>
+    </offer>
+    <offer sku="12260463">
+      <model>Шибер Nevatom 250-оц.-0.7-н.н</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27035.19</price>
+        <cityprice cityId="615420100">27035.19</cityprice>
+    </offer>
+    <offer sku="12260466">
+      <model>Отвод 90% ВентСистемс круглый, D=315 мм, 0.7 мм</model>
+      <brand>ВентСистемс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>129781.37</price>
+        <cityprice cityId="615420100">129781.37</cityprice>
+    </offer>
+    <offer sku="12260469">
+      <model>Отвод 90° ВентСистемс прямоугольный, 400x400 мм, уголком, 0.7 мм</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37963.68</price>
+        <cityprice cityId="615420100">37963.68</cityprice>
+    </offer>
+    <offer sku="12260470">
+      <model>Отвод 90% ВентСистемс круглый, D=250 мм, 0.7 мм</model>
+      <brand>ВентСистемс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33407.92</price>
+        <cityprice cityId="615420100">33407.92</cityprice>
+    </offer>
+    <offer sku="12260474">
+      <model>Ниппель внутренний Nevatom 315-80-оц.-0.5-н.н</model>
+      <brand>Nevatom</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66526.35</price>
+        <cityprice cityId="615420100">66526.35</cityprice>
+    </offer>
+    <offer sku="12260613">
+      <model>Пуф ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot; 0002, белый</model>
+      <brand>ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>541046.67</price>
+        <cityprice cityId="615420100">541046.67</cityprice>
+    </offer>
+    <offer sku="12260614">
+      <model>Пуф ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot; 0003, белый</model>
+      <brand>ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>291255.45</price>
+        <cityprice cityId="615420100">291255.45</cityprice>
+    </offer>
+    <offer sku="12260615">
+      <model>Пуф ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot; 0004, белый</model>
+      <brand>ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60419.4</price>
+        <cityprice cityId="615420100">60419.4</cityprice>
+    </offer>
+    <offer sku="12260616">
+      <model>Пуф ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot; 0005, белый</model>
+      <brand>ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69729.51</price>
+        <cityprice cityId="615420100">69729.51</cityprice>
+    </offer>
+    <offer sku="637088">
+      <model>Диван Вита &quot;Азбука&quot; Вариант 2, желтый, синие кубики</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177630.19</price>
+        <cityprice cityId="615420100">177630.19</cityprice>
+    </offer>
+    <offer sku="868445">
+      <model>Диван Вита &quot;Азбука&quot; Вариант 2, синий, желтые кубики</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177630.19</price>
+        <cityprice cityId="615420100">177630.19</cityprice>
+    </offer>
+    <offer sku="104844">
+      <model>Пуфик Вита &quot;Островок&quot; каркасный на опоре, синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51050.99</price>
+        <cityprice cityId="615420100">51050.99</cityprice>
+    </offer>
+    <offer sku="646817">
+      <model>Пуфик Вита &quot;Островок&quot; каркасный на опоре, зеленый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51050.99</price>
+        <cityprice cityId="615420100">51050.99</cityprice>
+    </offer>
+    <offer sku="502765">
+      <model>Пуфик Вита &quot;Островок&quot; каркасный на опоре, оранжевый</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51050.99</price>
+        <cityprice cityId="615420100">51050.99</cityprice>
+    </offer>
+    <offer sku="616686">
+      <model>Пуфик Вита &quot;Островок&quot; каркасный на опоре, красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51050.99</price>
+        <cityprice cityId="615420100">51050.99</cityprice>
+    </offer>
+    <offer sku="12260735">
+      <model>Мобильный телефон Nokia 6300 DS серый</model>
+      <brand>Nokia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34579.71</price>
+        <cityprice cityId="615420100">34579.71</cityprice>
+    </offer>
+    <offer sku="378645">
+      <model>Кубок-эконом Dialcon KM5007b, 22,5 см</model>
+      <brand>Dialcon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9583.79</price>
+        <cityprice cityId="615420100">9583.79</cityprice>
+    </offer>
+    <offer sku="219249">
+      <model>Комплект мягкой игровой мебели Вита &quot;Дельфинчик&quot;, 4 предмета, желто-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175609.69</price>
+        <cityprice cityId="615420100">175609.69</cityprice>
+    </offer>
+    <offer sku="641273">
+      <model>Комплект мягконабивной мебели Вита &quot;Кроха-мини с аппликацией&quot; желто-синий</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164423.32</price>
+        <cityprice cityId="615420100">164423.32</cityprice>
+    </offer>
+    <offer sku="655100">
+      <model>Комплект мягконабивной мебели Вита &quot;Гулливер&quot; желто-красный</model>
+      <brand>Вита</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149111.98</price>
+        <cityprice cityId="615420100">149111.98</cityprice>
+    </offer>
+    <offer sku="12260850">
+      <model>Мобильный телефон Nokia 105 SS 2019 NOCHGR черный</model>
+      <brand>Nokia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7893.29</price>
+        <cityprice cityId="615420100">7893.29</cityprice>
+    </offer>
+    <offer sku="12260852">
+      <model>Мобильный телефон Nokia 105 4G черный</model>
+      <brand>Nokia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10868.22</price>
+        <cityprice cityId="615420100">10868.22</cityprice>
+    </offer>
+    <offer sku="12260853">
+      <model>Подарочный набор Empire Тарлан черный</model>
+      <brand>Empire</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54835.11</price>
+        <cityprice cityId="615420100">54835.11</cityprice>
+    </offer>
+    <offer sku="12260858">
+      <model>Мобильный телефон Nokia 215 Dual Sim черный</model>
+      <brand>Nokia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10868.22</price>
+        <cityprice cityId="615420100">10868.22</cityprice>
+    </offer>
+    <offer sku="664236">
+      <model>Кубок-эконом Dialcon KM5007с, 20 см</model>
+      <brand>Dialcon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14622.7</price>
+        <cityprice cityId="615420100">14622.7</cityprice>
+    </offer>
+    <offer sku="12260875">
+      <model>IP-телефон Cisco CP-7841-K9</model>
+      <brand>Cisco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125455.82</price>
+        <cityprice cityId="615420100">125455.82</cityprice>
+    </offer>
+    <offer sku="717764">
+      <model>Кубок-эконом Dialcon KM5007а, 25 см</model>
+      <brand>Dialcon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9780.41</price>
+        <cityprice cityId="615420100">9780.41</cityprice>
+    </offer>
+    <offer sku="595087">
+      <model>Кубок-эконом Dialcon KM5006с, 17.5 см</model>
+      <brand>Dialcon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8694.58</price>
+        <cityprice cityId="615420100">8694.58</cityprice>
+    </offer>
+    <offer sku="12260890">
+      <model>Детский стул ОО &quot;Нұр сыйла&quot; общество инвалидов&quot; 0005, серо-зеленый</model>
+      <brand>ОО &quot;Нұр сыйла&quot; общество инвалидов&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7751.02</price>
+        <cityprice cityId="615420100">7751.02</cityprice>
+    </offer>
+    <offer sku="12260906">
+      <model>Стол детский ОО &quot;Нұр сыйла&quot; общество инвалидов&quot; 0009, бело-желтый</model>
+      <brand>ОО &quot;Нұр сыйла&quot; общество инвалидов&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29639.61</price>
+        <cityprice cityId="615420100">29639.61</cityprice>
+    </offer>
+    <offer sku="12260943">
+      <model>Сертификат ТОО &quot; Республиканский центр повышения квалификаций кадров&quot; по согласительной комиссий</model>
+      <brand>ТОО &quot; Республиканский центр повышения квалификаций кадров&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101795.7</price>
+        <cityprice cityId="615420100">101795.7</cityprice>
+    </offer>
+    <offer sku="12260946">
+      <model>Дизельный генератор PCA Power PCD-22 kVA</model>
+      <brand>PCA Power</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2362547.5</price>
+        <cityprice cityId="615420100">2362547.5</cityprice>
+    </offer>
+    <offer sku="12260948">
+      <model>Сертификат ТОО &quot;Республиканский центр повышения квалификаций кадров&quot; Оказание первой доврачебной медицинской помощи</model>
+      <brand>ТОО &quot; Республиканский центр повышения квалификаций кадров&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69816.46</price>
+        <cityprice cityId="615420100">69816.46</cityprice>
+    </offer>
+    <offer sku="12260949">
+      <model>Сертификат ТОО &quot;Республиканский центр повышения квалификаций кадров&quot; О проведенных профилактических и учебных мероприятиях по обучению персонала объекта технике осмотра помещений, выявлению возможных мест закладки взрывных устройств</model>
+      <brand>ТОО &quot; Республиканский центр повышения квалификаций кадров&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>494.01</price>
+        <cityprice cityId="615420100">494.01</cityprice>
+    </offer>
+    <offer sku="12260950">
+      <model>Сертификат ТОО &quot;Республиканский центр повышения квалификаций кадров&quot; по СЭЗ</model>
+      <brand>ТОО &quot; Республиканский центр повышения квалификаций кадров&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80950.45</price>
+        <cityprice cityId="615420100">80950.45</cityprice>
+    </offer>
+    <offer sku="12260954">
+      <model>Сертификат ТОО &quot;Республиканский центр повышения квалификации кадров&quot; о прохождении обучения противодействия коррупции и организации института антикоррупционного комплаенса</model>
+      <brand>ТОО &quot; Республиканский центр повышения квалификаций кадров&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97.81</price>
+        <cityprice cityId="615420100">97.81</cityprice>
+    </offer>
+    <offer sku="12260998">
+      <model>Гидроаккумулятор Лео 100FT, 80 л, красный</model>
+      <brand>Лео</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34051.4</price>
+        <cityprice cityId="615420100">34051.4</cityprice>
+    </offer>
+    <offer sku="12261001">
+      <model>Калорифер Келет КАО 3-9</model>
+      <brand>Келет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2506626.5</price>
+        <cityprice cityId="615420100">2506626.5</cityprice>
+    </offer>
+    <offer sku="12261022">
+      <model>Кисть Stayer ST785-965 65 мм</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164.01</price>
+        <cityprice cityId="615420100">164.01</cityprice>
+    </offer>
+    <offer sku="12261025">
+      <model>Кисть Эксперт 4704391</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>102.75</price>
+        <cityprice cityId="615420100">102.75</cityprice>
+    </offer>
+    <offer sku="12261028">
+      <model>Кисть Эксперт 4704342</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>158.08</price>
+        <cityprice cityId="615420100">158.08</cityprice>
+    </offer>
+    <offer sku="12261030">
+      <model>Кисть Эксперт Универсал 11025</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118.56</price>
+        <cityprice cityId="615420100">118.56</cityprice>
+    </offer>
+    <offer sku="12261031">
+      <model>Офисное кресло ТОО &quot;Имидж Media&quot; БУН, гобелен, серое</model>
+      <brand>ТОО &quot;Имидж Media&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69754.21</price>
+        <cityprice cityId="615420100">69754.21</cityprice>
+    </offer>
+    <offer sku="12261040">
+      <model>Кисть Эксперт Эко 14063</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>181.8</price>
+        <cityprice cityId="615420100">181.8</cityprice>
+    </offer>
+    <offer sku="12261046">
+      <model>Кисть Stayer ST785-950 50 мм</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>144.25</price>
+        <cityprice cityId="615420100">144.25</cityprice>
+    </offer>
+    <offer sku="12261108">
+      <model>Кисть Stayer ST785-938 38 мм</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143.26</price>
+        <cityprice cityId="615420100">143.26</cityprice>
+    </offer>
+    <offer sku="12261109">
+      <model>Кисть Stayer ST785-975 75 мм</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222.3</price>
+        <cityprice cityId="615420100">222.3</cityprice>
+    </offer>
+    <offer sku="12261110">
+      <model>Кисть Stayer T785-9100 100 мм</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180.81</price>
+        <cityprice cityId="615420100">180.81</cityprice>
+    </offer>
+    <offer sku="12261111">
+      <model>Кисть Эксперт Универсал 11020</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>133.38</price>
+        <cityprice cityId="615420100">133.38</cityprice>
+    </offer>
+    <offer sku="12261112">
+      <model>Кисть Эксперт Универсал 11063</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113.62</price>
+        <cityprice cityId="615420100">113.62</cityprice>
+    </offer>
+    <offer sku="12261115">
+      <model>Кисть Эксперт Аква 15063</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>424.85</price>
+        <cityprice cityId="615420100">424.85</cityprice>
+    </offer>
+    <offer sku="12261116">
+      <model>Кисть Эксперт Универсал 11050</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143.26</price>
+        <cityprice cityId="615420100">143.26</cityprice>
+    </offer>
+    <offer sku="12261117">
+      <model>Кисть Эксперт 4704292</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71.14</price>
+        <cityprice cityId="615420100">71.14</cityprice>
+    </offer>
+    <offer sku="12261118">
+      <model>Кисть Эксперт Аква 4694857</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>279.61</price>
+        <cityprice cityId="615420100">279.61</cityprice>
+    </offer>
+    <offer sku="12261119">
+      <model>Кисть Лаки 51167 25 мм</model>
+      <brand>Лаки</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>212.42</price>
+        <cityprice cityId="615420100">212.42</cityprice>
+    </offer>
+    <offer sku="12261123">
+      <model>Кисть Лаки 51171 100 мм</model>
+      <brand>Лаки</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>252.93</price>
+        <cityprice cityId="615420100">252.93</cityprice>
+    </offer>
+    <offer sku="12261124">
+      <model>Кисть Эксперт Эко 14100</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135.36</price>
+        <cityprice cityId="615420100">135.36</cityprice>
+    </offer>
+    <offer sku="12261125">
+      <model>Кисть Эксперт Аква 15100</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>462.39</price>
+        <cityprice cityId="615420100">462.39</cityprice>
+    </offer>
+    <offer sku="12261126">
+      <model>Кисть Эксперт Универсал 11075</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132.39</price>
+        <cityprice cityId="615420100">132.39</cityprice>
+    </offer>
+    <offer sku="12261127">
+      <model>Кисть Эксперт Аква 4694832</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>251.95</price>
+        <cityprice cityId="615420100">251.95</cityprice>
+    </offer>
+    <offer sku="12261128">
+      <model>Кисть Эксперт Эко 14050</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>163.02</price>
+        <cityprice cityId="615420100">163.02</cityprice>
+    </offer>
+    <offer sku="12261129">
+      <model>Кисть Эксперт Универсал 1330-120</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>268.74</price>
+        <cityprice cityId="615420100">268.74</cityprice>
+    </offer>
+    <offer sku="12261130">
+      <model>Кисть Эксперт Аква 15050</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222.3</price>
+        <cityprice cityId="615420100">222.3</cityprice>
+    </offer>
+    <offer sku="12261132">
+      <model>Кисть Эксперт Эко 14025</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>167.96</price>
+        <cityprice cityId="615420100">167.96</cityprice>
+    </offer>
+    <offer sku="12261133">
+      <model>Кисть Эксперт Эко 14038</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192.66</price>
+        <cityprice cityId="615420100">192.66</cityprice>
+    </offer>
+    <offer sku="12261136">
+      <model>Кисть Эксперт Универсал 16063</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>283.56</price>
+        <cityprice cityId="615420100">283.56</cityprice>
+    </offer>
+    <offer sku="12261144">
+      <model>Кисть Эксперт Аква 15038</model>
+      <brand>Эксперт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>237.12</price>
+        <cityprice cityId="615420100">237.12</cityprice>
+    </offer>
+    <offer sku="12261173">
+      <model>Пуф Общественное объединение инвалидов &quot;Sert&quot; SRT-0411-1, зеленый</model>
+      <brand>Общественное объединение инвалидов &quot;Sert&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30915.15</price>
+        <cityprice cityId="615420100">30915.15</cityprice>
+    </offer>
+    <offer sku="12261176">
+      <model>Пуф Общественное объединение инвалидов &quot;Sert&quot; SRT-0411-3, бордовый</model>
+      <brand>Общественное объединение инвалидов &quot;Sert&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29283.92</price>
+        <cityprice cityId="615420100">29283.92</cityprice>
+    </offer>
+    <offer sku="12261227">
+      <model>Картофелечистка Bosfor UPS-10F с фильтром</model>
+      <brand>Bosfor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>850728.58</price>
+        <cityprice cityId="615420100">850728.58</cityprice>
+    </offer>
+    <offer sku="12262578">
+      <model>Диван Zeta Solt АСТ Multicolor 1960*700*390 мм</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148177.31</price>
+        <cityprice cityId="615420100">148177.31</cityprice>
+    </offer>
+    <offer sku="12262583">
+      <model>Диван Zeta Vega &quot;3&quot; гоб.stock с подушками серый</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>353711.16</price>
+        <cityprice cityId="615420100">353711.16</cityprice>
+    </offer>
+    <offer sku="12264657">
+      <model>Кисть Biber 31101</model>
+      <brand>Biber</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103.74</price>
+        <cityprice cityId="615420100">103.74</cityprice>
+    </offer>
+    <offer sku="12264958">
+      <model>Бланк Накладная ИП Гуцало П.И.,  А5</model>
+      <brand>ИП &quot;Гуцало Петр Иванович&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4.88</price>
+        <cityprice cityId="615420100">4.88</cityprice>
+    </offer>
+    <offer sku="12267336">
+      <model>Портландцемент ТОО &quot;SAS-Tobe Technologies&quot; Цем II/A-Ш 32.5Н, 50 кг</model>
+      <brand>ТОО &quot;SAS-Tobe Technologies&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469.06</price>
+        <cityprice cityId="615420100">2469.06</cityprice>
+    </offer>
+    <offer sku="12267378">
+      <model>Извещатель пожарный тепловой Комплектсройсервис ИП 103-5/1-А3 ИБ</model>
+      <brand>Комплектстройсервис</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>789.43</price>
+        <cityprice cityId="615420100">789.43</cityprice>
+    </offer>
+    <offer sku="12267387">
+      <model>Динамометр ООО &quot;Машприбор&quot; ДПУ-10</model>
+      <brand>Машприбор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1214237.06</price>
+        <cityprice cityId="615420100">1214237.06</cityprice>
+    </offer>
+    <offer sku="12267389">
+      <model>Кресло для парикмахерской ТОО &quot;Имидж Media&quot; 027, коричневое</model>
+      <brand>ТОО &quot;Имидж Media&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>152155.08</price>
+        <cityprice cityId="615420100">152155.08</cityprice>
+    </offer>
+    <offer sku="12267492">
+      <model>Лоток горизонтальный Стамм &quot;Эксперт&quot; ЛТ201, 1 секционный, черный</model>
+      <brand>Стамм</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4840.31</price>
+        <cityprice cityId="615420100">4840.31</cityprice>
+    </offer>
+    <offer sku="12267560">
+      <model>Тележка ручная 2-х колесная Orient WBL25</model>
+      <brand>Orient</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42597.49</price>
+        <cityprice cityId="615420100">42597.49</cityprice>
+    </offer>
+    <offer sku="12267564">
+      <model>Тачка строительная P.I.T. 6204 одноколесная</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26361.36</price>
+        <cityprice cityId="615420100">26361.36</cityprice>
+    </offer>
+    <offer sku="12267567">
+      <model>Тачка строительная Altrad Lescha Profi 100 одноколесная</model>
+      <brand>Altrad Lescha</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30708.65</price>
+        <cityprice cityId="615420100">30708.65</cityprice>
+    </offer>
+    <offer sku="12267570">
+      <model>Тачка строительная P.I.T. 4211 одноколесная</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14820.3</price>
+        <cityprice cityId="615420100">14820.3</cityprice>
+    </offer>
+    <offer sku="12267576">
+      <model>Тележка ручная 4-х колесная Stanley FMST1-71972</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58787.19</price>
+        <cityprice cityId="615420100">58787.19</cityprice>
+    </offer>
+    <offer sku="12267580">
+      <model>Тележка Зубр 38750-60</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28360.58</price>
+        <cityprice cityId="615420100">28360.58</cityprice>
+    </offer>
+    <offer sku="12267584">
+      <model>Тележка Stayer 38755-70</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24801.94</price>
+        <cityprice cityId="615420100">24801.94</cityprice>
+    </offer>
+    <offer sku="12267590">
+      <model>Тележка Raco 42359-53/861</model>
+      <brand>Raco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48808.19</price>
+        <cityprice cityId="615420100">48808.19</cityprice>
+    </offer>
+    <offer sku="12267593">
+      <model>Тачка строительная Тех-Топ 606628</model>
+      <brand>Тех-Топ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31468.44</price>
+        <cityprice cityId="615420100">31468.44</cityprice>
+    </offer>
+    <offer sku="12267596">
+      <model>Тележка ручная 4-х колесная Tor ТТ-350</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>144250.92</price>
+        <cityprice cityId="615420100">144250.92</cityprice>
+    </offer>
+    <offer sku="12267600">
+      <model>Тележка ручная 4-х колесная Tor ТТ-300</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95865.6</price>
+        <cityprice cityId="615420100">95865.6</cityprice>
+    </offer>
+    <offer sku="527246">
+      <model>Кресло для руководителя Everprof Trio Black TM, ткань, серое</model>
+      <brand>Everprof</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92626.88</price>
+        <cityprice cityId="615420100">92626.88</cityprice>
+    </offer>
+    <offer sku="427435">
+      <model>Кресло для руководителя Everprof Rio M, кожаное, черное</model>
+      <brand>Everprof</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194442.34</price>
+        <cityprice cityId="615420100">194442.34</cityprice>
+    </offer>
+    <offer sku="12267659">
+      <model>Закладки Buro 45x12мм, самоклеящиеся пластиковые, 5 цветов в упаковке, 20 листов</model>
+      <brand>Buro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>206.5</price>
+        <cityprice cityId="615420100">206.5</cityprice>
+    </offer>
+    <offer sku="12267661">
+      <model>Тележка гидравлическая Nordberg N3902-25R</model>
+      <brand>Nordberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>351122.55</price>
+        <cityprice cityId="615420100">351122.55</cityprice>
+    </offer>
+    <offer sku="12267664">
+      <model>Тележка гидравлическая Total Lifter 800 мм 2500 кг</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>292370.93</price>
+        <cityprice cityId="615420100">292370.93</cityprice>
+    </offer>
+    <offer sku="12267667">
+      <model>Тележка гидравлическая TOR RHP 2500 кг</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174604.87</price>
+        <cityprice cityId="615420100">174604.87</cityprice>
+    </offer>
+    <offer sku="12267670">
+      <model>Тележка гидравлическая Xilin BF III 5GSU</model>
+      <brand>Xilin</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>274954.11</price>
+        <cityprice cityId="615420100">274954.11</cityprice>
+    </offer>
+    <offer sku="12267681">
+      <model>Тележка платформенная TOR TSS32</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90887.96</price>
+        <cityprice cityId="615420100">90887.96</cityprice>
+    </offer>
+    <offer sku="12267684">
+      <model>Тележка платформенная TOR TSS22</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97607.48</price>
+        <cityprice cityId="615420100">97607.48</cityprice>
+    </offer>
+    <offer sku="12267686">
+      <model>Тележка платформенная TOR ТР21</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114807.92</price>
+        <cityprice cityId="615420100">114807.92</cityprice>
+    </offer>
+    <offer sku="12267695">
+      <model>Тележка Stroxx 00000005663</model>
+      <brand>Stroxx</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50496.71</price>
+        <cityprice cityId="615420100">50496.71</cityprice>
+    </offer>
+    <offer sku="12267698">
+      <model>Тележка гидравлическая Lema LM-25 1150х550 мм</model>
+      <brand>Lema</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>305486.89</price>
+        <cityprice cityId="615420100">305486.89</cityprice>
+    </offer>
+    <offer sku="12267701">
+      <model>Тачка строительная Altrad Lescha Garden 80 одноколесная</model>
+      <brand>Altrad Lescha</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24699.51</price>
+        <cityprice cityId="615420100">24699.51</cityprice>
+    </offer>
+    <offer sku="12267705">
+      <model>Тележка гидравлическая Ingco HHPT01251</model>
+      <brand>Ingco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>326433.61</price>
+        <cityprice cityId="615420100">326433.61</cityprice>
+    </offer>
+    <offer sku="12267707">
+      <model>Скотч прозрачный Packman, 48/66, 48 микрон</model>
+      <brand>Packman</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>242.06</price>
+        <cityprice cityId="615420100">242.06</cityprice>
+    </offer>
+    <offer sku="12267714">
+      <model>Тележка гидравлическая TOR RHP 2500 кг синяя</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>281672.65</price>
+        <cityprice cityId="615420100">281672.65</cityprice>
+    </offer>
+    <offer sku="12267722">
+      <model>Тележка ручная 2-х колесная DeWALT D259811-XJ</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>203016.37</price>
+        <cityprice cityId="615420100">203016.37</cityprice>
+    </offer>
+    <offer sku="12267729">
+      <model>Тележка гидравлическая TOR RHP 3000 кг</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>266498.63</price>
+        <cityprice cityId="615420100">266498.63</cityprice>
+    </offer>
+    <offer sku="12267744">
+      <model>Тележка гидравлическая TOR RHP 2500 кг 800x550 мм</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>281585.7</price>
+        <cityprice cityId="615420100">281585.7</cityprice>
+    </offer>
+    <offer sku="12267747">
+      <model>Новогодний подарок Рахат &quot;Исполни мечту&quot;, 2000 гр</model>
+      <brand>Рахат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4406.57</price>
+        <cityprice cityId="615420100">4406.57</cityprice>
+    </offer>
+    <offer sku="12267748">
+      <model>Тележка гидравлическая TOR RHP 5000 кг</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>437520.94</price>
+        <cityprice cityId="615420100">437520.94</cityprice>
+    </offer>
+    <offer sku="12267756">
+      <model>Тележка платформенная Hoteche 490021</model>
+      <brand>Hoteche</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1727464.05</price>
+        <cityprice cityId="615420100">1727464.05</cityprice>
+    </offer>
+    <offer sku="12267768">
+      <model>Тележка гидравлическая TOR RHP 3000 кг белая</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>234247.69</price>
+        <cityprice cityId="615420100">234247.69</cityprice>
+    </offer>
+    <offer sku="12267775">
+      <model>Пневматическое прыжковое спасательное устройство Самоспас Каскад-5 с мотовентилятором</model>
+      <brand>Самоспас</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2245661.77</price>
+        <cityprice cityId="615420100">2245661.77</cityprice>
+    </offer>
+    <offer sku="12267779">
+      <model>Тележка Зубр 38750-90</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39479.3</price>
+        <cityprice cityId="615420100">39479.3</cityprice>
+    </offer>
+    <offer sku="12267782">
+      <model>Тележка ручная 2-х колесная Сибртех НТ1805</model>
+      <brand>СИБРТЕХ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35945.16</price>
+        <cityprice cityId="615420100">35945.16</cityprice>
+    </offer>
+    <offer sku="12267793">
+      <model>Новогодний подарок Торговый дом &quot;Дилявер&quot; Тотоша 200 гр</model>
+      <brand>Торговый дом &quot;Дилявер&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2712.11</price>
+        <cityprice cityId="615420100">2712.11</cityprice>
+    </offer>
+    <offer sku="12267797">
+      <model>Тележка платформенная Standers 18412441</model>
+      <brand>Standers</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54338.14</price>
+        <cityprice cityId="615420100">54338.14</cityprice>
+    </offer>
+    <offer sku="12267799">
+      <model>Тачка строительная P.I.T. 6406 одноколесная</model>
+      <brand>P.I.T.</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31716.43</price>
+        <cityprice cityId="615420100">31716.43</cityprice>
+    </offer>
+    <offer sku="12267806">
+      <model>Тележка ручная 2-х колесная Wolfcraft TS-550</model>
+      <brand>Wolfcraft</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>236512.23</price>
+        <cityprice cityId="615420100">236512.23</cityprice>
+    </offer>
+    <offer sku="12267810">
+      <model>Тележка ручная 2-х колесная Standers 17979395</model>
+      <brand>Standers</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46367.88</price>
+        <cityprice cityId="615420100">46367.88</cityprice>
+    </offer>
+    <offer sku="12267816">
+      <model>Тележка платформенная Standers 17979360</model>
+      <brand>Standers</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85858.94</price>
+        <cityprice cityId="615420100">85858.94</cityprice>
+    </offer>
+    <offer sku="12267823">
+      <model>Световая башня ООО &quot;Свеба&quot; EL(5)600S без генератора</model>
+      <brand>ООО &quot;Свеба&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>968258.61</price>
+        <cityprice cityId="615420100">968258.61</cityprice>
+    </offer>
+    <offer sku="12267830">
+      <model>Дизельный генератор KazGenerators KG Power KGR3-40</model>
+      <brand>KazGenerators</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2195574.09</price>
+        <cityprice cityId="615420100">2195574.09</cityprice>
+    </offer>
+    <offer sku="12267836">
+      <model>Дизельный генератор KazGenerators KG Power KGR3-60</model>
+      <brand>KazGenerators</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3083376.26</price>
+        <cityprice cityId="615420100">3083376.26</cityprice>
+    </offer>
+    <offer sku="12267846">
+      <model>Дизельный генератор KazGenerators KG Power KGR3-120</model>
+      <brand>KazGenerators</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3387244.77</price>
+        <cityprice cityId="615420100">3387244.77</cityprice>
+    </offer>
+    <offer sku="12267854">
+      <model>Тележка ручная 2-х колесная Standers 17979423</model>
+      <brand>Standers</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64220.31</price>
+        <cityprice cityId="615420100">64220.31</cityprice>
+    </offer>
+    <offer sku="12267859">
+      <model>Тележка платформенная Standers 18412441 100 кг</model>
+      <brand>Standers</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67100.39</price>
+        <cityprice cityId="615420100">67100.39</cityprice>
+    </offer>
+    <offer sku="12267861">
+      <model>Тележка ручная 4-х колесная Standers 17979255</model>
+      <brand>Standers</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51839.43</price>
+        <cityprice cityId="615420100">51839.43</cityprice>
+    </offer>
+    <offer sku="12267866">
+      <model>Тележка гидравлическая TOR RHP 2500 кг 1500х550 мм</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290078.72</price>
+        <cityprice cityId="615420100">290078.72</cityprice>
+    </offer>
+    <offer sku="12267875">
+      <model>Тележка гидравлическая JTR 2000 кг</model>
+      <brand>JTR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217166.8</price>
+        <cityprice cityId="615420100">217166.8</cityprice>
+    </offer>
+    <offer sku="12267887">
+      <model>Тележка ручная 4-х колесная DeWALT TSTAK DWST1-71196</model>
+      <brand>DeWALT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135313.29</price>
+        <cityprice cityId="615420100">135313.29</cityprice>
+    </offer>
+    <offer sku="12267898">
+      <model>Аналоговый телефонный аппарат Mitel 7187a</model>
+      <brand>Mitel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23444.73</price>
+        <cityprice cityId="615420100">23444.73</cityprice>
+    </offer>
+    <offer sku="12267905">
+      <model>Тележка платформенная TOR SPS800</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1029344.92</price>
+        <cityprice cityId="615420100">1029344.92</cityprice>
+    </offer>
+    <offer sku="12267920">
+      <model>Тележка ручная 4-х колесная Stanley FMST1-72363</model>
+      <brand>Stanley</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93852.02</price>
+        <cityprice cityId="615420100">93852.02</cityprice>
+    </offer>
+    <offer sku="12267939">
+      <model>Тележка гидравлическая Orient WBT25</model>
+      <brand>Orient</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>237122.82</price>
+        <cityprice cityId="615420100">237122.82</cityprice>
+    </offer>
+    <offer sku="12267953">
+      <model>Тележка гидравлическая TOR RHP R02 2500 кг</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246580.15</price>
+        <cityprice cityId="615420100">246580.15</cityprice>
+    </offer>
+    <offer sku="12267956">
+      <model>Тележка гидравлическая TOR RHP R03 3000 кг</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>217232.99</price>
+        <cityprice cityId="615420100">217232.99</cityprice>
+    </offer>
+    <offer sku="12268292">
+      <model>Тележка гидравлическая TOR PWH35-II</model>
+      <brand>TOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164558.68</price>
+        <cityprice cityId="615420100">164558.68</cityprice>
+    </offer>
+    <offer sku="259356">
+      <model>Кресло для руководителя Everprof EP-705 сетка, черное</model>
+      <brand>Everprof</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106372.21</price>
+        <cityprice cityId="615420100">106372.21</cityprice>
+    </offer>
+    <offer sku="175206">
+      <model>Кресло для руководителя Everprof Atlant AL M, кожаное, черное</model>
+      <brand>Everprof</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>207484.2</price>
+        <cityprice cityId="615420100">207484.2</cityprice>
+    </offer>
+    <offer sku="12269051">
+      <model>Тележка ручная 2-х колесная Tolsen 62602</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30380.63</price>
+        <cityprice cityId="615420100">30380.63</cityprice>
+    </offer>
+    <offer sku="12269197">
+      <model>Тележка платформенная Tolsen 62606</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73024.56</price>
+        <cityprice cityId="615420100">73024.56</cityprice>
+    </offer>
+    <offer sku="161899">
+      <model>Эргономичное кресло Everprof Ergo Black кожаное, черное</model>
+      <brand>Everprof</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>238183.38</price>
+        <cityprice cityId="615420100">238183.38</cityprice>
+    </offer>
+    <offer sku="12269583">
+      <model>Тележка ручная 2-х колесная Tolsen 62600</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27169.56</price>
+        <cityprice cityId="615420100">27169.56</cityprice>
+    </offer>
+    <offer sku="890128">
+      <model>Люстра Tekavize 8634-1BK E27 черный</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22040.75</price>
+        <cityprice cityId="615420100">22040.75</cityprice>
+    </offer>
+    <offer sku="235653">
+      <model>Подвесной светильник Teksan 6015 E27 40W черный 150-15040</model>
+      <brand>Teksan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19958</price>
+        <cityprice cityId="615420100">19958</cityprice>
+    </offer>
+    <offer sku="778514">
+      <model>Люстра Telked Pendant 50936A-1 D350 1xE27, черная</model>
+      <brand>Tekled</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41447.44</price>
+        <cityprice cityId="615420100">41447.44</cityprice>
+    </offer>
+    <offer sku="854563">
+      <model>Люстра Tekavize P9866/04B черный</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32626.4</price>
+        <cityprice cityId="615420100">32626.4</cityprice>
+    </offer>
+    <offer sku="816997">
+      <model>Люстра Tekavize F9252HC05 Green бежевый-черный</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74969.97</price>
+        <cityprice cityId="615420100">74969.97</cityprice>
+    </offer>
+    <offer sku="274069">
+      <model>Люстра Tekavize X1402-5 5хE14 60W черный</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82993.68</price>
+        <cityprice cityId="615420100">82993.68</cityprice>
+    </offer>
+    <offer sku="697451">
+      <model>Люстра Telked 6518-6+1 7xE27, черная</model>
+      <brand>Tekled</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81409.88</price>
+        <cityprice cityId="615420100">81409.88</cityprice>
+    </offer>
+    <offer sku="814628">
+      <model>Люстра Tekavize X737-5A 5хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65266.63</price>
+        <cityprice cityId="615420100">65266.63</cityprice>
+    </offer>
+    <offer sku="311812">
+      <model>Люстра Tekavize 1087-1 1хE27 40W Red</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7845.87</price>
+        <cityprice cityId="615420100">7845.87</cityprice>
+    </offer>
+    <offer sku="295410">
+      <model>Люстра Tekavize 1087-1 1хE27 40W Yellow</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12345.31</price>
+        <cityprice cityId="615420100">12345.31</cityprice>
+    </offer>
+    <offer sku="827508">
+      <model>Люстра Tekavize 33115/6 6хE14 60W FGD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30861.79</price>
+        <cityprice cityId="615420100">30861.79</cityprice>
+    </offer>
+    <offer sku="495402">
+      <model>Люстра Tekavize 33125/4A 4хE14 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29097.19</price>
+        <cityprice cityId="615420100">29097.19</cityprice>
+    </offer>
+    <offer sku="476360">
+      <model>Люстра Tekavize 33069/5 5хE27 60W CR</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22930.96</price>
+        <cityprice cityId="615420100">22930.96</cityprice>
+    </offer>
+    <offer sku="201714">
+      <model>Люстра Tekavize 50407/5 5хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29988.38</price>
+        <cityprice cityId="615420100">29988.38</cityprice>
+    </offer>
+    <offer sku="193895">
+      <model>Люстра Tekavize 33116/5 5хE14 60W FGD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28223.78</price>
+        <cityprice cityId="615420100">28223.78</cityprice>
+    </offer>
+    <offer sku="390182">
+      <model>Люстра Tekavize 89106/3 3хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22040.75</price>
+        <cityprice cityId="615420100">22040.75</cityprice>
+    </offer>
+    <offer sku="752790">
+      <model>Люстра Tekavize 33122/5 5хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35272.31</price>
+        <cityprice cityId="615420100">35272.31</cityprice>
+    </offer>
+    <offer sku="950732">
+      <model>Люстра Tekavize A814-5 5хE27 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44976.65</price>
+        <cityprice cityId="615420100">44976.65</cityprice>
+    </offer>
+    <offer sku="901349">
+      <model>Люстра Tekavize X1402-5 5хE14 60W WHITE</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142887.45</price>
+        <cityprice cityId="615420100">142887.45</cityprice>
+    </offer>
+    <offer sku="743745">
+      <model>Люстра Tekavize MD1692/5 5хE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40943.55</price>
+        <cityprice cityId="615420100">40943.55</cityprice>
+    </offer>
+    <offer sku="762837">
+      <model>Люстра Tekavize 33125/6 6хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41985.91</price>
+        <cityprice cityId="615420100">41985.91</cityprice>
+    </offer>
+    <offer sku="982921">
+      <model>Люстра Tekavize 88196-10+5 15хE14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>193717.13</price>
+        <cityprice cityId="615420100">193717.13</cityprice>
+    </offer>
+    <offer sku="817784">
+      <model>Люстра Tekavize 88196-8 8хE14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>188119.01</price>
+        <cityprice cityId="615420100">188119.01</cityprice>
+    </offer>
+    <offer sku="734344">
+      <model>Люстра Tekavize 50376/3 3хE14 60W FGD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29812.52</price>
+        <cityprice cityId="615420100">29812.52</cityprice>
+    </offer>
+    <offer sku="129897">
+      <model>Люстра Tekavize 50420/3 3хE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35410.64</price>
+        <cityprice cityId="615420100">35410.64</cityprice>
+    </offer>
+    <offer sku="366789">
+      <model>Люстра Tekavize 790-3 3хE27 60W Ivory</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41191.54</price>
+        <cityprice cityId="615420100">41191.54</cityprice>
+    </offer>
+    <offer sku="112644">
+      <model>Люстра Tekavize MD1720/5 5хE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28215.88</price>
+        <cityprice cityId="615420100">28215.88</cityprice>
+    </offer>
+    <offer sku="387178">
+      <model>Люстра Tekavize 7622-3P 3хE27 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29309.61</price>
+        <cityprice cityId="615420100">29309.61</cityprice>
+    </offer>
+    <offer sku="375619">
+      <model>Люстра Tekavize 33118/5 5хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25392.11</price>
+        <cityprice cityId="615420100">25392.11</cityprice>
+    </offer>
+    <offer sku="903968">
+      <model>Люстра Tekavize MD1726/5 5хE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26557.98</price>
+        <cityprice cityId="615420100">26557.98</cityprice>
+    </offer>
+    <offer sku="724810">
+      <model>Люстра Tekavize MD8980-3C3хE2740W коричневый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73205.37</price>
+        <cityprice cityId="615420100">73205.37</cityprice>
+    </offer>
+    <offer sku="708603">
+      <model>Люстра Tekavize MD1721/5 5хE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22930.96</price>
+        <cityprice cityId="615420100">22930.96</cityprice>
+    </offer>
+    <offer sku="555947">
+      <model>Люстра Tekavize 9049/5 5хE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31400.26</price>
+        <cityprice cityId="615420100">31400.26</cityprice>
+    </offer>
+    <offer sku="252939">
+      <model>Люстра Tekavize 773-5A 5хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30861.79</price>
+        <cityprice cityId="615420100">30861.79</cityprice>
+    </offer>
+    <offer sku="366748">
+      <model>Люстра Tekavize MD5011A-6SOE146хE40WMATTAMBER</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81887.1</price>
+        <cityprice cityId="615420100">81887.1</cityprice>
+    </offer>
+    <offer sku="590556">
+      <model>Люстра Tekavize 50420/5 5хE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37045.81</price>
+        <cityprice cityId="615420100">37045.81</cityprice>
+    </offer>
+    <offer sku="451509">
+      <model>Люстра Tekavize 33122/8 8хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52034.07</price>
+        <cityprice cityId="615420100">52034.07</cityprice>
+    </offer>
+    <offer sku="367647">
+      <model>Люстра Tekavize 11344/4 4хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29979.49</price>
+        <cityprice cityId="615420100">29979.49</cityprice>
+    </offer>
+    <offer sku="706456">
+      <model>Люстра Tekavize 11344/6 6хE14 60W AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37036.92</price>
+        <cityprice cityId="615420100">37036.92</cityprice>
+    </offer>
+    <offer sku="460450">
+      <model>Люстра Tekavize PX-1128-8 E27 8х60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125111.98</price>
+        <cityprice cityId="615420100">125111.98</cityprice>
+    </offer>
+    <offer sku="890316">
+      <model>Люстра Tekavize PX-1128-5 E27 5х60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44263.3</price>
+        <cityprice cityId="615420100">44263.3</cityprice>
+    </offer>
+    <offer sku="519799">
+      <model>Подвесной светильник Tekavize HFD0221A-1L E27 белый 150-18148</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38704.7</price>
+        <cityprice cityId="615420100">38704.7</cityprice>
+    </offer>
+    <offer sku="488117">
+      <model>Люстра Tekavize MD8069-3C E14 40W мультиколор</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37036.92</price>
+        <cityprice cityId="615420100">37036.92</cityprice>
+    </offer>
+    <offer sku="678494">
+      <model>Люстра Tekavize A-349-3 E14 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52916.38</price>
+        <cityprice cityId="615420100">52916.38</cityprice>
+    </offer>
+    <offer sku="599500">
+      <model>Люстра Tekavize SL062-3 E27 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29877.72</price>
+        <cityprice cityId="615420100">29877.72</cityprice>
+    </offer>
+    <offer sku="961961">
+      <model>Люстра Tekavize SY6026-D600</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>215242.13</price>
+        <cityprice cityId="615420100">215242.13</cityprice>
+    </offer>
+    <offer sku="871827">
+      <model>Люстра Tekavize SY1137-400 G9x5x40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89799.16</price>
+        <cityprice cityId="615420100">89799.16</cityprice>
+    </offer>
+    <offer sku="556565">
+      <model>Люстра Tekavize 12312-9 E14 60W CHROME</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52009.37</price>
+        <cityprice cityId="615420100">52009.37</cityprice>
+    </offer>
+    <offer sku="818571">
+      <model>Люстра Tekavize XN192/6+1 7xE27 AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>335216.41</price>
+        <cityprice cityId="615420100">335216.41</cityprice>
+    </offer>
+    <offer sku="187843">
+      <model>Люстра Tekavize 2101/6 AB E14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53797.69</price>
+        <cityprice cityId="615420100">53797.69</cityprice>
+    </offer>
+    <offer sku="457477">
+      <model>Люстра Tekavize P9998/02B 2XE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26451.27</price>
+        <cityprice cityId="615420100">26451.27</cityprice>
+    </offer>
+    <offer sku="591726">
+      <model>Люстра Tekavize 8618-1AM</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88696.53</price>
+        <cityprice cityId="615420100">88696.53</cityprice>
+    </offer>
+    <offer sku="132078">
+      <model>Люстра Tekavize 8268-1L E27 золотистый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97023.56</price>
+        <cityprice cityId="615420100">97023.56</cityprice>
+    </offer>
+    <offer sku="191728">
+      <model>Люстра Tekavize LED H0119SW золотистый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149953.77</price>
+        <cityprice cityId="615420100">149953.77</cityprice>
+    </offer>
+    <offer sku="204281">
+      <model>Люстра Tekavize HFX0216-5 5xG9 BK+SMOKY</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49396.06</price>
+        <cityprice cityId="615420100">49396.06</cityprice>
+    </offer>
+    <offer sku="990807">
+      <model>Люстра Tekavize LD-1066A-4 188AC G9 33W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13809.56</price>
+        <cityprice cityId="615420100">13809.56</cityprice>
+    </offer>
+    <offer sku="143339">
+      <model>Люстра Tekavize 9943-8 8xE27 BK+GOLDEN</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>146068.88</price>
+        <cityprice cityId="615420100">146068.88</cityprice>
+    </offer>
+    <offer sku="169174">
+      <model>Люстра Tekavize C3053 COLORFUL E14 3X40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55571.18</price>
+        <cityprice cityId="615420100">55571.18</cityprice>
+    </offer>
+    <offer sku="736661">
+      <model>Люстра Tekavize SY1180-6+6 12XE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128781.49</price>
+        <cityprice cityId="615420100">128781.49</cityprice>
+    </offer>
+    <offer sku="918644">
+      <model>Люстра Tekavize A-360-3 E14 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44094.34</price>
+        <cityprice cityId="615420100">44094.34</cityprice>
+    </offer>
+    <offer sku="937393">
+      <model>Люстра Tekavize HFD0262-8 8xE14 AMBER</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74969.97</price>
+        <cityprice cityId="615420100">74969.97</cityprice>
+    </offer>
+    <offer sku="559390">
+      <model>Люстра Tekavize HFD0340-TB-GD E27 GOLDEN</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23238.23</price>
+        <cityprice cityId="615420100">23238.23</cityprice>
+    </offer>
+    <offer sku="256543">
+      <model>Люстра Tekavize MD9190-1-450-C золотистый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149953.77</price>
+        <cityprice cityId="615420100">149953.77</cityprice>
+    </offer>
+    <offer sku="644679">
+      <model>Люстра Tekavize MD51081-1 E27 D220 AMBER</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23813.26</price>
+        <cityprice cityId="615420100">23813.26</cityprice>
+    </offer>
+    <offer sku="450835">
+      <model>Люстра Tekavize HFX0263-8 8xG9 AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68794.84</price>
+        <cityprice cityId="615420100">68794.84</cityprice>
+    </offer>
+    <offer sku="839648">
+      <model>Люстра Tekavize 6337-6 6xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74969.97</price>
+        <cityprice cityId="615420100">74969.97</cityprice>
+    </offer>
+    <offer sku="921386">
+      <model>Люстра Tekavize MD1030-3A</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31656.16</price>
+        <cityprice cityId="615420100">31656.16</cityprice>
+    </offer>
+    <offer sku="985991">
+      <model>Люстра Tekavize HFD0255-3 золотистый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103207.58</price>
+        <cityprice cityId="615420100">103207.58</cityprice>
+    </offer>
+    <offer sku="128627">
+      <model>Люстра Tekavize 8599-1BK</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26256.63</price>
+        <cityprice cityId="615420100">26256.63</cityprice>
+    </offer>
+    <offer sku="201934">
+      <model>Люстра Tekavize MX11100-4</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70391.48</price>
+        <cityprice cityId="615420100">70391.48</cityprice>
+    </offer>
+    <offer sku="843045">
+      <model>Люстра Tekavize 2157/8 AB E14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53797.69</price>
+        <cityprice cityId="615420100">53797.69</cityprice>
+    </offer>
+    <offer sku="938871">
+      <model>Люстра Tekavize 8668-D4</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71449.65</price>
+        <cityprice cityId="615420100">71449.65</cityprice>
+    </offer>
+    <offer sku="366898">
+      <model>Люстра Tekavize BOTTLE 3251-3 3xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52916.38</price>
+        <cityprice cityId="615420100">52916.38</cityprice>
+    </offer>
+    <offer sku="216449">
+      <model>Люстра Tekavize TWO WHEEIS 3128-3 3xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65288.36</price>
+        <cityprice cityId="615420100">65288.36</cityprice>
+    </offer>
+    <offer sku="754583">
+      <model>Люстра Tekavize M004-5 5xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44094.34</price>
+        <cityprice cityId="615420100">44094.34</cityprice>
+    </offer>
+    <offer sku="351603">
+      <model>Люстра Tekavize MX61791-6</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93504.24</price>
+        <cityprice cityId="615420100">93504.24</cityprice>
+    </offer>
+    <offer sku="505244">
+      <model>Люстра Tekavize SY1170-8 8XE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101435.07</price>
+        <cityprice cityId="615420100">101435.07</cityprice>
+    </offer>
+    <offer sku="908117">
+      <model>Люстра Tekavize RING 3100-4 4xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35272.31</price>
+        <cityprice cityId="615420100">35272.31</cityprice>
+    </offer>
+    <offer sku="222803">
+      <model>Люстра Tekavize A-361-5 E14 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57326.9</price>
+        <cityprice cityId="615420100">57326.9</cityprice>
+    </offer>
+    <offer sku="666204">
+      <model>Люстра Tekavize SY6008-D600</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>351094.88</price>
+        <cityprice cityId="615420100">351094.88</cityprice>
+    </offer>
+    <offer sku="910830">
+      <model>Люстра Tekavize MD96400/5 золотистый-белый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114667.63</price>
+        <cityprice cityId="615420100">114667.63</cityprice>
+    </offer>
+    <offer sku="600691">
+      <model>Люстра Tekavize MD96409/5BLACKCHROMEE1460W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57326.9</price>
+        <cityprice cityId="615420100">57326.9</cityprice>
+    </offer>
+    <offer sku="186497">
+      <model>Люстра Tekavize C3056 COLORFUL E27 6X40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28223.78</price>
+        <cityprice cityId="615420100">28223.78</cityprice>
+    </offer>
+    <offer sku="537400">
+      <model>Люстра Tekavize 7922-5H E27 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>143855.71</price>
+        <cityprice cityId="615420100">143855.71</cityprice>
+    </offer>
+    <offer sku="405150">
+      <model>Люстра Tekavize H2215/6+3 Coffee BR/GD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97023.56</price>
+        <cityprice cityId="615420100">97023.56</cityprice>
+    </offer>
+    <offer sku="621175">
+      <model>Люстра Tekavize MD70548C-1 E27 D300 CLEAR</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40662.95</price>
+        <cityprice cityId="615420100">40662.95</cityprice>
+    </offer>
+    <offer sku="741191">
+      <model>Люстра Tekavize Plastik Brown E27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5464.74</price>
+        <cityprice cityId="615420100">5464.74</cityprice>
+    </offer>
+    <offer sku="278123">
+      <model>Люстра Tekavize 8503-6 6xE27+LED 7W WHITE+GAB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65628.24</price>
+        <cityprice cityId="615420100">65628.24</cityprice>
+    </offer>
+    <offer sku="769575">
+      <model>Люстра Tekavize 11486/8 Black Chrome E14 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32635.29</price>
+        <cityprice cityId="615420100">32635.29</cityprice>
+    </offer>
+    <offer sku="356454">
+      <model>Люстра Tekavize 8619-1AM E27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40943.55</price>
+        <cityprice cityId="615420100">40943.55</cityprice>
+    </offer>
+    <offer sku="507858">
+      <model>Люстра Tekavize 8660-3</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60246.5</price>
+        <cityprice cityId="615420100">60246.5</cityprice>
+    </offer>
+    <offer sku="292666">
+      <model>Люстра Tekavize 6029/5 E27 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75852.27</price>
+        <cityprice cityId="615420100">75852.27</cityprice>
+    </offer>
+    <offer sku="784822">
+      <model>Люстра Tekavize 6337-5 5xE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63075.2</price>
+        <cityprice cityId="615420100">63075.2</cityprice>
+    </offer>
+    <offer sku="967981">
+      <model>Люстра Tekavize 688/3</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25451.4</price>
+        <cityprice cityId="615420100">25451.4</cityprice>
+    </offer>
+    <offer sku="278159">
+      <model>Люстра Tekavize 7061 159-17215</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41496.84</price>
+        <cityprice cityId="615420100">41496.84</cityprice>
+    </offer>
+    <offer sku="261197">
+      <model>Люстра Tekavize 8667-D3</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89093.72</price>
+        <cityprice cityId="615420100">89093.72</cityprice>
+    </offer>
+    <offer sku="861934">
+      <model>Люстра Tekavize 8633-6</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>197599.06</price>
+        <cityprice cityId="615420100">197599.06</cityprice>
+    </offer>
+    <offer sku="418540">
+      <model>Люстра Tekled Pendant 42971-1 E27 D300 Purple</model>
+      <brand>Tekled</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35105.34</price>
+        <cityprice cityId="615420100">35105.34</cityprice>
+    </offer>
+    <offer sku="950189">
+      <model>Люстра Tekavize SL061-1B</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19402.74</price>
+        <cityprice cityId="615420100">19402.74</cityprice>
+    </offer>
+    <offer sku="338895">
+      <model>Люстра Tekavize 8152-300</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45161.41</price>
+        <cityprice cityId="615420100">45161.41</cityprice>
+    </offer>
+    <offer sku="569202">
+      <model>Люстра Tekavize 6159-D4 4xE27 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50278.36</price>
+        <cityprice cityId="615420100">50278.36</cityprice>
+    </offer>
+    <offer sku="995431">
+      <model>Люстра Tekavize HFX0196-7 7xG9 GOLD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69677.15</price>
+        <cityprice cityId="615420100">69677.15</cityprice>
+    </offer>
+    <offer sku="193188">
+      <model>Люстра Tekavize 8809-D6 6xE14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61746.31</price>
+        <cityprice cityId="615420100">61746.31</cityprice>
+    </offer>
+    <offer sku="759310">
+      <model>Люстра Tekavize MD810075-1 G9x10x40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42039.26</price>
+        <cityprice cityId="615420100">42039.26</cityprice>
+    </offer>
+    <offer sku="534793">
+      <model>Люстра Tekavize SY6030-D800 12xE14 S-GOLD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>501680</price>
+        <cityprice cityId="615420100">501680</cityprice>
+    </offer>
+    <offer sku="160067">
+      <model>Люстра Tekavize T321/4 Antique</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68803.74</price>
+        <cityprice cityId="615420100">68803.74</cityprice>
+    </offer>
+    <offer sku="258502">
+      <model>Люстра Tekavize SY6026-D800</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>251410.58</price>
+        <cityprice cityId="615420100">251410.58</cityprice>
+    </offer>
+    <offer sku="243634">
+      <model>Люстра Tekavize T319/4 Antique</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87064.32</price>
+        <cityprice cityId="615420100">87064.32</cityprice>
+    </offer>
+    <offer sku="930907">
+      <model>Люстра Alfa 081019 К006577</model>
+      <brand>Alfa</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94215.61</price>
+        <cityprice cityId="615420100">94215.61</cityprice>
+    </offer>
+    <offer sku="132787">
+      <model>Люстра Tekavize MD5611-8 8xE14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174839.03</price>
+        <cityprice cityId="615420100">174839.03</cityprice>
+    </offer>
+    <offer sku="571453">
+      <model>Люстра Tekavize DC30176/3L</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51160.66</price>
+        <cityprice cityId="615420100">51160.66</cityprice>
+    </offer>
+    <offer sku="295783">
+      <model>Люстра Tekavize MD0434-3 DOG E14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33340.73</price>
+        <cityprice cityId="615420100">33340.73</cityprice>
+    </offer>
+    <offer sku="475357">
+      <model>Люстра Tekavize 9755/6 6xE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149953.77</price>
+        <cityprice cityId="615420100">149953.77</cityprice>
+    </offer>
+    <offer sku="683892">
+      <model>Люстра Tekavize FIREWOOD 3309-6 6xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79380.49</price>
+        <cityprice cityId="615420100">79380.49</cityprice>
+    </offer>
+    <offer sku="904977">
+      <model>Люстра Tekavize 6091-8 8xE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105845.59</price>
+        <cityprice cityId="615420100">105845.59</cityprice>
+    </offer>
+    <offer sku="363424">
+      <model>Люстра Tekavize M031-5 5xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29979.49</price>
+        <cityprice cityId="615420100">29979.49</cityprice>
+    </offer>
+    <offer sku="726693">
+      <model>Люстра Tekavize SY1122-D600 G4X24</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151726.28</price>
+        <cityprice cityId="615420100">151726.28</cityprice>
+    </offer>
+    <offer sku="112657">
+      <model>Люстра Tekavize HFD0340-TB-COP E27 COPPER</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18811.9</price>
+        <cityprice cityId="615420100">18811.9</cityprice>
+    </offer>
+    <offer sku="849077">
+      <model>Люстра Tekavize T321-1 Antique</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31752.99</price>
+        <cityprice cityId="615420100">31752.99</cityprice>
+    </offer>
+    <offer sku="948986">
+      <model>Люстра Tekavize 6304-6 6xE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52034.07</price>
+        <cityprice cityId="615420100">52034.07</cityprice>
+    </offer>
+    <offer sku="283335">
+      <model>Люстра Tekavize MD50781-1 E27 D155 GOLD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22930.96</price>
+        <cityprice cityId="615420100">22930.96</cityprice>
+    </offer>
+    <offer sku="370003">
+      <model>Люстра Tekavize H1794-3 Rusty</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69580.32</price>
+        <cityprice cityId="615420100">69580.32</cityprice>
+    </offer>
+    <offer sku="952447">
+      <model>Люстра Good Room CONTARDI ECLISSE SO-3</model>
+      <brand>Good room</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>103389.9</price>
+        <cityprice cityId="615420100">103389.9</cityprice>
+    </offer>
+    <offer sku="684630">
+      <model>Люстра Taban Luster 8278</model>
+      <brand>TABAN LUSTER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>390181.94</price>
+        <cityprice cityId="615420100">390181.94</cityprice>
+    </offer>
+    <offer sku="474465">
+      <model>Люстра Tekavize 7710-3P E27 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53115.96</price>
+        <cityprice cityId="615420100">53115.96</cityprice>
+    </offer>
+    <offer sku="710510">
+      <model>Люстра Tekavize HFD0267A-1L 12W 3000K WHITE+GOLD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66156.83</price>
+        <cityprice cityId="615420100">66156.83</cityprice>
+    </offer>
+    <offer sku="347836">
+      <model>Люстра Tekavize MD9717-1 белый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>136721.22</price>
+        <cityprice cityId="615420100">136721.22</cityprice>
+    </offer>
+    <offer sku="888246">
+      <model>Люстра Tekavize 8642-5</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52130.9</price>
+        <cityprice cityId="615420100">52130.9</cityprice>
+    </offer>
+    <offer sku="146002">
+      <model>Люстра Tekavize 8845-3BK 3xE27 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32626.4</price>
+        <cityprice cityId="615420100">32626.4</cityprice>
+    </offer>
+    <offer sku="788721">
+      <model>Люстра Tekavize 6009-2A 2xE27 Brown 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86437.92</price>
+        <cityprice cityId="615420100">86437.92</cityprice>
+    </offer>
+    <offer sku="761330">
+      <model>Люстра Tekavize MD70548B-250 E27 SMOKY</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34391</price>
+        <cityprice cityId="615420100">34391</cityprice>
+    </offer>
+    <offer sku="636858">
+      <model>Люстра Tekavize MD52148B-1C E27 D130 Green</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31840.92</price>
+        <cityprice cityId="615420100">31840.92</cityprice>
+    </offer>
+    <offer sku="300186">
+      <model>Люстра Tekavize MD9087/5</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29106.08</price>
+        <cityprice cityId="615420100">29106.08</cityprice>
+    </offer>
+    <offer sku="761162">
+      <model>Люстра Tekavize 2154/3+3 RAB E14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36154.62</price>
+        <cityprice cityId="615420100">36154.62</cityprice>
+    </offer>
+    <offer sku="932133">
+      <model>Люстра Tekavize CASTLE 3220-6 6xE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52916.38</price>
+        <cityprice cityId="615420100">52916.38</cityprice>
+    </offer>
+    <offer sku="841669">
+      <model>Люстра Tekavize LD1151/6</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63095.95</price>
+        <cityprice cityId="615420100">63095.95</cityprice>
+    </offer>
+    <offer sku="692202">
+      <model>Люстра Tekavize H1794-6A Rusty</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172007.37</price>
+        <cityprice cityId="615420100">172007.37</cityprice>
+    </offer>
+    <offer sku="608888">
+      <model>Люстра Tekavize PX-0490-3 АВ</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55571.18</price>
+        <cityprice cityId="615420100">55571.18</cityprice>
+    </offer>
+    <offer sku="746905">
+      <model>Люстра Tekavize 93186BR-5H AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18811.9</price>
+        <cityprice cityId="615420100">18811.9</cityprice>
+    </offer>
+    <offer sku="422468">
+      <model>Люстра Tekavize SY6006-D600 12xE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>317555.56</price>
+        <cityprice cityId="615420100">317555.56</cityprice>
+    </offer>
+    <offer sku="151224">
+      <model>Люстра Tekavize BOTTLE 3251-6 6xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114667.63</price>
+        <cityprice cityId="615420100">114667.63</cityprice>
+    </offer>
+    <offer sku="338781">
+      <model>Люстра Tekavize M023-3 3xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22040.75</price>
+        <cityprice cityId="615420100">22040.75</cityprice>
+    </offer>
+    <offer sku="878763">
+      <model>Люстра Tekavize MB9374-4A 25W 4000K GOLD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>153068.01</price>
+        <cityprice cityId="615420100">153068.01</cityprice>
+    </offer>
+    <offer sku="543114">
+      <model>Люстра Tekavize MD96128/6 AB</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59099.4</price>
+        <cityprice cityId="615420100">59099.4</cityprice>
+    </offer>
+    <offer sku="540806">
+      <model>Люстра Tekavize Motto P-999/1 Satin</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35272.31</price>
+        <cityprice cityId="615420100">35272.31</cityprice>
+    </offer>
+    <offer sku="414404">
+      <model>Люстра Tekavize 5016-3H 3x E27 40W Old Wood</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51742.61</price>
+        <cityprice cityId="615420100">51742.61</cityprice>
+    </offer>
+    <offer sku="873296">
+      <model>Люстра Tekavize M039-5 5xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29097.19</price>
+        <cityprice cityId="615420100">29097.19</cityprice>
+    </offer>
+    <offer sku="967832">
+      <model>Люстра Tekavize SQUARE 3550-4 4xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45858.95</price>
+        <cityprice cityId="615420100">45858.95</cityprice>
+    </offer>
+    <offer sku="864173">
+      <model>Люстра Tekavize H8192/03A бронзовый-бежевый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82993.68</price>
+        <cityprice cityId="615420100">82993.68</cityprice>
+    </offer>
+    <offer sku="373153">
+      <model>Люстра Tekavize F9252HC06 Green коричневый-бежевый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83792</price>
+        <cityprice cityId="615420100">83792</cityprice>
+    </offer>
+    <offer sku="295421">
+      <model>Люстра Tekavize H8191/03A коричневый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39683.82</price>
+        <cityprice cityId="615420100">39683.82</cityprice>
+    </offer>
+    <offer sku="340287">
+      <model>Люстра Tekavize LED 8680-300 SK</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61737.42</price>
+        <cityprice cityId="615420100">61737.42</cityprice>
+    </offer>
+    <offer sku="473700">
+      <model>Люстра Tekavize MD9769-1L золотистый</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132789.89</price>
+        <cityprice cityId="615420100">132789.89</cityprice>
+    </offer>
+    <offer sku="975180">
+      <model>Люстра Tekavize MX10305S/5 Black+Cr E14 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27695.19</price>
+        <cityprice cityId="615420100">27695.19</cityprice>
+    </offer>
+    <offer sku="923757">
+      <model>Люстра Tekavize 9020-5</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97032.46</price>
+        <cityprice cityId="615420100">97032.46</cityprice>
+    </offer>
+    <offer sku="889840">
+      <model>Люстра Tekavize MX21007-5 E27 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52009.37</price>
+        <cityprice cityId="615420100">52009.37</cityprice>
+    </offer>
+    <offer sku="116161">
+      <model>Люстра Tekavize C1027 4 E14 9W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57542.28</price>
+        <cityprice cityId="615420100">57542.28</cityprice>
+    </offer>
+    <offer sku="667842">
+      <model>Люстра Tekavize HFD0081A-1A E27 BK+Amber</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69262.18</price>
+        <cityprice cityId="615420100">69262.18</cityprice>
+    </offer>
+    <offer sku="217047">
+      <model>Люстра Tekavize 2154/6+6 RAB E14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52009.37</price>
+        <cityprice cityId="615420100">52009.37</cityprice>
+    </offer>
+    <offer sku="384320">
+      <model>Люстра Tekavize MD51672D-110 E27 D110 CHROME</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30446.82</price>
+        <cityprice cityId="615420100">30446.82</cityprice>
+    </offer>
+    <offer sku="715794">
+      <model>Люстра Tekavize 12361-5 E14 60W CHROME</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41447.44</price>
+        <cityprice cityId="615420100">41447.44</cityprice>
+    </offer>
+    <offer sku="810382">
+      <model>Люстра Tekavize 8512-18A 18xG9 BLACK</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185239.92</price>
+        <cityprice cityId="615420100">185239.92</cityprice>
+    </offer>
+    <offer sku="711223">
+      <model>Люстра Tekavize Amias 60781C</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>194070.84</price>
+        <cityprice cityId="615420100">194070.84</cityprice>
+    </offer>
+    <offer sku="441381">
+      <model>Люстра Tekavize H8021/3 Black Brush GD</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48504.87</price>
+        <cityprice cityId="615420100">48504.87</cityprice>
+    </offer>
+    <offer sku="595118">
+      <model>Люстра Tekavize DC30314B/4L E27 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46741.25</price>
+        <cityprice cityId="615420100">46741.25</cityprice>
+    </offer>
+    <offer sku="987535">
+      <model>Люстра Tekavize 9945-5 5xE27 BLACK</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79673.93</price>
+        <cityprice cityId="615420100">79673.93</cityprice>
+    </offer>
+    <offer sku="822448">
+      <model>Люстра Tekavize 8470-D6 6xE27 AMBER GLASS</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82909.7</price>
+        <cityprice cityId="615420100">82909.7</cityprice>
+    </offer>
+    <offer sku="535712">
+      <model>Люстра Tekavize 1050-8 8xE27 BLACK+GOLDEN</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>104963.29</price>
+        <cityprice cityId="615420100">104963.29</cityprice>
+    </offer>
+    <offer sku="338948">
+      <model>Люстра Tekavize M019-3 3xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23804.37</price>
+        <cityprice cityId="615420100">23804.37</cityprice>
+    </offer>
+    <offer sku="453568">
+      <model>Люстра Tekavize BZ008-5H</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30517.96</price>
+        <cityprice cityId="615420100">30517.96</cityprice>
+    </offer>
+    <offer sku="701917">
+      <model>Люстра Tekavize A-361-3 E14 60W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42118.3</price>
+        <cityprice cityId="615420100">42118.3</cityprice>
+    </offer>
+    <offer sku="997092">
+      <model>Люстра Tekavize 6337-3 3xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44094.34</price>
+        <cityprice cityId="615420100">44094.34</cityprice>
+    </offer>
+    <offer sku="686708">
+      <model>Люстра Tekavize HFD0061-4 4xE27 BRASS</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41866.36</price>
+        <cityprice cityId="615420100">41866.36</cityprice>
+    </offer>
+    <offer sku="210079">
+      <model>Люстра Tekavize 6113-6 6xE14</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64384.32</price>
+        <cityprice cityId="615420100">64384.32</cityprice>
+    </offer>
+    <offer sku="524898">
+      <model>Люстра Tekavize LED H0040SY 26W 2700K BLACK</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79380.49</price>
+        <cityprice cityId="615420100">79380.49</cityprice>
+    </offer>
+    <offer sku="630527">
+      <model>Люстра Tekavize M006-3 3xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23152.27</price>
+        <cityprice cityId="615420100">23152.27</cityprice>
+    </offer>
+    <offer sku="553902">
+      <model>Люстра Tekavize GP005-4H</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38810.41</price>
+        <cityprice cityId="615420100">38810.41</cityprice>
+    </offer>
+    <offer sku="914882">
+      <model>Люстра Tekavize 8868-D8 8xE27 40W Black</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112911.91</price>
+        <cityprice cityId="615420100">112911.91</cityprice>
+    </offer>
+    <offer sku="148774">
+      <model>Люстра Tekavize 8510-4H</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>160548.31</price>
+        <cityprice cityId="615420100">160548.31</cityprice>
+    </offer>
+    <offer sku="676485">
+      <model>Люстра Tekavize 9068-1L</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37928.11</price>
+        <cityprice cityId="615420100">37928.11</cityprice>
+    </offer>
+    <offer sku="517801">
+      <model>Люстра Tekavize 6009-3A 3xE27 Brown 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>119069.25</price>
+        <cityprice cityId="615420100">119069.25</cityprice>
+    </offer>
+    <offer sku="525142">
+      <model>Люстра Tekavize SL036-5 E14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40943.55</price>
+        <cityprice cityId="615420100">40943.55</cityprice>
+    </offer>
+    <offer sku="660012">
+      <model>Люстра Tekavize 2008/3 AB E14 40W</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23238.23</price>
+        <cityprice cityId="615420100">23238.23</cityprice>
+    </offer>
+    <offer sku="766554">
+      <model>Люстра Tekavize GUITAR 3288-6 6xE27</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64706.42</price>
+        <cityprice cityId="615420100">64706.42</cityprice>
+    </offer>
+    <offer sku="616758">
+      <model>Люстра Tekavize 7730-3P Coffee</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38810.41</price>
+        <cityprice cityId="615420100">38810.41</cityprice>
+    </offer>
+    <offer sku="647901">
+      <model>Люстра Tekavize MD42934C-1S E27 D240 AMBER</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24342.84</price>
+        <cityprice cityId="615420100">24342.84</cityprice>
+    </offer>
+    <offer sku="347888">
+      <model>Люстра Tekavize HFD0340-LS-CR E27 CHROME</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18811.9</price>
+        <cityprice cityId="615420100">18811.9</cityprice>
+    </offer>
+    <offer sku="237766">
+      <model>Люстра Tekavize 9415-8P</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68698.02</price>
+        <cityprice cityId="615420100">68698.02</cityprice>
+    </offer>
+    <offer sku="429906">
+      <model>Люстра Tekavize 2681/3</model>
+      <brand>Tekavize</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70568.34</price>
+        <cityprice cityId="615420100">70568.34</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
