@@ -41898,5 +41898,2966 @@
       <price>4079.99</price>
         <cityprice cityId="615420100">4079.99</cityprice>
     </offer>
+    <offer sku="412100">
+      <model>Уровень Зубр 34584-120 120 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3520.32</price>
+        <cityprice cityId="615420100">3520.32</cityprice>
+    </offer>
+    <offer sku="11059722">
+      <model>Уровень Зубр  34584-040 40 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1728.05</price>
+        <cityprice cityId="615420100">1728.05</cityprice>
+    </offer>
+    <offer sku="411885">
+      <model>Уровень Stanley  1-42-421 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28182.28</price>
+        <cityprice cityId="615420100">28182.28</cityprice>
+    </offer>
+    <offer sku="411907">
+      <model>Уровень Stanley 1-42-802 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13002.34</price>
+        <cityprice cityId="615420100">13002.34</cityprice>
+    </offer>
+    <offer sku="411963">
+      <model>Уровень Stanley 1-43-525 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21250.33</price>
+        <cityprice cityId="615420100">21250.33</cityprice>
+    </offer>
+    <offer sku="411964">
+      <model>Уровень Stanley XL 0-43-681 200 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77152.51</price>
+        <cityprice cityId="615420100">77152.51</cityprice>
+    </offer>
+    <offer sku="411966">
+      <model>Уровень Stanley 1-43-558 200 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39607.75</price>
+        <cityprice cityId="615420100">39607.75</cityprice>
+    </offer>
+    <offer sku="412032">
+      <model>Уровень Stanley 1-42-920 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12921.33</price>
+        <cityprice cityId="615420100">12921.33</cityprice>
+    </offer>
+    <offer sku="4377524">
+      <model>Уровень алюминиевый, Gross 33625, 60 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4708.08</price>
+        <cityprice cityId="615420100">4708.08</cityprice>
+    </offer>
+    <offer sku="411571">
+      <model>Уровень Зубр 4-34585-080 34585-080 80 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2640.3</price>
+        <cityprice cityId="615420100">2640.3</cityprice>
+    </offer>
+    <offer sku="3927318">
+      <model>Уровень алюминиевый, Matrix 34363, алюминиевый сплав, 100 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8449.55</price>
+        <cityprice cityId="615420100">8449.55</cityprice>
+    </offer>
+    <offer sku="411912">
+      <model>Уровень Stanley XTHT1-42135 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73321.95</price>
+        <cityprice cityId="615420100">73321.95</cityprice>
+    </offer>
+    <offer sku="411184">
+      <model>Уровень Kraftool 34717-025 25 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5969.57</price>
+        <cityprice cityId="615420100">5969.57</cityprice>
+    </offer>
+    <offer sku="411186">
+      <model>Уровень Kraftool 34785-40 40 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6447.7</price>
+        <cityprice cityId="615420100">6447.7</cityprice>
+    </offer>
+    <offer sku="412108">
+      <model>Уровень Denzel 34920 30 см</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7779.67</price>
+        <cityprice cityId="615420100">7779.67</cityprice>
+    </offer>
+    <offer sku="12174017">
+      <model>Уровень Stabila тип 96-2 60см 15226</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34492.47</price>
+        <cityprice cityId="615420100">34492.47</cityprice>
+    </offer>
+    <offer sku="411348">
+      <model>Уровень Stanley 1-43-524 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15924.91</price>
+        <cityprice cityId="615420100">15924.91</cityprice>
+    </offer>
+    <offer sku="11059623">
+      <model>Уровень Stanley 0-43-603  23 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21553.66</price>
+        <cityprice cityId="615420100">21553.66</cityprice>
+    </offer>
+    <offer sku="11498386">
+      <model>Уровень Kraftool 34781-150 150 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10906.75</price>
+        <cityprice cityId="615420100">10906.75</cityprice>
+    </offer>
+    <offer sku="411984">
+      <model>Уровень Stanley  Fatmax 1-43-572 180 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57514.62</price>
+        <cityprice cityId="615420100">57514.62</cityprice>
+    </offer>
+    <offer sku="12173897">
+      <model>Уровень Stabila тип 81 25см 02511</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38119.42</price>
+        <cityprice cityId="615420100">38119.42</cityprice>
+    </offer>
+    <offer sku="411851">
+      <model>Уровень Stanley  STHT1-43103 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12901.57</price>
+        <cityprice cityId="615420100">12901.57</cityprice>
+    </offer>
+    <offer sku="411855">
+      <model>Уровень Stanley FMHT42554-1 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17772.5</price>
+        <cityprice cityId="615420100">17772.5</cityprice>
+    </offer>
+    <offer sku="12174091">
+      <model>Уровень магнитный Stabila Torpedo тип 81SV REM W45 25см 16672</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53530.38</price>
+        <cityprice cityId="615420100">53530.38</cityprice>
+    </offer>
+    <offer sku="411669">
+      <model>Уровень Milwaukee 4932459893 60 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86051.6</price>
+        <cityprice cityId="615420100">86051.6</cityprice>
+    </offer>
+    <offer sku="411846">
+      <model>Уровень Вихрь Магнитный 493482 100 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4495.49</price>
+        <cityprice cityId="615420100">4495.49</cityprice>
+    </offer>
+    <offer sku="11059575">
+      <model>Уровень Kapro 779-40 40 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12954.52</price>
+        <cityprice cityId="615420100">12954.52</cityprice>
+    </offer>
+    <offer sku="12174041">
+      <model>Уровень Hobbi 60см 17-1-406</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11620.2</price>
+        <cityprice cityId="615420100">11620.2</cityprice>
+    </offer>
+    <offer sku="12174052">
+      <model>Уровень телескопический Stabila тип 80T 63-105см 18879</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27225.24</price>
+        <cityprice cityId="615420100">27225.24</cityprice>
+    </offer>
+    <offer sku="12174073">
+      <model>Уровень алюминиевый Hobbi Yellow 17-0-020 200см</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13921.19</price>
+        <cityprice cityId="615420100">13921.19</cityprice>
+    </offer>
+    <offer sku="12174081">
+      <model>Уровень Stabila тип 80A 50см 16049</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12067.06</price>
+        <cityprice cityId="615420100">12067.06</cityprice>
+    </offer>
+    <offer sku="3927250">
+      <model>Уровень алюминиевый,Gross 34335,алюминиевый сплав,150x60x25 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18765.32</price>
+        <cityprice cityId="615420100">18765.32</cityprice>
+    </offer>
+    <offer sku="3927557">
+      <model>Уровень алюминиевый, Sparta 35106, алюминиевый сплав, 60 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1056.19</price>
+        <cityprice cityId="615420100">1056.19</cityprice>
+    </offer>
+    <offer sku="4377024">
+      <model>Уровень алюминиевый, Matrix 34004, &quot;Рельс&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3041.13</price>
+        <cityprice cityId="615420100">3041.13</cityprice>
+    </offer>
+    <offer sku="4377054">
+      <model>Уровень магнитный, Matrix 33702, , 60 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4101.27</price>
+        <cityprice cityId="615420100">4101.27</cityprice>
+    </offer>
+    <offer sku="4377619">
+      <model>Уровень алюминиевый, Сибртех 34100, 40 см</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3351.36</price>
+        <cityprice cityId="615420100">3351.36</cityprice>
+    </offer>
+    <offer sku="4989312">
+      <model>Уровень алюминиевый Sparta 330355, 1500 мм, 3 глазка</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2553.04</price>
+        <cityprice cityId="615420100">2553.04</cityprice>
+    </offer>
+    <offer sku="10530206">
+      <model>Уровень алюминиевый Matrix 33229, 1000 мм, 3 глазка, красный, линейка</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2098.55</price>
+        <cityprice cityId="615420100">2098.55</cityprice>
+    </offer>
+    <offer sku="411799">
+      <model>Уровень Milwaukee 4932459098 60 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49035.43</price>
+        <cityprice cityId="615420100">49035.43</cityprice>
+    </offer>
+    <offer sku="11499134">
+      <model>Уровень Kapro 930-40 40 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37958.67</price>
+        <cityprice cityId="615420100">37958.67</cityprice>
+    </offer>
+    <offer sku="411233">
+      <model>Уровень Stanley FMHT42552-1 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24683.7</price>
+        <cityprice cityId="615420100">24683.7</cityprice>
+    </offer>
+    <offer sku="3246902">
+      <model>Уровень Matrix алюминиевый магнитный, 1800 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42347.53</price>
+        <cityprice cityId="615420100">42347.53</cityprice>
+    </offer>
+    <offer sku="3927227">
+      <model>Уровень алюминиевый, Gross 3437,  алюминий, 60 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23552.42</price>
+        <cityprice cityId="615420100">23552.42</cityprice>
+    </offer>
+    <offer sku="11059727">
+      <model>Уровень Вихрь  73/11/4/6 150 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3948.54</price>
+        <cityprice cityId="615420100">3948.54</cityprice>
+    </offer>
+    <offer sku="411283">
+      <model>Уровень Ingco  HSL08180 180 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12844.26</price>
+        <cityprice cityId="615420100">12844.26</cityprice>
+    </offer>
+    <offer sku="411400">
+      <model>Уровень Total TMT28016 80 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4234.37</price>
+        <cityprice cityId="615420100">4234.37</cityprice>
+    </offer>
+    <offer sku="11059558">
+      <model>Уровень Total TMT20105M 10 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3528.63</price>
+        <cityprice cityId="615420100">3528.63</cityprice>
+    </offer>
+    <offer sku="3262006">
+      <model>Уровень Matrix алюминиевый, две ручки, 1200 мм 34512</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10868.22</price>
+        <cityprice cityId="615420100">10868.22</cityprice>
+    </offer>
+    <offer sku="12173912">
+      <model>Уровень крестовой Stabila 2D 07804</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4363.1</price>
+        <cityprice cityId="615420100">4363.1</cityprice>
+    </offer>
+    <offer sku="411758">
+      <model>Уровень Ingco HSL68040 40 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12048.9</price>
+        <cityprice cityId="615420100">12048.9</cityprice>
+    </offer>
+    <offer sku="411795">
+      <model>Уровень Milwaukee 4932459094 120 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97299.22</price>
+        <cityprice cityId="615420100">97299.22</cityprice>
+    </offer>
+    <offer sku="411980">
+      <model>Уровень Вихрь 73/11/4/7 180 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4837.76</price>
+        <cityprice cityId="615420100">4837.76</cityprice>
+    </offer>
+    <offer sku="3927366">
+      <model>Уровень алюминиевый,Gross 34328,алюминиевый сплав,80x60x25 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21964.67</price>
+        <cityprice cityId="615420100">21964.67</cityprice>
+    </offer>
+    <offer sku="3260823">
+      <model>Уровень Matrix алюминиевый, две ручки, 800 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5121.9</price>
+        <cityprice cityId="615420100">5121.9</cityprice>
+    </offer>
+    <offer sku="411725">
+      <model>Уровень Total TMT20105M 10 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3528.63</price>
+        <cityprice cityId="615420100">3528.63</cityprice>
+    </offer>
+    <offer sku="4377162">
+      <model>Уровень алюминиевый, Gross 33903, 100 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9335.8</price>
+        <cityprice cityId="615420100">9335.8</cityprice>
+    </offer>
+    <offer sku="412157">
+      <model>Уровень Gross 33672 80 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21877.58</price>
+        <cityprice cityId="615420100">21877.58</cityprice>
+    </offer>
+    <offer sku="4376852">
+      <model>Уровень алюминиевый, Gross 33673</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24347.78</price>
+        <cityprice cityId="615420100">24347.78</cityprice>
+    </offer>
+    <offer sku="523878">
+      <model>Уровень Tolsen  35223</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5335.21</price>
+        <cityprice cityId="615420100">5335.21</cityprice>
+    </offer>
+    <offer sku="926297">
+      <model>Уровень алюминиевый Tolsen 35112, 60 см</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6343.09</price>
+        <cityprice cityId="615420100">6343.09</cityprice>
+    </offer>
+    <offer sku="11514379">
+      <model>Уровень Stayer  3463-120 120 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26676.54</price>
+        <cityprice cityId="615420100">26676.54</cityprice>
+    </offer>
+    <offer sku="11059472">
+      <model>Уровень Stayer 3471-080_z01 80 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5713.72</price>
+        <cityprice cityId="615420100">5713.72</cityprice>
+    </offer>
+    <offer sku="11059492">
+      <model>Уровень Stayer  3470-150_z01  150 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5965.66</price>
+        <cityprice cityId="615420100">5965.66</cityprice>
+    </offer>
+    <offer sku="11059493">
+      <model>Уровень Stayer 3460-080 z01(2)03 80 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2963.17</price>
+        <cityprice cityId="615420100">2963.17</cityprice>
+    </offer>
+    <offer sku="411330">
+      <model>Уровень Зубр  34585-120 120 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5631.71</price>
+        <cityprice cityId="615420100">5631.71</cityprice>
+    </offer>
+    <offer sku="411332">
+      <model>Уровень Stayer 3470-100 100 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4635.79</price>
+        <cityprice cityId="615420100">4635.79</cityprice>
+    </offer>
+    <offer sku="411492">
+      <model>Уровень Stayer 3471-100 z01 100 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7321.05</price>
+        <cityprice cityId="615420100">7321.05</cityprice>
+    </offer>
+    <offer sku="411575">
+      <model>Уровень Stayer 3470-080 80 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4127.95</price>
+        <cityprice cityId="615420100">4127.95</cityprice>
+    </offer>
+    <offer sku="412061">
+      <model>Уровень Зубр 34584-100 100 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2635.89</price>
+        <cityprice cityId="615420100">2635.89</cityprice>
+    </offer>
+    <offer sku="412140">
+      <model>Уровень Зубр  4-34583-080 80 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4599.23</price>
+        <cityprice cityId="615420100">4599.23</cityprice>
+    </offer>
+    <offer sku="3907817">
+      <model>Уровень литой, 600 мм, 2 глазка// Gross 34916</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9679.63</price>
+        <cityprice cityId="615420100">9679.63</cityprice>
+    </offer>
+    <offer sku="411828">
+      <model>Уровень Stanley  1-43-554 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18412.74</price>
+        <cityprice cityId="615420100">18412.74</cityprice>
+    </offer>
+    <offer sku="11059477">
+      <model>Уровень Stanley  0-42-323 200 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35025.31</price>
+        <cityprice cityId="615420100">35025.31</cityprice>
+    </offer>
+    <offer sku="11957702">
+      <model>Уровень Stanley  1-42-314 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30862.78</price>
+        <cityprice cityId="615420100">30862.78</cityprice>
+    </offer>
+    <offer sku="411432">
+      <model>Уровень Kapro 787-40-100 100 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14820.3</price>
+        <cityprice cityId="615420100">14820.3</cityprice>
+    </offer>
+    <offer sku="411551">
+      <model>Уровень Ingco  HSL08150 150 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42348.51</price>
+        <cityprice cityId="615420100">42348.51</cityprice>
+    </offer>
+    <offer sku="411801">
+      <model>Уровень Kraftool  34721-200 200 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52431.26</price>
+        <cityprice cityId="615420100">52431.26</cityprice>
+    </offer>
+    <offer sku="411959">
+      <model>Уровень Вихрь 73/11/4/3 80 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2272.45</price>
+        <cityprice cityId="615420100">2272.45</cityprice>
+    </offer>
+    <offer sku="3927369">
+      <model>Уровень алюминиевый, Matrix 34364, алюминиевый сплав, 120 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9789.3</price>
+        <cityprice cityId="615420100">9789.3</cityprice>
+    </offer>
+    <offer sku="411818">
+      <model>Уровень Stanley FMHT42559-1 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149360.96</price>
+        <cityprice cityId="615420100">149360.96</cityprice>
+    </offer>
+    <offer sku="411874">
+      <model>Уровень Stanley Fatmax 0-42-086 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89985.9</price>
+        <cityprice cityId="615420100">89985.9</cityprice>
+    </offer>
+    <offer sku="4989265">
+      <model>Уровень алюминиевый Sparta 330205, 400 мм, 3 глазка</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9138.2</price>
+        <cityprice cityId="615420100">9138.2</cityprice>
+    </offer>
+    <offer sku="4989303">
+      <model>Уровень алюминиевый Sparta 330325, 1200 мм, 3 глазка</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9138.2</price>
+        <cityprice cityId="615420100">9138.2</cityprice>
+    </offer>
+    <offer sku="4989387">
+      <model>Уровень алюминиевый Sparta 331235, 600 мм, 3 глазка</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1872.3</price>
+        <cityprice cityId="615420100">1872.3</cityprice>
+    </offer>
+    <offer sku="4989435">
+      <model>Уровень алюминиевый Sparta 331265, 800 мм, 3 глазка</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1239.97</price>
+        <cityprice cityId="615420100">1239.97</cityprice>
+    </offer>
+    <offer sku="4377045">
+      <model>Уровень алюминиевый, Matrix 34008,  &quot;Рельс&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5309.62</price>
+        <cityprice cityId="615420100">5309.62</cityprice>
+    </offer>
+    <offer sku="4377120">
+      <model>Уровень алюминиевый Matrix 33232</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3322.71</price>
+        <cityprice cityId="615420100">3322.71</cityprice>
+    </offer>
+    <offer sku="4377222">
+      <model>Уровень алюминиевый, Matrix 34200, 40 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2772.38</price>
+        <cityprice cityId="615420100">2772.38</cityprice>
+    </offer>
+    <offer sku="4377635">
+      <model>Уровень алюминиевый,  Сибртех 34117, 100 см</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4993.45</price>
+        <cityprice cityId="615420100">4993.45</cityprice>
+    </offer>
+    <offer sku="4377731">
+      <model>Уровень алюминиевый, Sparta 35110, 100 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2106.46</price>
+        <cityprice cityId="615420100">2106.46</cityprice>
+    </offer>
+    <offer sku="411772">
+      <model>Уровень Kraftool  34785-60 60 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8431.76</price>
+        <cityprice cityId="615420100">8431.76</cityprice>
+    </offer>
+    <offer sku="412077">
+      <model>Уровень Kraftool 34781-120 120 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8837.84</price>
+        <cityprice cityId="615420100">8837.84</cityprice>
+    </offer>
+    <offer sku="4377126">
+      <model>Уровень алюминиевый Matrix 33235</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3060.89</price>
+        <cityprice cityId="615420100">3060.89</cityprice>
+    </offer>
+    <offer sku="12173930">
+      <model>Уровень Stabila тип 70-2 200см 16284</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43470.9</price>
+        <cityprice cityId="615420100">43470.9</cityprice>
+    </offer>
+    <offer sku="11059390">
+      <model>Уровень Kapro 995-41P-80 80 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18673.58</price>
+        <cityprice cityId="615420100">18673.58</cityprice>
+    </offer>
+    <offer sku="411361">
+      <model>Уровень Stanley FMHT42553-1 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17227.12</price>
+        <cityprice cityId="615420100">17227.12</cityprice>
+    </offer>
+    <offer sku="411489">
+      <model>Уровень Зубр 4-34585-150 150 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8637.27</price>
+        <cityprice cityId="615420100">8637.27</cityprice>
+    </offer>
+    <offer sku="411797">
+      <model>Уровень Milwaukee 4932459095 180 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37351.11</price>
+        <cityprice cityId="615420100">37351.11</cityprice>
+    </offer>
+    <offer sku="412090">
+      <model>Уровень Stayer ProSTABIL 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6369.76</price>
+        <cityprice cityId="615420100">6369.76</cityprice>
+    </offer>
+    <offer sku="11498256">
+      <model>Уровень Milwaukee 4932459090 40 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59470.9</price>
+        <cityprice cityId="615420100">59470.9</cityprice>
+    </offer>
+    <offer sku="11499124">
+      <model>Уровень Milwaukee 4932459091 60 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8729.85</price>
+        <cityprice cityId="615420100">8729.85</cityprice>
+    </offer>
+    <offer sku="4377109">
+      <model>Уровень алюминиевый Matrix 33228</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7607.75</price>
+        <cityprice cityId="615420100">7607.75</cityprice>
+    </offer>
+    <offer sku="12173908">
+      <model>Уровень Stabila тип 80AS 60см 19165</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21157.56</price>
+        <cityprice cityId="615420100">21157.56</cityprice>
+    </offer>
+    <offer sku="12174006">
+      <model>Уровень Stabila тип 70-2 40см 14187</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27661.6</price>
+        <cityprice cityId="615420100">27661.6</cityprice>
+    </offer>
+    <offer sku="12174283">
+      <model>Уровень РемоКолор 17-0-112 120 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12262.03</price>
+        <cityprice cityId="615420100">12262.03</cityprice>
+    </offer>
+    <offer sku="3927299">
+      <model>Уровень алюминиевый, Gross 34440, алюминий, 60 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12833.39</price>
+        <cityprice cityId="615420100">12833.39</cityprice>
+    </offer>
+    <offer sku="411214">
+      <model>Уровень Stabila 19168 100 см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18930.46</price>
+        <cityprice cityId="615420100">18930.46</cityprice>
+    </offer>
+    <offer sku="411225">
+      <model>Уровень Total TMT221606 60 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9350.9</price>
+        <cityprice cityId="615420100">9350.9</cityprice>
+    </offer>
+    <offer sku="411676">
+      <model>Уровень Total TMT22006 200 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13806.59</price>
+        <cityprice cityId="615420100">13806.59</cityprice>
+    </offer>
+    <offer sku="411681">
+      <model>Уровень Total TMT21506 150 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13806.59</price>
+        <cityprice cityId="615420100">13806.59</cityprice>
+    </offer>
+    <offer sku="411761">
+      <model>Уровень Total TMT212056 120 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20466.12</price>
+        <cityprice cityId="615420100">20466.12</cityprice>
+    </offer>
+    <offer sku="411931">
+      <model>Уровень Вихрь 73/11/4/17 40 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3271.05</price>
+        <cityprice cityId="615420100">3271.05</cityprice>
+    </offer>
+    <offer sku="412196">
+      <model>Уровень Вихрь  73/11/4/5 120 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2420.65</price>
+        <cityprice cityId="615420100">2420.65</cityprice>
+    </offer>
+    <offer sku="12174032">
+      <model>Уровень магнитный Stabila тип 70TМW 26см 14010</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28482.64</price>
+        <cityprice cityId="615420100">28482.64</cityprice>
+    </offer>
+    <offer sku="12174010">
+      <model>Уровень Stabila тип 70-2 100см 14189</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24699.51</price>
+        <cityprice cityId="615420100">24699.51</cityprice>
+    </offer>
+    <offer sku="12173932">
+      <model>Уровень Stabila тип 70-2 60см 02324</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22724.46</price>
+        <cityprice cityId="615420100">22724.46</cityprice>
+    </offer>
+    <offer sku="411353">
+      <model>Уровень Stabila 19166 80 см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17270.59</price>
+        <cityprice cityId="615420100">17270.59</cityprice>
+    </offer>
+    <offer sku="411957">
+      <model>Уровень Вихрь  73/11/4/4 100 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2104.83</price>
+        <cityprice cityId="615420100">2104.83</cityprice>
+    </offer>
+    <offer sku="4377518">
+      <model>Уровень алюминиевый, Gross 33624, 40 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7750.03</price>
+        <cityprice cityId="615420100">7750.03</cityprice>
+    </offer>
+    <offer sku="411800">
+      <model>Уровень Milwaukee 4932459086 120 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>169222.14</price>
+        <cityprice cityId="615420100">169222.14</cityprice>
+    </offer>
+    <offer sku="4377130">
+      <model>Уровень алюминиевый Matrix 33238</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4144.74</price>
+        <cityprice cityId="615420100">4144.74</cityprice>
+    </offer>
+    <offer sku="12174279">
+      <model>Уровень РемоКолор Yellow 17-0-008 80 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2734.69</price>
+        <cityprice cityId="615420100">2734.69</cityprice>
+    </offer>
+    <offer sku="411364">
+      <model>Уровень РемоКолор 17-1-210 100 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6695.81</price>
+        <cityprice cityId="615420100">6695.81</cityprice>
+    </offer>
+    <offer sku="11059578">
+      <model>Уровень Сибртех 34111 30 см</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2810.92</price>
+        <cityprice cityId="615420100">2810.92</cityprice>
+    </offer>
+    <offer sku="412012">
+      <model>Уровень Stanley 1-43-536 90 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20354.2</price>
+        <cityprice cityId="615420100">20354.2</cityprice>
+    </offer>
+    <offer sku="411263">
+      <model>Уровень Kraftool 34781-80 80 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7053.47</price>
+        <cityprice cityId="615420100">7053.47</cityprice>
+    </offer>
+    <offer sku="412122">
+      <model>Уровень Sparta 331295 100 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6572.31</price>
+        <cityprice cityId="615420100">6572.31</cityprice>
+    </offer>
+    <offer sku="412048">
+      <model>Уровень Stanley XL 0-43-672 180 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59281.2</price>
+        <cityprice cityId="615420100">59281.2</cityprice>
+    </offer>
+    <offer sku="10682128">
+      <model>Уровень Зубр Мастер &quot;Торпедо&quot; 3459, 230 мм</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1198.47</price>
+        <cityprice cityId="615420100">1198.47</cityprice>
+    </offer>
+    <offer sku="411832">
+      <model>Уровень Ingco  HSL28120 120 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14370.75</price>
+        <cityprice cityId="615420100">14370.75</cityprice>
+    </offer>
+    <offer sku="411858">
+      <model>Уровень Ingco HBSL08040 40 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14370.75</price>
+        <cityprice cityId="615420100">14370.75</cityprice>
+    </offer>
+    <offer sku="411937">
+      <model>Уровень Matrix 34712 120 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7100.9</price>
+        <cityprice cityId="615420100">7100.9</cityprice>
+    </offer>
+    <offer sku="12174036">
+      <model>Уровень РемоКолор 17-5-001 60 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8645.17</price>
+        <cityprice cityId="615420100">8645.17</cityprice>
+    </offer>
+    <offer sku="12174018">
+      <model>Уровень Stabila тип 196-2 200см 17209</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>139331.57</price>
+        <cityprice cityId="615420100">139331.57</cityprice>
+    </offer>
+    <offer sku="11499658">
+      <model>Уровень Stayer 3466-060 z01 60 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2293.61</price>
+        <cityprice cityId="615420100">2293.61</cityprice>
+    </offer>
+    <offer sku="11970387">
+      <model>Уровень Stayer 3460-120_z03 120 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4643.69</price>
+        <cityprice cityId="615420100">4643.69</cityprice>
+    </offer>
+    <offer sku="412082">
+      <model>Уровень Зубр 34584-200 200 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6452.76</price>
+        <cityprice cityId="615420100">6452.76</cityprice>
+    </offer>
+    <offer sku="412099">
+      <model>Уровень Stayer 3466-200 200 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5557.61</price>
+        <cityprice cityId="615420100">5557.61</cityprice>
+    </offer>
+    <offer sku="412114">
+      <model>Уровень Зубр  4-34583-150 150 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7216.5</price>
+        <cityprice cityId="615420100">7216.5</cityprice>
+    </offer>
+    <offer sku="412167">
+      <model>Уровень Stayer  3466-120 120 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3440.42</price>
+        <cityprice cityId="615420100">3440.42</cityprice>
+    </offer>
+    <offer sku="11059384">
+      <model>Уровень Stayer  3466-060 60 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2293.61</price>
+        <cityprice cityId="615420100">2293.61</cityprice>
+    </offer>
+    <offer sku="11059421">
+      <model>Уровень Зубр  4-34583-040 40 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2590.9</price>
+        <cityprice cityId="615420100">2590.9</cityprice>
+    </offer>
+    <offer sku="11059490">
+      <model>Уровень Stayer 3470-120 120 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4967.76</price>
+        <cityprice cityId="615420100">4967.76</cityprice>
+    </offer>
+    <offer sku="11059739">
+      <model>Уровень Stayer  3486-06-05 500 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2487.83</price>
+        <cityprice cityId="615420100">2487.83</cityprice>
+    </offer>
+    <offer sku="411869">
+      <model>Уровень Stanley Fatmax 0-42-065 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83405.68</price>
+        <cityprice cityId="615420100">83405.68</cityprice>
+    </offer>
+    <offer sku="411875">
+      <model>Уровень Stanley XTHT0-42495 22.8 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15062.36</price>
+        <cityprice cityId="615420100">15062.36</cityprice>
+    </offer>
+    <offer sku="411941">
+      <model>Уровень Stanley FatMax I Beam 1-43-557 180 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51600.33</price>
+        <cityprice cityId="615420100">51600.33</cityprice>
+    </offer>
+    <offer sku="411824">
+      <model>Уровень Stanley STHT1-43114 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24184.75</price>
+        <cityprice cityId="615420100">24184.75</cityprice>
+    </offer>
+    <offer sku="411827">
+      <model>Уровень Stanley 0-43-609 25 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87334.05</price>
+        <cityprice cityId="615420100">87334.05</cityprice>
+    </offer>
+    <offer sku="3927522">
+      <model>Уровень алюминиевый, Gross 34443, алюминий, 120 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11596.39</price>
+        <cityprice cityId="615420100">11596.39</cityprice>
+    </offer>
+    <offer sku="10532586">
+      <model>Уровень алюминиевый Matrix ProFI 34312, 1500 мм, 3 глазка, ударопрочные заглушки</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9203.41</price>
+        <cityprice cityId="615420100">9203.41</cityprice>
+    </offer>
+    <offer sku="11059646">
+      <model>Уровень Stanley 1-42-212 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26336.66</price>
+        <cityprice cityId="615420100">26336.66</cityprice>
+    </offer>
+    <offer sku="411880">
+      <model>Уровень Stanley XL 0-43-617 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27992.58</price>
+        <cityprice cityId="615420100">27992.58</cityprice>
+    </offer>
+    <offer sku="11059603">
+      <model>Уровень Stanley 1-42-460 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21546.74</price>
+        <cityprice cityId="615420100">21546.74</cityprice>
+    </offer>
+    <offer sku="411376">
+      <model>Уровень Kapro  995-41PM-80 80 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76097.3</price>
+        <cityprice cityId="615420100">76097.3</cityprice>
+    </offer>
+    <offer sku="411862">
+      <model>Уровень Вихрь 73/11/4/2 60 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2242.81</price>
+        <cityprice cityId="615420100">2242.81</cityprice>
+    </offer>
+    <offer sku="4377031">
+      <model>Уровень алюминиевый, Gross 33905, 150x2 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13633.69</price>
+        <cityprice cityId="615420100">13633.69</cityprice>
+    </offer>
+    <offer sku="11059531">
+      <model>Уровень Patriot 350005510 100 см</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10165.82</price>
+        <cityprice cityId="615420100">10165.82</cityprice>
+    </offer>
+    <offer sku="411249">
+      <model>Уровень Stanley 1-43-548 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23061.37</price>
+        <cityprice cityId="615420100">23061.37</cityprice>
+    </offer>
+    <offer sku="3927262">
+      <model>Уровень алюминиевый,Gross 34338,алюминиевый сплав,180x60x23 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20478.69</price>
+        <cityprice cityId="615420100">20478.69</cityprice>
+    </offer>
+    <offer sku="4377052">
+      <model>Уровень алюминиевый, Matrix 34010, &quot;Рельс&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6528.84</price>
+        <cityprice cityId="615420100">6528.84</cityprice>
+    </offer>
+    <offer sku="4377133">
+      <model>Уровень алюминиевый Matrix 33241</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4679.26</price>
+        <cityprice cityId="615420100">4679.26</cityprice>
+    </offer>
+    <offer sku="4377208">
+      <model>Уровень алюминиевый, Sparta 34048, 80 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4331.48</price>
+        <cityprice cityId="615420100">4331.48</cityprice>
+    </offer>
+    <offer sku="411990">
+      <model>Уровень Matrix 332389 180 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1925.65</price>
+        <cityprice cityId="615420100">1925.65</cityprice>
+    </offer>
+    <offer sku="4377666">
+      <model>Уровень алюминиевый, Matrix 34203, 100 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5330.37</price>
+        <cityprice cityId="615420100">5330.37</cityprice>
+    </offer>
+    <offer sku="412183">
+      <model>Уровень Gross 33671 60 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21171.86</price>
+        <cityprice cityId="615420100">21171.86</cityprice>
+    </offer>
+    <offer sku="12174053">
+      <model>Уровень Stabila тип 196-2 LED 61см 17392, c подсветкой</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64636.27</price>
+        <cityprice cityId="615420100">64636.27</cityprice>
+    </offer>
+    <offer sku="12174285">
+      <model>Уровень телескопический Stabila тип 80T 80-127см 18880</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78568.34</price>
+        <cityprice cityId="615420100">78568.34</cityprice>
+    </offer>
+    <offer sku="12174051">
+      <model>Уровень Stabila тип R300 81см 18372</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35957.01</price>
+        <cityprice cityId="615420100">35957.01</cityprice>
+    </offer>
+    <offer sku="3172189">
+      <model>Уровень Matrix алюминиевый магнитный, 2000 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16227.34</price>
+        <cityprice cityId="615420100">16227.34</cityprice>
+    </offer>
+    <offer sku="3261453">
+      <model>Уровень Matrix алюминиевый, две ручки, 1500 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34312.95</price>
+        <cityprice cityId="615420100">34312.95</cityprice>
+    </offer>
+    <offer sku="411667">
+      <model>Уровень Milwaukee 4932459894 120 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>168881.7</price>
+        <cityprice cityId="615420100">168881.7</cityprice>
+    </offer>
+    <offer sku="411381">
+      <model>Уровень Total TMT210036 100 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4234.37</price>
+        <cityprice cityId="615420100">4234.37</cityprice>
+    </offer>
+    <offer sku="411985">
+      <model>Уровень Вихрь  73/11/4/7 180 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4837.76</price>
+        <cityprice cityId="615420100">4837.76</cityprice>
+    </offer>
+    <offer sku="3254439">
+      <model>Уровень Matrix алюминиевый, две ручки, 1800 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29420.27</price>
+        <cityprice cityId="615420100">29420.27</cityprice>
+    </offer>
+    <offer sku="11499992">
+      <model>Уровень Matrix 34520 200 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8292.3</price>
+        <cityprice cityId="615420100">8292.3</cityprice>
+    </offer>
+    <offer sku="4377557">
+      <model>Уровень алюминиевый,  Denzel 33684, 120 см</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20463.87</price>
+        <cityprice cityId="615420100">20463.87</cityprice>
+    </offer>
+    <offer sku="4377573">
+      <model>Уровень алюминиевый, Denzel 33685, 150 см</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23512.9</price>
+        <cityprice cityId="615420100">23512.9</cityprice>
+    </offer>
+    <offer sku="11059534">
+      <model>Уровень РемоКолор 877742 60 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15187.83</price>
+        <cityprice cityId="615420100">15187.83</cityprice>
+    </offer>
+    <offer sku="411208">
+      <model>Уровень Total TMT20405M 40 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8768.68</price>
+        <cityprice cityId="615420100">8768.68</cityprice>
+    </offer>
+    <offer sku="411269">
+      <model>Уровень РемоКолор 17-1-208 80см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6527.99</price>
+        <cityprice cityId="615420100">6527.99</cityprice>
+    </offer>
+    <offer sku="412181">
+      <model>Уровень Denzel 34935 60 см</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17290.35</price>
+        <cityprice cityId="615420100">17290.35</cityprice>
+    </offer>
+    <offer sku="3927289">
+      <model>Уровень алюминиевый,Matrix 34362,алюминиевый сплав,80x65x30 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7636.41</price>
+        <cityprice cityId="615420100">7636.41</cityprice>
+    </offer>
+    <offer sku="3267823">
+      <model>Уровень Stabila Pocket PRO Magnetic 17768</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32859.57</price>
+        <cityprice cityId="615420100">32859.57</cityprice>
+    </offer>
+    <offer sku="411860">
+      <model>Уровень Stanley STHT1-43107 150 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31551.43</price>
+        <cityprice cityId="615420100">31551.43</cityprice>
+    </offer>
+    <offer sku="411961">
+      <model>Уровень Stanley  I BEAM180 1-42-919 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12844.26</price>
+        <cityprice cityId="615420100">12844.26</cityprice>
+    </offer>
+    <offer sku="411476">
+      <model>Уровень Kapro 787-40-80 80 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>573051.6</price>
+        <cityprice cityId="615420100">573051.6</cityprice>
+    </offer>
+    <offer sku="11059687">
+      <model>Уровень Sparta 331415 200 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5932.07</price>
+        <cityprice cityId="615420100">5932.07</cityprice>
+    </offer>
+    <offer sku="953722">
+      <model>Уровень Tolsen 35239 200 см</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13880.69</price>
+        <cityprice cityId="615420100">13880.69</cityprice>
+    </offer>
+    <offer sku="411841">
+      <model>Уровень Ingco  HSL68060 60 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19607.26</price>
+        <cityprice cityId="615420100">19607.26</cityprice>
+    </offer>
+    <offer sku="4377661">
+      <model>Уровень алюминиевый, Matrix 33604, 40 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1952.33</price>
+        <cityprice cityId="615420100">1952.33</cityprice>
+    </offer>
+    <offer sku="11943361">
+      <model>Уровень Stayer  3471-100_z02  100 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5691.7</price>
+        <cityprice cityId="615420100">5691.7</cityprice>
+    </offer>
+    <offer sku="11059541">
+      <model>Уровень Зубр  4-34583-120 120 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5857.97</price>
+        <cityprice cityId="615420100">5857.97</cityprice>
+    </offer>
+    <offer sku="411311">
+      <model>Уровень Зубр 4-34583-080 80 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4252.89</price>
+        <cityprice cityId="615420100">4252.89</cityprice>
+    </offer>
+    <offer sku="411501">
+      <model>Уровень Stayer 3460-040_z03 40 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1965.17</price>
+        <cityprice cityId="615420100">1965.17</cityprice>
+    </offer>
+    <offer sku="412097">
+      <model>Уровень Зубр  4-34583-100 100 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4868.96</price>
+        <cityprice cityId="615420100">4868.96</cityprice>
+    </offer>
+    <offer sku="412103">
+      <model>Уровень Kraftool 34717-040 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8594.79</price>
+        <cityprice cityId="615420100">8594.79</cityprice>
+    </offer>
+    <offer sku="11059535">
+      <model>Уровень РемоКолор 756348 120 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8857.59</price>
+        <cityprice cityId="615420100">8857.59</cityprice>
+    </offer>
+    <offer sku="11059602">
+      <model>Уровень Milwaukee Redcast 4932459099 80 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>209455.3</price>
+        <cityprice cityId="615420100">209455.3</cityprice>
+    </offer>
+    <offer sku="4376884">
+      <model>Уровень алюминиевый, Gross 33674</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24204.51</price>
+        <cityprice cityId="615420100">24204.51</cityprice>
+    </offer>
+    <offer sku="412013">
+      <model>Уровень Stanley XL 0-43-649 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63914.03</price>
+        <cityprice cityId="615420100">63914.03</cityprice>
+    </offer>
+    <offer sku="12680573">
+      <model>Уровень Stanley 1-43-553 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20109.17</price>
+        <cityprice cityId="615420100">20109.17</cityprice>
+    </offer>
+    <offer sku="4377011">
+      <model>Уровень алюминиевый, Matrix 34032, &quot;Рельс&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4277.14</price>
+        <cityprice cityId="615420100">4277.14</cityprice>
+    </offer>
+    <offer sku="4377362">
+      <model>Уровень алюминиевый, Matrix 33608, 80 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3766.33</price>
+        <cityprice cityId="615420100">3766.33</cityprice>
+    </offer>
+    <offer sku="4989367">
+      <model>Уровень алюминиевый Sparta 331205, 400 мм, 3 глазка,</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1504.75</price>
+        <cityprice cityId="615420100">1504.75</cityprice>
+    </offer>
+    <offer sku="411412">
+      <model>Уровень Stanley STHT1-43108 180 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26071.87</price>
+        <cityprice cityId="615420100">26071.87</cityprice>
+    </offer>
+    <offer sku="411834">
+      <model>Уровень Stanley 1-42-920 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15085.09</price>
+        <cityprice cityId="615420100">15085.09</cityprice>
+    </offer>
+    <offer sku="411848">
+      <model>Уровень Stanley 1-42-923 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9368.41</price>
+        <cityprice cityId="615420100">9368.41</cityprice>
+    </offer>
+    <offer sku="411850">
+      <model>Уровень Stanley STHT1-43105 100 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10380.14</price>
+        <cityprice cityId="615420100">10380.14</cityprice>
+    </offer>
+    <offer sku="412010">
+      <model>Уровень Stanley 1-42-461 50 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26153.88</price>
+        <cityprice cityId="615420100">26153.88</cityprice>
+    </offer>
+    <offer sku="411982">
+      <model>Уровень Stanley 1-42-461 50 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68232.66</price>
+        <cityprice cityId="615420100">68232.66</cityprice>
+    </offer>
+    <offer sku="412193">
+      <model>Уровень Вихрь  73/11/4/15 80 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3102.38</price>
+        <cityprice cityId="615420100">3102.38</cityprice>
+    </offer>
+    <offer sku="4377681">
+      <model>Уровень алюминиевый, Matrix 34205, 150 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8346.79</price>
+        <cityprice cityId="615420100">8346.79</cityprice>
+    </offer>
+    <offer sku="411479">
+      <model>Уровень Stanley XTHT1-42138 180 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63456.57</price>
+        <cityprice cityId="615420100">63456.57</cityprice>
+    </offer>
+    <offer sku="11059643">
+      <model>Уровень Stanley STHT1-43117 200 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64058.28</price>
+        <cityprice cityId="615420100">64058.28</cityprice>
+    </offer>
+    <offer sku="12173554">
+      <model>Уровень Stabila 70М 100см 02876</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45441.02</price>
+        <cityprice cityId="615420100">45441.02</cityprice>
+    </offer>
+    <offer sku="3268483">
+      <model>Уровень Stabila Pocket, 7 см 17775</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23661.1</price>
+        <cityprice cityId="615420100">23661.1</cityprice>
+    </offer>
+    <offer sku="3268525">
+      <model>Уровень Stabila Pocket Basic, 7 см 17773</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19145.85</price>
+        <cityprice cityId="615420100">19145.85</cityprice>
+    </offer>
+    <offer sku="12174098">
+      <model>Уровень магнитный Stabila тип 70М 200см 02879</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88843.75</price>
+        <cityprice cityId="615420100">88843.75</cityprice>
+    </offer>
+    <offer sku="3927035">
+      <model>Уровень алюминиевый,Gross 34372,100x23x24</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27875.01</price>
+        <cityprice cityId="615420100">27875.01</cityprice>
+    </offer>
+    <offer sku="3261135">
+      <model>Уровень Matrix алюминиевый магнитный, 400 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5379.77</price>
+        <cityprice cityId="615420100">5379.77</cityprice>
+    </offer>
+    <offer sku="12174009">
+      <model>Уровень маркировочный Stabila тип 70МAS 80см 14111</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49350.61</price>
+        <cityprice cityId="615420100">49350.61</cityprice>
+    </offer>
+    <offer sku="11498387">
+      <model>Уровень Kapro 935 25 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34084.71</price>
+        <cityprice cityId="615420100">34084.71</cityprice>
+    </offer>
+    <offer sku="411518">
+      <model>Уровень Kapro  995-40PM-40 40 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23109.79</price>
+        <cityprice cityId="615420100">23109.79</cityprice>
+    </offer>
+    <offer sku="3927309">
+      <model>Уровень алюминиевый, Gross 34324,алюминиевый сплав,40x60x25 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15347.9</price>
+        <cityprice cityId="615420100">15347.9</cityprice>
+    </offer>
+    <offer sku="4377723">
+      <model>Уровень алюминиевый, Matrix 34310, 120 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8114.61</price>
+        <cityprice cityId="615420100">8114.61</cityprice>
+    </offer>
+    <offer sku="4377538">
+      <model>Уровень алюминиевый, Denzel 33681, 60 см</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15172.04</price>
+        <cityprice cityId="615420100">15172.04</cityprice>
+    </offer>
+    <offer sku="4377549">
+      <model>Уровень алюминиевый, Denzel 33683, 100 см</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17377.3</price>
+        <cityprice cityId="615420100">17377.3</cityprice>
+    </offer>
+    <offer sku="411798">
+      <model>Уровень Milwaukee 4932459080 60 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36106.2</price>
+        <cityprice cityId="615420100">36106.2</cityprice>
+    </offer>
+    <offer sku="411750">
+      <model>Уровень Sparta 330385 180 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48412.98</price>
+        <cityprice cityId="615420100">48412.98</cityprice>
+    </offer>
+    <offer sku="411991">
+      <model>Уровень Gross 33902 80 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12524.14</price>
+        <cityprice cityId="615420100">12524.14</cityprice>
+    </offer>
+    <offer sku="4377631">
+      <model>Уровень алюминиевый, Сибртех 34116, 80 см</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6570.33</price>
+        <cityprice cityId="615420100">6570.33</cityprice>
+    </offer>
+    <offer sku="411210">
+      <model>Уровень РемоКолор 17-1-206 60 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5381.17</price>
+        <cityprice cityId="615420100">5381.17</cityprice>
+    </offer>
+    <offer sku="411268">
+      <model>Уровень РемоКолор 17-1-204 40 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4410.8</price>
+        <cityprice cityId="615420100">4410.8</cityprice>
+    </offer>
+    <offer sku="411446">
+      <model>Уровень РемоКолор 17-1-215 150 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23218.47</price>
+        <cityprice cityId="615420100">23218.47</cityprice>
+    </offer>
+    <offer sku="3927207">
+      <model>Уровень алюминиевый,Matrix 34304,алюминиевый сплав,40x55.25 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6168.21</price>
+        <cityprice cityId="615420100">6168.21</cityprice>
+    </offer>
+    <offer sku="3927093">
+      <model>Уровень алюминиевый,Gross 34371,81x26x3 см.алюминий</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25404.96</price>
+        <cityprice cityId="615420100">25404.96</cityprice>
+    </offer>
+    <offer sku="411679">
+      <model>Уровень Stanley 0-43-679 200 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84393.7</price>
+        <cityprice cityId="615420100">84393.7</cityprice>
+    </offer>
+    <offer sku="411811">
+      <model>Уровень Milwaukee Block Torpedo 4932459096 25 см</model>
+      <brand>Milwaukee</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195052.93</price>
+        <cityprice cityId="615420100">195052.93</cityprice>
+    </offer>
+    <offer sku="411822">
+      <model>Уровень Ingco HSL38060M 60 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11110.28</price>
+        <cityprice cityId="615420100">11110.28</cityprice>
+    </offer>
+    <offer sku="411836">
+      <model>Уровень Ingco HSL38150M 150 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18619.24</price>
+        <cityprice cityId="615420100">18619.24</cityprice>
+    </offer>
+    <offer sku="411839">
+      <model>Уровень Ingco HMSL03101 100 см</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6763</price>
+        <cityprice cityId="615420100">6763</cityprice>
+    </offer>
+    <offer sku="11059636">
+      <model>Уровень Matrix 34706 60 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4552.92</price>
+        <cityprice cityId="615420100">4552.92</cityprice>
+    </offer>
+    <offer sku="3927116">
+      <model>Уровень Matrix 34360 40 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4053.85</price>
+        <cityprice cityId="615420100">4053.85</cityprice>
+    </offer>
+    <offer sku="11750642">
+      <model>Уровень Stayer 3470-120_z01 120  см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4291.71</price>
+        <cityprice cityId="615420100">4291.71</cityprice>
+    </offer>
+    <offer sku="411321">
+      <model>Уровень Зубр 34585-040 40 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2708.16</price>
+        <cityprice cityId="615420100">2708.16</cityprice>
+    </offer>
+    <offer sku="411499">
+      <model>Уровень Stayer 3460-080 z01(2)03 80 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2725.95</price>
+        <cityprice cityId="615420100">2725.95</cityprice>
+    </offer>
+    <offer sku="11059435">
+      <model>Уровень Зубр  34740 50 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6515</price>
+        <cityprice cityId="615420100">6515</cityprice>
+    </offer>
+    <offer sku="11059463">
+      <model>Уровень Зубр 4-34584-060 60 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2227.99</price>
+        <cityprice cityId="615420100">2227.99</cityprice>
+    </offer>
+    <offer sku="11059519">
+      <model>Уровень Сибин 10725-1.5 150 см</model>
+      <brand>Сибин</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3183.4</price>
+        <cityprice cityId="615420100">3183.4</cityprice>
+    </offer>
+    <offer sku="11059699">
+      <model>Уровень Зубр  34584-080 80 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2848.46</price>
+        <cityprice cityId="615420100">2848.46</cityprice>
+    </offer>
+    <offer sku="11059743">
+      <model>Уровень Зубр 34588-120 120 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2964.06</price>
+        <cityprice cityId="615420100">2964.06</cityprice>
+    </offer>
+    <offer sku="10682687">
+      <model>Уровень Зубр 4 - 34583 - 150, 150 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7706.56</price>
+        <cityprice cityId="615420100">7706.56</cityprice>
+    </offer>
+    <offer sku="11059683">
+      <model>Уровень Stanley 1-42-322 150 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164089.37</price>
+        <cityprice cityId="615420100">164089.37</cityprice>
+    </offer>
+    <offer sku="411380">
+      <model>Уровень Stanley 1-43-524 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22180.06</price>
+        <cityprice cityId="615420100">22180.06</cityprice>
+    </offer>
+    <offer sku="411477">
+      <model>Уровень Stanley 1-42-311 30 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26070.88</price>
+        <cityprice cityId="615420100">26070.88</cityprice>
+    </offer>
+    <offer sku="411660">
+      <model>Уровень Stanley STHT1-43106 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165507.18</price>
+        <cityprice cityId="615420100">165507.18</cityprice>
+    </offer>
+    <offer sku="411994">
+      <model>Уровень Stanley STHT1-43110 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14990.24</price>
+        <cityprice cityId="615420100">14990.24</cityprice>
+    </offer>
+    <offer sku="11059555">
+      <model>Уровень Stanley 1-43-556 120 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26053.1</price>
+        <cityprice cityId="615420100">26053.1</cityprice>
+    </offer>
+    <offer sku="411423">
+      <model>Уровень Вихрь 73/11/4/16 100 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3670.49</price>
+        <cityprice cityId="615420100">3670.49</cityprice>
+    </offer>
+    <offer sku="411956">
+      <model>Уровень Вихрь 73/11/4/20 100 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5263.84</price>
+        <cityprice cityId="615420100">5263.84</cityprice>
+    </offer>
+    <offer sku="411954">
+      <model>Уровень Stanley XTHT1-42139 200 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81523.51</price>
+        <cityprice cityId="615420100">81523.51</cityprice>
+    </offer>
+    <offer sku="11059656">
+      <model>Уровень Stanley XTHT1-42132 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54713.58</price>
+        <cityprice cityId="615420100">54713.58</cityprice>
+    </offer>
+    <offer sku="12174276">
+      <model>Уровень Stabila тип 96-2 80см 15227</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43867.1</price>
+        <cityprice cityId="615420100">43867.1</cityprice>
+    </offer>
+    <offer sku="4377639">
+      <model>Уровень алюминиевый, Сибртех 34119, 150 см</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5234.53</price>
+        <cityprice cityId="615420100">5234.53</cityprice>
+    </offer>
+    <offer sku="12174008">
+      <model>Уровень Stabila Torpedo тип 81SV REM W360 25см 16670</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58610.33</price>
+        <cityprice cityId="615420100">58610.33</cityprice>
+    </offer>
+    <offer sku="411182">
+      <model>Уровень Stabila 96-2 K 16403 80 см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51766.32</price>
+        <cityprice cityId="615420100">51766.32</cityprice>
+    </offer>
+    <offer sku="4377188">
+      <model>Уровень алюминиевый, Gross 33904, 120 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15436.82</price>
+        <cityprice cityId="615420100">15436.82</cityprice>
+    </offer>
+    <offer sku="3927251">
+      <model>Уровень алюминиевый, Matrix 34412, алюминиевый сплав, 120 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2167.72</price>
+        <cityprice cityId="615420100">2167.72</cityprice>
+    </offer>
+    <offer sku="4377062">
+      <model>Уровень алюминиевый Matrix 33223</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2160.8</price>
+        <cityprice cityId="615420100">2160.8</cityprice>
+    </offer>
+    <offer sku="4377627">
+      <model>Уровень алюминиевый Сибртех 34104, 120 см</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4325.55</price>
+        <cityprice cityId="615420100">4325.55</cityprice>
+    </offer>
+    <offer sku="4377671">
+      <model>Уровень алюминиевый, Matrix 34204, 120 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6242.31</price>
+        <cityprice cityId="615420100">6242.31</cityprice>
+    </offer>
+    <offer sku="4377733">
+      <model>Уровень алюминиевый, Sparta 35112, 120 СМ</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2437.45</price>
+        <cityprice cityId="615420100">2437.45</cityprice>
+    </offer>
+    <offer sku="411198">
+      <model>Уровень Kraftool  34781-60 60 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6557.49</price>
+        <cityprice cityId="615420100">6557.49</cityprice>
+    </offer>
+    <offer sku="412094">
+      <model>Уровень Kraftool  34717-080 80 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15003.08</price>
+        <cityprice cityId="615420100">15003.08</cityprice>
+    </offer>
+    <offer sku="411857">
+      <model>Уровень Stanley XL 0-43-636 90 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58312.94</price>
+        <cityprice cityId="615420100">58312.94</cityprice>
+    </offer>
+    <offer sku="4377725">
+      <model>Уровень алюминиевый, Sparta 35108, 80 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9138.2</price>
+        <cityprice cityId="615420100">9138.2</cityprice>
+    </offer>
+    <offer sku="411355">
+      <model>Уровень Stabila 19169 120 см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16843.08</price>
+        <cityprice cityId="615420100">16843.08</cityprice>
+    </offer>
+    <offer sku="411804">
+      <model>Уровень Stabila 16063 40 см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21054.71</price>
+        <cityprice cityId="615420100">21054.71</cityprice>
+    </offer>
+    <offer sku="11059533">
+      <model>Уровень Patriot LRP-1200 350005554 120 см</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15017.9</price>
+        <cityprice cityId="615420100">15017.9</cityprice>
+    </offer>
+    <offer sku="411651">
+      <model>Уровень Stabila 19174 150 см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32061.25</price>
+        <cityprice cityId="615420100">32061.25</cityprice>
+    </offer>
+    <offer sku="411796">
+      <model>Уровень Stabila 16882 100 см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37777.93</price>
+        <cityprice cityId="615420100">37777.93</cityprice>
+    </offer>
+    <offer sku="12173893">
+      <model>Уровень Stabila тип 70 100см 02288</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24699.51</price>
+        <cityprice cityId="615420100">24699.51</cityprice>
+    </offer>
+    <offer sku="12174070">
+      <model>Уровень Hobbi 17-1-204 40см</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12330.49</price>
+        <cityprice cityId="615420100">12330.49</cityprice>
+    </offer>
+    <offer sku="12174074">
+      <model>Уровень Hobbi 17-1-206 60 см</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12912.43</price>
+        <cityprice cityId="615420100">12912.43</cityprice>
+    </offer>
+    <offer sku="12174273">
+      <model>Уровень Stabila тип 80AS-2 60см 19170</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29146.59</price>
+        <cityprice cityId="615420100">29146.59</cityprice>
+    </offer>
+    <offer sku="3271851">
+      <model>Уровень Matrix алюминиевый магнитный, 1000 мм</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8133.51</price>
+        <cityprice cityId="615420100">8133.51</cityprice>
+    </offer>
+    <offer sku="4377582">
+      <model>Уровень алюминиевый, Sparta 34052, 120 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34315.91</price>
+        <cityprice cityId="615420100">34315.91</cityprice>
+    </offer>
+    <offer sku="3927501">
+      <model>Уровень алюминиевый, Gross 34442, алюминий, 100  см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10937.38</price>
+        <cityprice cityId="615420100">10937.38</cityprice>
+    </offer>
+    <offer sku="4377529">
+      <model>Уровень алюминиевый, Gross 33670, 40 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16230.2</price>
+        <cityprice cityId="615420100">16230.2</cityprice>
+    </offer>
+    <offer sku="11059724">
+      <model>Уровень Gross 34372 100 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24389.09</price>
+        <cityprice cityId="615420100">24389.09</cityprice>
+    </offer>
+    <offer sku="11059391">
+      <model>Уровень РемоКолор 132253 200 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12787.79</price>
+        <cityprice cityId="615420100">12787.79</cityprice>
+    </offer>
+    <offer sku="4377125">
+      <model>Уровень алюминиевый, Сибртех 34113, 40 см</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3513.4</price>
+        <cityprice cityId="615420100">3513.4</cityprice>
+    </offer>
+    <offer sku="411632">
+      <model>Уровень РемоКолор 441555 150 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8633.69</price>
+        <cityprice cityId="615420100">8633.69</cityprice>
+    </offer>
+    <offer sku="4377471">
+      <model>Уровень алюминиевый, Matrix 33610, 100 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4164.5</price>
+        <cityprice cityId="615420100">4164.5</cityprice>
+    </offer>
+    <offer sku="3927173">
+      <model>Уровень алюминиевый &quot;Рельс&quot;,Sparta 34044,алюминиевый сплав,40x57x23 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2144.99</price>
+        <cityprice cityId="615420100">2144.99</cityprice>
+    </offer>
+    <offer sku="411752">
+      <model>Уровень Total TMT210026 100 см</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6946.13</price>
+        <cityprice cityId="615420100">6946.13</cityprice>
+    </offer>
+    <offer sku="412020">
+      <model>Уровень Sparta 330295 100 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2902.8</price>
+        <cityprice cityId="615420100">2902.8</cityprice>
+    </offer>
+    <offer sku="412051">
+      <model>Уровень Sparta 330415 200 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2793.13</price>
+        <cityprice cityId="615420100">2793.13</cityprice>
+    </offer>
+    <offer sku="412027">
+      <model>Уровень Stanley STHT1-43116 180 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30862.78</price>
+        <cityprice cityId="615420100">30862.78</cityprice>
+    </offer>
+    <offer sku="11059682">
+      <model>Уровень Sparta 331325 120 см</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8113.62</price>
+        <cityprice cityId="615420100">8113.62</cityprice>
+    </offer>
+    <offer sku="411867">
+      <model>Уровень Ingco HSL28060 60 cм</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7059.4</price>
+        <cityprice cityId="615420100">7059.4</cityprice>
+    </offer>
+    <offer sku="411313">
+      <model>Уровень Kapro 779-40-80 80 см</model>
+      <brand>Kapro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14110.9</price>
+        <cityprice cityId="615420100">14110.9</cityprice>
+    </offer>
+    <offer sku="411217">
+      <model>Уровень Сибин 10725-2.0 200 см</model>
+      <brand>Сибин</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3985.67</price>
+        <cityprice cityId="615420100">3985.67</cityprice>
+    </offer>
+    <offer sku="411304">
+      <model>Уровень Зубр  34585-100 100 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4579.47</price>
+        <cityprice cityId="615420100">4579.47</cityprice>
+    </offer>
+    <offer sku="411826">
+      <model>Уровень Зубр  Мастер 34585-200 200 см</model>
+      <brand>ЗУБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6448.59</price>
+        <cityprice cityId="615420100">6448.59</cityprice>
+    </offer>
+    <offer sku="412121">
+      <model>Уровень Stayer 3460-100 100 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2813.88</price>
+        <cityprice cityId="615420100">2813.88</cityprice>
+    </offer>
+    <offer sku="411870">
+      <model>Уровень Stanley  STHT1-43111 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27843.39</price>
+        <cityprice cityId="615420100">27843.39</cityprice>
+    </offer>
+    <offer sku="411879">
+      <model>Уровень Stanley  STHT1-43102 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15096.95</price>
+        <cityprice cityId="615420100">15096.95</cityprice>
+    </offer>
+    <offer sku="411974">
+      <model>Уровень Stanley 1-42-312 40 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91898.7</price>
+        <cityprice cityId="615420100">91898.7</cityprice>
+    </offer>
+    <offer sku="11059574">
+      <model>Уровень Stanley XTHT1-42140 180 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65739.89</price>
+        <cityprice cityId="615420100">65739.89</cityprice>
+    </offer>
+    <offer sku="411442">
+      <model>Уровень РемоКолор 17-0-104 40 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5026.06</price>
+        <cityprice cityId="615420100">5026.06</cityprice>
+    </offer>
+    <offer sku="411448">
+      <model>Уровень РемоКолор 17-0-106 60 см</model>
+      <brand>РемоКолор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6613.81</price>
+        <cityprice cityId="615420100">6613.81</cityprice>
+    </offer>
+    <offer sku="412129">
+      <model>Уровень Вихрь 73/11/4/10 60 см</model>
+      <brand>ВИХРЬ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6403.36</price>
+        <cityprice cityId="615420100">6403.36</cityprice>
+    </offer>
+    <offer sku="4377027">
+      <model>Уровень алюминиевый, Matrix 34006, &quot;Рельс&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4307.77</price>
+        <cityprice cityId="615420100">4307.77</cityprice>
+    </offer>
+    <offer sku="4377059">
+      <model>Уровень алюминиевый, Matrix 34012, &quot;Рельс&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7513.89</price>
+        <cityprice cityId="615420100">7513.89</cityprice>
+    </offer>
+    <offer sku="4377079">
+      <model>Уровень алюминиевый, Matrix 34020, &quot;Рельс&quot;</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2207.24</price>
+        <cityprice cityId="615420100">2207.24</cityprice>
+    </offer>
+    <offer sku="4377318">
+      <model>Уровень алюминиевый, Matrix 33606, 60 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2615.29</price>
+        <cityprice cityId="615420100">2615.29</cityprice>
+    </offer>
+    <offer sku="4377637">
+      <model>Уровень алюминиевый, Сибртех 34118</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4148.7</price>
+        <cityprice cityId="615420100">4148.7</cityprice>
+    </offer>
+    <offer sku="11059728">
+      <model>Уровень Gross 34370 60 см</model>
+      <brand>Gross</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16049.4</price>
+        <cityprice cityId="615420100">16049.4</cityprice>
+    </offer>
+    <offer sku="412078">
+      <model>Уровень Kraftool 34781-40 40 см</model>
+      <brand>Kraftool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4552.83</price>
+        <cityprice cityId="615420100">4552.83</cityprice>
+    </offer>
+    <offer sku="411853">
+      <model>Уровень Stanley Fatmax XL 0-43-624 60 см</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22347.04</price>
+        <cityprice cityId="615420100">22347.04</cityprice>
+    </offer>
+    <offer sku="4377693">
+      <model>Уровень алюминиевый, Matrix 34206, 200 см</model>
+      <brand>Matrix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11155.73</price>
+        <cityprice cityId="615420100">11155.73</cityprice>
+    </offer>
+    <offer sku="4377534">
+      <model>Уровень алюминиевый, Denzel 33680, 40 см</model>
+      <brand>Denzel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13495.37</price>
+        <cityprice cityId="615420100">13495.37</cityprice>
+    </offer>
+    <offer sku="12174045">
+      <model>Уровень Stabila тип R300 122см 18374</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77063.58</price>
+        <cityprice cityId="615420100">77063.58</cityprice>
+    </offer>
+    <offer sku="12174289">
+      <model>Уровень Stabila тип R300 200см 18450</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77717.65</price>
+        <cityprice cityId="615420100">77717.65</cityprice>
+    </offer>
+    <offer sku="4377815">
+      <model>Уровень алюминиевый Sparta 35118</model>
+      <brand>Sparta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1276.52</price>
+        <cityprice cityId="615420100">1276.52</cityprice>
+    </offer>
+    <offer sku="411212">
+      <model>Уровень Stayer 729098 40 см</model>
+      <brand>STAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3024.92</price>
+        <cityprice cityId="615420100">3024.92</cityprice>
+    </offer>
+    <offer sku="3331516">
+      <model>Уровень Stabila Type 70 02286 80см</model>
+      <brand>Stabila</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15411.14</price>
+        <cityprice cityId="615420100">15411.14</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
