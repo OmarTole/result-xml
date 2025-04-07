@@ -28128,5 +28128,2768 @@
       <price>59257.49</price>
         <cityprice cityId="615420100">59257.49</cityprice>
     </offer>
+    <offer sku="12305633">
+      <model>Настольная лампа Xiaomi Yeelight YLTD11YL красная</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14023.96</price>
+        <cityprice cityId="615420100">14023.96</cityprice>
+    </offer>
+    <offer sku="12305693">
+      <model>Настольная лампа Lanbos DY 310/B</model>
+      <brand>Lanbos</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9399.03</price>
+        <cityprice cityId="615420100">9399.03</cityprice>
+    </offer>
+    <offer sku="12282736">
+      <model>Настольная лампа Eco 108B-BL голубая</model>
+      <brand>Eco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2288.25</price>
+        <cityprice cityId="615420100">2288.25</cityprice>
+    </offer>
+    <offer sku="12284773">
+      <model>Настольная лампа IKEA Лампан 70484080</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9945.41</price>
+        <cityprice cityId="615420100">9945.41</cityprice>
+    </offer>
+    <offer sku="317197">
+      <model>Ночник Эра NN-603-LS-W белый</model>
+      <brand>Эра</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3655.67</price>
+        <cityprice cityId="615420100">3655.67</cityprice>
+    </offer>
+    <offer sku="136432">
+      <model>Ночник Эра NLED-467-1W-W белый котик</model>
+      <brand>Эра</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12843.27</price>
+        <cityprice cityId="615420100">12843.27</cityprice>
+    </offer>
+    <offer sku="11939971">
+      <model>Ночник Rombica LED Bunny DL-A006</model>
+      <brand>Rombica</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8636.28</price>
+        <cityprice cityId="615420100">8636.28</cityprice>
+    </offer>
+    <offer sku="175272">
+      <model>Прожектор светодиодный уличный ЭРА LPR-023-0-65K-300 300Вт 6500К 24000Лм IP65</model>
+      <brand>Эра</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45872.36</price>
+        <cityprice cityId="615420100">45872.36</cityprice>
+    </offer>
+    <offer sku="12716916">
+      <model>Светодиодный прожектор Led Favourite cob 500w 85 -245v В2</model>
+      <brand>Led Favourite</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27595.4</price>
+        <cityprice cityId="615420100">27595.4</cityprice>
+    </offer>
+    <offer sku="149839">
+      <model>Прожектор светодиодный Neox ДДО-SPFL 1000 Вт. ,5 К</model>
+      <brand>Neox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>383651.69</price>
+        <cityprice cityId="615420100">383651.69</cityprice>
+    </offer>
+    <offer sku="111696">
+      <model>Светодиодный прожектор Megalight LED Arena, 500 Вт 5000К IP65</model>
+      <brand>MEGALIGHT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>66147.94</price>
+        <cityprice cityId="615420100">66147.94</cityprice>
+    </offer>
+    <offer sku="747213">
+      <model>Светодиодный прожектор Megalight LED Arena, 600 Вт 5000К IP65</model>
+      <brand>MEGALIGHT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>187723.8</price>
+        <cityprice cityId="615420100">187723.8</cityprice>
+    </offer>
+    <offer sku="12338306">
+      <model>Прожектор ПромЛед Плазма 500 D Box 5000К 90°</model>
+      <brand>ПромЛед</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484129.8</price>
+        <cityprice cityId="615420100">484129.8</cityprice>
+    </offer>
+    <offer sku="10746573">
+      <model>Блюдо Блэк Әдемі ТЕ1-5</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79288.6</price>
+        <cityprice cityId="615420100">79288.6</cityprice>
+    </offer>
+    <offer sku="10744971">
+      <model>Блюдо Блэк Тегеш Әдемі ТЕ1 2 л</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49736.06</price>
+        <cityprice cityId="615420100">49736.06</cityprice>
+    </offer>
+    <offer sku="10751762">
+      <model>Блюдо Блэк Тегеш Әдемі ТЕ1 6 л</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94701.72</price>
+        <cityprice cityId="615420100">94701.72</cityprice>
+    </offer>
+    <offer sku="10748005">
+      <model>Блюдо Блэк Тегеш Әдемі ТЕ1 4 л</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83216.67</price>
+        <cityprice cityId="615420100">83216.67</cityprice>
+    </offer>
+    <offer sku="10748692">
+      <model>Блюдо Блэк Астау Қошқар А0.1 65x22-23 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23438.26</price>
+        <cityprice cityId="615420100">23438.26</cityprice>
+    </offer>
+    <offer sku="10747981">
+      <model>Блюдо Блэк Астау Қошқар А0.1 55х22-23 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30527.92</price>
+        <cityprice cityId="615420100">30527.92</cityprice>
+    </offer>
+    <offer sku="10748691">
+      <model>Блюдо Блэк Қошқар А0.1-4521М 45х20-21 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60229.7</price>
+        <cityprice cityId="615420100">60229.7</cityprice>
+    </offer>
+    <offer sku="10747984">
+      <model>Блюдо Блэк Астау Қайнар А2.1 55х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24128.5</price>
+        <cityprice cityId="615420100">24128.5</cityprice>
+    </offer>
+    <offer sku="10747982">
+      <model>Блюдо Блэк Астау Қайнар А2.1 45х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13390.48</price>
+        <cityprice cityId="615420100">13390.48</cityprice>
+    </offer>
+    <offer sku="10748602">
+      <model>Блюдо Блэк Астау Қайнар А2.1 75x28-30 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42054.77</price>
+        <cityprice cityId="615420100">42054.77</cityprice>
+    </offer>
+    <offer sku="10747975">
+      <model>Блюдо Блэк Астау Қайнар Эксклюзив А2.3 65х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46777.93</price>
+        <cityprice cityId="615420100">46777.93</cityprice>
+    </offer>
+    <offer sku="10748613">
+      <model>Блюдо Блэк Астау Қайнар А2.1 65x24-25 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45844.13</price>
+        <cityprice cityId="615420100">45844.13</cityprice>
+    </offer>
+    <offer sku="10747985">
+      <model>Блюдо Блэк Астау Қайнар А2.1 65х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26133.13</price>
+        <cityprice cityId="615420100">26133.13</cityprice>
+    </offer>
+    <offer sku="10750982">
+      <model>Менажница AyServis Этажерка 2х ярусная</model>
+      <brand>AyServis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15709.52</price>
+        <cityprice cityId="615420100">15709.52</cityprice>
+    </offer>
+    <offer sku="10747153">
+      <model>Этажерка Carlsbad Лист 3-х ярусная бежевая</model>
+      <brand>Carlsbad</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25194.51</price>
+        <cityprice cityId="615420100">25194.51</cityprice>
+    </offer>
+    <offer sku="10746011">
+      <model>Этажерка Agness 925-123 2-х ярусная черная</model>
+      <brand>Agness</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16596.76</price>
+        <cityprice cityId="615420100">16596.76</cityprice>
+    </offer>
+    <offer sku="10751007">
+      <model>Этажерка Rcr 26374020006 2 яруса</model>
+      <brand>RCR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1206696.49</price>
+        <cityprice cityId="615420100">1206696.49</cityprice>
+    </offer>
+    <offer sku="10960354">
+      <model>Блюдо для яиц Lefard Sunday 85-1664 25 см</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12567.61</price>
+        <cityprice cityId="615420100">12567.61</cityprice>
+    </offer>
+    <offer sku="10989642">
+      <model>Блюдо для яиц Lefard Sunday 85-1805 22 см</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>653027.87</price>
+        <cityprice cityId="615420100">653027.87</cityprice>
+    </offer>
+    <offer sku="10751549">
+      <model>Менажница Elan gallery Яблоко 25 см 4 секции + подставка</model>
+      <brand>Elan gallery</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12817.58</price>
+        <cityprice cityId="615420100">12817.58</cityprice>
+    </offer>
+    <offer sku="10750103">
+      <model>Салатник Oursson Зеленое яблоко 22.3 см 6 предметов</model>
+      <brand>Oursson</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>865174.53</price>
+        <cityprice cityId="615420100">865174.53</cityprice>
+    </offer>
+    <offer sku="10749286">
+      <model>Этажерка Maxwell &amp; Williams Лилия MW580-AY0079 24 см</model>
+      <brand>MAXWELL &amp; WILLIAMS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>440641.11</price>
+        <cityprice cityId="615420100">440641.11</cityprice>
+    </offer>
+    <offer sku="11145327">
+      <model>Этажерка Bronco Glow 336-144 28/21 см</model>
+      <brand>Bronco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1526098.66</price>
+        <cityprice cityId="615420100">1526098.66</cityprice>
+    </offer>
+    <offer sku="10751543">
+      <model>Этажерка Акку 8008 А</model>
+      <brand>АККУ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13982.1</price>
+        <cityprice cityId="615420100">13982.1</cityprice>
+    </offer>
+    <offer sku="10989404">
+      <model>Этажерка Agness 339-209  21/28 см</model>
+      <brand>Agness</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17226.19</price>
+        <cityprice cityId="615420100">17226.19</cityprice>
+    </offer>
+    <offer sku="11839078">
+      <model>Этажерка Lefard 198-268 18/25 см</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1532337.01</price>
+        <cityprice cityId="615420100">1532337.01</cityprice>
+    </offer>
+    <offer sku="10748065">
+      <model>Этажерка Jihlava Bohemia 65J01-93K52-305/3</model>
+      <brand>Jihlava Bohemia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89918.61</price>
+        <cityprice cityId="615420100">89918.61</cityprice>
+    </offer>
+    <offer sku="10751544">
+      <model>Этажерка Акку Алтынай 7003 А</model>
+      <brand>АККУ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20775.95</price>
+        <cityprice cityId="615420100">20775.95</cityprice>
+    </offer>
+    <offer sku="10988774">
+      <model>Этажерка Thun 1794 Nov0002 27 см</model>
+      <brand>Thun 1794</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>581174.11</price>
+        <cityprice cityId="615420100">581174.11</cityprice>
+    </offer>
+    <offer sku="10744792">
+      <model>Этажерка Jihlava Bohemia 65J01-93K52-305/2</model>
+      <brand>Jihlava Bohemia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75419.11</price>
+        <cityprice cityId="615420100">75419.11</cityprice>
+    </offer>
+    <offer sku="10751018">
+      <model>Этажерка Арти М Muza Crystal 18/30 см</model>
+      <brand>Арти М</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>942666.92</price>
+        <cityprice cityId="615420100">942666.92</cityprice>
+    </offer>
+    <offer sku="10961488">
+      <model>Этажерка Bronco 474-167 24х20 см</model>
+      <brand>Bronco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1532034.68</price>
+        <cityprice cityId="615420100">1532034.68</cityprice>
+    </offer>
+    <offer sku="10748105">
+      <model>Этажерка Ikea Гарнера 00372571</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>653380.59</price>
+        <cityprice cityId="615420100">653380.59</cityprice>
+    </offer>
+    <offer sku="10751849">
+      <model>Этажерка Подставка для салатников Pintinox</model>
+      <brand>Pintinox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44263.3</price>
+        <cityprice cityId="615420100">44263.3</cityprice>
+    </offer>
+    <offer sku="10748130">
+      <model>Этажерка Ikea Квиттера 40432158 белая</model>
+      <brand>IKEA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12820.55</price>
+        <cityprice cityId="615420100">12820.55</cityprice>
+    </offer>
+    <offer sku="10747604">
+      <model>Салатник Эстет Повара ЭТ-71471 2 л + крышка</model>
+      <brand>ЭСТЕТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>653027.87</price>
+        <cityprice cityId="615420100">653027.87</cityprice>
+    </offer>
+    <offer sku="10749270">
+      <model>Блюдо Leander Мэри-Энн Незабудки 03114913-0887</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>506401.75</price>
+        <cityprice cityId="615420100">506401.75</cityprice>
+    </offer>
+    <offer sku="10750974">
+      <model>Фруктовница Leander Мэри-Энн 03116154-0431 23 см</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98797.06</price>
+        <cityprice cityId="615420100">98797.06</cityprice>
+    </offer>
+    <offer sku="10747678">
+      <model>Блюдо Leander Мэри-Энн Окантовка с пасторалью 03111726-0179 23 см</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1531846.96</price>
+        <cityprice cityId="615420100">1531846.96</cityprice>
+    </offer>
+    <offer sku="10748818">
+      <model>Салатник Leander Мэри-Энн Зелень и золото 03161416-1381 7 предметов</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2411184.76</price>
+        <cityprice cityId="615420100">2411184.76</cityprice>
+    </offer>
+    <offer sku="10748825">
+      <model>Салатник Leander Мэри-Энн Темно-синий 03161416-0431 7 предметов</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2411267.75</price>
+        <cityprice cityId="615420100">2411267.75</cityprice>
+    </offer>
+    <offer sku="10749282">
+      <model>Блюдо Leander Мэри-Энн Лесная сказка 03114913-0363</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1385642.72</price>
+        <cityprice cityId="615420100">1385642.72</cityprice>
+    </offer>
+    <offer sku="10749341">
+      <model>Салатник Leander Мэри-Энн Лесная сказка 03161416-0363 7 предметов</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4463469.27</price>
+        <cityprice cityId="615420100">4463469.27</cityprice>
+    </offer>
+    <offer sku="10749350">
+      <model>Блюдо Leander Мэри-Энн Гжель 03111512-0055 32 см</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1531946.75</price>
+        <cityprice cityId="615420100">1531946.75</cityprice>
+    </offer>
+    <offer sku="10747179">
+      <model>Блюдо Leander Мэри-Энн Окантовка с пасторалью 03112816-0179 33 см</model>
+      <brand>LEANDER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1825025.1</price>
+        <cityprice cityId="615420100">1825025.1</cityprice>
+    </offer>
+    <offer sku="10747752">
+      <model>Блюдо Блэк Астау Ою Эксклюзив А3.3 65x24-25 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54830.17</price>
+        <cityprice cityId="615420100">54830.17</cityprice>
+    </offer>
+    <offer sku="10744796">
+      <model>Блюдо Блэк Астау ОЮ Эксклюзив А3.3 45х28-30 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67927.54</price>
+        <cityprice cityId="615420100">67927.54</cityprice>
+    </offer>
+    <offer sku="10747751">
+      <model>Блюдо Умай Астау Ою эксклюзив 34x75x7 см</model>
+      <brand>Умай</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82308.98</price>
+        <cityprice cityId="615420100">82308.98</cityprice>
+    </offer>
+    <offer sku="10747750">
+      <model>Блюдо Умай Астау Ою эксклюзив 20x45x7 см</model>
+      <brand>Умай</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82783.23</price>
+        <cityprice cityId="615420100">82783.23</cityprice>
+    </offer>
+    <offer sku="10751789">
+      <model>Блюдо Умай Астау Кошкар эксклюзив 20x45x7 см</model>
+      <brand>Умай</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41496.84</price>
+        <cityprice cityId="615420100">41496.84</cityprice>
+    </offer>
+    <offer sku="10748709">
+      <model>Блюдо Блэк Астау Ою Эксклюзив А3.3 75x28-30 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>99532.75</price>
+        <cityprice cityId="615420100">99532.75</cityprice>
+    </offer>
+    <offer sku="10747755">
+      <model>Блюдо Блэк Астау Ою Эксклюзив А3.3 55х28-30 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45890.49</price>
+        <cityprice cityId="615420100">45890.49</cityprice>
+    </offer>
+    <offer sku="10747971">
+      <model>Блюдо Блэк Астау Ою Эксклюзив А3.3 65 28-30 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63100.95</price>
+        <cityprice cityId="615420100">63100.95</cityprice>
+    </offer>
+    <offer sku="10748728">
+      <model>Блюдо Умай Астау Ою эксклюзив 36x75x7 см</model>
+      <brand>Умай</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82802.99</price>
+        <cityprice cityId="615420100">82802.99</cityprice>
+    </offer>
+    <offer sku="10744868">
+      <model>Блюдо Блэк Астау ОЮ Эксклюзив А3.3 50x37-40 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51609.54</price>
+        <cityprice cityId="615420100">51609.54</cityprice>
+    </offer>
+    <offer sku="10747983">
+      <model>Блюдо Блэк Астау Ою Эксклюзив А3.3 55х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56332.69</price>
+        <cityprice cityId="615420100">56332.69</cityprice>
+    </offer>
+    <offer sku="10744783">
+      <model>Блюдо Lefard Парадиз 189-212 6 шт</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>500000.37</price>
+        <cityprice cityId="615420100">500000.37</cityprice>
+    </offer>
+    <offer sku="10747180">
+      <model>Салатник Crystalite Bohemia Neptune 9K7/6KD68/0/99S39/130 13 см 6 шт</model>
+      <brand>Crystalite Bohemia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95762.85</price>
+        <cityprice cityId="615420100">95762.85</cityprice>
+    </offer>
+    <offer sku="10793344">
+      <model>Астау Assyl Qazyna &quot;Той Думан&quot;, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42356.42</price>
+        <cityprice cityId="615420100">42356.42</cityprice>
+    </offer>
+    <offer sku="10793823">
+      <model>Набор астау и бас табак Assyl Qazyna &quot;От басы&quot;, 4 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61553.65</price>
+        <cityprice cityId="615420100">61553.65</cityprice>
+    </offer>
+    <offer sku="10793824">
+      <model>Набор астау домалак Assyl Qazyna &quot;Береке&quot; 40 см, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37914.28</price>
+        <cityprice cityId="615420100">37914.28</cityprice>
+    </offer>
+    <offer sku="10793848">
+      <model>Набор астау и мини астау Assyl Qazyna &quot;От басы&quot;, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39718.4</price>
+        <cityprice cityId="615420100">39718.4</cityprice>
+    </offer>
+    <offer sku="10793815">
+      <model>Набор астау и бас табак Assyl Qazyna &quot;От басы&quot;, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51905.35</price>
+        <cityprice cityId="615420100">51905.35</cityprice>
+    </offer>
+    <offer sku="10793798">
+      <model>Астау Assyl Qazyna &quot;От басы&quot;, 65х29х4 см, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69131.76</price>
+        <cityprice cityId="615420100">69131.76</cityprice>
+    </offer>
+    <offer sku="10793819">
+      <model>Набор астау Assyl Qazyna &quot;Береке&quot;, 5 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>89022.58</price>
+        <cityprice cityId="615420100">89022.58</cityprice>
+    </offer>
+    <offer sku="10793854">
+      <model>Набор Астау и Бас табак Assyl Qazyna &quot;Мереке&quot;, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49834.66</price>
+        <cityprice cityId="615420100">49834.66</cityprice>
+    </offer>
+    <offer sku="10793856">
+      <model>Набор Астау и Бас табак Assyl Qazyna &quot;Мереке&quot;, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51313.73</price>
+        <cityprice cityId="615420100">51313.73</cityprice>
+    </offer>
+    <offer sku="10793822">
+      <model>Набор астау и мини астау Assyl Qazyna &quot;Алатау&quot;, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114128.38</price>
+        <cityprice cityId="615420100">114128.38</cityprice>
+    </offer>
+    <offer sku="10747190">
+      <model>Блюдо Elan gallery 2 пр. 20 см 160 мл Лепестки 2 шт.</model>
+      <brand>Elan gallery</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15155.5</price>
+        <cityprice cityId="615420100">15155.5</cityprice>
+    </offer>
+    <offer sku="10748067">
+      <model>Салатник Lefard Люция 264-886 6 шт</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>481020.5</price>
+        <cityprice cityId="615420100">481020.5</cityprice>
+    </offer>
+    <offer sku="10793805">
+      <model>Набор астау и бас табак Assyl Qazyna &quot;От басы&quot;, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="10793809">
+      <model>Набор астау Assyl Qazyna &quot;Береке&quot;, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75780.15</price>
+        <cityprice cityId="615420100">75780.15</cityprice>
+    </offer>
+    <offer sku="10793821">
+      <model>Астау Assyl Qazyna &quot;Алатау&quot;, 65х30х4 см, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59634.91</price>
+        <cityprice cityId="615420100">59634.91</cityprice>
+    </offer>
+    <offer sku="10929418">
+      <model>Астау Assyl Qazyna фигурное, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77715.68</price>
+        <cityprice cityId="615420100">77715.68</cityprice>
+    </offer>
+    <offer sku="10747662">
+      <model>Салатник Ca del vetro Elica 8 шт</model>
+      <brand>Ca del vetro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>180618.95</price>
+        <cityprice cityId="615420100">180618.95</cityprice>
+    </offer>
+    <offer sku="10793861">
+      <model>Набор астау Assyl Qazyna &quot;Береке&quot; 65*30 см, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36546.86</price>
+        <cityprice cityId="615420100">36546.86</cityprice>
+    </offer>
+    <offer sku="10751047">
+      <model>Салатник Nachtmann Bossa Nova 21 см 2 шт</model>
+      <brand>Nachtmann</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>519091.88</price>
+        <cityprice cityId="615420100">519091.88</cityprice>
+    </offer>
+    <offer sku="10793844">
+      <model>Набор астау и мини астау Assyl Qazyna &quot;От басы&quot;, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>111040.6</price>
+        <cityprice cityId="615420100">111040.6</cityprice>
+    </offer>
+    <offer sku="10793246">
+      <model>Астау Assyl Qazyna &quot;От басы&quot;, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73241.92</price>
+        <cityprice cityId="615420100">73241.92</cityprice>
+    </offer>
+    <offer sku="10793857">
+      <model>Набор Астау Assyl Qazyna &quot;Мереке&quot;, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59785.09</price>
+        <cityprice cityId="615420100">59785.09</cityprice>
+    </offer>
+    <offer sku="10748066">
+      <model>Блюдо Lefard Парадиз 189-214 6 шт</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12878.84</price>
+        <cityprice cityId="615420100">12878.84</cityprice>
+    </offer>
+    <offer sku="10751578">
+      <model>Креманка Crystalex Bohemia R-G 40149/200/6 200 мл 6 шт</model>
+      <brand>Crystalex Bohemia</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>661911.15</price>
+        <cityprice cityId="615420100">661911.15</cityprice>
+    </offer>
+    <offer sku="10793811">
+      <model>Набор Астау и Бас табак Assyl Qazyna &quot;Мереке&quot;, 4 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43374.08</price>
+        <cityprice cityId="615420100">43374.08</cityprice>
+    </offer>
+    <offer sku="10793812">
+      <model>Мини астау Assyl Qazyna &quot;Той Думан&quot;, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42484.86</price>
+        <cityprice cityId="615420100">42484.86</cityprice>
+    </offer>
+    <offer sku="10793858">
+      <model>Набор Астау Assyl Qazyna &quot;Мереке&quot;, 2 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50389.02</price>
+        <cityprice cityId="615420100">50389.02</cityprice>
+    </offer>
+    <offer sku="10747549">
+      <model>Блюдо Lefard Времена года 760-697 4 шт</model>
+      <brand>Lefard</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>160639.21</price>
+        <cityprice cityId="615420100">160639.21</cityprice>
+    </offer>
+    <offer sku="10793797">
+      <model>Астау Assyl Qazyna &quot;Береке&quot;, 65х30х4 см, 3 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68172.39</price>
+        <cityprice cityId="615420100">68172.39</cityprice>
+    </offer>
+    <offer sku="10793806">
+      <model>Набор астау Assyl Qazyna &quot;Той Думан&quot;, 4 шт</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59427.43</price>
+        <cityprice cityId="615420100">59427.43</cityprice>
+    </offer>
+    <offer sku="10748091">
+      <model>Блюдо Блэк Астау Архар Премиум А6.1 50х37-40 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>68637.75</price>
+        <cityprice cityId="615420100">68637.75</cityprice>
+    </offer>
+    <offer sku="10793831">
+      <model>Астау Assyl Qazyna &quot;Мереке&quot;,  67х30х4 см</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30133.5</price>
+        <cityprice cityId="615420100">30133.5</cityprice>
+    </offer>
+    <offer sku="10748269">
+      <model>Блюдо Блэк Астау Жылқы Премиум А6.2 65х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77321.46</price>
+        <cityprice cityId="615420100">77321.46</cityprice>
+    </offer>
+    <offer sku="10748276">
+      <model>Блюдо Блэк Астау Архар Премиум А6.1 45х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57946.38</price>
+        <cityprice cityId="615420100">57946.38</cityprice>
+    </offer>
+    <offer sku="10795546">
+      <model>Астау Assyl Qazyna &quot;От басы&quot; 65х29х4 см</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30138.56</price>
+        <cityprice cityId="615420100">30138.56</cityprice>
+    </offer>
+    <offer sku="10744846">
+      <model>Салатник Pasabahce Tokyo 53076 24х24 см</model>
+      <brand>Pasabahce</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93087.29</price>
+        <cityprice cityId="615420100">93087.29</cityprice>
+    </offer>
+    <offer sku="10747492">
+      <model>Блюдо Блэк Астау Ою Жылқы 75х28-30 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113296.25</price>
+        <cityprice cityId="615420100">113296.25</cityprice>
+    </offer>
+    <offer sku="10748704">
+      <model>Блюдо Акку Блюдо 32х23 см</model>
+      <brand>АККУ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117669.23</price>
+        <cityprice cityId="615420100">117669.23</cityprice>
+    </offer>
+    <offer sku="10744795">
+      <model>Блюдо Блэк Астау ОЮ А3.1 55х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39519.81</price>
+        <cityprice cityId="615420100">39519.81</cityprice>
+    </offer>
+    <offer sku="10747970">
+      <model>Блюдо Блэк Астау Амулет А8.1 65х28-30 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41758.96</price>
+        <cityprice cityId="615420100">41758.96</cityprice>
+    </offer>
+    <offer sku="10748278">
+      <model>Блюдо Блэк Астау Жылқы Премиум А6.2 45х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81631.2</price>
+        <cityprice cityId="615420100">81631.2</cityprice>
+    </offer>
+    <offer sku="10750116">
+      <model>Блюдо Астау Ою Архары 75х26-27</model>
+      <brand>Астау</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>55402.23</price>
+        <cityprice cityId="615420100">55402.23</cityprice>
+    </offer>
+    <offer sku="10751597">
+      <model>Блюдо Assyl Qazyna Астау и Бас табак 67х30 см</model>
+      <brand>Assyl Qazyna</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21640.6</price>
+        <cityprice cityId="615420100">21640.6</cityprice>
+    </offer>
+    <offer sku="10747986">
+      <model>Блюдо Блэк Астау Амулет А8.1 55х24-25 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="10748090">
+      <model>Блюдо Блэк Астау Жылқы Премиум А6.2 55х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61689.99</price>
+        <cityprice cityId="615420100">61689.99</cityprice>
+    </offer>
+    <offer sku="10747754">
+      <model>Блюдо Блэк Астау Ою А3.1 65х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54341.1</price>
+        <cityprice cityId="615420100">54341.1</cityprice>
+    </offer>
+    <offer sku="10751903">
+      <model>Блюдо Астау 70х30 бежевое</model>
+      <brand>Астау</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19395.48</price>
+        <cityprice cityId="615420100">19395.48</cityprice>
+    </offer>
+    <offer sku="10748277">
+      <model>Блюдо Блэк Астау Архар Премиум А6.1 65х26-27 см</model>
+      <brand>Блэк</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>135834.2</price>
+        <cityprice cityId="615420100">135834.2</cityprice>
+    </offer>
+    <offer sku="364313">
+      <model>Стол компьютерный ТОО &quot;АлСар&quot; СК-23 с тумбой с дверцей и ящиком на замочке</model>
+      <brand>ТОО &quot;АлСар&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75086.56</price>
+        <cityprice cityId="615420100">75086.56</cityprice>
+    </offer>
+    <offer sku="12702060">
+      <model>Парта школьная ТОО «Capital Group 8» 000001, двухместная, в комплекте 2 стула</model>
+      <brand>ТОО «Capital Group 8»</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83949.1</price>
+        <cityprice cityId="615420100">83949.1</cityprice>
+    </offer>
+    <offer sku="12341026">
+      <model>Бумажные полотенца Selpak трехслойные 4 рулона</model>
+      <brand>Selpak</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>484.13</price>
+        <cityprice cityId="615420100">484.13</cityprice>
+    </offer>
+    <offer sku="3167480">
+      <model>Туалетная бумага Injy Pro Econom, однослойная, серая</model>
+      <brand>Injy</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>174.88</price>
+        <cityprice cityId="615420100">174.88</cityprice>
+    </offer>
+    <offer sku="12175057">
+      <model>Алмазный диск Bosch Best for Stone 180х22.23мм 2608602644</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>131630.94</price>
+        <cityprice cityId="615420100">131630.94</cityprice>
+    </offer>
+    <offer sku="72243">
+      <model>Офисное кресло Chairman 700 ЭКО черное</model>
+      <brand>Chairman</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61553.65</price>
+        <cityprice cityId="615420100">61553.65</cityprice>
+    </offer>
+    <offer sku="12293567">
+      <model>Клей Basf MasterTile FLX24 Fleksmortel белый, 25 кг</model>
+      <brand>BASF</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3413.61</price>
+        <cityprice cityId="615420100">3413.61</cityprice>
+    </offer>
+    <offer sku="82613">
+      <model>Клей для обоев Момент Экстра, 250 гр</model>
+      <brand>  Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2954.18</price>
+        <cityprice cityId="615420100">2954.18</cityprice>
+    </offer>
+    <offer sku="1543926">
+      <model>Клей для обоев Metylan флизелин экспресс премиум, 250гр</model>
+      <brand>Metylan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2665.68</price>
+        <cityprice cityId="615420100">2665.68</cityprice>
+    </offer>
+    <offer sku="82230">
+      <model>Клей для обоев Pufas Euro 3000 Экспресс универсальный, 200 гр</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1860.44</price>
+        <cityprice cityId="615420100">1860.44</cityprice>
+    </offer>
+    <offer sku="82752">
+      <model>Клей для обоев Kleo Deluxe эксклюзивный, 350 гр</model>
+      <brand>KLEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6417.19</price>
+        <cityprice cityId="615420100">6417.19</cityprice>
+    </offer>
+    <offer sku="82660">
+      <model>Клей для обоев Экон флизелиновый, 200 гр</model>
+      <brand>ЭКОН</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2124.24</price>
+        <cityprice cityId="615420100">2124.24</cityprice>
+    </offer>
+    <offer sku="82278">
+      <model>Клей для обоев Pufas Euro 3000 Эколог, 300 гр</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4930.22</price>
+        <cityprice cityId="615420100">4930.22</cityprice>
+    </offer>
+    <offer sku="10761109">
+      <model>Клей Kleo Photo 10 для фотообоев, 60 гр</model>
+      <brand>KLEO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2964.06</price>
+        <cityprice cityId="615420100">2964.06</cityprice>
+    </offer>
+    <offer sku="82868">
+      <model>Клей для обоев Exclusive Non Woven Pro флизелиновый, 400 гр</model>
+      <brand>  Exclusive</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7390.39</price>
+        <cityprice cityId="615420100">7390.39</cityprice>
+    </offer>
+    <offer sku="10788066">
+      <model>Клей для обоев VGT, виниловый и флизелиновый, 0.3 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2952.2</price>
+        <cityprice cityId="615420100">2952.2</cityprice>
+    </offer>
+    <offer sku="10760359">
+      <model>Клей для обоев Axton флизелиновый, 140 гр</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2962.08</price>
+        <cityprice cityId="615420100">2962.08</cityprice>
+    </offer>
+    <offer sku="10760733">
+      <model>Клей для обоев Kleo Extra флизелиновый, 400 гр</model>
+      <brand>KLEO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5038.9</price>
+        <cityprice cityId="615420100">5038.9</cityprice>
+    </offer>
+    <offer sku="10788052">
+      <model>Клей для обоев VGT, виниловый и флизелиновый, 200 гр</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2934.42</price>
+        <cityprice cityId="615420100">2934.42</cityprice>
+    </offer>
+    <offer sku="82851">
+      <model>Клей для обоев Master Klein флизелиновый, 400 гр</model>
+      <brand>Master Klein</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9682.6</price>
+        <cityprice cityId="615420100">9682.6</cityprice>
+    </offer>
+    <offer sku="82640">
+      <model>Клей для обоев Pufas Euro 3000 флизелиновый, 200 гр</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1866.37</price>
+        <cityprice cityId="615420100">1866.37</cityprice>
+    </offer>
+    <offer sku="83375">
+      <model>Клей для обоев ACM Adhesiva TNT флизелиновый</model>
+      <brand>ACM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3844.39</price>
+        <cityprice cityId="615420100">3844.39</cityprice>
+    </offer>
+    <offer sku="10761037">
+      <model>Клей Kleo Extra 35 флизелиновый, 240 гр</model>
+      <brand>KLEO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4735.58</price>
+        <cityprice cityId="615420100">4735.58</cityprice>
+    </offer>
+    <offer sku="83316">
+      <model>Клей для обоев Лакра флизелиновый, 300 гр</model>
+      <brand>ЛАКРА  </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4149.68</price>
+        <cityprice cityId="615420100">4149.68</cityprice>
+    </offer>
+    <offer sku="12310461">
+      <model>Клей для обоев Pufas Euro 3000 Флизелиновый 500 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6965.54</price>
+        <cityprice cityId="615420100">6965.54</cityprice>
+    </offer>
+    <offer sku="83331">
+      <model>Клей для обоев PUFAS EURO 3000 флизелиновый с индикатором, 300 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2371.25</price>
+        <cityprice cityId="615420100">2371.25</cityprice>
+    </offer>
+    <offer sku="83349">
+      <model>Клей для обоев KLEO EXTRA флизелиновый</model>
+      <brand>KLEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6002.22</price>
+        <cityprice cityId="615420100">6002.22</cityprice>
+    </offer>
+    <offer sku="83279">
+      <model>Клей для обоев Metylan флизелин ультра премиум, 250 гр</model>
+      <brand>Metylan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2356.43</price>
+        <cityprice cityId="615420100">2356.43</cityprice>
+    </offer>
+    <offer sku="82571">
+      <model>Клей для обоев Tytan Euro-Line флизелин с индикатором, 250 гр</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4840.31</price>
+        <cityprice cityId="615420100">4840.31</cityprice>
+    </offer>
+    <offer sku="10760849">
+      <model>Клей Kleo Ultra 50 усиленный, для тяжелых обоев и стеклообоев, 500 гр</model>
+      <brand>KLEO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8180.81</price>
+        <cityprice cityId="615420100">8180.81</cityprice>
+    </offer>
+    <offer sku="10760729">
+      <model>Клей Axton для тяжелых обоев усиленный, 50 м² , 0,439 кг</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16588.86</price>
+        <cityprice cityId="615420100">16588.86</cityprice>
+    </offer>
+    <offer sku="82194">
+      <model>Клей для обоев Pufas Decomur универсальный, 200 гр</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4863.03</price>
+        <cityprice cityId="615420100">4863.03</cityprice>
+    </offer>
+    <offer sku="83373">
+      <model>Клей для обоев ACM Adhesiva U универсальный</model>
+      <brand>ACM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6400.39</price>
+        <cityprice cityId="615420100">6400.39</cityprice>
+    </offer>
+    <offer sku="82737">
+      <model>Клей для обоев Лакра универсальный, 300 гр</model>
+      <brand>ЛАКРА</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5358.03</price>
+        <cityprice cityId="615420100">5358.03</cityprice>
+    </offer>
+    <offer sku="83379">
+      <model>Клей для обоев KLEO TOTAL универсальный</model>
+      <brand>KLEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8210.45</price>
+        <cityprice cityId="615420100">8210.45</cityprice>
+    </offer>
+    <offer sku="82546">
+      <model>Клей для обоев Master Klein универсальный, 250 гр</model>
+      <brand>Master Klein</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3934.3</price>
+        <cityprice cityId="615420100">3934.3</cityprice>
+    </offer>
+    <offer sku="82253">
+      <model>Клей для обоев X-Glass универсальный с индикатором, 200 гр</model>
+      <brand>X-Glass</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4912.44</price>
+        <cityprice cityId="615420100">4912.44</cityprice>
+    </offer>
+    <offer sku="12306790">
+      <model>Клей для обоев Decotric Универсальный 027304092 500 гр</model>
+      <brand>Decotric</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4505.37</price>
+        <cityprice cityId="615420100">4505.37</cityprice>
+    </offer>
+    <offer sku="10788078">
+      <model>Клей бустилат VGT универсальный 0.9 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2973.94</price>
+        <cityprice cityId="615420100">2973.94</cityprice>
+    </offer>
+    <offer sku="82553">
+      <model>Клей для обоев Pufas Euro 3000 Ekonom универсальный, 500 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2202.3</price>
+        <cityprice cityId="615420100">2202.3</cityprice>
+    </offer>
+    <offer sku="6457850">
+      <model>Клей для обоев Metylan универсал премиум, 500 гр</model>
+      <brand>Metylan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2824.75</price>
+        <cityprice cityId="615420100">2824.75</cityprice>
+    </offer>
+    <offer sku="83286">
+      <model>Клей для обоев Metylan универсал премиум, 250 гр</model>
+      <brand>Metylan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1746.82</price>
+        <cityprice cityId="615420100">1746.82</cityprice>
+    </offer>
+    <offer sku="82795">
+      <model>Клей для стеклообоев и стеклохолста Nortex сухой, 300 гр</model>
+      <brand>Nortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2951.22</price>
+        <cityprice cityId="615420100">2951.22</cityprice>
+    </offer>
+    <offer sku="83268">
+      <model>Клей для обоев Oscar сухой, 400 гр</model>
+      <brand>  Oscar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6916.14</price>
+        <cityprice cityId="615420100">6916.14</cityprice>
+    </offer>
+    <offer sku="10760777">
+      <model>Клей Axton для стыков обоев, 10 м, 80 гр</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4128.94</price>
+        <cityprice cityId="615420100">4128.94</cityprice>
+    </offer>
+    <offer sku="82767">
+      <model>Клей для обоев Quelyd &quot;Стеклообои&quot;, 500 гр</model>
+      <brand>Quelyd </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6787.7</price>
+        <cityprice cityId="615420100">6787.7</cityprice>
+    </offer>
+    <offer sku="83378">
+      <model>Клей для обоев KLEO ULTRA для стеклообоев</model>
+      <brand>KLEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5816.47</price>
+        <cityprice cityId="615420100">5816.47</cityprice>
+    </offer>
+    <offer sku="82577">
+      <model>Клей для стеклообоев Лакра, 300 гр</model>
+      <brand>ЛАКРА  </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2855.38</price>
+        <cityprice cityId="615420100">2855.38</cityprice>
+    </offer>
+    <offer sku="10760880">
+      <model>Клей Axton для стеклообоев, 25 м², 200 гр</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4905.52</price>
+        <cityprice cityId="615420100">4905.52</cityprice>
+    </offer>
+    <offer sku="82583">
+      <model>Клей для стеклообоев Мастер Класс, 5 кг</model>
+      <brand>МАСТЕР КЛАСС </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6123.75</price>
+        <cityprice cityId="615420100">6123.75</cityprice>
+    </offer>
+    <offer sku="82325">
+      <model>Клей для обоев Metylan &quot;Стекловолокно премиум&quot;, 300 гр</model>
+      <brand>Metylan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5107.08</price>
+        <cityprice cityId="615420100">5107.08</cityprice>
+    </offer>
+    <offer sku="83231">
+      <model>Клей для обоев Quelyd &quot;Спец-винил&quot;, 450 гр</model>
+      <brand>Quelyd</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4899.59</price>
+        <cityprice cityId="615420100">4899.59</cityprice>
+    </offer>
+    <offer sku="82428">
+      <model>Клей для обоев Быт-Сервис Латинол-2, 2 кг</model>
+      <brand>Быт-Сервис</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6916.14</price>
+        <cityprice cityId="615420100">6916.14</cityprice>
+    </offer>
+    <offer sku="10684383">
+      <model>Клей для обоев Metylan Винил премиум без индикатора, 16 рулонов, 0.5 л.</model>
+      <brand>Metylan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1966.16</price>
+        <cityprice cityId="615420100">1966.16</cityprice>
+    </offer>
+    <offer sku="83358">
+      <model>Клей для обоев Oscar готовый к применению</model>
+      <brand>Oscar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22452.75</price>
+        <cityprice cityId="615420100">22452.75</cityprice>
+    </offer>
+    <offer sku="82697">
+      <model>Клей для обоев Acm Texreco N готовый к применению, 10 кг</model>
+      <brand>ACM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27654.68</price>
+        <cityprice cityId="615420100">27654.68</cityprice>
+    </offer>
+    <offer sku="544480">
+      <model>Клей для обоев Metylan Винил премиум с индикатором, 500 гр</model>
+      <brand>Metylan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3225.89</price>
+        <cityprice cityId="615420100">3225.89</cityprice>
+    </offer>
+    <offer sku="82631">
+      <model>Клей для обоев Metylan Винил премиум без индикатора, 400 гр</model>
+      <brand>Metylan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3507.47</price>
+        <cityprice cityId="615420100">3507.47</cityprice>
+    </offer>
+    <offer sku="82928">
+      <model>Клей для обоев Metylan Винил премиум с индикатором, 300 гр</model>
+      <brand>Metylan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1901.94</price>
+        <cityprice cityId="615420100">1901.94</cityprice>
+    </offer>
+    <offer sku="12309025">
+      <model>Клей ПВА Bergauf Praktik 10 кг</model>
+      <brand>Bergauf</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9781.4</price>
+        <cityprice cityId="615420100">9781.4</cityprice>
+    </offer>
+    <offer sku="83238">
+      <model>Клей для обоев Kleo Ultra готовый, 5 кг</model>
+      <brand>KLEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29541.8</price>
+        <cityprice cityId="615420100">29541.8</cityprice>
+    </offer>
+    <offer sku="82537">
+      <model>Клей для обоев Pufas Glutolin K10 Security, 200 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4999.38</price>
+        <cityprice cityId="615420100">4999.38</cityprice>
+    </offer>
+    <offer sku="10823222">
+      <model>Клей для обоев Pufas Euro 3000 Spezial виниловый, 200 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2163.76</price>
+        <cityprice cityId="615420100">2163.76</cityprice>
+    </offer>
+    <offer sku="11383373">
+      <model>Клей для обоев Pufas Glutolin GTV premium, 300 г</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5388.66</price>
+        <cityprice cityId="615420100">5388.66</cityprice>
+    </offer>
+    <offer sku="12306979">
+      <model>Клей для обоев Pufas Uni-Fix 60 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2173.64</price>
+        <cityprice cityId="615420100">2173.64</cityprice>
+    </offer>
+    <offer sku="82212">
+      <model>Клей для обоев Acm Adhesiva N нормальный, 200 гр</model>
+      <brand>ACM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5928.12</price>
+        <cityprice cityId="615420100">5928.12</cityprice>
+    </offer>
+    <offer sku="10788464">
+      <model>Клей для обоев VGT 27972, 200 гр</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4678.27</price>
+        <cityprice cityId="615420100">4678.27</cityprice>
+    </offer>
+    <offer sku="82787">
+      <model>Клей для обоев Kleo Optima бумажный, 250 гр</model>
+      <brand>KLEO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6787.7</price>
+        <cityprice cityId="615420100">6787.7</cityprice>
+    </offer>
+    <offer sku="82679">
+      <model>Клей для обоев Bostik Flizilex, 250 гр</model>
+      <brand>Bostik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5031</price>
+        <cityprice cityId="615420100">5031</cityprice>
+    </offer>
+    <offer sku="83297">
+      <model>Клей для обоев ACM Adhesiva S cпециальный</model>
+      <brand>ACM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6916.14</price>
+        <cityprice cityId="615420100">6916.14</cityprice>
+    </offer>
+    <offer sku="83272">
+      <model>Клей для обоев Pufas Glutolin Gls, 5 кг</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5906.38</price>
+        <cityprice cityId="615420100">5906.38</cityprice>
+    </offer>
+    <offer sku="83219">
+      <model>Клей для обоев Kleo Smart Виниловый, 200 гр</model>
+      <brand>KLEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1976.04</price>
+        <cityprice cityId="615420100">1976.04</cityprice>
+    </offer>
+    <offer sku="82237">
+      <model>Клей для обоев Pufas Euro 3000 Glass, 200 гр</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3522.29</price>
+        <cityprice cityId="615420100">3522.29</cityprice>
+    </offer>
+    <offer sku="82844">
+      <model>Клей для обоев Pufas Glutolin 77 Gold, 200 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5257.25</price>
+        <cityprice cityId="615420100">5257.25</cityprice>
+    </offer>
+    <offer sku="10788036">
+      <model>Клей для обоев VGT бумажный, 0.3 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2949.24</price>
+        <cityprice cityId="615420100">2949.24</cityprice>
+    </offer>
+    <offer sku="82567">
+      <model>Клей для обоев Pufas Glutolin Gtx Rubin, 200 гр</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3754.48</price>
+        <cityprice cityId="615420100">3754.48</cityprice>
+    </offer>
+    <offer sku="82596">
+      <model>Клей для обоев Exclusive виниловый Vinyl Pro, 400 гр</model>
+      <brand>  Exclusive</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29640.6</price>
+        <cityprice cityId="615420100">29640.6</cityprice>
+    </offer>
+    <offer sku="10760785">
+      <model>Клей Axton для бумажных обоев,  35-45 м², 140 гр</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3369.15</price>
+        <cityprice cityId="615420100">3369.15</cityprice>
+    </offer>
+    <offer sku="11377190">
+      <model>Клей для обоев Pufas Security GK10 69992, 500 гр</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4633.81</price>
+        <cityprice cityId="615420100">4633.81</cityprice>
+    </offer>
+    <offer sku="82804">
+      <model>Клей для обоев Kiilto Master Deco,10 кг</model>
+      <brand>KIILTO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22724.46</price>
+        <cityprice cityId="615420100">22724.46</cityprice>
+    </offer>
+    <offer sku="12306700">
+      <model>Клей для обоев Decotric Виниловый 027312092 300 гр</model>
+      <brand>Decotric</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4302.83</price>
+        <cityprice cityId="615420100">4302.83</cityprice>
+    </offer>
+    <offer sku="82186">
+      <model>Клей для обоев Лакра виниловый, 300 гр</model>
+      <brand>ЛАКРА</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2815.86</price>
+        <cityprice cityId="615420100">2815.86</cityprice>
+    </offer>
+    <offer sku="10760808">
+      <model>Клей Axton для виниловых обоев, 25 м², 100 гр</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3456.09</price>
+        <cityprice cityId="615420100">3456.09</cityprice>
+    </offer>
+    <offer sku="83302">
+      <model>Клей для обоев Tytan Euro-Line винил с индикатором</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3753.49</price>
+        <cityprice cityId="615420100">3753.49</cityprice>
+    </offer>
+    <offer sku="82382">
+      <model>Клей для обоев Pufas Gt Glass, 300 гр</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4727.68</price>
+        <cityprice cityId="615420100">4727.68</cityprice>
+    </offer>
+    <offer sku="82716">
+      <model>Клей для обоев Kleo Kids для детских комнат, 200 гр</model>
+      <brand>KLEO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6906.26</price>
+        <cityprice cityId="615420100">6906.26</cityprice>
+    </offer>
+    <offer sku="11349878">
+      <model>Клей для обоев Pufas Euro 3000 Glass, 500 г</model>
+      <brand>PUFAS</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3309.87</price>
+        <cityprice cityId="615420100">3309.87</cityprice>
+    </offer>
+    <offer sku="10760891">
+      <model>Клей Axton виниловый 35-45 м², с индикатором, 210 гр</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2712.11</price>
+        <cityprice cityId="615420100">2712.11</cityprice>
+    </offer>
+    <offer sku="10760793">
+      <model>Клей Axton виниловый 35-45 м², 180 гр</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4248.49</price>
+        <cityprice cityId="615420100">4248.49</cityprice>
+    </offer>
+    <offer sku="12293056">
+      <model>Клей Pufas Euro 3000 Ekonom 0.3 кг</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3388.91</price>
+        <cityprice cityId="615420100">3388.91</cityprice>
+    </offer>
+    <offer sku="10823057">
+      <model>Клей эпоксидный Момент Супер Эпокси прозрачный, 6 мл</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1092.75</price>
+        <cityprice cityId="615420100">1092.75</cityprice>
+    </offer>
+    <offer sku="10424658">
+      <model>Клей эпоксидный Новбытхим Супер-Хват, 2х45 мл</model>
+      <brand>Новбытхим </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1033.47</price>
+        <cityprice cityId="615420100">1033.47</cityprice>
+    </offer>
+    <offer sku="10823038">
+      <model>Клей эпоксидный универсальный Аккурат, 6 мл</model>
+      <brand>Аккурат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1906.88</price>
+        <cityprice cityId="615420100">1906.88</cityprice>
+    </offer>
+    <offer sku="10823054">
+      <model>Клей вместо гвоздей Point 99 экстра сильный, 80мл</model>
+      <brand>Point</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5108.4</price>
+        <cityprice cityId="615420100">5108.4</cityprice>
+    </offer>
+    <offer sku="1544595">
+      <model>Клей Момент, Монтаж экспресс декор MB-45, 250 гр</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1322.96</price>
+        <cityprice cityId="615420100">1322.96</cityprice>
+    </offer>
+    <offer sku="1550057">
+      <model>Клей Момент Экспресс МВ-50, белый</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1422.75</price>
+        <cityprice cityId="615420100">1422.75</cityprice>
+    </offer>
+    <offer sku="10788546">
+      <model>Клей напольный VGT &quot;Эконом&quot; 1231, 3 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4446.09</price>
+        <cityprice cityId="615420100">4446.09</cityprice>
+    </offer>
+    <offer sku="10788011">
+      <model>Клей напольный №1 VGT &quot;Эконом&quot;, 1.5 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2125.23</price>
+        <cityprice cityId="615420100">2125.23</cityprice>
+    </offer>
+    <offer sku="10363542">
+      <model>Клей холодная сварка Point Н-44 для стыков линолеума и пластика, 100 мл</model>
+      <brand>Point</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4351.05</price>
+        <cityprice cityId="615420100">4351.05</cityprice>
+    </offer>
+    <offer sku="10814678">
+      <model>Клей аэрозольный Ama Жесткой фиксации, 500 мл</model>
+      <brand>Ama</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8645.17</price>
+        <cityprice cityId="615420100">8645.17</cityprice>
+    </offer>
+    <offer sku="12305704">
+      <model>Клей-фиксатор напольных покрытий Goldbastik BF 55, 14 кг</model>
+      <brand>Goldbastik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19759.41</price>
+        <cityprice cityId="615420100">19759.41</cityprice>
+    </offer>
+    <offer sku="12682683">
+      <model>Клей-фиксатор напольных покрытий Goldbastik BF 53 (для впитывающих и невпитывающих оснований), 10 кг</model>
+      <brand>Goldbastik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28217.85</price>
+        <cityprice cityId="615420100">28217.85</cityprice>
+    </offer>
+    <offer sku="12305707">
+      <model>Клей-фиксатор напольных покрытий Goldbastik BF 53, 12 кг</model>
+      <brand>Goldbastik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26361.36</price>
+        <cityprice cityId="615420100">26361.36</cityprice>
+    </offer>
+    <offer sku="12341525">
+      <model>Клей-фиксатор напольных покрытий Goldbastik BF 55, 7кг</model>
+      <brand>Goldbastik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="12285054">
+      <model>Клей Rein Lux усиленный 25 кг</model>
+      <brand>REIN LUX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2469.06</price>
+        <cityprice cityId="615420100">2469.06</cityprice>
+    </offer>
+    <offer sku="8233247">
+      <model>Клей Dar Mix &quot;Универсальная&quot; для кафеля усиленный, 25 кг</model>
+      <brand>DarMix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2015.56</price>
+        <cityprice cityId="615420100">2015.56</cityprice>
+    </offer>
+    <offer sku="10814663">
+      <model>Клей аэрозольный Ama универсальный, 500 мл</model>
+      <brand>Ama</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4149.68</price>
+        <cityprice cityId="615420100">4149.68</cityprice>
+    </offer>
+    <offer sku="10787916">
+      <model>Клей монтажный Tytan Professional Classic Fix, универсальный, 310 мл</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2404.84</price>
+        <cityprice cityId="615420100">2404.84</cityprice>
+    </offer>
+    <offer sku="10741066">
+      <model>Клей ПВА SinPro универсальный, 5 кг</model>
+      <brand>Sinpro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5306.66</price>
+        <cityprice cityId="615420100">5306.66</cityprice>
+    </offer>
+    <offer sku="12306744">
+      <model>Клей универсальный Момент Кристалл 30 мл</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>838.83</price>
+        <cityprice cityId="615420100">838.83</cityprice>
+    </offer>
+    <offer sku="12306666">
+      <model>Клей Rein Lux Универсальный 25 кг</model>
+      <brand>REIN LUX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2406.82</price>
+        <cityprice cityId="615420100">2406.82</cityprice>
+    </offer>
+    <offer sku="11352835">
+      <model>Клей универсальный Basf MasterTile FLX 402 1320416, 25 кг</model>
+      <brand>BASF</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3161.66</price>
+        <cityprice cityId="615420100">3161.66</cityprice>
+    </offer>
+    <offer sku="618034">
+      <model>Клей универсальный Радуга 18 супермастика,  14 кг</model>
+      <brand>Радуга</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16759.78</price>
+        <cityprice cityId="615420100">16759.78</cityprice>
+    </offer>
+    <offer sku="321334">
+      <model>Клей универсальный Радуга 18 супермастика, 3.5 кг</model>
+      <brand>Радуга</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4383.84</price>
+        <cityprice cityId="615420100">4383.84</cityprice>
+    </offer>
+    <offer sku="10817455">
+      <model>Клей ПВА Лакра &quot;Люкс&quot; универсальный, 0.9 кг</model>
+      <brand>ЛАКРА  </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7123.62</price>
+        <cityprice cityId="615420100">7123.62</cityprice>
+    </offer>
+    <offer sku="10736187">
+      <model>Клей для плитки Сибирский Мастер &quot;Универсальный&quot;, 25 кг</model>
+      <brand>Сибирский Мастер</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2667.65</price>
+        <cityprice cityId="615420100">2667.65</cityprice>
+    </offer>
+    <offer sku="10788055">
+      <model>Клей ПВА VGT универсальный, 1 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2470.05</price>
+        <cityprice cityId="615420100">2470.05</cityprice>
+    </offer>
+    <offer sku="12321252">
+      <model>Клей Момент Классик 1 Универсальный 30 мл</model>
+      <brand>  Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>838.83</price>
+        <cityprice cityId="615420100">838.83</cityprice>
+    </offer>
+    <offer sku="10561911">
+      <model>Спецклей Новбытхим 88-НТ, туба, 125 мл</model>
+      <brand>Новбытхим </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>513.77</price>
+        <cityprice cityId="615420100">513.77</cityprice>
+    </offer>
+    <offer sku="12307685">
+      <model>Клей Rein Lux 25KT137 Для теплоизоляции 25 кг</model>
+      <brand>REIN LUX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3458.07</price>
+        <cityprice cityId="615420100">3458.07</cityprice>
+    </offer>
+    <offer sku="12320989">
+      <model>Клей для текстиля Tris Gfix-Textille 500 мл</model>
+      <brand>Tris</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52367.04</price>
+        <cityprice cityId="615420100">52367.04</cityprice>
+    </offer>
+    <offer sku="10849453">
+      <model>Клей Момент МВ-70, суперсильный, 250 г, белый</model>
+      <brand>  Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1595.65</price>
+        <cityprice cityId="615420100">1595.65</cityprice>
+    </offer>
+    <offer sku="10788004">
+      <model>Клей монтажный Момент МВп-70 суперсильный, 280 г</model>
+      <brand>  Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1949.36</price>
+        <cityprice cityId="615420100">1949.36</cityprice>
+    </offer>
+    <offer sku="10844418">
+      <model>Клей монтажный Момент МВ-70 суперсильный, 400 г</model>
+      <brand>  Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2094.6</price>
+        <cityprice cityId="615420100">2094.6</cityprice>
+    </offer>
+    <offer sku="727600">
+      <model>Клей Радуга Супермастика 7 кг</model>
+      <brand>Радуга</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8885.26</price>
+        <cityprice cityId="615420100">8885.26</cityprice>
+    </offer>
+    <offer sku="320335">
+      <model>Клей супер моментальный Секунда прозрачный, 3 г</model>
+      <brand>Секунда</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>542.42</price>
+        <cityprice cityId="615420100">542.42</cityprice>
+    </offer>
+    <offer sku="10739658">
+      <model>Клей ПВА SinPro строительный, 5 кг</model>
+      <brand>Sinpro</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7783.62</price>
+        <cityprice cityId="615420100">7783.62</cityprice>
+    </offer>
+    <offer sku="12284841">
+      <model>Клей Titebond II Premium столярный влагостойкий 118 мл</model>
+      <brand>Titebond</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4995.43</price>
+        <cityprice cityId="615420100">4995.43</cityprice>
+    </offer>
+    <offer sku="12311033">
+      <model>Клей Момент Столяр 750 гр</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4439.17</price>
+        <cityprice cityId="615420100">4439.17</cityprice>
+    </offer>
+    <offer sku="10823246">
+      <model>Клей ПВА Момент Столяр, 750 гр</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2860.32</price>
+        <cityprice cityId="615420100">2860.32</cityprice>
+    </offer>
+    <offer sku="10823073">
+      <model>Клей для стекла и металла Аккурат, 2 x 6 мл</model>
+      <brand>Аккурат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11846.36</price>
+        <cityprice cityId="615420100">11846.36</cityprice>
+    </offer>
+    <offer sku="10561723">
+      <model>Спецклей Новбытхим 88-НТ, 1л</model>
+      <brand>Новбытхим </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2813.88</price>
+        <cityprice cityId="615420100">2813.88</cityprice>
+    </offer>
+    <offer sku="10814747">
+      <model>Аэрозольный скотч Ama Spray Stick, 500 мл</model>
+      <brand>Ama</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9192.54</price>
+        <cityprice cityId="615420100">9192.54</cityprice>
+    </offer>
+    <offer sku="10736326">
+      <model>Клей для керамической плитки Сибирский Мастер &quot;Базовый&quot;, 25 кг</model>
+      <brand>Сибирский Мастер</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1975.05</price>
+        <cityprice cityId="615420100">1975.05</cityprice>
+    </offer>
+    <offer sku="808646">
+      <model>Клей секундный OfficeSpace Super Glue 175901, 3 г</model>
+      <brand>OfficeSpace</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118.56</price>
+        <cityprice cityId="615420100">118.56</cityprice>
+    </offer>
+    <offer sku="10834260">
+      <model>Клей Диола Д-314 +850С для облицовки печей и каминов, 25 кг</model>
+      <brand>Диола</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7884.4</price>
+        <cityprice cityId="615420100">7884.4</cityprice>
+    </offer>
+    <offer sku="10788034">
+      <model>Клей ремонто-монтажный VGT Лучше гвоздей 0.3 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1877.24</price>
+        <cityprice cityId="615420100">1877.24</cityprice>
+    </offer>
+    <offer sku="10788057">
+      <model>Клей ремонто-монтажный VGT Лучше гвоздей, 250 г</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1377.3</price>
+        <cityprice cityId="615420100">1377.3</cityprice>
+    </offer>
+    <offer sku="10823070">
+      <model>Клей для ремонта Аккурат Universal Glue,  2 x 6 мл</model>
+      <brand>Аккурат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5473.63</price>
+        <cityprice cityId="615420100">5473.63</cityprice>
+    </offer>
+    <offer sku="12321718">
+      <model>Клей Момент Резиновый 30 мл</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>734.09</price>
+        <cityprice cityId="615420100">734.09</cityprice>
+    </offer>
+    <offer sku="376360">
+      <model>Клей Радуга Acrylite для для линолеума и ковровых покрытий 14 кг</model>
+      <brand>Радуга</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27545.01</price>
+        <cityprice cityId="615420100">27545.01</cityprice>
+    </offer>
+    <offer sku="868778">
+      <model>Клей Радуга Acrylite для линолеума, 1.2 кг</model>
+      <brand>Радуга</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2964.06</price>
+        <cityprice cityId="615420100">2964.06</cityprice>
+    </offer>
+    <offer sku="10136536">
+      <model>Клей вместо гвоздей Point 96 крист-прозрачный, 280мл</model>
+      <brand>Point</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8316</price>
+        <cityprice cityId="615420100">8316</cityprice>
+    </offer>
+    <offer sku="10827732">
+      <model>Клей Ecolux Жидкие гвозди, полимерный, прозрачный, 310 мл</model>
+      <brand>Ecolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1024.58</price>
+        <cityprice cityId="615420100">1024.58</cityprice>
+    </offer>
+    <offer sku="10814743">
+      <model>Клей монтажный полиуретановый Marcon Мастерплит, 1000мл</model>
+      <brand>Marcon</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3952.08</price>
+        <cityprice cityId="615420100">3952.08</cityprice>
+    </offer>
+    <offer sku="11351122">
+      <model>Клей полиуретановый Ceresit CT-84,  850 мл</model>
+      <brand>Ceresit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4592.52</price>
+        <cityprice cityId="615420100">4592.52</cityprice>
+    </offer>
+    <offer sku="12341544">
+      <model>Клей Forbo Euroflex Standard Polaris 425 для виниловых и ковровых покрытий, 13 кг</model>
+      <brand>Форбо</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33691.48</price>
+        <cityprice cityId="615420100">33691.48</cityprice>
+    </offer>
+    <offer sku="10679549">
+      <model>Клей для плитки Tytan Flex, 25 кг</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3058.91</price>
+        <cityprice cityId="615420100">3058.91</cityprice>
+    </offer>
+    <offer sku="10679548">
+      <model>Клей для плитки Tytan Standard, 25 кг</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2244.78</price>
+        <cityprice cityId="615420100">2244.78</cityprice>
+    </offer>
+    <offer sku="5283266">
+      <model>Клей для плитки Ceresit CM 16, 25 кг</model>
+      <brand>Ceresit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3774.24</price>
+        <cityprice cityId="615420100">3774.24</cityprice>
+    </offer>
+    <offer sku="12306853">
+      <model>Клей для плитки Tytan SuperFlex S1 TS55 25 кг</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2470.05</price>
+        <cityprice cityId="615420100">2470.05</cityprice>
+    </offer>
+    <offer sku="5280677">
+      <model>Клей для плитки Ceresit Ceramic CM 9, 25 кг</model>
+      <brand>Ceresit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2232.93</price>
+        <cityprice cityId="615420100">2232.93</cityprice>
+    </offer>
+    <offer sku="5283268">
+      <model>Клей для плитки Ceresit CM 115, 25 кг</model>
+      <brand>Ceresit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3950.1</price>
+        <cityprice cityId="615420100">3950.1</cityprice>
+    </offer>
+    <offer sku="5282633">
+      <model>Клей для плитки Ceresit CM 11 Plus, 25 кг</model>
+      <brand>Ceresit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3458.07</price>
+        <cityprice cityId="615420100">3458.07</cityprice>
+    </offer>
+    <offer sku="10823340">
+      <model>Клей ПВА Латек пластификатор, 10 кг</model>
+      <brand>Латек</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13692.97</price>
+        <cityprice cityId="615420100">13692.97</cityprice>
+    </offer>
+    <offer sku="12284798">
+      <model>Клей Mayer ПВА KM94 2 кг</model>
+      <brand>MAYER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8640.23</price>
+        <cityprice cityId="615420100">8640.23</cityprice>
+    </offer>
+    <offer sku="10823025">
+      <model>Клей ПВА Оптималка КЛ03, 5 кг</model>
+      <brand>Оптималка</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8694.58</price>
+        <cityprice cityId="615420100">8694.58</cityprice>
+    </offer>
+    <offer sku="10788015">
+      <model>Клей ПВА VGT водостойкий, 0.28 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2667.65</price>
+        <cityprice cityId="615420100">2667.65</cityprice>
+    </offer>
+    <offer sku="10823021">
+      <model>Клей ПВА Оптималка КЛ01, 1 кг</model>
+      <brand>Оптималка</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2092.63</price>
+        <cityprice cityId="615420100">2092.63</cityprice>
+    </offer>
+    <offer sku="10823024">
+      <model>Клей ПВА Оптималка КЛ02, 2.5 кг</model>
+      <brand>Оптималка</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4839.32</price>
+        <cityprice cityId="615420100">4839.32</cityprice>
+    </offer>
+    <offer sku="12322262">
+      <model>Клей Момент 88 Особопрочный 30 мл</model>
+      <brand>  Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>838.82</price>
+        <cityprice cityId="615420100">838.82</cityprice>
+    </offer>
+    <offer sku="11352336">
+      <model>Клей Момент Монтаж Один для всего белый, 440 г</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="10788008">
+      <model>Клей акриловый напольный №2 VGT Professional, 11 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31567.24</price>
+        <cityprice cityId="615420100">31567.24</cityprice>
+    </offer>
+    <offer sku="12307256">
+      <model>Клей монтажный Bostik MSP-107 290 мл</model>
+      <brand>Bostik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3401.75</price>
+        <cityprice cityId="615420100">3401.75</cityprice>
+    </offer>
+    <offer sku="11350465">
+      <model>Клей монтажный Tytan Fix 2 GT, 290 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3232.8</price>
+        <cityprice cityId="615420100">3232.8</cityprice>
+    </offer>
+    <offer sku="10787951">
+      <model>Клей монтажный Tytan Professional Fix Elastic, 290 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3082.62</price>
+        <cityprice cityId="615420100">3082.62</cityprice>
+    </offer>
+    <offer sku="10787875">
+      <model>Клей монтажный Tytan Heavy Duty, 310 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1976.04</price>
+        <cityprice cityId="615420100">1976.04</cityprice>
+    </offer>
+    <offer sku="10787961">
+      <model>Клей монтажный Tytan Professional Hydro Fix, 310 мл</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2034.25</price>
+        <cityprice cityId="615420100">2034.25</cityprice>
+    </offer>
+    <offer sku="10787948">
+      <model>Клей монтажный Tytan Professional Fix Clear, 290 мл</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3387.92</price>
+        <cityprice cityId="615420100">3387.92</cityprice>
+    </offer>
+    <offer sku="10787978">
+      <model>Клей монтажный VGT Professional 26323, 0.35 кг</model>
+      <brand>VGT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3754.48</price>
+        <cityprice cityId="615420100">3754.48</cityprice>
+    </offer>
+    <offer sku="11356545">
+      <model>Клей монтажный Pufas Montage-Kleber, 250 г</model>
+      <brand>PUFAS </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1974.06</price>
+        <cityprice cityId="615420100">1974.06</cityprice>
+    </offer>
+    <offer sku="10788000">
+      <model>Клей монтажный Axton, бежевый, 310 мл</model>
+      <brand>Axton</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2595.53</price>
+        <cityprice cityId="615420100">2595.53</cityprice>
+    </offer>
+    <offer sku="10687832">
+      <model>Клей монтажный Tytan Multy-use SBS 100</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1704.33</price>
+        <cityprice cityId="615420100">1704.33</cityprice>
+    </offer>
+    <offer sku="12307121">
+      <model>Клей монтажный Bostik Acryl Fix 310 мл</model>
+      <brand>Bostik</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3161.66</price>
+        <cityprice cityId="615420100">3161.66</cityprice>
+    </offer>
+    <offer sku="10788002">
+      <model>Клей монтажный Tytan для зеркал, 310 мл</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1778.44</price>
+        <cityprice cityId="615420100">1778.44</cityprice>
+    </offer>
+    <offer sku="12322520">
+      <model>Клей монтажный Decor-Dizayn MS-350 290 мл</model>
+      <brand>Decor-Dizayn</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3853.28</price>
+        <cityprice cityId="615420100">3853.28</cityprice>
+    </offer>
+    <offer sku="11350301">
+      <model>Клей монтажный Tytan Heavy Duty 6451 бежевый, 310 мл</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1985.92</price>
+        <cityprice cityId="615420100">1985.92</cityprice>
+    </offer>
+    <offer sku="12321783">
+      <model>Клей Момент Марафон 30 мл</model>
+      <brand>  Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>833.89</price>
+        <cityprice cityId="615420100">833.89</cityprice>
+    </offer>
+    <offer sku="12309656">
+      <model>Клей Titebond Painters Plus TB58351 305 мл</model>
+      <brand>Titebond</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3754.48</price>
+        <cityprice cityId="615420100">3754.48</cityprice>
+    </offer>
+    <offer sku="10788001">
+      <model>Клей-герметик Soudal Fix All, 290 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2359.39</price>
+        <cityprice cityId="615420100">2359.39</cityprice>
+    </offer>
+    <offer sku="10683408">
+      <model>Клей двухкомпонентный Akfix 705, 400 мл. +100 гр</model>
+      <brand>Akfix</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1580.83</price>
+        <cityprice cityId="615420100">1580.83</cityprice>
+    </offer>
+    <offer sku="10823209">
+      <model>Клей для кожи Аккурат, 2x6 мл</model>
+      <brand>Аккурат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8703.47</price>
+        <cityprice cityId="615420100">8703.47</cityprice>
+    </offer>
+    <offer sku="10788006">
+      <model>Клей-герметик Soudal Fix All Classic, в блистере, 80 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2782.26</price>
+        <cityprice cityId="615420100">2782.26</cityprice>
+    </offer>
+    <offer sku="12309867">
+      <model>Клей Titebond II Premium TB5005 946 мл</model>
+      <brand>Titebond</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14812.4</price>
+        <cityprice cityId="615420100">14812.4</cityprice>
+    </offer>
+    <offer sku="12321627">
+      <model>Клей Tytan Professional Styro Uni STD-O2 750 мл</model>
+      <brand>Tytan </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5064.59</price>
+        <cityprice cityId="615420100">5064.59</cityprice>
+    </offer>
+    <offer sku="12309732">
+      <model>Клей Titebond II Premium TB5004 473 мл</model>
+      <brand>Titebond</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8390.27</price>
+        <cityprice cityId="615420100">8390.27</cityprice>
+    </offer>
+    <offer sku="12321045">
+      <model>Клей Tris Wool Fix 1000 мл</model>
+      <brand>Tris</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5373.84</price>
+        <cityprice cityId="615420100">5373.84</cityprice>
+    </offer>
+    <offer sku="10825138">
+      <model>Клей двухкомпонентный Akfix 705, 200 мл + 50 гр</model>
+      <brand> Akfix </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>950.48</price>
+        <cityprice cityId="615420100">950.48</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
