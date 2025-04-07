@@ -86862,5 +86862,3209 @@
       <price>541115.83</price>
         <cityprice cityId="615420100">541115.83</cityprice>
     </offer>
+    <offer sku="4465746">
+      <model>Станок фрезерный Корвет 83</model>
+      <brand>Энкор</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>423489.08</price>
+        <cityprice cityId="615420100">423489.08</cityprice>
+    </offer>
+    <offer sku="7443964">
+      <model>Фрезер Ingco Industrial PLM5002</model>
+      <brand>INGCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78053.58</price>
+        <cityprice cityId="615420100">78053.58</cityprice>
+    </offer>
+    <offer sku="7443925">
+      <model>Фрезер Einhell BT-RO 1200 E 4350480</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51375.06</price>
+        <cityprice cityId="615420100">51375.06</cityprice>
+    </offer>
+    <offer sku="1054690">
+      <model>Фрезер Булат ФР-900</model>
+      <brand>Булат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1525828.93</price>
+        <cityprice cityId="615420100">1525828.93</cityprice>
+    </offer>
+    <offer sku="1054719">
+      <model>Фрезер FAVOURITE FER-900</model>
+      <brand>FAVOURITE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1525819.05</price>
+        <cityprice cityId="615420100">1525819.05</cityprice>
+    </offer>
+    <offer sku="3951572">
+      <model>Фрезер Makita RP2301FCX</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>681090.6</price>
+        <cityprice cityId="615420100">681090.6</cityprice>
+    </offer>
+    <offer sku="1054724">
+      <model>Фрезер Festool OF 1010 EBQ-Set</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>999283.43</price>
+        <cityprice cityId="615420100">999283.43</cityprice>
+    </offer>
+    <offer sku="1054707">
+      <model>Фрезер ДИОЛД МЭФ-1,1</model>
+      <brand>ДИОЛД</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54455.77</price>
+        <cityprice cityId="615420100">54455.77</cityprice>
+    </offer>
+    <offer sku="10851981">
+      <model>Фрезер Зубр ФМ-1650</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37997.27</price>
+        <cityprice cityId="615420100">37997.27</cityprice>
+    </offer>
+    <offer sku="7442345">
+      <model>Фрезер DeWALT DCW600N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>149602.27</price>
+        <cityprice cityId="615420100">149602.27</cityprice>
+    </offer>
+    <offer sku="444349">
+      <model>Фрезер Bosch Professional GKF 550</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40392.23</price>
+        <cityprice cityId="615420100">40392.23</cityprice>
+    </offer>
+    <offer sku="3951527">
+      <model>Фрезер Makita MT M3601</model>
+      <brand>Maktec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58668.63</price>
+        <cityprice cityId="615420100">58668.63</cityprice>
+    </offer>
+    <offer sku="1054709">
+      <model>Фрезер ДИОЛД МЭФ-1,9-01</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>466061.88</price>
+        <cityprice cityId="615420100">466061.88</cityprice>
+    </offer>
+    <offer sku="1054773">
+      <model>Фрезер Favourite FER-2400</model>
+      <brand>FAVOURITE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3112228.42</price>
+        <cityprice cityId="615420100">3112228.42</cityprice>
+    </offer>
+    <offer sku="7441177">
+      <model>Фрезер Bosch Professional GKF 600 060160A101</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1022854.62</price>
+        <cityprice cityId="615420100">1022854.62</cityprice>
+    </offer>
+    <offer sku="7443598">
+      <model>Фрезер Metabo KFM 18 LTX 3 RF 0 601754840</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10021027.43</price>
+        <cityprice cityId="615420100">10021027.43</cityprice>
+    </offer>
+    <offer sku="7440733">
+      <model>Фрезер Bosch Professional GMF 1600 CE 0601624002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>325848.01</price>
+        <cityprice cityId="615420100">325848.01</cityprice>
+    </offer>
+    <offer sku="7443121">
+      <model>Фрезер DeWALT DW625E-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>335602.89</price>
+        <cityprice cityId="615420100">335602.89</cityprice>
+    </offer>
+    <offer sku="7444005">
+      <model>Фрезер P.I.T. 81208 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51510.94</price>
+        <cityprice cityId="615420100">51510.94</cityprice>
+    </offer>
+    <offer sku="7441607">
+      <model>Фрезер Makita RT0700C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57318.74</price>
+        <cityprice cityId="615420100">57318.74</cityprice>
+    </offer>
+    <offer sku="419061">
+      <model>Фрезер Вихрь &quot;ФМ-1300&quot;</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20687.16</price>
+        <cityprice cityId="615420100">20687.16</cityprice>
+    </offer>
+    <offer sku="7446574">
+      <model>Фрезер Kolner KER 1200V</model>
+      <brand>Kolner </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6104438.1</price>
+        <cityprice cityId="615420100">6104438.1</cityprice>
+    </offer>
+    <offer sku="7442126">
+      <model>Фрезер Bosch GKF 12V-8 06016B0002</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98271.43</price>
+        <cityprice cityId="615420100">98271.43</cityprice>
+    </offer>
+    <offer sku="1054718">
+      <model>Фрезер FAVOURITE FER-1400</model>
+      <brand>FAVOURITE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>962572.56</price>
+        <cityprice cityId="615420100">962572.56</cityprice>
+    </offer>
+    <offer sku="3741774">
+      <model>Фрезер Makita DRT50ZJX2</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150608.83</price>
+        <cityprice cityId="615420100">150608.83</cityprice>
+    </offer>
+    <offer sku="7442317">
+      <model>Фрезер Makita RP1800F</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>391150.2</price>
+        <cityprice cityId="615420100">391150.2</cityprice>
+    </offer>
+    <offer sku="7444188">
+      <model>Фрезер DeWALT DW 615</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>206496.18</price>
+        <cityprice cityId="615420100">206496.18</cityprice>
+    </offer>
+    <offer sku="12165853">
+      <model>Аккумуляторный фрезер Makita DCO180Z</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>124699.98</price>
+        <cityprice cityId="615420100">124699.98</cityprice>
+    </offer>
+    <offer sku="7441441">
+      <model>Фрезер DeWALT D26204K-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>264647.09</price>
+        <cityprice cityId="615420100">264647.09</cityprice>
+    </offer>
+    <offer sku="444334">
+      <model>Фрезер Bosch Professional POF 1200 AE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46858.82</price>
+        <cityprice cityId="615420100">46858.82</cityprice>
+    </offer>
+    <offer sku="419062">
+      <model>Фрезер Crown &quot;CT11001&quot;</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47725.32</price>
+        <cityprice cityId="615420100">47725.32</cityprice>
+    </offer>
+    <offer sku="7399751">
+      <model>Фрезер Makita PJ7000</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177531.39</price>
+        <cityprice cityId="615420100">177531.39</cityprice>
+    </offer>
+    <offer sku="7438353">
+      <model>Фрезер DWT KF04-30</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21276.02</price>
+        <cityprice cityId="615420100">21276.02</cityprice>
+    </offer>
+    <offer sku="1054694">
+      <model>Фрезер CROWN CT11012</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>24214.39</price>
+        <cityprice cityId="615420100">24214.39</cityprice>
+    </offer>
+    <offer sku="7443970">
+      <model>Фрезер Festool OF 2200 EB-Plus 574349</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12443223.67</price>
+        <cityprice cityId="615420100">12443223.67</cityprice>
+    </offer>
+    <offer sku="7437193">
+      <model>Фрезер Wortex MM 5013 E</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39409.15</price>
+        <cityprice cityId="615420100">39409.15</cityprice>
+    </offer>
+    <offer sku="3951566">
+      <model>Фрезер Makita RP 2300 FC</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>376480.08</price>
+        <cityprice cityId="615420100">376480.08</cityprice>
+    </offer>
+    <offer sku="12096247">
+      <model>Фрезер Bosch GOF 130 06016B7000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71723.34</price>
+        <cityprice cityId="615420100">71723.34</cityprice>
+    </offer>
+    <offer sku="7445377">
+      <model>Фрезер DeWALT DCW604N-XJ</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>250906.69</price>
+        <cityprice cityId="615420100">250906.69</cityprice>
+    </offer>
+    <offer sku="7442743">
+      <model>Фрезер Bosch Professional GOF 1250 CE 0601626000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247118.5</price>
+        <cityprice cityId="615420100">247118.5</cityprice>
+    </offer>
+    <offer sku="419065">
+      <model>Фрезер Bosch Professional &quot;GOF 1250 CE&quot;</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>328345.49</price>
+        <cityprice cityId="615420100">328345.49</cityprice>
+    </offer>
+    <offer sku="7440457">
+      <model>Фрезер Makita RT0700CX2</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148906.47</price>
+        <cityprice cityId="615420100">148906.47</cityprice>
+    </offer>
+    <offer sku="7442354">
+      <model>Фрезер DWT OF-2100 V</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40792.38</price>
+        <cityprice cityId="615420100">40792.38</cityprice>
+    </offer>
+    <offer sku="7443809">
+      <model>Фрезер Metabo KFM 9-3 RF 601751700</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7840038.49</price>
+        <cityprice cityId="615420100">7840038.49</cityprice>
+    </offer>
+    <offer sku="7443933">
+      <model>Фрезер Ingco Industrial RT22001</model>
+      <brand>INGCO </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>932346.06</price>
+        <cityprice cityId="615420100">932346.06</cityprice>
+    </offer>
+    <offer sku="7439386">
+      <model>Фрезер Einhell TC-BJ 900 4350620</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1123634.64</price>
+        <cityprice cityId="615420100">1123634.64</cityprice>
+    </offer>
+    <offer sku="12227086">
+      <model>Фрезер Grandfar GER 12-1800 G</model>
+      <brand>Grandfar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118562.4</price>
+        <cityprice cityId="615420100">118562.4</cityprice>
+    </offer>
+    <offer sku="1054708">
+      <model>Фрезер ДИОЛД МЭФ-1,25</model>
+      <brand>ДИОЛД </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>605350.96</price>
+        <cityprice cityId="615420100">605350.96</cityprice>
+    </offer>
+    <offer sku="7437292">
+      <model>Фрезер Bosch Professional GOF 1600 CE 0601624020</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3472432.85</price>
+        <cityprice cityId="615420100">3472432.85</cityprice>
+    </offer>
+    <offer sku="1054725">
+      <model>Фрезер Festool OF 1400 EBQ-Plus</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7611282.22</price>
+        <cityprice cityId="615420100">7611282.22</cityprice>
+    </offer>
+    <offer sku="7443486">
+      <model>Фрезер Ryobi RRT1600-K</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>101414.32</price>
+        <cityprice cityId="615420100">101414.32</cityprice>
+    </offer>
+    <offer sku="7437380">
+      <model>Фрезер DeWALT D26200-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191486.18</price>
+        <cityprice cityId="615420100">191486.18</cityprice>
+    </offer>
+    <offer sku="7440016">
+      <model>Фрезер Hitachi M12SA2</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1537908.46</price>
+        <cityprice cityId="615420100">1537908.46</cityprice>
+    </offer>
+    <offer sku="1054720">
+      <model>Фрезер Felisatti RF30/430</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>64894.14</price>
+        <cityprice cityId="615420100">64894.14</cityprice>
+    </offer>
+    <offer sku="328938">
+      <model>Фрезер Alteco FR 2200</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40112.62</price>
+        <cityprice cityId="615420100">40112.62</cityprice>
+    </offer>
+    <offer sku="444340">
+      <model>Фрезер Вихрь ФМ-1900</model>
+      <brand>Вихрь </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31202.02</price>
+        <cityprice cityId="615420100">31202.02</cityprice>
+    </offer>
+    <offer sku="7442327">
+      <model>Фрезер DeWALT DW621-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>262000.18</price>
+        <cityprice cityId="615420100">262000.18</cityprice>
+    </offer>
+    <offer sku="7443937">
+      <model>Фрезер DeWALT DWE 6005</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>179147.09</price>
+        <cityprice cityId="615420100">179147.09</cityprice>
+    </offer>
+    <offer sku="7442356">
+      <model>Фрезер Metabo OFE 738</model>
+      <brand>Metabo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2748949.27</price>
+        <cityprice cityId="615420100">2748949.27</cityprice>
+    </offer>
+    <offer sku="7441501">
+      <model>Фрезер Einhell RT-RO 55 4350490</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59843.75</price>
+        <cityprice cityId="615420100">59843.75</cityprice>
+    </offer>
+    <offer sku="1054698">
+      <model>Фрезер DeWALT DW 682 K</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2747598.65</price>
+        <cityprice cityId="615420100">2747598.65</cityprice>
+    </offer>
+    <offer sku="1054711">
+      <model>Фрезер Einhell RT-RO 55</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81576.86</price>
+        <cityprice cityId="615420100">81576.86</cityprice>
+    </offer>
+    <offer sku="7446944">
+      <model>Фрезер DeWALT DW 625 E</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3746417.71</price>
+        <cityprice cityId="615420100">3746417.71</cityprice>
+    </offer>
+    <offer sku="7441643">
+      <model>Фрезер DeWALT D26203-QS</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>254715.73</price>
+        <cityprice cityId="615420100">254715.73</cityprice>
+    </offer>
+    <offer sku="3951989">
+      <model>Фрезер Makita RT0700CX2</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>115518.31</price>
+        <cityprice cityId="615420100">115518.31</cityprice>
+    </offer>
+    <offer sku="1054733">
+      <model>Фрезер Hammer FRZ2200 PREMIUM</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>603179.29</price>
+        <cityprice cityId="615420100">603179.29</cityprice>
+    </offer>
+    <offer sku="12349773">
+      <model>Фрезер Makita RP2302FC02</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>210524.34</price>
+        <cityprice cityId="615420100">210524.34</cityprice>
+    </offer>
+    <offer sku="7437839">
+      <model>Фрезер Wortex MM 5013-1 E MM50131E02618</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>861363.74</price>
+        <cityprice cityId="615420100">861363.74</cityprice>
+    </offer>
+    <offer sku="7438109">
+      <model>Фрезер Makita MT M3600</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>175295.74</price>
+        <cityprice cityId="615420100">175295.74</cityprice>
+    </offer>
+    <offer sku="7443258">
+      <model>Фрезер Makita 3706</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87036.66</price>
+        <cityprice cityId="615420100">87036.66</cityprice>
+    </offer>
+    <offer sku="7443945">
+      <model>Фрезер Stanley SRR1200-RU</model>
+      <brand>Stanley </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>453995.19</price>
+        <cityprice cityId="615420100">453995.19</cityprice>
+    </offer>
+    <offer sku="7443968">
+      <model>Фрезер Festool PF 1200 E-Plus Alucobond 574321</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1137198.18</price>
+        <cityprice cityId="615420100">1137198.18</cityprice>
+    </offer>
+    <offer sku="7444382">
+      <model>Фрезер Makita 3709</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44459.91</price>
+        <cityprice cityId="615420100">44459.91</cityprice>
+    </offer>
+    <offer sku="12165859">
+      <model>Фрезер DeWALT D26200</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>213671</price>
+        <cityprice cityId="615420100">213671</cityprice>
+    </offer>
+    <offer sku="419067">
+      <model>Фрезер Crown &quot;CT11020&quot;</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21835.24</price>
+        <cityprice cityId="615420100">21835.24</cityprice>
+    </offer>
+    <offer sku="7442708">
+      <model>Фрезер Makita DRT50ZJX2</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1309088.96</price>
+        <cityprice cityId="615420100">1309088.96</cityprice>
+    </offer>
+    <offer sku="10851990">
+      <model>Фрезер Зубр ФПР-1200</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36948.98</price>
+        <cityprice cityId="615420100">36948.98</cityprice>
+    </offer>
+    <offer sku="419066">
+      <model>Фрезер DWT &quot;OF-1050 V&quot;</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28152.64</price>
+        <cityprice cityId="615420100">28152.64</cityprice>
+    </offer>
+    <offer sku="3337089">
+      <model>Фрезер Makita 3707</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>94646.5</price>
+        <cityprice cityId="615420100">94646.5</cityprice>
+    </offer>
+    <offer sku="7441525">
+      <model>Фрезер Makita MT M3601</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58350.49</price>
+        <cityprice cityId="615420100">58350.49</cityprice>
+    </offer>
+    <offer sku="7438244">
+      <model>Фрезер Makita DRT50Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>75864.13</price>
+        <cityprice cityId="615420100">75864.13</cityprice>
+    </offer>
+    <offer sku="1054729">
+      <model>Фрезер FIT RT-1200</model>
+      <brand>FIT </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>635625.87</price>
+        <cityprice cityId="615420100">635625.87</cityprice>
+    </offer>
+    <offer sku="7436925">
+      <model>Фрезер Ryobi R18TR-0 5133002917</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85657.38</price>
+        <cityprice cityId="615420100">85657.38</cityprice>
+    </offer>
+    <offer sku="7439688">
+      <model>Фрезер Ryobi RRT1600P-K</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>96131.38</price>
+        <cityprice cityId="615420100">96131.38</cityprice>
+    </offer>
+    <offer sku="7442268">
+      <model>Фрезер Bosch GKF 12V-8 06016B0000</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>170762.99</price>
+        <cityprice cityId="615420100">170762.99</cityprice>
+    </offer>
+    <offer sku="7443145">
+      <model>Фрезер Festool OF 1010 EBQ-Plus</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1469543.4</price>
+        <cityprice cityId="615420100">1469543.4</cityprice>
+    </offer>
+    <offer sku="7445394">
+      <model>Фрезер Bort BOF-1600N</model>
+      <brand>Bort</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112632.3</price>
+        <cityprice cityId="615420100">112632.3</cityprice>
+    </offer>
+    <offer sku="3740877">
+      <model>Фрезер Makita DPJ180Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>343186.77</price>
+        <cityprice cityId="615420100">343186.77</cityprice>
+    </offer>
+    <offer sku="1054815">
+      <model>Фрезер Hitachi M12V2</model>
+      <brand>Hitachi </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>932392.5</price>
+        <cityprice cityId="615420100">932392.5</cityprice>
+    </offer>
+    <offer sku="1054691">
+      <model>Фрезер CROWN CT11002</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31603.8</price>
+        <cityprice cityId="615420100">31603.8</cityprice>
+    </offer>
+    <offer sku="3340206">
+      <model>Фрезер Makita 3700B</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72134.35</price>
+        <cityprice cityId="615420100">72134.35</cityprice>
+    </offer>
+    <offer sku="1054695">
+      <model>Фрезер DeWALT DW 624</model>
+      <brand>DeWalt </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2116620.43</price>
+        <cityprice cityId="615420100">2116620.43</cityprice>
+    </offer>
+    <offer sku="3951469">
+      <model>Фрезер кромочный Makita MT M3700</model>
+      <brand>Maktec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148183.24</price>
+        <cityprice cityId="615420100">148183.24</cityprice>
+    </offer>
+    <offer sku="7398937">
+      <model>Фрезер Bosch Professional GKF 600 060160A100</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>125303.66</price>
+        <cityprice cityId="615420100">125303.66</cityprice>
+    </offer>
+    <offer sku="3951523">
+      <model>Фрезер Makita MT M3600</model>
+      <brand>Maktec</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183671.93</price>
+        <cityprice cityId="615420100">183671.93</cityprice>
+    </offer>
+    <offer sku="10852027">
+      <model>Фрезер Зубр ФМ-1900</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56538.46</price>
+        <cityprice cityId="615420100">56538.46</cityprice>
+    </offer>
+    <offer sku="7399610">
+      <model>Фрезер P.I.T. 81201A</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41505.73</price>
+        <cityprice cityId="615420100">41505.73</cityprice>
+    </offer>
+    <offer sku="7437593">
+      <model>Фрезер P.I.T. 80601</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9980.98</price>
+        <cityprice cityId="615420100">9980.98</cityprice>
+    </offer>
+    <offer sku="7443539">
+      <model>Фрезер Total TR111216</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45443.98</price>
+        <cityprice cityId="615420100">45443.98</cityprice>
+    </offer>
+    <offer sku="302654">
+      <model>Цепная пила ALTECO Promo GCS-45 GCS 2307</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36193.15</price>
+        <cityprice cityId="615420100">36193.15</cityprice>
+    </offer>
+    <offer sku="12171433">
+      <model>Электропила Ресанта ЭП-1814П 70/10/11</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26775.34</price>
+        <cityprice cityId="615420100">26775.34</cityprice>
+    </offer>
+    <offer sku="12195295">
+      <model>Электрическая пила Ресанта ЭП-2418 70/10/14</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35782.13</price>
+        <cityprice cityId="615420100">35782.13</cityprice>
+    </offer>
+    <offer sku="12171435">
+      <model>Электропила Ресанта ЭП-2216 70/10/12</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30477.45</price>
+        <cityprice cityId="615420100">30477.45</cityprice>
+    </offer>
+    <offer sku="12171439">
+      <model>Электропила Ресанта ЭП-1512П 70/10/10</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23321.57</price>
+        <cityprice cityId="615420100">23321.57</cityprice>
+    </offer>
+    <offer sku="1081543">
+      <model>Бензиновая пила Энергомаш БП-45 2000 Вт/2.7 л.с</model>
+      <brand>Энергомаш</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82949.22</price>
+        <cityprice cityId="615420100">82949.22</cityprice>
+    </offer>
+    <offer sku="12171437">
+      <model>Электропила Stihl MSE 230 C-BQ 12092000126</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246997.1</price>
+        <cityprice cityId="615420100">246997.1</cityprice>
+    </offer>
+    <offer sku="938416">
+      <model>Электропила Alteco ECS 2200-45 35513</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33643.07</price>
+        <cityprice cityId="615420100">33643.07</cityprice>
+    </offer>
+    <offer sku="4504676">
+      <model>Пила цепная электрическая ПЦЭ-2200П Сибртех 95614</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48021.72</price>
+        <cityprice cityId="615420100">48021.72</cityprice>
+    </offer>
+    <offer sku="4503557">
+      <model>Пила цепная электрическая ПЦЭ-1800П Сибртех 95612</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44806.71</price>
+        <cityprice cityId="615420100">44806.71</cityprice>
+    </offer>
+    <offer sku="12722914">
+      <model>Цепная пила Denzel EDS-2000P, 2кВт, электрическая, поперечная</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36293.93</price>
+        <cityprice cityId="615420100">36293.93</cityprice>
+    </offer>
+    <offer sku="12722927">
+      <model>Цепная пила Denzel EDS-2200, 2.2 кВт, электрическая, продольная</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44544.88</price>
+        <cityprice cityId="615420100">44544.88</cityprice>
+    </offer>
+    <offer sku="12097868">
+      <model>Пила цепная электрическая Зубр ПЦ-2745, 2700 Вт, 45 см</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54745.2</price>
+        <cityprice cityId="615420100">54745.2</cityprice>
+    </offer>
+    <offer sku="4503702">
+      <model>Пила цепная электрическая ПЦЭ-2000П Сибртех 95613</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44656.53</price>
+        <cityprice cityId="615420100">44656.53</cityprice>
+    </offer>
+    <offer sku="12097869">
+      <model>Цепная электрическая пила Steher ES-2040, 2000 Вт, 40 см</model>
+      <brand>STEHER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40449.71</price>
+        <cityprice cityId="615420100">40449.71</cityprice>
+    </offer>
+    <offer sku="12097867">
+      <model>Пила цепная Зубр ПЦ-2240 электрическая 2200 Вт, 40 см</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47029.75</price>
+        <cityprice cityId="615420100">47029.75</cityprice>
+    </offer>
+    <offer sku="12722942">
+      <model>Цепная пила Denzel EDS-2000, 2 кВт, электрическая, продольная</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57061.12</price>
+        <cityprice cityId="615420100">57061.12</cityprice>
+    </offer>
+    <offer sku="12097870">
+      <model>Цепная электрическая пила Steher ES-2640, 2600 Вт, 40 см</model>
+      <brand>STEHER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41053.22</price>
+        <cityprice cityId="615420100">41053.22</cityprice>
+    </offer>
+    <offer sku="12097865">
+      <model>Цепная электрическая пила Зубр ПЦ-1835 1800 Вт, 35 см шина</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37518.08</price>
+        <cityprice cityId="615420100">37518.08</cityprice>
+    </offer>
+    <offer sku="12097866">
+      <model>Пила цепная электрическая Зубр ПЦ-2040, 2000 Вт, 40 см</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38379.64</price>
+        <cityprice cityId="615420100">38379.64</cityprice>
+    </offer>
+    <offer sku="12689978">
+      <model>Пила цепная Denzel DS-5820 бензиновая, шина 50 см, 3.6 л.с</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192663.9</price>
+        <cityprice cityId="615420100">192663.9</cityprice>
+    </offer>
+    <offer sku="12676347">
+      <model>Бензопила Stihl MS 500 i шина 50 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>553291.2</price>
+        <cityprice cityId="615420100">553291.2</cityprice>
+    </offer>
+    <offer sku="1081547">
+      <model>Аккумуляторная пила PATRIOT CS 402XL 40 В/2.5 А·ч</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>137235.98</price>
+        <cityprice cityId="615420100">137235.98</cityprice>
+    </offer>
+    <offer sku="7458963">
+      <model>Цепная пила Einhell GH-EC 2040</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192663.9</price>
+        <cityprice cityId="615420100">192663.9</cityprice>
+    </offer>
+    <offer sku="7453153">
+      <model>Цепная пила DeWALT DCM575N</model>
+      <brand>DeWalt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1335831.69</price>
+        <cityprice cityId="615420100">1335831.69</cityprice>
+    </offer>
+    <offer sku="7468817">
+      <model>Цепная пила CROWN CT15164</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60647.63</price>
+        <cityprice cityId="615420100">60647.63</cityprice>
+    </offer>
+    <offer sku="7465862">
+      <model>Цепная пила STIHL MSE 141 C-Q-12 30 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81510.66</price>
+        <cityprice cityId="615420100">81510.66</cityprice>
+    </offer>
+    <offer sku="12171442">
+      <model>Бесщеточная цепная пила Зубр Мастер ПЦЛ-3635-42</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116980.58</price>
+        <cityprice cityId="615420100">116980.58</cityprice>
+    </offer>
+    <offer sku="7457654">
+      <model>Цепная пила Makita EA3202S-40B</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>122909.69</price>
+        <cityprice cityId="615420100">122909.69</cityprice>
+    </offer>
+    <offer sku="7464207">
+      <model>Цепная пила STIHL MS 661</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>569870.18</price>
+        <cityprice cityId="615420100">569870.18</cityprice>
+    </offer>
+    <offer sku="494865">
+      <model>Цепная пила Stihl MS 180, 35см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>86944.77</price>
+        <cityprice cityId="615420100">86944.77</cityprice>
+    </offer>
+    <offer sku="7449799">
+      <model>Цепная пила Huter ELS-2200P</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28941.08</price>
+        <cityprice cityId="615420100">28941.08</cityprice>
+    </offer>
+    <offer sku="12195379">
+      <model>Цепная пила Bosch UniversalChain 35 06008B8303</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65098.66</price>
+        <cityprice cityId="615420100">65098.66</cityprice>
+    </offer>
+    <offer sku="7468913">
+      <model>Цепная пила RYOBI RCS1935B</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82218.08</price>
+        <cityprice cityId="615420100">82218.08</cityprice>
+    </offer>
+    <offer sku="10673724">
+      <model>Цепная пила аккумуляторная Denzel RCS400-36 58610</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117903.39</price>
+        <cityprice cityId="615420100">117903.39</cityprice>
+    </offer>
+    <offer sku="520280">
+      <model>Цепная пила Huter BS-62</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39198.71</price>
+        <cityprice cityId="615420100">39198.71</cityprice>
+    </offer>
+    <offer sku="494909">
+      <model>Цепная пила Stihl MS 180 C-BE, 40см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>91748.53</price>
+        <cityprice cityId="615420100">91748.53</cityprice>
+    </offer>
+    <offer sku="495449">
+      <model>Цепная пила Зубр ПБЦ-М560 45П</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63114.72</price>
+        <cityprice cityId="615420100">63114.72</cityprice>
+    </offer>
+    <offer sku="7453162">
+      <model>Цепная пила СТАВР ПЦБ-45/2200М</model>
+      <brand>Ставр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48499.93</price>
+        <cityprice cityId="615420100">48499.93</cityprice>
+    </offer>
+    <offer sku="7449802">
+      <model>Цепная пила P.I.T. PKE405-C</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>56546.36</price>
+        <cityprice cityId="615420100">56546.36</cityprice>
+    </offer>
+    <offer sku="7457565">
+      <model>Цепная пила ЗУБР ЗЦП-2001-02</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46495.23</price>
+        <cityprice cityId="615420100">46495.23</cityprice>
+    </offer>
+    <offer sku="7468923">
+      <model>Цепная пила CROWN CT20043</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>732401.44</price>
+        <cityprice cityId="615420100">732401.44</cityprice>
+    </offer>
+    <offer sku="7453723">
+      <model>Цепная пила CMI ChS-1400</model>
+      <brand>CMI</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>599378.38</price>
+        <cityprice cityId="615420100">599378.38</cityprice>
+    </offer>
+    <offer sku="7458092">
+      <model>Цепная пила RYOBI RCS5140B</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>691890.65</price>
+        <cityprice cityId="615420100">691890.65</cityprice>
+    </offer>
+    <offer sku="7457629">
+      <model>Цепная пила Bosch GKE 40 BCE</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1586676.14</price>
+        <cityprice cityId="615420100">1586676.14</cityprice>
+    </offer>
+    <offer sku="7457609">
+      <model>Цепная пила Makita UC4550A</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>114942.29</price>
+        <cityprice cityId="615420100">114942.29</cityprice>
+    </offer>
+    <offer sku="7457209">
+      <model>Цепная пила СТАВР ПЦБ-50/2400М</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>423137.35</price>
+        <cityprice cityId="615420100">423137.35</cityprice>
+    </offer>
+    <offer sku="7453430">
+      <model>Цепная пила Carver Hobby HSG 145-15</model>
+      <brand>Carver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43373.09</price>
+        <cityprice cityId="615420100">43373.09</cityprice>
+    </offer>
+    <offer sku="7460269">
+      <model>Цепная пила Makita DUC355Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>290473.93</price>
+        <cityprice cityId="615420100">290473.93</cityprice>
+    </offer>
+    <offer sku="7464887">
+      <model>Цепная пила Denzel DGS-4516</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>58226.98</price>
+        <cityprice cityId="615420100">58226.98</cityprice>
+    </offer>
+    <offer sku="3436953">
+      <model>Цепная пила Makita DCS230T</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>386265.43</price>
+        <cityprice cityId="615420100">386265.43</cityprice>
+    </offer>
+    <offer sku="7463725">
+      <model>Цепная пила Einhell RG-EC 2240 MG</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87439.77</price>
+        <cityprice cityId="615420100">87439.77</cityprice>
+    </offer>
+    <offer sku="7468852">
+      <model>Цепная пила Carver RSG 258</model>
+      <brand>Carver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>610629.95</price>
+        <cityprice cityId="615420100">610629.95</cityprice>
+    </offer>
+    <offer sku="7468917">
+      <model>Цепная пила Hammer BPL5518C 569551</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>599511.76</price>
+        <cityprice cityId="615420100">599511.76</cityprice>
+    </offer>
+    <offer sku="7464748">
+      <model>Цепная пила STIHL MSE 140 C-BQ</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>321106.5</price>
+        <cityprice cityId="615420100">321106.5</cityprice>
+    </offer>
+    <offer sku="12180725">
+      <model>Цепная пила Makita UC4041A</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>78655.28</price>
+        <cityprice cityId="615420100">78655.28</cityprice>
+    </offer>
+    <offer sku="3776274">
+      <model>Цепная пила Makita EA5600F38K</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>234443.31</price>
+        <cityprice cityId="615420100">234443.31</cityprice>
+    </offer>
+    <offer sku="7449790">
+      <model>Цепная пила STIHL MS 260</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>208570.03</price>
+        <cityprice cityId="615420100">208570.03</cityprice>
+    </offer>
+    <offer sku="12195385">
+      <model>Цепная пила Bosch UniversalChain 40 06008B8402</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67608.8</price>
+        <cityprice cityId="615420100">67608.8</cityprice>
+    </offer>
+    <offer sku="7465790">
+      <model>Цепная пила STIHL MSE 141 С-Q-14</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>81598.6</price>
+        <cityprice cityId="615420100">81598.6</cityprice>
+    </offer>
+    <offer sku="7465148">
+      <model>Цепная пила STIHL MS 193 C-E</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1301751.92</price>
+        <cityprice cityId="615420100">1301751.92</cityprice>
+    </offer>
+    <offer sku="7466113">
+      <model>Цепная пила STIHL MSE 210 C-BQ</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>142432.96</price>
+        <cityprice cityId="615420100">142432.96</cityprice>
+    </offer>
+    <offer sku="7451787">
+      <model>Цепная пила STIHL MS 462</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>375446.61</price>
+        <cityprice cityId="615420100">375446.61</cityprice>
+    </offer>
+    <offer sku="7468827">
+      <model>Цепная пила ЗУБР ПБЦ-490 45ДП</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>83931.31</price>
+        <cityprice cityId="615420100">83931.31</cityprice>
+    </offer>
+    <offer sku="7451621">
+      <model>Пила цепная Huter ELS-1800P 70/10/5</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23314.31</price>
+        <cityprice cityId="615420100">23314.31</cityprice>
+    </offer>
+    <offer sku="520275">
+      <model>Пила цепная Huter BS-45 70/6/2</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31089.04</price>
+        <cityprice cityId="615420100">31089.04</cityprice>
+    </offer>
+    <offer sku="7468851">
+      <model>Цепная пила Greenworks GCS2046 20037</model>
+      <brand>Greenworks</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59231.8</price>
+        <cityprice cityId="615420100">59231.8</cityprice>
+    </offer>
+    <offer sku="7450610">
+      <model>Цепная пила STIHL MS 361</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>299369.07</price>
+        <cityprice cityId="615420100">299369.07</cityprice>
+    </offer>
+    <offer sku="7458471">
+      <model>Цепная пила Makita DUC302Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>558226.36</price>
+        <cityprice cityId="615420100">558226.36</cityprice>
+    </offer>
+    <offer sku="7468915">
+      <model>Цепная пила Einhell BG-PC 1235 KIT 4501641</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1568133.97</price>
+        <cityprice cityId="615420100">1568133.97</cityprice>
+    </offer>
+    <offer sku="7468857">
+      <model>Цепная пила Festool IS 330 EB-FS</model>
+      <brand>Festool</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5958534.22</price>
+        <cityprice cityId="615420100">5958534.22</cityprice>
+    </offer>
+    <offer sku="7466109">
+      <model>Цепная пила Einhell GH-EC 1835</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108682.2</price>
+        <cityprice cityId="615420100">108682.2</cityprice>
+    </offer>
+    <offer sku="7452660">
+      <model>Цепная пила Edon ECS-405 МТ2000</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>278166.16</price>
+        <cityprice cityId="615420100">278166.16</cityprice>
+    </offer>
+    <offer sku="7452788">
+      <model>Цепная пила Makita UC4051A-5M</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172903.5</price>
+        <cityprice cityId="615420100">172903.5</cityprice>
+    </offer>
+    <offer sku="7452796">
+      <model>Цепная пила Carver HOBBY HSG 152-18 01.004.00041</model>
+      <brand>Carver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49399.02</price>
+        <cityprice cityId="615420100">49399.02</cityprice>
+    </offer>
+    <offer sku="7468855">
+      <model>Цепная пила WORTEX EC 4024 SF</model>
+      <brand>Wortex </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65105.58</price>
+        <cityprice cityId="615420100">65105.58</cityprice>
+    </offer>
+    <offer sku="7468944">
+      <model>Цепная пила CROWN CT20042</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>360052.27</price>
+        <cityprice cityId="615420100">360052.27</cityprice>
+    </offer>
+    <offer sku="7458206">
+      <model>Цепная пила DWT GCS52-20</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1665276.09</price>
+        <cityprice cityId="615420100">1665276.09</cityprice>
+    </offer>
+    <offer sku="7452669">
+      <model>Цепная пила Bosch AKE 40 S</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>702305.36</price>
+        <cityprice cityId="615420100">702305.36</cityprice>
+    </offer>
+    <offer sku="7464510">
+      <model>Цепная пила STIHL GS 461</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>831811.07</price>
+        <cityprice cityId="615420100">831811.07</cityprice>
+    </offer>
+    <offer sku="782740">
+      <model>Цепная аккумуляторная пила Tolsen 87360</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>71137.44</price>
+        <cityprice cityId="615420100">71137.44</cityprice>
+    </offer>
+    <offer sku="10689827">
+      <model>Бензопила цепная Makita DCS5030-45 2800 Вт/3.8 л.с</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>350005.1</price>
+        <cityprice cityId="615420100">350005.1</cityprice>
+    </offer>
+    <offer sku="11264152">
+      <model>Цепная пила Crown CT20101-18</model>
+      <brand>Crown</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98802</price>
+        <cityprice cityId="615420100">98802</cityprice>
+    </offer>
+    <offer sku="7450545">
+      <model>Цепная пила CROWN CT15165</model>
+      <brand>Crown </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43681.35</price>
+        <cityprice cityId="615420100">43681.35</cityprice>
+    </offer>
+    <offer sku="3775274">
+      <model>Бензопила цепная Makita EA4301F40B</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>171766.29</price>
+        <cityprice cityId="615420100">171766.29</cityprice>
+    </offer>
+    <offer sku="7459176">
+      <model>Цепная пила Huter BS-25</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33720.13</price>
+        <cityprice cityId="615420100">33720.13</cityprice>
+    </offer>
+    <offer sku="831912">
+      <model>Бензопила цепная Alteco GCS 2308</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38680.98</price>
+        <cityprice cityId="615420100">38680.98</cityprice>
+    </offer>
+    <offer sku="7460910">
+      <model>Цепная пила Black&amp;Decker CS2040</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69750.26</price>
+        <cityprice cityId="615420100">69750.26</cityprice>
+    </offer>
+    <offer sku="10821651">
+      <model>Бензопила цепная Steher BS-45-40</model>
+      <brand>STEHER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35667.52</price>
+        <cityprice cityId="615420100">35667.52</cityprice>
+    </offer>
+    <offer sku="7468829">
+      <model>Цепная пила STIHL MS 170</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79534.62</price>
+        <cityprice cityId="615420100">79534.62</cityprice>
+    </offer>
+    <offer sku="7457564">
+      <model>Цепная пила Парма БП 46/40</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77466.7</price>
+        <cityprice cityId="615420100">77466.7</cityprice>
+    </offer>
+    <offer sku="7463239">
+      <model>Цепная пила Makita DCS4610-40</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>308752.3</price>
+        <cityprice cityId="615420100">308752.3</cityprice>
+    </offer>
+    <offer sku="7703434">
+      <model>Цепная пила Makita UC3550A</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>648378.24</price>
+        <cityprice cityId="615420100">648378.24</cityprice>
+    </offer>
+    <offer sku="7468958">
+      <model>Цепная пила P.I.T. 74056</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>57304.17</price>
+        <cityprice cityId="615420100">57304.17</cityprice>
+    </offer>
+    <offer sku="12195286">
+      <model>Цепная пила Stihl MS 250, 40 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165405.13</price>
+        <cityprice cityId="615420100">165405.13</cityprice>
+    </offer>
+    <offer sku="7463242">
+      <model>Цепная пила Makita DUC122Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>277295.72</price>
+        <cityprice cityId="615420100">277295.72</cityprice>
+    </offer>
+    <offer sku="7468955">
+      <model>Цепная пила HYUNDAI HY-405A</model>
+      <brand>Hyundai </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45217.72</price>
+        <cityprice cityId="615420100">45217.72</cityprice>
+    </offer>
+    <offer sku="7466045">
+      <model>Цепная пила Oasis GS-17</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73112.49</price>
+        <cityprice cityId="615420100">73112.49</cityprice>
+    </offer>
+    <offer sku="7452688">
+      <model>Цепная пила ЗУБР ПБЦ-380 35П</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76416.28</price>
+        <cityprice cityId="615420100">76416.28</cityprice>
+    </offer>
+    <offer sku="496300">
+      <model>Цепная пила Bosch AKE 35 S</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1840624.94</price>
+        <cityprice cityId="615420100">1840624.94</cityprice>
+    </offer>
+    <offer sku="7449376">
+      <model>Пила цепная Eurolux GS-5220 70/6/8</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29768.05</price>
+        <cityprice cityId="615420100">29768.05</cityprice>
+    </offer>
+    <offer sku="7468826">
+      <model>Цепная пила Einhell BG-EC 2240</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>870002.99</price>
+        <cityprice cityId="615420100">870002.99</cityprice>
+    </offer>
+    <offer sku="7455166">
+      <model>Цепная пила Makita DUC353Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>200608.57</price>
+        <cityprice cityId="615420100">200608.57</cityprice>
+    </offer>
+    <offer sku="516701">
+      <model>Бензопила цепная Alteco GCS 2306</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27593.99</price>
+        <cityprice cityId="615420100">27593.99</cityprice>
+    </offer>
+    <offer sku="7452766">
+      <model>Цепная пила ЗУБР ПБЦ-М49-45</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39320.23</price>
+        <cityprice cityId="615420100">39320.23</cityprice>
+    </offer>
+    <offer sku="7457539">
+      <model>Цепная пила ЗУБР ПБЦ-560 45ДП</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93801.63</price>
+        <cityprice cityId="615420100">93801.63</cityprice>
+    </offer>
+    <offer sku="10814795">
+      <model>Цепная пила Denzel EDS-1800P</model>
+      <brand>DENZEL </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36245.51</price>
+        <cityprice cityId="615420100">36245.51</cityprice>
+    </offer>
+    <offer sku="7455164">
+      <model>Цепная пила STIHL MS 362 C-M</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>346689.15</price>
+        <cityprice cityId="615420100">346689.15</cityprice>
+    </offer>
+    <offer sku="7465787">
+      <model>Цепная пила STIHL MS 461 R</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1601060.72</price>
+        <cityprice cityId="615420100">1601060.72</cityprice>
+    </offer>
+    <offer sku="7453001">
+      <model>Цепная пила Makita UC4051AX1</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>172905.48</price>
+        <cityprice cityId="615420100">172905.48</cityprice>
+    </offer>
+    <offer sku="7457633">
+      <model>Цепная пила Makita DCS460-45</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>309863.82</price>
+        <cityprice cityId="615420100">309863.82</cityprice>
+    </offer>
+    <offer sku="3775734">
+      <model>Цепная пила Makita EA4301F45C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>268120.96</price>
+        <cityprice cityId="615420100">268120.96</cityprice>
+    </offer>
+    <offer sku="7462917">
+      <model>Цепная пила STIHL MSE 250 C-Q-18</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>873353.36</price>
+        <cityprice cityId="615420100">873353.36</cityprice>
+    </offer>
+    <offer sku="7457631">
+      <model>Цепная пила Einhell RG-EC 2035 TC</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53525.98</price>
+        <cityprice cityId="615420100">53525.98</cityprice>
+    </offer>
+    <offer sku="7457448">
+      <model>Цепная пила STIHL MS 362-16</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>341853.93</price>
+        <cityprice cityId="615420100">341853.93</cityprice>
+    </offer>
+    <offer sku="7465786">
+      <model>Цепная пила Oasis ES-22</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47422.98</price>
+        <cityprice cityId="615420100">47422.98</cityprice>
+    </offer>
+    <offer sku="7457181">
+      <model>Цепная пила Stalker GCS-45</model>
+      <brand>Stalker</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>289795.16</price>
+        <cityprice cityId="615420100">289795.16</cityprice>
+    </offer>
+    <offer sku="835009">
+      <model>Цепная аккумуляторная пила Tolsen 87362</model>
+      <brand>Tolsen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49815.97</price>
+        <cityprice cityId="615420100">49815.97</cityprice>
+    </offer>
+    <offer sku="7450649">
+      <model>Цепная пила Edon ECS405-МТ8А</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>223161.11</price>
+        <cityprice cityId="615420100">223161.11</cityprice>
+    </offer>
+    <offer sku="7468820">
+      <model>Цепная пила Oasis ES-16</model>
+      <brand>Oasis</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>233344.64</price>
+        <cityprice cityId="615420100">233344.64</cityprice>
+    </offer>
+    <offer sku="7457653">
+      <model>Цепная пила Bosch AKE 30 S</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70444.84</price>
+        <cityprice cityId="615420100">70444.84</cityprice>
+    </offer>
+    <offer sku="7456185">
+      <model>Цепная пила ЗУБР ПБЦ-450 40П</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>85641.57</price>
+        <cityprice cityId="615420100">85641.57</cityprice>
+    </offer>
+    <offer sku="7457977">
+      <model>Цепная пила RYOBI RCS3840T</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>121974.03</price>
+        <cityprice cityId="615420100">121974.03</cityprice>
+    </offer>
+    <offer sku="7459701">
+      <model>Цепная пила AL-KO Solo 6436</model>
+      <brand>AL-KO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>151017.87</price>
+        <cityprice cityId="615420100">151017.87</cityprice>
+    </offer>
+    <offer sku="7468949">
+      <model>Цепная пила ECO CSP-264</model>
+      <brand>ECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>117078.39</price>
+        <cityprice cityId="615420100">117078.39</cityprice>
+    </offer>
+    <offer sku="7457650">
+      <model>Цепная пила STIHL MSE 170 C-Q</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>112474.22</price>
+        <cityprice cityId="615420100">112474.22</cityprice>
+    </offer>
+    <offer sku="7449990">
+      <model>Цепная пила STIHL MS 211</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>156105.18</price>
+        <cityprice cityId="615420100">156105.18</cityprice>
+    </offer>
+    <offer sku="7468824">
+      <model>Цепная пила STIHL MSA 140 C-BQ</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>195222.87</price>
+        <cityprice cityId="615420100">195222.87</cityprice>
+    </offer>
+    <offer sku="7464512">
+      <model>Цепная пила ЗУБР ПБЦ-400 40п</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>74542.16</price>
+        <cityprice cityId="615420100">74542.16</cityprice>
+    </offer>
+    <offer sku="7468815">
+      <model>Цепная пила STIHL MS 382 11190113051</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>241500.74</price>
+        <cityprice cityId="615420100">241500.74</cityprice>
+    </offer>
+    <offer sku="7457533">
+      <model>Цепная пила Makita DUC204Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>639812.11</price>
+        <cityprice cityId="615420100">639812.11</cityprice>
+    </offer>
+    <offer sku="7460462">
+      <model>Цепная пила Einhell BG-PC 1235</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>128437.66</price>
+        <cityprice cityId="615420100">128437.66</cityprice>
+    </offer>
+    <offer sku="7468818">
+      <model>Цепная пила Carver HOBBY HSG 158-18</model>
+      <brand>Carver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>162681.45</price>
+        <cityprice cityId="615420100">162681.45</cityprice>
+    </offer>
+    <offer sku="7453851">
+      <model>Цепная пила KEN 5216</model>
+      <brand>KEN</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106589.57</price>
+        <cityprice cityId="615420100">106589.57</cityprice>
+    </offer>
+    <offer sku="7464293">
+      <model>Цепная пила Fubag FES2016</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>728071.94</price>
+        <cityprice cityId="615420100">728071.94</cityprice>
+    </offer>
+    <offer sku="7465434">
+      <model>Цепная пила Makita DUC252Z</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246986.23</price>
+        <cityprice cityId="615420100">246986.23</cityprice>
+    </offer>
+    <offer sku="494896">
+      <model>Пила цепная бензиновая P.I.T. 74507</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37760.15</price>
+        <cityprice cityId="615420100">37760.15</cityprice>
+    </offer>
+    <offer sku="7452253">
+      <model>Цепная пила ЗУБР ПБЦ-М40-40</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35221.92</price>
+        <cityprice cityId="615420100">35221.92</cityprice>
+    </offer>
+    <offer sku="10821652">
+      <model>Бензопила цепная Steher BS-58-45</model>
+      <brand>STEHER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37543.77</price>
+        <cityprice cityId="615420100">37543.77</cityprice>
+    </offer>
+    <offer sku="208204">
+      <model>Цепная пила Alteco ECS 2000-40, 35512</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31096.94</price>
+        <cityprice cityId="615420100">31096.94</cityprice>
+    </offer>
+    <offer sku="7456203">
+      <model>Цепная пила STIHL MS 194 T</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185114.44</price>
+        <cityprice cityId="615420100">185114.44</cityprice>
+    </offer>
+    <offer sku="12195404">
+      <model>Цепная пила Huter BS-4514 70/6/21</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>33189.57</price>
+        <cityprice cityId="615420100">33189.57</cityprice>
+    </offer>
+    <offer sku="4997149">
+      <model>Цепная пила Huter ELS 2000</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28336.41</price>
+        <cityprice cityId="615420100">28336.41</cityprice>
+    </offer>
+    <offer sku="7457585">
+      <model>Цепная пила Makita DCS430</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>473444.36</price>
+        <cityprice cityId="615420100">473444.36</cityprice>
+    </offer>
+    <offer sku="7451617">
+      <model>Цепная пила STIHL MS 180</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>95801.38</price>
+        <cityprice cityId="615420100">95801.38</cityprice>
+    </offer>
+    <offer sku="7449432">
+      <model>Цепная пила Huter ELS-1500P</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20699.02</price>
+        <cityprice cityId="615420100">20699.02</cityprice>
+    </offer>
+    <offer sku="7448828">
+      <model>Цепная пила Huter BS-52</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36534.68</price>
+        <cityprice cityId="615420100">36534.68</cityprice>
+    </offer>
+    <offer sku="7454484">
+      <model>Цепная пила Makita UC3551A-5M</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>478459.55</price>
+        <cityprice cityId="615420100">478459.55</cityprice>
+    </offer>
+    <offer sku="7451973">
+      <model>Цепная пила ЗУБР ПБЦ-М450 40П</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>311227.29</price>
+        <cityprice cityId="615420100">311227.29</cityprice>
+    </offer>
+    <offer sku="7465697">
+      <model>Цепная пила Carver RSG 246</model>
+      <brand>Carver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>303246.06</price>
+        <cityprice cityId="615420100">303246.06</cityprice>
+    </offer>
+    <offer sku="7449389">
+      <model>Цепная пила P.I.T. 74055 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27969.86</price>
+        <cityprice cityId="615420100">27969.86</cityprice>
+    </offer>
+    <offer sku="7457588">
+      <model>Цепная пила STIHL MSA 200 C-BQ</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204571.52</price>
+        <cityprice cityId="615420100">204571.52</cityprice>
+    </offer>
+    <offer sku="7458875">
+      <model>Цепная пила DWT GCS55-20</model>
+      <brand>DWT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>183448.64</price>
+        <cityprice cityId="615420100">183448.64</cityprice>
+    </offer>
+    <offer sku="10768694">
+      <model>Цепная пила Ryobi OCS1830 ONE+ 5133002829</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>282415.64</price>
+        <cityprice cityId="615420100">282415.64</cityprice>
+    </offer>
+    <offer sku="7454111">
+      <model>Цепная пила STIHL MS 880-90</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>835042.89</price>
+        <cityprice cityId="615420100">835042.89</cityprice>
+    </offer>
+    <offer sku="7468956">
+      <model>Цепная пила TCH 7925</model>
+      <brand>TCH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97600.57</price>
+        <cityprice cityId="615420100">97600.57</cityprice>
+    </offer>
+    <offer sku="7450673">
+      <model>Цепная пила Зубр ПБЦ-М370 35П</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>59573.65</price>
+        <cityprice cityId="615420100">59573.65</cityprice>
+    </offer>
+    <offer sku="4503508">
+      <model>Пила цепная бензиновая Denzel DGS-5820 95235</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48555.25</price>
+        <cityprice cityId="615420100">48555.25</cityprice>
+    </offer>
+    <offer sku="7468860">
+      <model>Цепная пила RYOBI RCS2340B 5133004340</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63901.18</price>
+        <cityprice cityId="615420100">63901.18</cityprice>
+    </offer>
+    <offer sku="7448644">
+      <model>Цепная пила STIHL MS 210</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>116585.37</price>
+        <cityprice cityId="615420100">116585.37</cityprice>
+    </offer>
+    <offer sku="12195420">
+      <model>Цепная пила Huter BS-6218 70/6/22</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42491.78</price>
+        <cityprice cityId="615420100">42491.78</cityprice>
+    </offer>
+    <offer sku="5020873">
+      <model>Цепная пила Huter ELS 2000P</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>25703.34</price>
+        <cityprice cityId="615420100">25703.34</cityprice>
+    </offer>
+    <offer sku="7449794">
+      <model>Цепная пила STIHL MS 250 C-BE</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>164011.32</price>
+        <cityprice cityId="615420100">164011.32</cityprice>
+    </offer>
+    <offer sku="7468841">
+      <model>Цепная пила Fubag FPS 37</model>
+      <brand>Fubag</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>72970.22</price>
+        <cityprice cityId="615420100">72970.22</cityprice>
+    </offer>
+    <offer sku="4502934">
+      <model>Пила цепная бензиновая Сибртех ПЦБ-4540 95202</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51879.94</price>
+        <cityprice cityId="615420100">51879.94</cityprice>
+    </offer>
+    <offer sku="4503310">
+      <model>Пила цепная бензиновая Denzel DGS-4516 95230</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>40851.66</price>
+        <cityprice cityId="615420100">40851.66</cityprice>
+    </offer>
+    <offer sku="4503478">
+      <model>Пила цепная бензиновая Denzel DGS-5218 95233</model>
+      <brand>DENZEL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41561.06</price>
+        <cityprice cityId="615420100">41561.06</cityprice>
+    </offer>
+    <offer sku="5020899">
+      <model>Цепная пила Huter ELS-2400</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31368.65</price>
+        <cityprice cityId="615420100">31368.65</cityprice>
+    </offer>
+    <offer sku="234571">
+      <model>Цепная пила Carver Promo PSG-45-15 01.004.00023</model>
+      <brand>Carver</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>80711.35</price>
+        <cityprice cityId="615420100">80711.35</cityprice>
+    </offer>
+    <offer sku="3776470">
+      <model>Цепная пила Makita EA6100P53E</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>445383.61</price>
+        <cityprice cityId="615420100">445383.61</cityprice>
+    </offer>
+    <offer sku="520318">
+      <model>Цепная пила Сибртех ПЦБ-5850 95206</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53353.08</price>
+        <cityprice cityId="615420100">53353.08</cityprice>
+    </offer>
+    <offer sku="7454459">
+      <model>Цепная пила Makita UC4551AX1</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>165877.69</price>
+        <cityprice cityId="615420100">165877.69</cityprice>
+    </offer>
+    <offer sku="7466336">
+      <model>Цепная пила Black&amp;Decker CS2245</model>
+      <brand>Black&amp;Decker </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1141864.59</price>
+        <cityprice cityId="615420100">1141864.59</cityprice>
+    </offer>
+    <offer sku="7468837">
+      <model>Цепная пила RYOBI RCS1935</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108678.25</price>
+        <cityprice cityId="615420100">108678.25</cityprice>
+    </offer>
+    <offer sku="7460600">
+      <model>Цепная пила Einhell GE-EC 2240</model>
+      <brand>Einhell </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>248656.97</price>
+        <cityprice cityId="615420100">248656.97</cityprice>
+    </offer>
+    <offer sku="7456178">
+      <model>Цепная пила СТАВР ПЦЭ-40/2400М</model>
+      <brand>Ставр </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>349895.43</price>
+        <cityprice cityId="615420100">349895.43</cityprice>
+    </offer>
+    <offer sku="7452643">
+      <model>Цепная пила P.I.T. 745010 PRO</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45054.7</price>
+        <cityprice cityId="615420100">45054.7</cityprice>
+    </offer>
+    <offer sku="7468856">
+      <model>Цепная пила P.I.T. 74054</model>
+      <brand>P.I.T. </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35429.41</price>
+        <cityprice cityId="615420100">35429.41</cityprice>
+    </offer>
+    <offer sku="7452664">
+      <model>Цепная пила ЗУБР ЗЦП-2000-02</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>284082.43</price>
+        <cityprice cityId="615420100">284082.43</cityprice>
+    </offer>
+    <offer sku="7457764">
+      <model>Цепная пила Bosch AKE 35-19 S</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>319932.73</price>
+        <cityprice cityId="615420100">319932.73</cityprice>
+    </offer>
+    <offer sku="7459333">
+      <model>Цепная пила Einhell BG-PC 4040</model>
+      <brand>Einhell</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2532105.56</price>
+        <cityprice cityId="615420100">2532105.56</cityprice>
+    </offer>
+    <offer sku="7468853">
+      <model>Цепная пила Greenworks G40CS30 20117</model>
+      <brand>Greenworks</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>248869.39</price>
+        <cityprice cityId="615420100">248869.39</cityprice>
+    </offer>
+    <offer sku="12195317">
+      <model>Цепная пила Stihl MS 180 C-BE 11300123074, 35 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>110093.66</price>
+        <cityprice cityId="615420100">110093.66</cityprice>
+    </offer>
+    <offer sku="4502968">
+      <model>Пила цепная бензиновая Сибртех ПЦБ-5245 95204</model>
+      <brand>Сибртех</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51722.85</price>
+        <cityprice cityId="615420100">51722.85</cityprice>
+    </offer>
+    <offer sku="7457630">
+      <model>Цепная пила STIHL MS 241 C-M</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>238290.66</price>
+        <cityprice cityId="615420100">238290.66</cityprice>
+    </offer>
+    <offer sku="7451897">
+      <model>Цепная пила Huter ELS-2800</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>36496.47</price>
+        <cityprice cityId="615420100">36496.47</cityprice>
+    </offer>
+    <offer sku="7452762">
+      <model>Цепная пила Eurolux ELS-1500P</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16812.15</price>
+        <cityprice cityId="615420100">16812.15</cityprice>
+    </offer>
+    <offer sku="7448509">
+      <model>Цепная пила ЗУБР ПБЦ-М52-45</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41362.47</price>
+        <cityprice cityId="615420100">41362.47</cityprice>
+    </offer>
+    <offer sku="7465584">
+      <model>Цепная пила STIHL MS 310, 45 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>205508.16</price>
+        <cityprice cityId="615420100">205508.16</cityprice>
+    </offer>
+    <offer sku="7468821">
+      <model>Цепная пила Bosch GFZ 16-35 AC</model>
+      <brand>Bosch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177839.65</price>
+        <cityprice cityId="615420100">177839.65</cityprice>
+    </offer>
+    <offer sku="12684320">
+      <model>Цепная пила Makita 3503 S40B</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>394109.32</price>
+        <cityprice cityId="615420100">394109.32</cityprice>
+    </offer>
+    <offer sku="7453247">
+      <model>Цепная пила STIHL MS 230, 40 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>138322.8</price>
+        <cityprice cityId="615420100">138322.8</cityprice>
+    </offer>
+    <offer sku="12196976">
+      <model>Бензопила Stihl MS 361 50 см 11352000474К50</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>266764.41</price>
+        <cityprice cityId="615420100">266764.41</cityprice>
+    </offer>
+    <offer sku="12251402">
+      <model>Бензопила STIHL MS 201 TC-M 35 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>229958.69</price>
+        <cityprice cityId="615420100">229958.69</cityprice>
+    </offer>
+    <offer sku="12197014">
+      <model>Бензопила Stihl MS 361 40 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>280595.7</price>
+        <cityprice cityId="615420100">280595.7</cityprice>
+    </offer>
+    <offer sku="12196970">
+      <model>Бензопила Stihl MS 661 50 см 11440113050К50</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>439658.03</price>
+        <cityprice cityId="615420100">439658.03</cityprice>
+    </offer>
+    <offer sku="12682657">
+      <model>Бензопила Stihl MS 500I W, 50 см</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4693167.13</price>
+        <cityprice cityId="615420100">4693167.13</cityprice>
+    </offer>
+    <offer sku="12196962">
+      <model>Бензопила Stihl MS 230 45 см 11230123042К45</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127453.59</price>
+        <cityprice cityId="615420100">127453.59</cityprice>
+    </offer>
+    <offer sku="12197001">
+      <model>Бензопила STIHL MS 310 50 см 11270113029К50</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>274669.56</price>
+        <cityprice cityId="615420100">274669.56</cityprice>
+    </offer>
+    <offer sku="1081578">
+      <model>Бензиновая пила КАЛИБР БП-1800/16 1800 Вт/2.3 л.с</model>
+      <brand>КАЛИБР</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76966.76</price>
+        <cityprice cityId="615420100">76966.76</cityprice>
+    </offer>
+    <offer sku="1081548">
+      <model>Бензиновая пила CHAMPION 237-16 1500 Вт/2 л.с</model>
+      <brand>  CHAMPION </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>627055.79</price>
+        <cityprice cityId="615420100">627055.79</cityprice>
+    </offer>
+    <offer sku="1081613">
+      <model>Бензиновая пила Парма БП 146/16 1750 Вт/2.4 л.с</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>412765.12</price>
+        <cityprice cityId="615420100">412765.12</cityprice>
+    </offer>
+    <offer sku="1081615">
+      <model>Бензиновая пила PATRIOT PT 3816 1500 Вт/2 л.с</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39946.64</price>
+        <cityprice cityId="615420100">39946.64</cityprice>
+    </offer>
+    <offer sku="1081560">
+      <model>Бензиновая пила Edon EDC5220 2400 Вт/3.2 л.с</model>
+      <brand>Эдон</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4237880.59</price>
+        <cityprice cityId="615420100">4237880.59</cityprice>
+    </offer>
+    <offer sku="1081573">
+      <model>Бензиновая пила Hammer BPL2512C 1000 Вт/1.4 л.с</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>591745.93</price>
+        <cityprice cityId="615420100">591745.93</cityprice>
+    </offer>
+    <offer sku="1081580">
+      <model>Бензиновая пила Makita DCS4610-35 1700 Вт/2.3 л.с</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127769.76</price>
+        <cityprice cityId="615420100">127769.76</cityprice>
+    </offer>
+    <offer sku="1081623">
+      <model>Бензиновая пила Oleo-Mac GSH 40 1700 Вт/2.3 л.с</model>
+      <brand>Oleo-Mac </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>846227.27</price>
+        <cityprice cityId="615420100">846227.27</cityprice>
+    </offer>
+    <offer sku="1081611">
+      <model>Бензиновая пила Парма БП 138/14Н 1350 Вт/1.85 л.с</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1050275.14</price>
+        <cityprice cityId="615420100">1050275.14</cityprice>
+    </offer>
+    <offer sku="1081612">
+      <model>Бензиновая пила Парма БП 142/16 1500 Вт/2.05 л.с</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>177743.81</price>
+        <cityprice cityId="615420100">177743.81</cityprice>
+    </offer>
+    <offer sku="1081624">
+      <model>Бензиновая пила Парма БП 138/14 1350 Вт/1.85 л.с</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1068600.94</price>
+        <cityprice cityId="615420100">1068600.94</cityprice>
+    </offer>
+    <offer sku="1081616">
+      <model>Бензиновая пила PATRIOT PT 3816 Imperial 1500 Вт/2 л.с</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51720.87</price>
+        <cityprice cityId="615420100">51720.87</cityprice>
+    </offer>
+    <offer sku="1081619">
+      <model>Бензиновая пила PATRIOT PT 445 2200 Вт/2.9 л.с</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49627.26</price>
+        <cityprice cityId="615420100">49627.26</cityprice>
+    </offer>
+    <offer sku="1081621">
+      <model>Бензиновая пила PATRIOT PT 6020 2800 Вт/3.8 л.с</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>118957.61</price>
+        <cityprice cityId="615420100">118957.61</cityprice>
+    </offer>
+    <offer sku="10770610">
+      <model>Бензиновая пила Patriot PT 4518, 2.9 л.с</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43642.82</price>
+        <cityprice cityId="615420100">43642.82</cityprice>
+    </offer>
+    <offer sku="1081620">
+      <model>Бензиновая пила PATRIOT PT 5220 Imperial 2500 Вт/3.4 л.с</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47350.86</price>
+        <cityprice cityId="615420100">47350.86</cityprice>
+    </offer>
+    <offer sku="1081546">
+      <model>Бензиновая пила Hammer BPL4518C 2000 Вт/2.7 л.с</model>
+      <brand>Hammer </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1429723.23</price>
+        <cityprice cityId="615420100">1429723.23</cityprice>
+    </offer>
+    <offer sku="1081577">
+      <model>Бензиновая пила Интерскол ПЦБ-16/45Л 1800 Вт/2.5 л.с</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1207785.15</price>
+        <cityprice cityId="615420100">1207785.15</cityprice>
+    </offer>
+    <offer sku="1081614">
+      <model>Бензиновая пила PATRIOT PT 2512 1000 Вт/1.3 л.с</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>294018.94</price>
+        <cityprice cityId="615420100">294018.94</cityprice>
+    </offer>
+    <offer sku="1081575">
+      <model>Бензиновая пила Интерскол ПЦБ-14/45Л 1800 Вт/2.5 л.с</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>540915.26</price>
+        <cityprice cityId="615420100">540915.26</cityprice>
+    </offer>
+    <offer sku="1081582">
+      <model>Бензиновая пила Makita EA3203S-40 1350 Вт/1.81 л.с</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>182674.03</price>
+        <cityprice cityId="615420100">182674.03</cityprice>
+    </offer>
+    <offer sku="1081617">
+      <model>Бензиновая пила PATRIOT PT 385 2 л.с</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43477.82</price>
+        <cityprice cityId="615420100">43477.82</cityprice>
+    </offer>
+    <offer sku="12173857">
+      <model>Бензопила Ресанта БП-4518 70/6/13</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35567.73</price>
+        <cityprice cityId="615420100">35567.73</cityprice>
+    </offer>
+    <offer sku="12195306">
+      <model>Бензиновая пила Ресанта БП-4516 70/6/14</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38353.95</price>
+        <cityprice cityId="615420100">38353.95</cityprice>
+    </offer>
+    <offer sku="10772651">
+      <model>Бензиновая пила Ресанта БП-6220</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51383.11</price>
+        <cityprice cityId="615420100">51383.11</cityprice>
+    </offer>
+    <offer sku="12173867">
+      <model>Бензопила Ресанта БП-5218 70/6/16</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47385.44</price>
+        <cityprice cityId="615420100">47385.44</cityprice>
+    </offer>
+    <offer sku="12173846">
+      <model>Бензопила Ресанта БП-5220 70/6/15</model>
+      <brand>Ресанта</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38242.3</price>
+        <cityprice cityId="615420100">38242.3</cityprice>
+    </offer>
+    <offer sku="1081574">
+      <model>Бензиновая пила Интерскол ПЦБ-14/37Л</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>77065.56</price>
+        <cityprice cityId="615420100">77065.56</cityprice>
+    </offer>
+    <offer sku="1081576">
+      <model>Бензиновая пила Интерскол ПЦБ-16/40Л</model>
+      <brand>Интерскол</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>535495.97</price>
+        <cityprice cityId="615420100">535495.97</cityprice>
+    </offer>
+    <offer sku="10772019">
+      <model>Бензиновая пила Patriot PT 4518 Imperial</model>
+      <brand>Patriot </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48892.17</price>
+        <cityprice cityId="615420100">48892.17</cityprice>
+    </offer>
+    <offer sku="10771054">
+      <model>Бензиновая пила Patriot PT5220 220105570</model>
+      <brand>Patriot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48517.71</price>
+        <cityprice cityId="615420100">48517.71</cityprice>
+    </offer>
+    <offer sku="1081561">
+      <model>Бензиновая пила Huter BS-52M 2800 Вт</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29724.58</price>
+        <cityprice cityId="615420100">29724.58</cityprice>
+    </offer>
+    <offer sku="1081579">
+      <model>Бензиновая пила Makita DCS34-35 1300 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>340757.23</price>
+        <cityprice cityId="615420100">340757.23</cityprice>
+    </offer>
+    <offer sku="1081597">
+      <model>Бензиновая пила Packard Spence PSGS 400D 1800 Вт</model>
+      <brand>Packard Spence</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2761881.47</price>
+        <cityprice cityId="615420100">2761881.47</cityprice>
+    </offer>
+    <offer sku="1081491">
+      <model>Аккумуляторная пила Makita DUC122Z 18 В</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>113512.63</price>
+        <cityprice cityId="615420100">113512.63</cityprice>
+    </offer>
+    <offer sku="1081537">
+      <model>Бензиновая пила Huter BS-25 1200 Вт</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43162.64</price>
+        <cityprice cityId="615420100">43162.64</cityprice>
+    </offer>
+    <offer sku="12713458">
+      <model>Бензиновая пила IVT GCHS-4518TG</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>35748.54</price>
+        <cityprice cityId="615420100">35748.54</cityprice>
+    </offer>
+    <offer sku="1081581">
+      <model>Бензиновая пила Makita DCS500-45 2400 Вт</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>370397.83</price>
+        <cityprice cityId="615420100">370397.83</cityprice>
+    </offer>
+    <offer sku="1081538">
+      <model>Бензиновая пила Huter BS-40 1500 Вт</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27317.76</price>
+        <cityprice cityId="615420100">27317.76</cityprice>
+    </offer>
+    <offer sku="1081544">
+      <model>Бензиновая пила Eurolux GS-4516 1800 Вт</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27753.48</price>
+        <cityprice cityId="615420100">27753.48</cityprice>
+    </offer>
+    <offer sku="12713459">
+      <model>Бензиновая пила IVT GCHS-5020TG</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39356.79</price>
+        <cityprice cityId="615420100">39356.79</cityprice>
+    </offer>
+    <offer sku="12173868">
+      <model>Бензопила Зубр ПБЦ-М62-50</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44494.87</price>
+        <cityprice cityId="615420100">44494.87</cityprice>
+    </offer>
+    <offer sku="12173527">
+      <model>Бензопила Зубр ПБЦ-370 35П</model>
+      <brand>Зубр</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69775.95</price>
+        <cityprice cityId="615420100">69775.95</cityprice>
+    </offer>
+    <offer sku="12195210">
+      <model>Мотопила Stihl GTA 26 Set GA010116918</model>
+      <brand>STIHL</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>93860.91</price>
+        <cityprice cityId="615420100">93860.91</cityprice>
+    </offer>
+    <offer sku="1081583">
+      <model>Бензопила Huter BS-62 3300 Вт</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>42058.05</price>
+        <cityprice cityId="615420100">42058.05</cityprice>
+    </offer>
+    <offer sku="1081540">
+      <model>Бензопила Huter BS-45M 2300 Вт</model>
+      <brand>Huter</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>31674.93</price>
+        <cityprice cityId="615420100">31674.93</cityprice>
+    </offer>
+    <offer sku="12357385">
+      <model>Бензопила Zimani MS 180 16&quot;</model>
+      <brand>ZimAni</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>97821.88</price>
+        <cityprice cityId="615420100">97821.88</cityprice>
+    </offer>
+    <offer sku="463480">
+      <model>Бензопила Alteco GCS 52 Pro</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44064.7</price>
+        <cityprice cityId="615420100">44064.7</cityprice>
+    </offer>
+    <offer sku="12198610">
+      <model>Бензопила Hanskonner HGC1416</model>
+      <brand>Hanskonner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53600.08</price>
+        <cityprice cityId="615420100">53600.08</cityprice>
+    </offer>
+    <offer sku="12710091">
+      <model>Бензопила Eurolux GS-5218</model>
+      <brand>Eurolux</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>30598.98</price>
+        <cityprice cityId="615420100">30598.98</cityprice>
+    </offer>
+    <offer sku="12198611">
+      <model>Бензопила Hanskonner HGC1618</model>
+      <brand>Hanskonner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49401</price>
+        <cityprice cityId="615420100">49401</cityprice>
+    </offer>
+    <offer sku="12173522">
+      <model>Бензопила Maxcut MC 146 Shark 022100147</model>
+      <brand>Maxcut</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>38361.85</price>
+        <cityprice cityId="615420100">38361.85</cityprice>
+    </offer>
+    <offer sku="12173871">
+      <model>Бензопила Makita EA4301F38C</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>303094.9</price>
+        <cityprice cityId="615420100">303094.9</cityprice>
+    </offer>
+    <offer sku="3343453">
+      <model>Электролобзик Makita 4327</model>
+      <brand>Makita </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27170.55</price>
+        <cityprice cityId="615420100">27170.55</cityprice>
+    </offer>
+    <offer sku="504897">
+      <model>Электролобзик Alteco &quot;JS 750&quot;</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15746.07</price>
+        <cityprice cityId="615420100">15746.07</cityprice>
+    </offer>
+    <offer sku="3343719">
+      <model>Электролобзик Makita 4329 450 Вт</model>
+      <brand>Makita</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29530.93</price>
+        <cityprice cityId="615420100">29530.93</cityprice>
+    </offer>
+    <offer sku="7545361">
+      <model>Электролобзик Вихрь ЛЭ-80</model>
+      <brand>Вихрь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12627.88</price>
+        <cityprice cityId="615420100">12627.88</cityprice>
+    </offer>
+    <offer sku="113181">
+      <model>Электролобзик Alteco JS 500 Promo</model>
+      <brand>ALTECO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10421.63</price>
+        <cityprice cityId="615420100">10421.63</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
