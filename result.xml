@@ -15618,5 +15618,2858 @@
       <price>23218.47</price>
         <cityprice cityId="615420100">23218.47</cityprice>
     </offer>
+    <offer sku="12179183">
+      <model>Сверло корончатое Karnasch 20.1316-18 18x55мм</model>
+      <brand>Karnasch</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44460.9</price>
+        <cityprice cityId="615420100">44460.9</cityprice>
+    </offer>
+    <offer sku="12179218">
+      <model>Дизельный генератор Magnetta MDE-12E3</model>
+      <brand>Magnetta</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1083856.95</price>
+        <cityprice cityId="615420100">1083856.95</cityprice>
+    </offer>
+    <offer sku="12179219">
+      <model>Плита Kronospan OSB-3, 2500x1250x15 мм</model>
+      <brand>Kronospan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5840.19</price>
+        <cityprice cityId="615420100">5840.19</cityprice>
+    </offer>
+    <offer sku="255336">
+      <model>Стеллаж Промет MS Strong 200х100х60, 6 полок</model>
+      <brand>Промет</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46788.68</price>
+        <cityprice cityId="615420100">46788.68</cityprice>
+    </offer>
+    <offer sku="12179375">
+      <model>Кровать медицинская детская Меги МСК-108</model>
+      <brand>Меги</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>192700.46</price>
+        <cityprice cityId="615420100">192700.46</cityprice>
+    </offer>
+    <offer sku="106781">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot;, Alvest, черное, регулируемое</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90680.48</price>
+        <cityprice cityId="615420100">90680.48</cityprice>
+    </offer>
+    <offer sku="12179532">
+      <model>Парта школьная одноместная Advan JW-12A, стул в комплекте, бело-синяя</model>
+      <brand>Advan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50243.78</price>
+        <cityprice cityId="615420100">50243.78</cityprice>
+    </offer>
+    <offer sku="12179538">
+      <model>Парта школьная двухместная Advan JW-201A, 2 стула в комплекте, бело-синяя</model>
+      <brand>Advan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62679.99</price>
+        <cityprice cityId="615420100">62679.99</cityprice>
+    </offer>
+    <offer sku="12179666">
+      <model>Скотч упаковочный Bars Tape 18 мм*28 м, канцелярский</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>106.71</price>
+        <cityprice cityId="615420100">106.71</cityprice>
+    </offer>
+    <offer sku="12179667">
+      <model>Скотч канцелярский Bars Tape 18 мм*8,5 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108.68</price>
+        <cityprice cityId="615420100">108.68</cityprice>
+    </offer>
+    <offer sku="12179668">
+      <model>Скотч канцелярский Bars Tape, 23 мм*28 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>82.01</price>
+        <cityprice cityId="615420100">82.01</cityprice>
+    </offer>
+    <offer sku="12179669">
+      <model>Скотч упаковочный Bars Tape 36 мм*12 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>148.2</price>
+        <cityprice cityId="615420100">148.2</cityprice>
+    </offer>
+    <offer sku="12179671">
+      <model>Скотч упаковочный Bars Tape 36 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>306.29</price>
+        <cityprice cityId="615420100">306.29</cityprice>
+    </offer>
+    <offer sku="12179672">
+      <model>Скотч упаковочный Bars Tape 40 мм*25 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>199.58</price>
+        <cityprice cityId="615420100">199.58</cityprice>
+    </offer>
+    <offer sku="12179673">
+      <model>Скотч упаковочный Bars Tape 40 мм*35 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>157.1</price>
+        <cityprice cityId="615420100">157.1</cityprice>
+    </offer>
+    <offer sku="12179675">
+      <model>Скотч упаковочный Bars Tape 45 мм*60 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>188.71</price>
+        <cityprice cityId="615420100">188.71</cityprice>
+    </offer>
+    <offer sku="12179676">
+      <model>Скотч упаковочный Bars Tape 45 мм* 90 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222.3</price>
+        <cityprice cityId="615420100">222.3</cityprice>
+    </offer>
+    <offer sku="12179677">
+      <model>Скотч упаковочный Bars Tape 45 мм*125 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>238.11</price>
+        <cityprice cityId="615420100">238.11</cityprice>
+    </offer>
+    <offer sku="12179679">
+      <model>Скотч упаковочный Bars Tape 45 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>247</price>
+        <cityprice cityId="615420100">247</cityprice>
+    </offer>
+    <offer sku="12179680">
+      <model>Скотч упаковочный Bars Tape 45 мм*150 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>326.05</price>
+        <cityprice cityId="615420100">326.05</cityprice>
+    </offer>
+    <offer sku="12179681">
+      <model>Скотч упаковочный Bars Tape 45 мм*250 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>355.69</price>
+        <cityprice cityId="615420100">355.69</cityprice>
+    </offer>
+    <offer sku="12179687">
+      <model>Скотч упаковочный Bars Tape 45 мм*300 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>286.53</price>
+        <cityprice cityId="615420100">286.53</cityprice>
+    </offer>
+    <offer sku="12179689">
+      <model>Скотч упаковочный Bars Tape 45 мм*350 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>340.87</price>
+        <cityprice cityId="615420100">340.87</cityprice>
+    </offer>
+    <offer sku="12179695">
+      <model>Скотч упаковочный Bars Tape 48 мм*35 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>204.52</price>
+        <cityprice cityId="615420100">204.52</cityprice>
+    </offer>
+    <offer sku="12179698">
+      <model>Скотч упаковочный Bars Tape 48 мм*50 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>186.74</price>
+        <cityprice cityId="615420100">186.74</cityprice>
+    </offer>
+    <offer sku="12179700">
+      <model>Скотч упаковочный Bars Tape 48 мм*100 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>267.75</price>
+        <cityprice cityId="615420100">267.75</cityprice>
+    </offer>
+    <offer sku="12179705">
+      <model>Скотч упаковочный Bars Tape 54 мм*120 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>311.23</price>
+        <cityprice cityId="615420100">311.23</cityprice>
+    </offer>
+    <offer sku="12179709">
+      <model>Скотч упаковочный Bars Tape 60 мм*25 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>185.75</price>
+        <cityprice cityId="615420100">185.75</cityprice>
+    </offer>
+    <offer sku="12179710">
+      <model>Скотч упаковочный Bars Tape 60 мм*35 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>255.9</price>
+        <cityprice cityId="615420100">255.9</cityprice>
+    </offer>
+    <offer sku="12179712">
+      <model>Скотч упаковочный Bars Tape 60 мм*60 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261.83</price>
+        <cityprice cityId="615420100">261.83</cityprice>
+    </offer>
+    <offer sku="12179713">
+      <model>Скотч упаковочный Bars Tape 60 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>308.26</price>
+        <cityprice cityId="615420100">308.26</cityprice>
+    </offer>
+    <offer sku="12179716">
+      <model>Скотч упаковочный Bars Tape 80 мм*90 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>386.32</price>
+        <cityprice cityId="615420100">386.32</cityprice>
+    </offer>
+    <offer sku="12179718">
+      <model>Скотч упаковочный Bars Tape 80 мм*135 м, прозрачный</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>246.02</price>
+        <cityprice cityId="615420100">246.02</cityprice>
+    </offer>
+    <offer sku="12179774">
+      <model>Смеситель для ванны с душем Aquadeus 39C черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12098.3</price>
+        <cityprice cityId="615420100">12098.3</cityprice>
+    </offer>
+    <offer sku="12179781">
+      <model>Смеситель для кухни Aquadeus 44F черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7795.48</price>
+        <cityprice cityId="615420100">7795.48</cityprice>
+    </offer>
+    <offer sku="12179786">
+      <model>Смеситель для кухни Aquadeus AD05 графит</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50837.58</price>
+        <cityprice cityId="615420100">50837.58</cityprice>
+    </offer>
+    <offer sku="12179793">
+      <model>Смеситель для душа Aquadeus 71K черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37544.76</price>
+        <cityprice cityId="615420100">37544.76</cityprice>
+    </offer>
+    <offer sku="12179796">
+      <model>Смеситель для кухни Aquadeus 44F серый</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7657.15</price>
+        <cityprice cityId="615420100">7657.15</cityprice>
+    </offer>
+    <offer sku="12179799">
+      <model>Смеситель для кухни AquaDeus AD10</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17673.7</price>
+        <cityprice cityId="615420100">17673.7</cityprice>
+    </offer>
+    <offer sku="12179803">
+      <model>Смеситель для кухни Aquadeus AD04</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8645.17</price>
+        <cityprice cityId="615420100">8645.17</cityprice>
+    </offer>
+    <offer sku="12179807">
+      <model>Смеситель для душа Aquadeus 65H</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15724.34</price>
+        <cityprice cityId="615420100">15724.34</cityprice>
+    </offer>
+    <offer sku="12179811">
+      <model>Смеситель для раковины Aquadeus 70KB</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10473.01</price>
+        <cityprice cityId="615420100">10473.01</cityprice>
+    </offer>
+    <offer sku="12179855">
+      <model>Смеситель для кухни Aquadeus AD05 черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19739.65</price>
+        <cityprice cityId="615420100">19739.65</cityprice>
+    </offer>
+    <offer sku="12179856">
+      <model>Смеситель для раковины Aquadeus 10А</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4485.61</price>
+        <cityprice cityId="615420100">4485.61</cityprice>
+    </offer>
+    <offer sku="12179858">
+      <model>Смеситель для ванны с душем Aquadeus 36D</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8432.75</price>
+        <cityprice cityId="615420100">8432.75</cityprice>
+    </offer>
+    <offer sku="12179859">
+      <model>Смеситель для раковины Aquadeus 70K черный</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12587.37</price>
+        <cityprice cityId="615420100">12587.37</cityprice>
+    </offer>
+    <offer sku="12179871">
+      <model>Смеситель для кухни AquaDeus AD13</model>
+      <brand>Aquadeus</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48747.92</price>
+        <cityprice cityId="615420100">48747.92</cityprice>
+    </offer>
+    <offer sku="12179918">
+      <model>Счетчик воды Waviot Аква L110 D15 BE</model>
+      <brand>Waviot</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>27170.55</price>
+        <cityprice cityId="615420100">27170.55</cityprice>
+    </offer>
+    <offer sku="773463">
+      <model>Виброплита ТСС WP170H 207251</model>
+      <brand>ТСС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1008304.05</price>
+        <cityprice cityId="615420100">1008304.05</cityprice>
+    </offer>
+    <offer sku="970399">
+      <model>Виброплита ТСС WP320H 207257</model>
+      <brand>ТСС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1522853.01</price>
+        <cityprice cityId="615420100">1522853.01</cityprice>
+    </offer>
+    <offer sku="12180233">
+      <model>Нагель-дюбель ТОО &quot;Алматинский метизный завод&quot; 6х60 мм, 100 шт/уп</model>
+      <brand>ТОО &quot;Алматинский метизный завод&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>835.86</price>
+        <cityprice cityId="615420100">835.86</cityprice>
+    </offer>
+    <offer sku="12180303">
+      <model>Бланк Bishep &quot;Сигнальный лист участковому врачу&quot;, А5</model>
+      <brand>Bishep</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4.94</price>
+        <cityprice cityId="615420100">4.94</cityprice>
+    </offer>
+    <offer sku="12180322">
+      <model>IP-АТС Агат CU-7212MT</model>
+      <brand>Агат</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2139459.5</price>
+        <cityprice cityId="615420100">2139459.5</cityprice>
+    </offer>
+    <offer sku="12180324">
+      <model>Скотч двухсторонний Bars Tape, 20 мм х 8 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>191.68</price>
+        <cityprice cityId="615420100">191.68</cityprice>
+    </offer>
+    <offer sku="12180325">
+      <model>Скотч двухсторонний Bars Tape, 40 мм х 8 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>296.41</price>
+        <cityprice cityId="615420100">296.41</cityprice>
+    </offer>
+    <offer sku="12180326">
+      <model>Скотч двухсторонний Bars Tape, 15 мм х 8 м</model>
+      <brand>Bars Tape</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>105.72</price>
+        <cityprice cityId="615420100">105.72</cityprice>
+    </offer>
+    <offer sku="12180505">
+      <model>Стойка ресепшн Общественное объединение инвалидов &quot;Sert&quot; Луза, 520х60х120 см, белая</model>
+      <brand>Общественное объединение инвалидов &quot;Sert&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1440533.16</price>
+        <cityprice cityId="615420100">1440533.16</cityprice>
+    </offer>
+    <offer sku="12180531">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; F-1, белое</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54225.5</price>
+        <cityprice cityId="615420100">54225.5</cityprice>
+    </offer>
+    <offer sku="12180559">
+      <model>Стул-табурет армейский Фабрика им.Мебеля 70149-001 на металлическом каркасе</model>
+      <brand>Фабрика им. Мебеля</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4248.49</price>
+        <cityprice cityId="615420100">4248.49</cityprice>
+    </offer>
+    <offer sku="233371">
+      <model>Монтажная пена Kolt 50+ летняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3122.14</price>
+        <cityprice cityId="615420100">3122.14</cityprice>
+    </offer>
+    <offer sku="107039">
+      <model>Монтажная пена Kolt 65+ профессиональная летняя 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3171.54</price>
+        <cityprice cityId="615420100">3171.54</cityprice>
+    </offer>
+    <offer sku="196688">
+      <model>Монтажная пена Kolt 70+ профессиональная летняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3405.7</price>
+        <cityprice cityId="615420100">3405.7</cityprice>
+    </offer>
+    <offer sku="982914">
+      <model>Монтажная пена Kolt 80 профессиональная летняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6828.21</price>
+        <cityprice cityId="615420100">6828.21</cityprice>
+    </offer>
+    <offer sku="246776">
+      <model>Монтажная пена Refit 65 профессиональная зимняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3539.09</price>
+        <cityprice cityId="615420100">3539.09</cityprice>
+    </offer>
+    <offer sku="12252213">
+      <model>Монтажная пена Kolt 65 Tempered Gun профессиональная с пониженным расширением, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3641.84</price>
+        <cityprice cityId="615420100">3641.84</cityprice>
+    </offer>
+    <offer sku="473021">
+      <model>Монтажная пена Kolt 65+ профессиональная всеcезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3437.32</price>
+        <cityprice cityId="615420100">3437.32</cityprice>
+    </offer>
+    <offer sku="778635">
+      <model>Монтажная пена Kolt 65+ профессиональная зимняя 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4878.84</price>
+        <cityprice cityId="615420100">4878.84</cityprice>
+    </offer>
+    <offer sku="928932">
+      <model>Монтажная пена Kolt 70+ профессиональная зимняя, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3603.31</price>
+        <cityprice cityId="615420100">3603.31</cityprice>
+    </offer>
+    <offer sku="630161">
+      <model>Монтажная пена Kolt 65++ Perfect Gun профессиональная с повышенным расширением, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4010.37</price>
+        <cityprice cityId="615420100">4010.37</cityprice>
+    </offer>
+    <offer sku="386347">
+      <model>Монтажная пена Refit 65 профессиональная всеcезонная 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3644.81</price>
+        <cityprice cityId="615420100">3644.81</cityprice>
+    </offer>
+    <offer sku="610340">
+      <model>Монтажная пена Refit 65 профессиональная для окон и дверей 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3150.8</price>
+        <cityprice cityId="615420100">3150.8</cityprice>
+    </offer>
+    <offer sku="359958">
+      <model>Монтажная пена Refit 65 профессиональная летняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3249.6</price>
+        <cityprice cityId="615420100">3249.6</cityprice>
+    </offer>
+    <offer sku="332054">
+      <model>Монтажная пена Refit 70 профессиональная летняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4152.65</price>
+        <cityprice cityId="615420100">4152.65</cityprice>
+    </offer>
+    <offer sku="633214">
+      <model>Монтажная пена Refit 70 профессиональная зимняя, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4440.16</price>
+        <cityprice cityId="615420100">4440.16</cityprice>
+    </offer>
+    <offer sku="209447">
+      <model>Монтажная пена Super Монтажник 50 профессиональная всесезонная, 1 л</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4461.9</price>
+        <cityprice cityId="615420100">4461.9</cityprice>
+    </offer>
+    <offer sku="998971">
+      <model>Монтажная пена профессиональная всесезонная Super Монтажник 65 SM78U65, 1000 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2896.87</price>
+        <cityprice cityId="615420100">2896.87</cityprice>
+    </offer>
+    <offer sku="542932">
+      <model>Монтажная пена профессиональная всесезонная Super Монтажник 70 SM85U70, 1000 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3052.98</price>
+        <cityprice cityId="615420100">3052.98</cityprice>
+    </offer>
+    <offer sku="12252240">
+      <model>Женские гигиенические прокладки Preal Classic Maxi ночные 6 капель 10 шт</model>
+      <brand>Preal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>537.48</price>
+        <cityprice cityId="615420100">537.48</cityprice>
+    </offer>
+    <offer sku="743842">
+      <model>Монтажная пена Kolt 30+ бытовая всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4939.11</price>
+        <cityprice cityId="615420100">4939.11</cityprice>
+    </offer>
+    <offer sku="12252387">
+      <model>Матрас ортопедический ТОО &quot;Рапила&quot; 200х90х21 см, белый</model>
+      <brand>ТОО &quot;Рапила&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41494.86</price>
+        <cityprice cityId="615420100">41494.86</cityprice>
+    </offer>
+    <offer sku="959166">
+      <model>Монтажная пена Kolt 50+ бытовая всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3174.51</price>
+        <cityprice cityId="615420100">3174.51</cityprice>
+    </offer>
+    <offer sku="163287">
+      <model>Монтажная пена Refit  50 бытовая всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4936.15</price>
+        <cityprice cityId="615420100">4936.15</cityprice>
+    </offer>
+    <offer sku="181072">
+      <model>Монтажная пена Refit Mini бытовая всесезонная 650 мл</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="933529">
+      <model>Монтажная пена Super Монтажник 50 бытовая всесезонная 1 л</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="160678">
+      <model>Монтажная пена Super Монтажник Mini бытовая всесезонная 650 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="12252489">
+      <model>Ежедневник Staff 127053 синий 3 шт</model>
+      <brand>  Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>620.47</price>
+        <cityprice cityId="615420100">620.47</cityprice>
+    </offer>
+    <offer sku="12252494">
+      <model>Ежедневник Brauberg Кожа 129239 оранжевый 3 шт</model>
+      <brand>Brauberg </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1636.16</price>
+        <cityprice cityId="615420100">1636.16</cityprice>
+    </offer>
+    <offer sku="12252498">
+      <model>Ежедневник Staff 127054 красный 3 шт</model>
+      <brand>Staff</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7459.55</price>
+        <cityprice cityId="615420100">7459.55</cityprice>
+    </offer>
+    <offer sku="12252499">
+      <model>Ежедневник Brauberg 126541 красный 3 шт</model>
+      <brand>Brauberg</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>708.87</price>
+        <cityprice cityId="615420100">708.87</cityprice>
+    </offer>
+    <offer sku="12252510">
+      <model>Вышка-тура ООО &quot;РИЗ&quot; ВС-250/1.2</model>
+      <brand>ООО &quot;РИЗ&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>316561.61</price>
+        <cityprice cityId="615420100">316561.61</cityprice>
+    </offer>
+    <offer sku="12252515">
+      <model>Проф-пресс Венецианские Гондолы 96-4519 96 листов мультиколор 3 шт</model>
+      <brand>Проф-Пресс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>60933.17</price>
+        <cityprice cityId="615420100">60933.17</cityprice>
+    </offer>
+    <offer sku="12252516">
+      <model>Блокнот Полином Графо А6 50 листов мультиколор 7 шт</model>
+      <brand>Полином</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>45589.22</price>
+        <cityprice cityId="615420100">45589.22</cityprice>
+    </offer>
+    <offer sku="745239">
+      <model>Монтажная пена Kolt огнестойкая профессиональная всесезонная, 1 л</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4113.13</price>
+        <cityprice cityId="615420100">4113.13</cityprice>
+    </offer>
+    <offer sku="969514">
+      <model>Монтажная пена Refit B1 огнестойкая профессиональная всесезонная, 1 л</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3754.48</price>
+        <cityprice cityId="615420100">3754.48</cityprice>
+    </offer>
+    <offer sku="12252528">
+      <model>Блокнот Проф-пресс Мотоцикл на мосту 40 листов мультиколор 10 шт</model>
+      <brand>Проф-Пресс</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>73939.46</price>
+        <cityprice cityId="615420100">73939.46</cityprice>
+    </offer>
+    <offer sku="12252529">
+      <model>Блокнот Тетрапром Sweet Story 40 листов мультиколор 17 шт</model>
+      <brand>Тетрапром</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>43472.88</price>
+        <cityprice cityId="615420100">43472.88</cityprice>
+    </offer>
+    <offer sku="12252553">
+      <model>Бумага для плоттера Lomond L1202025</model>
+      <brand>Lomond</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11591.45</price>
+        <cityprice cityId="615420100">11591.45</cityprice>
+    </offer>
+    <offer sku="12252563">
+      <model>Парта школьная Advan AD-212A двухместная, 2 стула в комплекте</model>
+      <brand>Advan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>62923.04</price>
+        <cityprice cityId="615420100">62923.04</cityprice>
+    </offer>
+    <offer sku="12252567">
+      <model>Модуль Cisco CP-8800-V-KEM, 8800 серии Video KEM, 28 кнопок</model>
+      <brand>Cisco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>473922.57</price>
+        <cityprice cityId="615420100">473922.57</cityprice>
+    </offer>
+    <offer sku="12252577">
+      <model>Кабель питания Cisco CP-PWR-CORD-CE</model>
+      <brand>Cisco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3051.99</price>
+        <cityprice cityId="615420100">3051.99</cityprice>
+    </offer>
+    <offer sku="203876">
+      <model>Очиститель Kolt для затвердевшей монтажной пены, 650 мл</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4939.11</price>
+        <cityprice cityId="615420100">4939.11</cityprice>
+    </offer>
+    <offer sku="404152">
+      <model>Очиститель Kolt для незатвердевшей монтажной пены, 650 мл</model>
+      <brand>Kolt</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4935.16</price>
+        <cityprice cityId="615420100">4935.16</cityprice>
+    </offer>
+    <offer sku="977989">
+      <model>Очиститель Refit для незатвердевшей монтажной пены, 650 мл</model>
+      <brand>Refit</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="12252670">
+      <model>Ножницы Dolce Costo D00174, 23.5см., ручки с резиновыми вставками</model>
+      <brand>Dolce Costo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>410.03</price>
+        <cityprice cityId="615420100">410.03</cityprice>
+    </offer>
+    <offer sku="597651">
+      <model>Очиститель Super Монтажник для незатвердевшей монтажной пены, 650 мл</model>
+      <brand>Super Монтажник</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4938.12</price>
+        <cityprice cityId="615420100">4938.12</cityprice>
+    </offer>
+    <offer sku="12252716">
+      <model>Лоток вертикальный Dolce Costo, серый</model>
+      <brand>Dolce Costo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>902.06</price>
+        <cityprice cityId="615420100">902.06</cityprice>
+    </offer>
+    <offer sku="12252729">
+      <model>Рулетка IVT 0170, 2 м</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3723.85</price>
+        <cityprice cityId="615420100">3723.85</cityprice>
+    </offer>
+    <offer sku="12252735">
+      <model>Блокнот Kroyter Друзья 00089 48 листов мультиколор 6 шт</model>
+      <brand>KROYTER</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>63805.34</price>
+        <cityprice cityId="615420100">63805.34</cityprice>
+    </offer>
+    <offer sku="12252742">
+      <model>Блокнот Attache 8с5 60 листов мультиколор 5 шт</model>
+      <brand>Attache</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47854.75</price>
+        <cityprice cityId="615420100">47854.75</cityprice>
+    </offer>
+    <offer sku="12252743">
+      <model>Блокнот Альт Города 3-40-081 40 листов мультиколор 9 шт</model>
+      <brand>АЛЬТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>48335.91</price>
+        <cityprice cityId="615420100">48335.91</cityprice>
+    </offer>
+    <offer sku="12252747">
+      <model>Ежедневник Miniso Mythical series 2007967410109 розовый</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2657.77</price>
+        <cityprice cityId="615420100">2657.77</cityprice>
+    </offer>
+    <offer sku="12252748">
+      <model>Ежедневник Miniso We Bare Bears 0400029741 голубой 2 шт</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49193.52</price>
+        <cityprice cityId="615420100">49193.52</cityprice>
+    </offer>
+    <offer sku="12252750">
+      <model>Записная книжка Miniso Marvel 2007241710109 черный</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>155783.09</price>
+        <cityprice cityId="615420100">155783.09</cityprice>
+    </offer>
+    <offer sku="12252752">
+      <model>Блокнот Miniso Mickey Mouse Collection 2008400010108 черно-белый</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1954.3</price>
+        <cityprice cityId="615420100">1954.3</cityprice>
+    </offer>
+    <offer sku="12252754">
+      <model>Ежедневник Miniso Matte PP 2007684410109 белый</model>
+      <brand>Miniso</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1264.67</price>
+        <cityprice cityId="615420100">1264.67</cityprice>
+    </offer>
+    <offer sku="12252787">
+      <model>Рулетка IVT 0171, 3 м</model>
+      <brand>IVT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1677.66</price>
+        <cityprice cityId="615420100">1677.66</cityprice>
+    </offer>
+    <offer sku="12252791">
+      <model>Рулетка Hobbi 15-1-517, 7.5 м</model>
+      <brand>Hobbi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26735.82</price>
+        <cityprice cityId="615420100">26735.82</cityprice>
+    </offer>
+    <offer sku="12252815">
+      <model>Герметик Tytan Силиконовый Универсальный белый 300 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2086.7</price>
+        <cityprice cityId="615420100">2086.7</cityprice>
+    </offer>
+    <offer sku="12252818">
+      <model>Герметик Tytan КНР Силиконовый универсальный бесцветный 300 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2272.45</price>
+        <cityprice cityId="615420100">2272.45</cityprice>
+    </offer>
+    <offer sku="12252831">
+      <model>Дрель-шуруповерт Uragan YP21024</model>
+      <brand>Ураган</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16796.34</price>
+        <cityprice cityId="615420100">16796.34</cityprice>
+    </offer>
+    <offer sku="12252832">
+      <model>Дрель-шуруповерт Felisatti ДА-14ЭР</model>
+      <brand>Felisatti</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>16529.57</price>
+        <cityprice cityId="615420100">16529.57</cityprice>
+    </offer>
+    <offer sku="12252834">
+      <model>Дрель-шуруповерт Парма ДША-02-1516/2Li</model>
+      <brand>Парма</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>28652.58</price>
+        <cityprice cityId="615420100">28652.58</cityprice>
+    </offer>
+    <offer sku="12252837">
+      <model>Дизельная горелка Sirocco JPE 80/2</model>
+      <brand>Sirocco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>582873.51</price>
+        <cityprice cityId="615420100">582873.51</cityprice>
+    </offer>
+    <offer sku="12252844">
+      <model>Изо-скамья ИП &quot;Тассай&quot; TAS091,  3-х местная, черная</model>
+      <brand>ИП &quot;Тассай&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70495.23</price>
+        <cityprice cityId="615420100">70495.23</cityprice>
+    </offer>
+    <offer sku="12252849">
+      <model>Герметик Tytan ICN2109050 прозрачный 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2224.03</price>
+        <cityprice cityId="615420100">2224.03</cityprice>
+    </offer>
+    <offer sku="12252850">
+      <model>Герметик Tytan 10046142 белый 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1955.29</price>
+        <cityprice cityId="615420100">1955.29</cityprice>
+    </offer>
+    <offer sku="12252852">
+      <model>Герметик Tytan силикон универсальный бесцветный 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2010.62</price>
+        <cityprice cityId="615420100">2010.62</cityprice>
+    </offer>
+    <offer sku="12252853">
+      <model>Герметик Tytan 6189 Н прозрачный 310 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2977.89</price>
+        <cityprice cityId="615420100">2977.89</cityprice>
+    </offer>
+    <offer sku="12252855">
+      <model>Герметик Tytan ICN2109021 белый 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2320.86</price>
+        <cityprice cityId="615420100">2320.86</cityprice>
+    </offer>
+    <offer sku="12252856">
+      <model>Герметик Tytan Высокотемпературный красный 2221 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2513.52</price>
+        <cityprice cityId="615420100">2513.52</cityprice>
+    </offer>
+    <offer sku="12252857">
+      <model>Герметик Tytan для кровли каучуковый черный 310 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2546.13</price>
+        <cityprice cityId="615420100">2546.13</cityprice>
+    </offer>
+    <offer sku="12252858">
+      <model>Герметик Tytan ICN2109011 белый 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1978.02</price>
+        <cityprice cityId="615420100">1978.02</cityprice>
+    </offer>
+    <offer sku="12252859">
+      <model>Герметик Tytan КНР 948637 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2262.57</price>
+        <cityprice cityId="615420100">2262.57</cityprice>
+    </offer>
+    <offer sku="12252860">
+      <model>Герметик Tytan для аквариумов и стекла прозрачный 310 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3028.28</price>
+        <cityprice cityId="615420100">3028.28</cityprice>
+    </offer>
+    <offer sku="12252861">
+      <model>Герметик Tytan ICN2109030 прозрачный 280 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2906.75</price>
+        <cityprice cityId="615420100">2906.75</cityprice>
+    </offer>
+    <offer sku="12252862">
+      <model>Герметик Tytan специальный прозрачный 310 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1734.96</price>
+        <cityprice cityId="615420100">1734.96</cityprice>
+    </offer>
+    <offer sku="12252863">
+      <model>Герметик Kudo 1164041 прозрачный 280 мл</model>
+      <brand>KUDO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2664.69</price>
+        <cityprice cityId="615420100">2664.69</cityprice>
+    </offer>
+    <offer sku="12252864">
+      <model>Герметик Kudo KSK-100 прозрачный 280 мл</model>
+      <brand>KUDO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3290.11</price>
+        <cityprice cityId="615420100">3290.11</cityprice>
+    </offer>
+    <offer sku="12252865">
+      <model>Герметик Kudo KSK-101 белый 280 мл</model>
+      <brand>KUDO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3654.69</price>
+        <cityprice cityId="615420100">3654.69</cityprice>
+    </offer>
+    <offer sku="12252866">
+      <model>Герметик Kudo 1164042 белый 280 мл</model>
+      <brand>KUDO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3566.75</price>
+        <cityprice cityId="615420100">3566.75</cityprice>
+    </offer>
+    <offer sku="12252867">
+      <model>Герметик Kudo Силиконовый для натурального камня и мрамора прозрачный 280 мл</model>
+      <brand>KUDO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3603.31</price>
+        <cityprice cityId="615420100">3603.31</cityprice>
+    </offer>
+    <offer sku="12252868">
+      <model>Герметик Makroflex SХ101 Санитарный прозрачный 290 мл</model>
+      <brand>Makroflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3443.25</price>
+        <cityprice cityId="615420100">3443.25</cityprice>
+    </offer>
+    <offer sku="12252869">
+      <model>Герметик Makroflex AX104 Универсальный белый 280 мл</model>
+      <brand>Makroflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5705.82</price>
+        <cityprice cityId="615420100">5705.82</cityprice>
+    </offer>
+    <offer sku="12252870">
+      <model>Герметик Makroflex АХ104 Универсальный прозрачный 290 мл</model>
+      <brand>Makroflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4640.73</price>
+        <cityprice cityId="615420100">4640.73</cityprice>
+    </offer>
+    <offer sku="12252871">
+      <model>Герметик Makroflex NX108 прозрачный 290 мл</model>
+      <brand>Makroflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6328.27</price>
+        <cityprice cityId="615420100">6328.27</cityprice>
+    </offer>
+    <offer sku="12252872">
+      <model>Герметик Makroflex NX108 белый 290 мл</model>
+      <brand>Makroflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6916.14</price>
+        <cityprice cityId="615420100">6916.14</cityprice>
+    </offer>
+    <offer sku="12252873">
+      <model>Герметик Penosil 170626 черный 280 мл</model>
+      <brand>Penosil</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2631.1</price>
+        <cityprice cityId="615420100">2631.1</cityprice>
+    </offer>
+    <offer sku="12252874">
+      <model>Герметик Penosil General Silicone белый 280 мл</model>
+      <brand>Penosil</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2567.86</price>
+        <cityprice cityId="615420100">2567.86</cityprice>
+    </offer>
+    <offer sku="12252876">
+      <model>Герметик Penosil ClearFix прозрачный 290 мл</model>
+      <brand>Penosil</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2952.2</price>
+        <cityprice cityId="615420100">2952.2</cityprice>
+    </offer>
+    <offer sku="12252877">
+      <model>Герметик Penosil Санитарный прозрачный 280 мл</model>
+      <brand>Penosil</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1665.8</price>
+        <cityprice cityId="615420100">1665.8</cityprice>
+    </offer>
+    <offer sku="12252879">
+      <model>Герметик Putech санитарный белый 280 мл</model>
+      <brand>PUTECH</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3949.12</price>
+        <cityprice cityId="615420100">3949.12</cityprice>
+    </offer>
+    <offer sku="12252883">
+      <model>Герметик Asmaco Санитарный белый 280 мл</model>
+      <brand>ASMACO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2985.8</price>
+        <cityprice cityId="615420100">2985.8</cityprice>
+    </offer>
+    <offer sku="12252884">
+      <model>Герметик Soudal Паркетный Красное дерево 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3544.03</price>
+        <cityprice cityId="615420100">3544.03</cityprice>
+    </offer>
+    <offer sku="12252885">
+      <model>Герметик Soudal Паркетный Сосна 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2304.06</price>
+        <cityprice cityId="615420100">2304.06</cityprice>
+    </offer>
+    <offer sku="12252886">
+      <model>Герметик Soudal Паркетный Вишня красный 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2538.22</price>
+        <cityprice cityId="615420100">2538.22</cityprice>
+    </offer>
+    <offer sku="12252887">
+      <model>Герметик Soudal Санитарный белый 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2370.26</price>
+        <cityprice cityId="615420100">2370.26</cityprice>
+    </offer>
+    <offer sku="12252888">
+      <model>Герметик Soudal Универсальный прозрачный 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2470.05</price>
+        <cityprice cityId="615420100">2470.05</cityprice>
+    </offer>
+    <offer sku="12252889">
+      <model>Герметик Soudal Паркетный акриловый Вишня красный 280 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2687.41</price>
+        <cityprice cityId="615420100">2687.41</cityprice>
+    </offer>
+    <offer sku="12252890">
+      <model>Герметик Soudal Паркетный акриловый Венге 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2719.03</price>
+        <cityprice cityId="615420100">2719.03</cityprice>
+    </offer>
+    <offer sku="12252891">
+      <model>Герметик Soudal Паркетный Дуб коричневый 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2835.62</price>
+        <cityprice cityId="615420100">2835.62</cityprice>
+    </offer>
+    <offer sku="12252892">
+      <model>Герметик Soudal Паркетный Бук коричневый 300 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3446.21</price>
+        <cityprice cityId="615420100">3446.21</cityprice>
+    </offer>
+    <offer sku="12252893">
+      <model>Герметик Soudal Паркетный Венге 280 мл</model>
+      <brand>Soudal</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2946.28</price>
+        <cityprice cityId="615420100">2946.28</cityprice>
+    </offer>
+    <offer sku="12252927">
+      <model>Дрель Total TD2051026</model>
+      <brand>Total</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>15747.06</price>
+        <cityprice cityId="615420100">15747.06</cityprice>
+    </offer>
+    <offer sku="12252966">
+      <model>Ежедневник Bruno Visconti Marseille 3-215/07 розовый 272 листа</model>
+      <brand>Bruno Visconti </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3995.55</price>
+        <cityprice cityId="615420100">3995.55</cityprice>
+    </offer>
+    <offer sku="12252968">
+      <model>Ежедневник Moleskine 12M 8053853606686 черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1167.84</price>
+        <cityprice cityId="615420100">1167.84</cityprice>
+    </offer>
+    <offer sku="12252970">
+      <model>Ежедневник ДПС Лондон 2528-1 мультиколор 2 шт</model>
+      <brand>ДПС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>46590.08</price>
+        <cityprice cityId="615420100">46590.08</cityprice>
+    </offer>
+    <offer sku="12252971">
+      <model>Ежедневник ДПС Париж 2528-2 мультиколор 2 шт</model>
+      <brand>ДПС</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53522.03</price>
+        <cityprice cityId="615420100">53522.03</cityprice>
+    </offer>
+    <offer sku="12252972">
+      <model>Ежедневник Moleskine 12M Monthly Pocket 2021 черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2262.57</price>
+        <cityprice cityId="615420100">2262.57</cityprice>
+    </offer>
+    <offer sku="12252979">
+      <model>Ежедневник My happy day рlanner Нежность герберы розовый</model>
+      <brand>My happy day рlanner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7872.54</price>
+        <cityprice cityId="615420100">7872.54</cityprice>
+    </offer>
+    <offer sku="12253037">
+      <model>Герметик Henkel Makroflex SX101 Sanitary Transparent 280 мл</model>
+      <brand>Henkel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4642.71</price>
+        <cityprice cityId="615420100">4642.71</cityprice>
+    </offer>
+    <offer sku="12253039">
+      <model>Герметик Henkel Makroflex SX101 290 мл</model>
+      <brand>Henkel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3400.76</price>
+        <cityprice cityId="615420100">3400.76</cityprice>
+    </offer>
+    <offer sku="12253040">
+      <model>Герметик Henkel Ceresit CS25 прозрачный 280 мл</model>
+      <brand>Henkel</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5405.46</price>
+        <cityprice cityId="615420100">5405.46</cityprice>
+    </offer>
+    <offer sku="12253043">
+      <model>Герметик Fome Flex 102 прозрачный 310 мл</model>
+      <brand>Fome Flex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3957.02</price>
+        <cityprice cityId="615420100">3957.02</cityprice>
+    </offer>
+    <offer sku="12253047">
+      <model>Клей-герметик Sikaflex 11FC+ C297 12 КРТ300 черный 300 мл</model>
+      <brand>Sikaflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5103.12</price>
+        <cityprice cityId="615420100">5103.12</cityprice>
+    </offer>
+    <offer sku="12253048">
+      <model>Клей-герметик Sikaflex 11FC+ C297 12 КРТ300 белый 300 мл</model>
+      <brand>Sikaflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5147.58</price>
+        <cityprice cityId="615420100">5147.58</cityprice>
+    </offer>
+    <offer sku="12253049">
+      <model>Клей-герметик Sikaflex 11FC+ C297 12 КРТ300 коричневый 300 мл</model>
+      <brand>Sikaflex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4895.64</price>
+        <cityprice cityId="615420100">4895.64</cityprice>
+    </offer>
+    <offer sku="12253056">
+      <model>Герметик Master Klein Санитарный силиконовый белый 280 мл</model>
+      <brand>Master Klein</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2418.67</price>
+        <cityprice cityId="615420100">2418.67</cityprice>
+    </offer>
+    <offer sku="12253057">
+      <model>Герметик Master Klein Силиконовый универсальный белый 280 мл</model>
+      <brand>Master Klein</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3358.28</price>
+        <cityprice cityId="615420100">3358.28</cityprice>
+    </offer>
+    <offer sku="12253059">
+      <model>Герметик Master Klein Силиконовый универсальный прозрачный 280 мл</model>
+      <brand>Master Klein</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2784.24</price>
+        <cityprice cityId="615420100">2784.24</cityprice>
+    </offer>
+    <offer sku="12253064">
+      <model>Герметик Finncolor Технониколь Санитарный силиконовый белый 280 мл</model>
+      <brand>FINNCOLOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2460.17</price>
+        <cityprice cityId="615420100">2460.17</cityprice>
+    </offer>
+    <offer sku="12253066">
+      <model>Герметик Finncolor Технониколь Санитарный силиконовый прозрачный 280 мл</model>
+      <brand>FINNCOLOR</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2465.11</price>
+        <cityprice cityId="615420100">2465.11</cityprice>
+    </offer>
+    <offer sku="12253072">
+      <model>Герметик Profflex Силиконовый нейтральный белый 280 мл</model>
+      <brand>PROFFLEX</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2460.17</price>
+        <cityprice cityId="615420100">2460.17</cityprice>
+    </offer>
+    <offer sku="12253084">
+      <model>Герметик X-Pert Санитарный силиконовый прозрачный 260 мл</model>
+      <brand>X-PERT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1383.23</price>
+        <cityprice cityId="615420100">1383.23</cityprice>
+    </offer>
+    <offer sku="12253087">
+      <model>Герметик Сэкономь Силиконовый универсальный белый 260 мл</model>
+      <brand>Сэкономь</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2763.49</price>
+        <cityprice cityId="615420100">2763.49</cityprice>
+    </offer>
+    <offer sku="12253089">
+      <model>Герметик Гермент Силиконовый универсальный прозрачный 280 мл</model>
+      <brand>Гермент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2245.77</price>
+        <cityprice cityId="615420100">2245.77</cityprice>
+    </offer>
+    <offer sku="12253090">
+      <model>Герметик Момент Силиконовый универсальный прозрачный 280 мл</model>
+      <brand>Момент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1481.04</price>
+        <cityprice cityId="615420100">1481.04</cityprice>
+    </offer>
+    <offer sku="12253091">
+      <model>Герметик Pufas U22 032011092 универсал белый 280 мл</model>
+      <brand>Pufas </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2902.8</price>
+        <cityprice cityId="615420100">2902.8</cityprice>
+    </offer>
+    <offer sku="12253093">
+      <model>Герметик Гермент Cиликоновый санитарный прозрачный 280 мл</model>
+      <brand>Гермент</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3259.48</price>
+        <cityprice cityId="615420100">3259.48</cityprice>
+    </offer>
+    <offer sku="12253094">
+      <model>Герметик Mixit 999 85 мл</model>
+      <brand>MIXIT</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3460.05</price>
+        <cityprice cityId="615420100">3460.05</cityprice>
+    </offer>
+    <offer sku="12253355">
+      <model>Диван для зала ожидания ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot; Дэрби, черный</model>
+      <brand>ОО &quot;Общество инвалидов &quot;Ақниет Holding&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>543411</price>
+        <cityprice cityId="615420100">543411</cityprice>
+    </offer>
+    <offer sku="12253382">
+      <model>Ежедневник My happy day рlanner Апельсиновый рай оранжевый</model>
+      <brand>My happy day рlanner</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6940.84</price>
+        <cityprice cityId="615420100">6940.84</cityprice>
+    </offer>
+    <offer sku="197654">
+      <model>Ежедневник Berlingo xGold UD0_81508 розовый</model>
+      <brand>Berlingo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4041</price>
+        <cityprice cityId="615420100">4041</cityprice>
+    </offer>
+    <offer sku="12253386">
+      <model>Блокнот Yiwu Hanmio Trade Ягодный микс JY105/2 серый 128 листов</model>
+      <brand>Yiwu Hanmio Trade</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4065.7</price>
+        <cityprice cityId="615420100">4065.7</cityprice>
+    </offer>
+    <offer sku="12253388">
+      <model>Блокнот Yiwu Hanmio Trade Фантазия Yearn For JY93/4 мультиколор 38 листов</model>
+      <brand>Yiwu Hanmio Trade</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2739.78</price>
+        <cityprice cityId="615420100">2739.78</cityprice>
+    </offer>
+    <offer sku="12253389">
+      <model>Блокнот Johnshen Яркий лимон MF992294-2 розовый 80 листов</model>
+      <brand>Johnshen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>967.27</price>
+        <cityprice cityId="615420100">967.27</cityprice>
+    </offer>
+    <offer sku="917138">
+      <model>Медаль за 3 место Mir Nagrad MKMN4823с</model>
+      <brand>Mir Nagrad</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>592.81</price>
+        <cityprice cityId="615420100">592.81</cityprice>
+    </offer>
+    <offer sku="12253495">
+      <model>Конфорка ОАО &quot;Йошкар-Олинский ремонтный завод&quot; КЭТ-0,12</model>
+      <brand>ОАО &quot;Йошкар-Олинский ремонтный завод&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20748.42</price>
+        <cityprice cityId="615420100">20748.42</cityprice>
+    </offer>
+    <offer sku="913153">
+      <model>Медаль за 2 место Mir Nagrad MKMN4823b</model>
+      <brand>Mir Nagrad</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>592.81</price>
+        <cityprice cityId="615420100">592.81</cityprice>
+    </offer>
+    <offer sku="155875">
+      <model>Панель светодиодная Temiz Light 65Вт 6500К с драйвером</model>
+      <brand>Temiz Light</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5127.82</price>
+        <cityprice cityId="615420100">5127.82</cityprice>
+    </offer>
+    <offer sku="12253549">
+      <model>Печь хлебопекарная Восход ХПЭ 750/4с</model>
+      <brand>Восход</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1953314.55</price>
+        <cityprice cityId="615420100">1953314.55</cityprice>
+    </offer>
+    <offer sku="12253615">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Consul, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>132542.88</price>
+        <cityprice cityId="615420100">132542.88</cityprice>
+    </offer>
+    <offer sku="12253616">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; Ardor, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>67284.16</price>
+        <cityprice cityId="615420100">67284.16</cityprice>
+    </offer>
+    <offer sku="12253618">
+      <model>Офисное кресло ИП &quot;Елеусинов Б.Б.&quot; NCVi, черное</model>
+      <brand>ИП &quot;Елеусинов Б.Б.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>29038.9</price>
+        <cityprice cityId="615420100">29038.9</cityprice>
+    </offer>
+    <offer sku="12253621">
+      <model>Блокнот Johnshen 1228790 Канцелярский набор Линии Блокнот + карандаши</model>
+      <brand>Johnshen</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2996.66</price>
+        <cityprice cityId="615420100">2996.66</cityprice>
+    </offer>
+    <offer sku="12253632">
+      <model>Ежедневник Moleskine 12M Monthly XL 2021 черный 2021</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1139.19</price>
+        <cityprice cityId="615420100">1139.19</cityprice>
+    </offer>
+    <offer sku="12253633">
+      <model>Ежедневник Moleskine 12M 8053853606570 синий 2021</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2132.15</price>
+        <cityprice cityId="615420100">2132.15</cityprice>
+    </offer>
+    <offer sku="12253640">
+      <model>Еженедельник Moleskine 12M 8058341715901 черный 2019</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12823.51</price>
+        <cityprice cityId="615420100">12823.51</cityprice>
+    </offer>
+    <offer sku="12253643">
+      <model>Еженедельник Moleskine PRO 12 Month 2020 Weekly Planner черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1535.38</price>
+        <cityprice cityId="615420100">1535.38</cityprice>
+    </offer>
+    <offer sku="12253648">
+      <model>Еженедельник Moleskine 12M 8058647629360 2020 черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>852.66</price>
+        <cityprice cityId="615420100">852.66</cityprice>
+    </offer>
+    <offer sku="893299">
+      <model>Плата расширения Yeastar EX30</model>
+      <brand>Yeastar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>401012.62</price>
+        <cityprice cityId="615420100">401012.62</cityprice>
+    </offer>
+    <offer sku="12253859">
+      <model>Книга учета Lamark А4 96листов, линейка, твердый переплет, бумвинил, синяя</model>
+      <brand>Lamark</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>902.06</price>
+        <cityprice cityId="615420100">902.06</cityprice>
+    </offer>
+    <offer sku="12253863">
+      <model>Книга учета Альт 7-96-212, А4, 96 листов, линейка, зеленая</model>
+      <brand>Альт</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>713.94</price>
+        <cityprice cityId="615420100">713.94</cityprice>
+    </offer>
+    <offer sku="12253866">
+      <model>Книга учета Альт А4 64 листов. клетка б/вин. обл. твердый переплет, синяя</model>
+      <brand>АЛЬТ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>851.67</price>
+        <cityprice cityId="615420100">851.67</cityprice>
+    </offer>
+    <offer sku="12253873">
+      <model>Резинки для денег Eagle TY391PH, 30гр. L-60мм., 100шт/уп</model>
+      <brand>EAGLE</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>388.31</price>
+        <cityprice cityId="615420100">388.31</cityprice>
+    </offer>
+    <offer sku="12253878">
+      <model>Книга учета Набоков, Abdi, А4, 80л., клетка.</model>
+      <brand>НАБОКОВ</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>565.15</price>
+        <cityprice cityId="615420100">565.15</cityprice>
+    </offer>
+    <offer sku="12253892">
+      <model>Книга учета ООО &quot;Полотняно-заводская бумажная мануфактура&quot; 80KO4S1000, 80 листов, в линию, в картонной обложке, А4</model>
+      <brand>Полотняно-заводская бумажная мануфактура</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>910.95</price>
+        <cityprice cityId="615420100">910.95</cityprice>
+    </offer>
+    <offer sku="12253918">
+      <model>Набор инструментов Ермак 1/4&quot;, 11 предметов</model>
+      <brand>Ермак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="12253920">
+      <model>Настольный набор Bestar 7159 XDU, 7 предметный, махагон</model>
+      <brand>Bestar</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19562.8</price>
+        <cityprice cityId="615420100">19562.8</cityprice>
+    </offer>
+    <offer sku="12253927">
+      <model>Набор инструментов Ермак 1/2&quot;, 19 предметов</model>
+      <brand>Ермак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>13523.03</price>
+        <cityprice cityId="615420100">13523.03</cityprice>
+    </offer>
+    <offer sku="12253936">
+      <model>Набор инструментов Ермак 736-095, 56 предметов</model>
+      <brand>Ермак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>49290.34</price>
+        <cityprice cityId="615420100">49290.34</cityprice>
+    </offer>
+    <offer sku="12253938">
+      <model>Ежедневник Moleskine 2021 12M 8053853606549 красный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1561.07</price>
+        <cityprice cityId="615420100">1561.07</cityprice>
+    </offer>
+    <offer sku="12253939">
+      <model>Набор инструментов Ермак 736-039, 94 предмета</model>
+      <brand>Ермак</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>41482.02</price>
+        <cityprice cityId="615420100">41482.02</cityprice>
+    </offer>
+    <offer sku="12253940">
+      <model>Еженедельник Moleskine 2018-19 18M 8058341716359 черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1188.59</price>
+        <cityprice cityId="615420100">1188.59</cityprice>
+    </offer>
+    <offer sku="12253944">
+      <model>Еженедельник Moleskine 2018 12M 8055002854252 красный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>9317.03</price>
+        <cityprice cityId="615420100">9317.03</cityprice>
+    </offer>
+    <offer sku="12253945">
+      <model>Еженедельник Moleskine 2019 12M 8058341716199 черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>53692.96</price>
+        <cityprice cityId="615420100">53692.96</cityprice>
+    </offer>
+    <offer sku="12253947">
+      <model>Ежедневник Moleskine 2019-20 18M 8058647629391 черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1080.63</price>
+        <cityprice cityId="615420100">1080.63</cityprice>
+    </offer>
+    <offer sku="12253955">
+      <model>Блокнот Wau Цветной 54110 мультиколор</model>
+      <brand>Wau</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1180.67</price>
+        <cityprice cityId="615420100">1180.67</cityprice>
+    </offer>
+    <offer sku="12253960">
+      <model>Ежедневник ArtFox Моей любимке 17559 64 листа мультиколор</model>
+      <brand>ArtFox</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3167.59</price>
+        <cityprice cityId="615420100">3167.59</cityprice>
+    </offer>
+    <offer sku="12253983">
+      <model>Тележка для перевозки больных Меги МСК-404 (ТПБв-01-МСК) внутрикорпусная</model>
+      <brand>Меги</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2222941.26</price>
+        <cityprice cityId="615420100">2222941.26</cityprice>
+    </offer>
+    <offer sku="12253994">
+      <model>Кушетка медицинская массажная Меги МСК-204, КММ-01-МСК, белая</model>
+      <brand>Меги</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>79683.81</price>
+        <cityprice cityId="615420100">79683.81</cityprice>
+    </offer>
+    <offer sku="12254037">
+      <model>Герметик Аквастоп Бассейн серый 1000 мл</model>
+      <brand>АКВАСТОП</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21676.17</price>
+        <cityprice cityId="615420100">21676.17</cityprice>
+    </offer>
+    <offer sku="12254042">
+      <model>Герметик Аквастоп Бассейн серый 3000 мл</model>
+      <brand>АКВАСТОП</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>39519.81</price>
+        <cityprice cityId="615420100">39519.81</cityprice>
+    </offer>
+    <offer sku="12254083">
+      <model>Герметик Аквастоп Бассейн серый 5000 мл</model>
+      <brand>АКВАСТОП</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>54316.4</price>
+        <cityprice cityId="615420100">54316.4</cityprice>
+    </offer>
+    <offer sku="12254108">
+      <model>Герметик Abro Grey 999 42.5 мл</model>
+      <brand>ABRO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4445.1</price>
+        <cityprice cityId="615420100">4445.1</cityprice>
+    </offer>
+    <offer sku="12254163">
+      <model>Журнальный столик ТОО &quot;Имидж Media&quot; 99х55.5х48.5 см, коричневый</model>
+      <brand>ТОО &quot;Имидж Media&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>37825.36</price>
+        <cityprice cityId="615420100">37825.36</cityprice>
+    </offer>
+    <offer sku="12254179">
+      <model>Телефонный аппарат Cisco IP Phone 8865</model>
+      <brand>Cisco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>277147.51</price>
+        <cityprice cityId="615420100">277147.51</cityprice>
+    </offer>
+    <offer sku="12254198">
+      <model>Резинки банковские Attomex 60 мм, 1000 г</model>
+      <brand>Attomex</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6432.01</price>
+        <cityprice cityId="615420100">6432.01</cityprice>
+    </offer>
+    <offer sku="12254224">
+      <model>Клей-герметик Polynor Thermoblok Pro 300 мл</model>
+      <brand>Polynor</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>20754.35</price>
+        <cityprice cityId="615420100">20754.35</cityprice>
+    </offer>
+    <offer sku="12254230">
+      <model>Герметик Tytan для кровли черный 310 мл</model>
+      <brand>Tytan</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2194.39</price>
+        <cityprice cityId="615420100">2194.39</cityprice>
+    </offer>
+    <offer sku="657297">
+      <model>Питьевой фонтанчик Fonteco ФП-КН1 настенный</model>
+      <brand>Fonteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>88902.04</price>
+        <cityprice cityId="615420100">88902.04</cityprice>
+    </offer>
+    <offer sku="970530">
+      <model>Питьевой фонтанчик Fonteco ФП-КН5 Школьник+</model>
+      <brand>Fonteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>347466.87</price>
+        <cityprice cityId="615420100">347466.87</cityprice>
+    </offer>
+    <offer sku="576056">
+      <model>Питьевой фонтанчик Fonteco ФП-КН3 Антивандальный</model>
+      <brand>Fonteco</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>146217.08</price>
+        <cityprice cityId="615420100">146217.08</cityprice>
+    </offer>
+    <offer sku="12254256">
+      <model>Шкаф для документов ИП &quot;Тассай&quot; TAS065, ясень шимо-светлый</model>
+      <brand>ИП &quot;Тассай&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47917.98</price>
+        <cityprice cityId="615420100">47917.98</cityprice>
+    </offer>
+    <offer sku="12254262">
+      <model>Шкаф для одежды ИП &quot;Тассай&quot;  TAS069, ясень шимо светлый</model>
+      <brand>ИП &quot;Тассай&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>50290.22</price>
+        <cityprice cityId="615420100">50290.22</cityprice>
+    </offer>
+    <offer sku="12254453">
+      <model>Зарядное устройство Samsung EP-TA845FSU 45W черное</model>
+      <brand>Samsung</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14820.3</price>
+        <cityprice cityId="615420100">14820.3</cityprice>
+    </offer>
+    <offer sku="12254455">
+      <model>Комплект Stanley 0-47-681 из шнура разметочного, флакона мелового порошка и маркера</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>273479.98</price>
+        <cityprice cityId="615420100">273479.98</cityprice>
+    </offer>
+    <offer sku="12254461">
+      <model>Комплект Stanley 0-47-443 из шнура разметочного OPP, мелового порошка и подвесного уровня</model>
+      <brand>STANLEY</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4494.6</price>
+        <cityprice cityId="615420100">4494.6</cityprice>
+    </offer>
+    <offer sku="12254464">
+      <model>Зарядное устройство BoraSCO VSP 20652 черное</model>
+      <brand>BoraSCO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>127862.63</price>
+        <cityprice cityId="615420100">127862.63</cityprice>
+    </offer>
+    <offer sku="12254509">
+      <model>Полотно спасательное натяжное Самоспас ss NSPS, 3.5х3.5 м</model>
+      <brand>Самоспас</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>278766.88</price>
+        <cityprice cityId="615420100">278766.88</cityprice>
+    </offer>
+    <offer sku="12254556">
+      <model>Чехол для телефона A-Case iPhone 15 Pro Max силикон, прозрачный</model>
+      <brand>A-Case</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4425.34</price>
+        <cityprice cityId="615420100">4425.34</cityprice>
+    </offer>
+    <offer sku="12254562">
+      <model>Зарядное устройство для телефонов Samsung EP-T2510NWEGRU 25W Power, белое</model>
+      <brand>Samsung</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6901.32</price>
+        <cityprice cityId="615420100">6901.32</cityprice>
+    </offer>
+    <offer sku="12254579">
+      <model>Автомобильное зарядное устройство Апэл APL_LD06 черное</model>
+      <brand>Апэл</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47118.67</price>
+        <cityprice cityId="615420100">47118.67</cityprice>
+    </offer>
+    <offer sku="12254597">
+      <model>Электрическая зубная щётка Braun Oral-B iO Series 3 Matte, черная</model>
+      <brand>Braun</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>5570377.72</price>
+        <cityprice cityId="615420100">5570377.72</cityprice>
+    </offer>
+    <offer sku="12254617">
+      <model>Зарядное устройство Luxotech S5 черное</model>
+      <brand>Luxotech</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17784.36</price>
+        <cityprice cityId="615420100">17784.36</cityprice>
+    </offer>
+    <offer sku="12254668">
+      <model>Смарт часы Xiaomi Redmi Watch 3 Active M2235W1/BHR7272GL серые</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>34557.98</price>
+        <cityprice cityId="615420100">34557.98</cityprice>
+    </offer>
+    <offer sku="12254669">
+      <model>Смарт-часы Huawei Watch Fit Special Edition STA-B39, черные</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>22410.27</price>
+        <cityprice cityId="615420100">22410.27</cityprice>
+    </offer>
+    <offer sku="12254670">
+      <model>Смарт часы Apple Watch Series 9 GPS 45mm  MR9J3QR/A Pink Aluminium Case with Light Pink Sport Loop</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1441593.31</price>
+        <cityprice cityId="615420100">1441593.31</cityprice>
+    </offer>
+    <offer sku="12254679">
+      <model>Переходник Moxom MX-AX01 Type-C, черный</model>
+      <brand>MOXOM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>8398.17</price>
+        <cityprice cityId="615420100">8398.17</cityprice>
+    </offer>
+    <offer sku="425398">
+      <model>Лампа настольная Gauss GTL201 10W 580Lm 4000K, черная</model>
+      <brand>Gauss</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>12645.47</price>
+        <cityprice cityId="615420100">12645.47</cityprice>
+    </offer>
+    <offer sku="12254744">
+      <model>Зарядное устройство Maverick D816 черное</model>
+      <brand>Maverick</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4694.08</price>
+        <cityprice cityId="615420100">4694.08</cityprice>
+    </offer>
+    <offer sku="12254768">
+      <model>Чехол для телефона A-Case Space для iPhone 15, прозрачный</model>
+      <brand>A-Case</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7410.15</price>
+        <cityprice cityId="615420100">7410.15</cityprice>
+    </offer>
+    <offer sku="12254770">
+      <model>Смарт часы Huawei Watch GT 4 PNX-B19, черный</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>61055.68</price>
+        <cityprice cityId="615420100">61055.68</cityprice>
+    </offer>
+    <offer sku="12254771">
+      <model>Смарт-часы Huawei Watch Fit Special Edition STA-B39 Pink, розовые</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>261367.85</price>
+        <cityprice cityId="615420100">261367.85</cityprice>
+    </offer>
+    <offer sku="12254772">
+      <model>Смарт-часы Huawei Watch Fit Special Edition STA-B39 Green</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>26041.24</price>
+        <cityprice cityId="615420100">26041.24</cityprice>
+    </offer>
+    <offer sku="12254775">
+      <model>Смарт часы Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport Loop (MR9C3QR/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1310953.35</price>
+        <cityprice cityId="615420100">1310953.35</cityprice>
+    </offer>
+    <offer sku="12254779">
+      <model>Смарт часы Apple Watch Series 9 GPS 41mm Midnight Aluminium Case with Midnight Sport Band - S/M (MR8W3QR/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>210481.85</price>
+        <cityprice cityId="615420100">210481.85</cityprice>
+    </offer>
+    <offer sku="12254780">
+      <model>Смарт часы Apple Watch Series 9 GPS 41mm Pink Aluminium Case with Light Pink Sport Band - S/M (MR933QR/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2532041.34</price>
+        <cityprice cityId="615420100">2532041.34</cityprice>
+    </offer>
+    <offer sku="12254781">
+      <model>Смарт часы Apple Watch Series 9 GPS 45mm Starlight Aluminium Case with Starlight Sport Loop (MR983QR/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2532041.34</price>
+        <cityprice cityId="615420100">2532041.34</cityprice>
+    </offer>
+    <offer sku="12254782">
+      <model>Смарт часы Apple Watch Ultra 2 GPS + Cellular, 49mm Titanium Case with Orange Ocean, оранжевые Band (MREH3GK/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>150589.07</price>
+        <cityprice cityId="615420100">150589.07</cityprice>
+    </offer>
+    <offer sku="12254784">
+      <model>Смарт часы Apple Watch Ultra 2 GPS + Cellular, 49mm Titanium Case with Blue Alpine Loop (MREP3GK/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>178049.11</price>
+        <cityprice cityId="615420100">178049.11</cityprice>
+    </offer>
+    <offer sku="12254788">
+      <model>Смарт часы Apple Watch Series 9 GPS 45mm Silver Aluminium Case with Storm Blue Sport Band - S/M (MR9D3QR/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1310941.49</price>
+        <cityprice cityId="615420100">1310941.49</cityprice>
+    </offer>
+    <offer sku="12254791">
+      <model>Смарт часы Apple Watch Series 9 GPS 45mm Pink Aluminium Case with Light Pink Sport Band - S/M (MR9G3QR/A), розовые</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2532034.42</price>
+        <cityprice cityId="615420100">2532034.42</cityprice>
+    </offer>
+    <offer sku="12254798">
+      <model>Смарт часы Apple Watch Series 9 GPS 45mm Silver Aluminium Case with Winter Blue Sport Loop (MR9F3QR/A)</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1310953.35</price>
+        <cityprice cityId="615420100">1310953.35</cityprice>
+    </offer>
+    <offer sku="12254801">
+      <model>Смарт часы Apple Watch Series 9 GPS 45mm Pink Aluminium Case with Light Pink Sport Band - M/L (MR9H3QR/A), розовые</model>
+      <brand>Apple</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1443424.11</price>
+        <cityprice cityId="615420100">1443424.11</cityprice>
+    </offer>
+    <offer sku="12254811">
+      <model>Переходник Moxom MX-AX15 Lightining+Charge Adapter, белый</model>
+      <brand>MOXOM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4446.09</price>
+        <cityprice cityId="615420100">4446.09</cityprice>
+    </offer>
+    <offer sku="12254812">
+      <model>Зарядное устройство для телефонов Samsung EP-T2510NBEGRU 25W Power Adapter, черное</model>
+      <brand>Samsung</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6958.62</price>
+        <cityprice cityId="615420100">6958.62</cityprice>
+    </offer>
+    <offer sku="12254819">
+      <model>Зарядное устройство Eagle A112-CW белое</model>
+      <brand>Eagle</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>108201.03</price>
+        <cityprice cityId="615420100">108201.03</cityprice>
+    </offer>
+    <offer sku="12254873">
+      <model>Зарядное устройство OEM iPad 12W белое</model>
+      <brand>OEM</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>7904.16</price>
+        <cityprice cityId="615420100">7904.16</cityprice>
+    </offer>
+    <offer sku="12255030">
+      <model>Компьютерный стол DX Racer LT/007/N-5, черный</model>
+      <brand>DXRacer</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>92676.28</price>
+        <cityprice cityId="615420100">92676.28</cityprice>
+    </offer>
+    <offer sku="12255098">
+      <model>Зарядное устройство Totu N52 белое</model>
+      <brand>Totu</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>52689.13</price>
+        <cityprice cityId="615420100">52689.13</cityprice>
+    </offer>
+    <offer sku="12255155">
+      <model>Фитнес-браслет Xiaomi Mi Band 8, черный</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>17939.48</price>
+        <cityprice cityId="615420100">17939.48</cityprice>
+    </offer>
+    <offer sku="12255156">
+      <model>Фитнес-браслет Xiaomi Mi Band 8, золотистый</model>
+      <brand>Xiaomi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18291.21</price>
+        <cityprice cityId="615420100">18291.21</cityprice>
+    </offer>
+    <offer sku="12255157">
+      <model>Смарт-часы Huawei Watch GT 4 41mm White Leather Strap ARA-B19</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>65872.28</price>
+        <cityprice cityId="615420100">65872.28</cityprice>
+    </offer>
+    <offer sku="12255215">
+      <model>Стул пластиковый Urbio Нова 50х55х82 см, оранжевый BIO 40-629-9</model>
+      <brand>Urbio</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>23662.09</price>
+        <cityprice cityId="615420100">23662.09</cityprice>
+    </offer>
+    <offer sku="12255225">
+      <model>Зарядное устройство V-T CACC0024 черное</model>
+      <brand>V-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>6989.35</price>
+        <cityprice cityId="615420100">6989.35</cityprice>
+    </offer>
+    <offer sku="12255229">
+      <model>Стул пластиковый Urbio Нова 50х55х82 см, капучино BIO 40-629-4</model>
+      <brand>Urbio</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>21734.46</price>
+        <cityprice cityId="615420100">21734.46</cityprice>
+    </offer>
+    <offer sku="12255275">
+      <model>Защитнаое стекло для дисплея A-Case  iPhone 15, 3D</model>
+      <brand>A-Case</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>18920.58</price>
+        <cityprice cityId="615420100">18920.58</cityprice>
+    </offer>
+    <offer sku="12255286">
+      <model>Смарт часы Huawei Watch GT 4 PNX-B19 Green</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>70245.26</price>
+        <cityprice cityId="615420100">70245.26</cityprice>
+    </offer>
+    <offer sku="12255287">
+      <model>Смарт часы Huawei Watch GT 4 ARA-B19, золотистые</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>87145.34</price>
+        <cityprice cityId="615420100">87145.34</cityprice>
+    </offer>
+    <offer sku="12255289">
+      <model>Смарт-часы Huawei Watch GT 4 46mm Brown Leather Strap PNX-B19</model>
+      <brand>Huawei</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>84533.02</price>
+        <cityprice cityId="615420100">84533.02</cityprice>
+    </offer>
+    <offer sku="12255335">
+      <model>Зарядное устройство Union P-05 белое</model>
+      <brand>Union</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>14820.3</price>
+        <cityprice cityId="615420100">14820.3</cityprice>
+    </offer>
+    <offer sku="12255337">
+      <model>Зарядное устройство V-T ADCI3 черное</model>
+      <brand>V-T</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>47137.45</price>
+        <cityprice cityId="615420100">47137.45</cityprice>
+    </offer>
+    <offer sku="12255362">
+      <model>Блокнот Wau Блестки 52417 синий</model>
+      <brand>Wau</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4356.18</price>
+        <cityprice cityId="615420100">4356.18</cityprice>
+    </offer>
+    <offer sku="12255366">
+      <model>Планинг Moleskine Pro Project Planner LG 8056420851366 288 листов черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3200.2</price>
+        <cityprice cityId="615420100">3200.2</cityprice>
+    </offer>
+    <offer sku="12255383">
+      <model>Блокнот Moleskine Notebook Xl Squ Black Soft черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2720.02</price>
+        <cityprice cityId="615420100">2720.02</cityprice>
+    </offer>
+    <offer sku="12255394">
+      <model>Ежедневник Moleskine  2019 12M Denim Daily Lg Blue синий</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1519.57</price>
+        <cityprice cityId="615420100">1519.57</cityprice>
+    </offer>
+    <offer sku="12255407">
+      <model>Зарядное устройство Apple Watch Magnetic Charging Cable 2 м</model>
+      <brand>Apple </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>255616.58</price>
+        <cityprice cityId="615420100">255616.58</cityprice>
+    </offer>
+    <offer sku="12255418">
+      <model>Зарядное устройство Olmio Superb 15W черное</model>
+      <brand>OLMIO</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19760.4</price>
+        <cityprice cityId="615420100">19760.4</cityprice>
+    </offer>
+    <offer sku="12255425">
+      <model>Зарядное устройство Deppa USB Type-C Power Delivery 20 W белое</model>
+      <brand>Deppa </brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>98802</price>
+        <cityprice cityId="615420100">98802</cityprice>
+    </offer>
+    <offer sku="12255432">
+      <model>Зарядное устройство Brennenstuhl 1150020010 серое</model>
+      <brand>Brennenstuhl</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>32604.66</price>
+        <cityprice cityId="615420100">32604.66</cityprice>
+    </offer>
+    <offer sku="12255439">
+      <model>Зарядное устройство Wopow Wireless Charger HW03 черное</model>
+      <brand>Wopow</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>19754.47</price>
+        <cityprice cityId="615420100">19754.47</cityprice>
+    </offer>
+    <offer sku="12255457">
+      <model>Зарядное устройство Union P-05 Type-C белое</model>
+      <brand>Union</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>11856.24</price>
+        <cityprice cityId="615420100">11856.24</cityprice>
+    </offer>
+    <offer sku="12255464">
+      <model>Кастрюля Scovo 1411172 20 л серебристая</model>
+      <brand>Scovo</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>10647.89</price>
+        <cityprice cityId="615420100">10647.89</cityprice>
+    </offer>
+    <offer sku="12255466">
+      <model>Зарядное устройство Ryobi R18USB-0 зеленое</model>
+      <brand>Ryobi</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>44460.9</price>
+        <cityprice cityId="615420100">44460.9</cityprice>
+    </offer>
+    <offer sku="12255512">
+      <model>Набор для уборки Vileda Turbo с ведром, серый</model>
+      <brand>Vileda</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>4920.34</price>
+        <cityprice cityId="615420100">4920.34</cityprice>
+    </offer>
+    <offer sku="12255515">
+      <model>Шкаф для одежды ТОО &quot;Афинити&quot; WD-2.50.80.200, дуб сонома</model>
+      <brand>ТОО &quot;Афинити&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>76076.55</price>
+        <cityprice cityId="615420100">76076.55</cityprice>
+    </offer>
+    <offer sku="12255544">
+      <model>Зарядное устройство A-case Q12 черное</model>
+      <brand>A-Case</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>222413.18</price>
+        <cityprice cityId="615420100">222413.18</cityprice>
+    </offer>
+    <offer sku="12255559">
+      <model>Журнал учета теоретического обучения ИП Гуцало П.И.</model>
+      <brand>ИП &quot;Гуцало П.И.&quot;</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>462.39</price>
+        <cityprice cityId="615420100">462.39</cityprice>
+    </offer>
+    <offer sku="12255563">
+      <model>Анкета на наличие аллергии ИП Чеботарь С.П, А5 80 гр</model>
+      <brand>ИП Чеботарь С.П</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>51402.73</price>
+        <cityprice cityId="615420100">51402.73</cityprice>
+    </offer>
+    <offer sku="12255576">
+      <model>Ежедневник Moleskine 2020 12M 8058647628714 черный</model>
+      <brand>Moleskine</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2146.97</price>
+        <cityprice cityId="615420100">2146.97</cityprice>
+    </offer>
+    <offer sku="12255581">
+      <model>Ежедневник Garden of Eden Кактус мультиколор</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>1430.65</price>
+        <cityprice cityId="615420100">1430.65</cityprice>
+    </offer>
+    <offer sku="12255582">
+      <model>Ежедневник Garden of Eden Cute Cat белый</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>2467.09</price>
+        <cityprice cityId="615420100">2467.09</cityprice>
+    </offer>
+    <offer sku="12255583">
+      <model>Garden of Eden Фламинго мультиколор</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>69487.45</price>
+        <cityprice cityId="615420100">69487.45</cityprice>
+    </offer>
+    <offer sku="12255584">
+      <model>Ежедневник Garden of Eden Let&apos;s Avocuddle зеленый</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3300.97</price>
+        <cityprice cityId="615420100">3300.97</cityprice>
+    </offer>
+    <offer sku="12255585">
+      <model>Ежедневник Garden of Eden Love is the beauty of the soul мультиколор</model>
+      <brand>Garden of Eden</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>3051.01</price>
+        <cityprice cityId="615420100">3051.01</cityprice>
+    </offer>
+    <offer sku="12255626">
+      <model>Диван Zeta Сапфир МП-ТВ-948506, бежево-черный</model>
+      <brand>ZETA</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>333949.77</price>
+        <cityprice cityId="615420100">333949.77</cityprice>
+    </offer>
+    <offer sku="219251">
+      <model>Пуф Romsens &quot;Котяра-обнимашка&quot; RG695, бежевый</model>
+      <brand>Romsens</brand>
+      <availabilities>
+        <availability available="yes" storeId="POS11202851"/>
+      </availabilities>
+      <price>90827.69</price>
+        <cityprice cityId="615420100">90827.69</cityprice>
+    </offer>
   </offers>
 </kaspi_catalog>
